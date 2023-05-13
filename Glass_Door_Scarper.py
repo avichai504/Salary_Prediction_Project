@@ -108,8 +108,8 @@ def get_jobs(keyword, num_jobs, path, slp_time):
                     try:
                         text = driver.find_element_by_xpath('//*[@id="JobDescriptionContainer"]').text
 
-                        # years_of_experience = et.extract_years_of_experience(text)
-                        years_of_experience = -1 if et.extract_years_of_experience(text) > 11 else et.extract_years_of_experience(text)
+                        years_of_experience = et.extract_years_of_experience(text)
+                        # years_of_experience = -1 if et.extract_years_of_experience(text) > 11 else et.extract_years_of_experience(text)
                         education = et.extract_education(text)
                         position_level = et.extract_position_level(text)
 
