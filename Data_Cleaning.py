@@ -96,7 +96,7 @@ def data_cleaning(df1):
     except Exception as e:
         print(e, "e5")
 
-    # Convert the "Salary Estimate" column to float data type
+    # Convert the "Salary Estimate" column to a float data type
     try:
         df["Salary Estimate"] = df["Salary Estimate"].apply(lambda x: float(x))
     except Exception as e:
