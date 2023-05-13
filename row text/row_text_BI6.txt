@@ -1,0 +1,38 @@
+W2 Contract
+BI Developer - 3
+This position required senior BI/Tableau developer with strong SQL skills. Person should be Passionate, Data-centric, focused individuals with at least 8 – 10 years of experience.
+JOB RESPONSIBILITIES:
+Create dashboards and reports using Tableau
+Set up Tableau Server and publish workbooks
+Manager user accounts and server content
+Conduct training to educate users on Tableau
+Design and implement proof of concept solutions, and create advanced BI visualizations
+Run ad-hoc Business Objects Web Intelligence Reports, and query databases using SQL
+Interact with business users and understand their requirements
+Develop impactful presentations and documents, including written training materials
+Communicate complex topics to team through both written and oral communications
+QUALIFICATIONS:
+6+ years of Tableau development
+Bachelor's Degree
+Proficient with Agile/ Kanban
+Proficient with BI visualizations
+Proficient with SQL
+Strong communication skills
+Job Type: Contract
+Pay: $65.00 - $70.00 per hour
+Ability to commute/relocate:
+Charlotte, NC 28203: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Tableau: 8 years (Required)
+SQL: 5 years (Required)
+Business intelligence: 6 years (Required)
+Work Location: Hybrid remote in Charlotte, NC 28203
+Show Less
+Report
+
+
+Testing regine:
+Experience: 10
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 20:03:23.972073

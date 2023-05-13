@@ -1,0 +1,64 @@
+About Lumen
+
+Lumen is guided by our belief that humanity is at its best when technology advances the way we live and work. With 450,000 route fiber miles serving customers in more than 60 countries, we deliver the fastest, most secure global platform for applications and data to help businesses, government and communities deliver amazing experiences. Learn more about Lumen’s network, edge cloud, security and communication and collaboration solutions and our purpose to further human progress through technology
+The Role
+
+We have an opening for an entry-level Software Developer to expand our team. You would contribute to building products that run as part of our architecture, touching all aspects of the development lifecycle from coding to deployment all the way to support.
+
+The Software Development Team focuses on products and services aimed at telecommunications customers. Services may be deployed as part of a public networking platform or as part of a private service delivery framework. The team is part of a larger agile product development group within the CTO organization involved in the Lumen innovation process.
+The Main Responsibilities
+
+You should have a passion for creating applications and services which make developers' lives easier while helping them create their enterprise-ready applications.
+
+You’ll develop and maintain close working relationships with key stakeholders to understand evolving issues and requirements, understand upstream and downstream implications and dependencies, ensuring key solutions are executed and properly coordinated.
+
+Your responsibilities will include but not be limited to:
+Develop automation skillsets used to create automations and tools.
+Manage assigned automations/projects using time management skills.
+Provide automation solutions to meet customer goals and requirements within existing automation environments (Itential, Laser, IAA, UI Path, Python, Perl and SPLUNK)
+Evaluate new automation requirements for compatibility with deployed systems as well as existing products for compatibility and applicability.
+Ensure 90% of your time is spent developing; update projects, including time, in JIRA weekly.
+Perform other duties as assigned.
+
+Work Environment
+The team operates in an extremely Agile culture, using a combination of XP and Kanban practices and processes.
+Collaborates closely, delivers small pieces of working software frequently, work in pairs, write your code test first, and think about things like cycle time and WIP limits.
+Exciting, challenging, and always interesting place to work, w hard problems are found and solved every day.
+What We Look For in a Candidate
+At least 1 year of experience in a least one modern programming language such as Java, Perl, or Python with 3 to 6 months of exposure to others.
+Experience with Unix/Linux systems
+Experience interfacing with databases and APIs
+Strong communication (oral and written), customer service, organizational and multi-tasking skills
+Proven analytical and problem-solving abilities
+Highly self-motivated and directed
+Ability to effectively prioritize and execute tasks in a high-pressure environment
+Strong customer service orientation
+Experience working in a team-oriented, collaborative environment
+What to Expect Next
+Requisition #: 327714
+When applying for a position, you may be subject to a background screen (criminal records check, motor vehicle report, and/or drug screen), depending on the requirements for the position. More information on what’s included in these checks can be found in the Post Offer section of our FAQ page. Job-related concerns noted in the background screen may disqualify you from the new position or your current role. Background results will be evaluated on a case-by-case basis.
+EEO Statement
+
+We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, gender expression, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.
+Disclaimer
+
+The above job definition information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job. Job duties and responsibilities are subject to change based on changing business needs and conditions.
+Salary Range
+Salary Min :
+46350
+Salary Max :
+103080
+This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.
+This position is eligible for either short-term incentives or sales compensation. Director and VP positions also are eligible for long-term incentive. To learn more about our bonus structure, you can view additional information . We're able to answer any additional questions you may have as you move through the selection process.
+As part of our comprehensive benefits package, Lumen offers a broad range of Health, Life, Voluntary Lifestyle and other benefits and perks that enhance your physical, mental, emotional and financial wellbeing.
+Note: For union-represented postings, wage rates and ranges are governed by applicable collective bargaining agreement provisions.
+Start your job application: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: -1
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 18:19:20.559594

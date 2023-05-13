@@ -1,0 +1,43 @@
+Are you looking for a hybrid or remote work opportunity? Are you interested in a workplace that allows for flexibility in your day? Are you ready for a workplace that provides benefits that suit your needs?
+
+As a Software Engineer at our company, you will leverage your software development skills to design and build systems within our server-based platform. You will work on a scalable and dynamic web system that supports integration with multiple search engines, clustering technologies, and client component interaction through web services. You will build highly distributable systems composed of multiple databases, processing, and web servers within the server-based environment.
+Responsibilities
+Building our core product offering, Relativity.
+Object-oriented analysis (OOA), object-oriented design (OOD), and object-oriented programming (OOP) applying SOLID principles and design patterns in a variety of languages
+Actively participating in our SCRUM process.
+Improving application system performance.
+Troubleshooting issues by fixing defects and responding to client specific problems.
+Qualifications
+Bachelor's degree in Computer Science, Math or other related subject Or Related Experience.
+Experience in .NET software development using C# and Microsoft SQL Server, or similar programming languages
+Experience in web development using JavaScript, ASP.NET, AJAX is a plus, but not required for the position
+Compensation
+Relativity is committed to competitive, fair and equitable compensation practices.
+
+This position is eligible for total compensation which includes a competitive base salary, annual performance bonus target of 10%, and long-term incentives. The expected salary range for this role is between $87,000 and $107,000. The final offered salary will be based on several factors, including but not limited to the candidate’s depth of experience, skill set, qualifications, and internal pay equity. Hiring at the top end of the range would not be typical, to allow for future meaningful salary growth in this position.
+Relativity is a diverse workplace with different skills and life experiences—and we love and celebrate those differences. We believe that employees are happiest when they're empowered to be their full, authentic selves, regardless how you identify.
+
+Benefit Highlights:
+Comprehensive health, dental, and vision plans
+Parental leave for primary and secondary caregivers
+Flexible work arrangements
+Two, week-long company breaks per year
+Unlimited time off
+Long-term incentive program
+Training investment program
+
+Transparency in Coverage Information
+The Transparency in Coverage Final Rule requires disclosure of the negotiated rates with in-network providers and the historic allowed amounts paid to out-of-network providers, for all health plans available to employers. Files containing this information for the plans covered are published on this page.
+Link: https://www.bcbsil.com/asomrf?EIN=123456789
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+Apply Now: click Easy Apply
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:26.789369

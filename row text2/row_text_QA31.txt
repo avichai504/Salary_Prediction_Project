@@ -1,0 +1,28 @@
+Duties are to:
+Execute on planned automation projects according to management priorities from requirements-gathering through to complete turnover to the customers.
+Ensure all projects are delivered to the stakeholders complete, documented, and ready for use.
+Plan test harness development, including the creation of milestones, timelines and supporting documentation.
+Plan Continuous Improvement of software test harnesses by introducing improvements.
+Plan, improve the CI/CD test pipeline by improving automation coverage across UI, API based testing and integration with automated deployments.
+Assist all QAE personnel and our customers with the adoption, use and improvement of our software.
+Keep abreast of new software products in our stack, and enterprise techniques and technologies in the market.
+Experience and skills required:
+1-2 years experience working for a financial institution, software vendor, or IT department as a QA or Software Engineer. This experience must include the following:
+Experience in software testing, configuration management and software development.
+Detail oriented and the ability to track and execute on several different projects simultaneously.
+Excellent communication and organizational skills.
+Bachelors degree in Computer Science. Knowledge of QA Methodologies, QA Bug Tracking Systems (JIRA) and QA Automation Tools.
+Proficient in Python, Selenium. Knowledge of C#, Java, Scala and HTML will be an added plus.
+Comfortable with AWS environment and IaaS, Windows and Linux.
+Experience with C++ development environments and build automation tools (make, ant, nant, etc.) a plus.
+Knowledge or interest in finance or financial derivative products a plus
+Experience may be gained concurrently.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:48:59.340500

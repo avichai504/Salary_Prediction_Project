@@ -1,0 +1,45 @@
+,Job Title,Annual Salary,Experience,Education,Position,Location,Is Remote,Company Size,Company Size Scale,Founded,Company Old,Industry,Sector,Revenue,Revenue Scale,Type of Ownership,Rating,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Company Name,Time of Scrape
+1,Software Developer,62400.0,1,BACHELOR,-1,Remote,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Cornucopia Living LLC,2023-05-10 12:31:09.438037
+2,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,"Lexington, MA",0,1 to 50 Employees,1,-1,-1,Advertising & Public Relations,Media & Communication,$1 to $5 million (USD),2,Company - Private,4.0,3.4,3.1,2.4,3.1,3.4,"PROMEDICAL, LLC
+4.0",2023-05-10 12:31:10.889535
+3,Web Developer - Contract,166400.0,4,BACHELOR,SENIOR,Remote,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,The Uplift Agency,2023-05-10 12:31:12.581944
+4,Software Developer,82500.0,4,BACHELOR,-1,Remote,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,SunAlgo,2023-05-10 12:31:14.016958
+6,Software Developer,145000.0,5,BACHELOR,SENIOR,Remote,1,51 to 200 Employees,2,2011,12,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,-1,Company - Private,4.3,4.3,4.2,4.3,4.0,3.5,"OpenDrives
+4.3",2023-05-10 12:31:17.135321
+8,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,"Denver, CO",0,1001 to 5000 Employees,5,1999,24,Information Technology Support Services,Information Technology,$100 to $500 million (USD),6,Company - Public,3.5,3.5,3.2,3.4,3.2,3.5,"Infinite Computing Systems
+3.5",2023-05-10 12:31:21.236706
+9,Terraform developer,156000.0,5,MASTER,-1,"Plano, TX",0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Yaggle IT,2023-05-10 12:31:23.362764
+10,Jr Frontend Developer,70000.0,10,BACHELOR,SENIOR,"Austin, TX",0,51 to 200 Employees,2,2005,18,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1,Company - Private,4.1,4.1,4.0,4.3,4.1,4.2,"Modernize Home Services
+4.1",2023-05-10 12:31:24.947739
+11,Junior Level Software Developer,70000.0,1,BACHELOR,JUNIOR,"Princeton, NJ",0,1 to 50 Employees,1,2017,6,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1,Company - Private,4.2,4.2,3.6,4.1,4.1,4.0,"BeaconFire Solution
+4.2",2023-05-10 12:31:26.740530
+12,Angular Developer - Remote,137280.0,9,-1,SENIOR,Remote,1,Unknown,-1,-1,-1,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,Private Practice / Firm,4.2,4.0,3.7,4.5,4.4,4.1,"OPENMIND TECHNOLOGIES INC
+4.2",2023-05-10 12:31:28.558864
+13,Jr. ReactJS/NodeJS Developer,68600.0,2,BACHELOR,JUNIOR,Remote,1,10000+ Employees,7,1944,79,Insurance Carriers,Insurance,$10+ billion (USD),9,Nonprofit Organization,3.9,3.6,3.8,4.0,3.7,3.9,"Florida Blue
+3.9",2023-05-10 12:31:30.304590
+14,Software Developer I,65000.0,-1,BACHELOR,-1,"Pocatello, ID",0,201 to 500 Employees,3,-1,-1,Insurance Carriers,Insurance,$100 to $500 million (USD),6,Company - Private,3.2,3.2,3.0,2.9,2.7,4.0,"Farm Bureau Mutual Insurance of Idaho
+3.2",2023-05-10 12:31:32.095782
+15,Software Developer,124800.0,5,MASTER,SENIOR,Remote,1,51 to 200 Employees,2,-1,-1,-1,-1,Unknown / Non-Applicable,-1,Company - Public,-1,-1,-1,-1,-1,-1,TAJ Health Staffing,2023-05-10 12:31:33.871529
+16,Frontend UI Developer,105000.0,7,MASTER,-1,"Irving, TX",0,51 to 200 Employees,2,2010,13,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4,Company - Private,4.0,3.7,3.8,3.7,3.5,3.9,"Resolvetech Solutions
+4.0",2023-05-10 12:31:35.512902
+17,"Software Developer, Frontend",120000.0,-1,BACHELOR,-1,Remote,1,201 to 500 Employees,3,2015,8,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1,Company - Private,4.5,4.1,4.3,4.2,4.1,4.2,"DISQO
+4.5",2023-05-10 12:31:37.371397
+18,Full Stack Software Developer,27040.0,5,MASTER,-1,Remote,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Remedy Well,2023-05-10 12:31:39.155584
+19,Jr. Software Developer,54080.0,1,BACHELOR,SENIOR,"Visalia, CA",0,1 to 50 Employees,1,-1,-1,-1,-1,Unknown / Non-Applicable,-1,Company - Private,4.3,4.0,3.5,4.5,3.5,4.0,"4Creeks Inc.
+4.3",2023-05-10 12:31:40.652177
+20,"Software Developer, Junior",75950.0,-1,BACHELOR,JUNIOR,"Charleston, SC",0,10000+ Employees,7,1914,109,Business Consulting,Management & Consulting,$5 to $10 billion (USD),8,Company - Public,4.2,4.1,3.9,4.3,4.0,4.3,"Booz Allen Hamilton
+4.2",2023-05-10 12:31:42.414713
+21,Java Developer,130000.0,-1,MASTER,-1,"Plano, TX",0,501 to 1000 Employees,4,2006,17,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,Company - Private,3.9,3.9,3.9,3.9,3.9,4.0,"On Demand Agility Software Pvt Ltd
+3.9",2023-05-10 12:31:44.447049
+22,-1,80871.0,-1,-1,-1,"Newport, RI",0,201 to 500 Employees,3,1999,24,Computer Hardware Development,Information Technology,$25 to $100 million (USD),4,Company - Private,4.7,4.4,4.3,4.8,4.6,4.6,-1,2023-05-10 12:31:46.317399
+23,Trainee - Software Developer,90344.0,1,BACHELOR,JUNIOR,"San Francisco, CA",0,51 to 200 Employees,2,-1,-1,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,-1,Company - Private,3.7,3.8,3.5,3.6,3.6,3.6,"LeewayHertz
+3.7",2023-05-10 12:31:48.389225
+24,Junior Software Developer,67500.0,2,BACHELOR,-1,"Fort Worth, TX",0,51 to 200 Employees,2,1993,30,Aerospace & Defense,Aerospace & Defense,$5 to $25 million (USD),3,Company - Private,3.7,3.5,3.4,3.8,3.6,3.7,"InterConnect Wiring
+3.7",2023-05-10 12:31:50.201560
+25,IT Software Developer,84094.4,5,MASTER,SENIOR,Remote,1,1 to 50 Employees,1,-1,-1,Computer Hardware Development,Information Technology,$1 to $5 million (USD),2,Company - Private,4.2,4.1,4.1,4.3,4.3,4.1,"Sedna Consulting Group
+4.2",2023-05-10 12:31:52.061107
+27,Junior Software Developer,84897.0,5,BACHELOR,JUNIOR,"Port Washington, NY",0,501 to 1000 Employees,4,1989,34,Consumer Product Manufacturing,Manufacturing,$500 million to $1 billion (USD),7,Company - Private,2.8,3.2,2.8,2.9,2.6,2.7,"Kiss Products
+2.8",2023-05-10 12:31:55.768107
+28,Angular Developer,104000.0,4,BACHELOR,-1,Remote,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,LikeMinded Software,2023-05-10 12:31:57.635671
+31,Software Developer,114400.0,-1,MASTER,-1,"Muscle Shoals, AL",0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,Give Social LLC,2023-05-10 12:32:05.431980
+32,Java Developer,127420.8,7,BACHELOR,JUNIOR,"Tallahassee, FL",0,1 to 50 Employees,1,-1,-1,-1,-1,Unknown / Non-Applicable,-1,Company - Public,-1,-1,-1,-1,-1,-1,"Business Intelligence & Informatics Consulting Services, Inc (BIICS, Inc)",2023-05-10 12:32:06.979178

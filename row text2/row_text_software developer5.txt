@@ -1,0 +1,57 @@
+We are looking for a passionate Software Engineer to help design and develop software solutions.
+We build highly interactive internal business applications and dashboards to visualize real-time data from our customer's devices, products, or business. Our customers rely on these insights to make better and data-oriented decisions about their business.
+Software Engineer responsibilities include implementing user requirements, defining system functionality, and building out websites. Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment. Ultimately, the role of the Software Engineer is to build high-quality, innovative, and fully performing software that complies with coding standards and technical design.
+Responsibilities
+Execute full software development life cycle (SDLC)
+Write well-designed, testable code
+Integrate software components into a fully functional software system
+Document and maintain software functionality
+Troubleshoot, debug and upgrade existing systems
+Deploy programs and evaluate user feedback
+Comply with project plans and industry standards
+Ensure software is updated with latest features
+Skills
+Excellent written and verbal communication skills
+Proven work experience as a Software Engineer or Software Developer developing high-load web applications with live/real-time data components.
+Experience designing interactive applications and responsive web design
+Advanced knowledge of CSS(3), HTML(5), and JavaScript (ES6+), Typescript
+Knowledge of Vue.js (or React.js/jQuery and willingness to learn Vue.js) & Vite
+Ability to develop software in Node.js (preferred), Go, Ruby, or equivalent programming languages
+Excellent knowledge of relational databases, SQL (Postgres, MySQL) and ORM technologies (Sequelize, waterline.js, ActiveRecord)
+Experience developing web applications using at least one popular Node.js web framework (Express.js / Fastify)
+Experience with Socket.io
+Experience with test-driven development or test writing with Mocha.js, Chai.js, Supertest, etc.
+Proficiency in software engineering tools
+Ability to document requirements and specifications
+BSc degree in Computer Science, Engineering, and/or 4+ years of experience developing cloud-hosted web applications
+Understanding of hosting environments (running services under AWS, GCP, Heroku)
+Nice to have:
+Experience building HTTP2 web applications
+Knowledge of MQTT
+This role is for US-business hours. Valid work authorization to work in the US in required.
+Job Types: Part-time, Temporary, Contract
+Pay: $45,000.00 - $120,000.00 per year
+Benefits:
+Flexible schedule
+Professional development assistance
+Compensation package:
+Weekly pay
+Experience level:
+4 years
+Schedule:
+Day shift
+Monday to Friday
+Night shift
+Weekend availability
+COVID-19 considerations:
+This role is fully remote. Work from home or work from abroad. The job deliverables are outcome/task-based. Set your own schedule.
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:14.016958

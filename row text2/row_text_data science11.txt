@@ -1,0 +1,18 @@
+Role: Machine Learning engineer
+Location: REMOTE
+Duration: 6-12 months
+Scheduling Interview
+
+Looking for Fraud risk, Machine Learning engineer.
+Needs Hands on engineer to help reduce fraud write offs (check frauds, deposit frauds, ACH, Point of sale, new accounts etc). Need scripting language (python).
+Interview will test ML and hands on coding skills.
+Must be eligible to work in US as an hourly W2 employee
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:39.974627

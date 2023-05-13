@@ -1,0 +1,42 @@
+Sun-Net Inc. provides software solutions to the electric utility industry. Our enterprise product is built using HTML5, CSS3, Javascript frontend with J2EE backend using Oracle and SQL Server database.
+We are offering full-time/contract position for a Manual Tester. Job responsibilities will include:
+Understanding Product functionality and user requirements.
+Writing test plans, test cases and preparing test data
+Manual testing of product functionality across multiple projects and releases.
+Identify issues and work with the team members to figure out solutions
+Defect management
+Provide daily reports to Project Leads regarding testing status.
+Please join us if you are interested in QA involving real project work with a growing company.
+Skills that will be needed to make you successful:
+Technical Skills
+Understand QA process and life cycle including E2E and UAT
+JIRA management software
+SQL knowledge
+QA software tools (Zephr Scale)
+Effective test case writing
+Defect creation and validation
+People Skills
+Ability to organize and work independently.
+Take initiative in researching and understanding new/unknown concepts
+Document test approaches and results.
+Communicate and Coordinate with various team members frequently and relentlessly to achieve test objectives
+
+COVID-19 precautions
+Remote interview process
+Virtual meetings
+Sanitizing, disinfecting, or cleaning procedures in place
+
+Applicant Qualifications
+You have requested that Indeed ask candidates the following questions:
+What is the highest level of education you have completed?
+How many years of manual test experience do you have?
+Please list 2-3 dates and time ranges that you could do an interview.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:45.939647

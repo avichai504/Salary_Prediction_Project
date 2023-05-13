@@ -1,0 +1,53 @@
+Job Description
+We are looking for a great JavaScript developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js middleware (such as React Hooks or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important.
+Responsibilities
+Developing new user-facing features using React.js
+Building reusable components and front-end libraries for future use
+Translating designs and wireframes into high quality code
+Optimizing components for maximum performance across a vast array of browsers and web-capable devices.
+Develop new products/features for web that adhere to best practices
+Define the technical requirements that are required to develop the product/feature
+Architect and design the technical solution and implement the solution
+Deliver a hybrid user experience to be easily portable between web and mobile.
+Explore, assess and prototype new technologies to drive innovation and problem solving
+Partner and collaborate with stakeholders and other technology teams
+Identify and analyze open source/market solutions
+Skills
+Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model
+Thorough understanding of React.js and its core principles
+Experience with popular React.js workflows (such as Hooks or Redux)
+Familiarity with newer specifications of ECMA-Script.
+Must be hands on with all fundamental libraries and concepts to work a front-end application.
+Experience with NoSQL data bases like Mongo DB.
+Knowledge of isomorphic React is a plus
+Familiarity with RESTful APIs
+Knowledge of modern authorization mechanisms, such as JSON Web Token, oAuth.
+Familiarity with modern front-end build pipelines and tools
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+Ability to understand business requirements and translate them into technical requirements
+A knack for benchmarking and optimization
+Familiarity with git version control tool
+Job Types: Full-time, Contract
+Pay: From $105,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Experience level:
+7 years
+8 years
+9 years
+Schedule:
+8 hour shift
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:37:24.088884

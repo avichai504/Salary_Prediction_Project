@@ -1,0 +1,39 @@
+Position Title: Data Scientist I
+Department: IT
+Reports to: Sr Data Scientist
+Location: Remote
+Schedule: 35 hours weekly
+Salary Grade: $62k-98k
+Position Overview
+As a Data Scientist I, you will be responsible for working with supervision on coding and testing tools and assets to deliver high quality analytics.
+Data Scientist help us maintain and improve our analytics priorities. You will help to support and clarify the organization’s reporting and analytics focuses by exploring data sets for patterns of interest, and contributing to the organization’s evolving data help desk infrastructure needs as they emerge. You will leverage R,Python and/or SQL for EDA, publish tools and findings in RStudio Connect and Tableau, and use CRM and task/project management tools such as Salesforce, Jira and Asana to track progress.
+
+Duties & Responsibilities
+Collaborate as a team to identify, assess, and solve business problems
+Create quantitative models and identify patterns in data
+Create data visualization dashboards to present findings
+Maintain and monitor existing data help desk requests to ensure reliability of reports and make recommendations for improvements and enhancements
+Use pre-existing tools to discern common concerns from novel road blocks, and communicate or escalate cases to relevant teams
+Recognize and adopt best practices in: data privacy, quality communication, and documentation
+Qualifications
+Hands-on experience with programming languages, such as R, Python or SQL
+Comfort translating business requirements into thoughtful research questions
+Strong ability to recognize patterns and keen attention to detail
+Demonstrated willingness and ability to engage with teams and collectively solve complex problems
+Preferred
+1-2 years work experience in an analytical role
+Bachelor’s degree in Computational Modeling and Data Analytics, Advanced Analytics, Statistics, Business Analytics or a related discipline
+Knowledge of and/or interest in using statistical modeling to solve complex problems
+Comfort making decisions in a fast-paced environment
+
+Studies have shown that women and people of color are less likely to apply for jobs unless they believe they are able to perform every task in the job description. We are most interested in finding the best candidate for the job, and that candidate may be one who comes from a less traditional background. Vibrant will consider any equivalent combination of knowledge, skills, education and experience to meet minimum qualifications. If you are interested in applying, we encourage you to think broadly about your background and skill set for the role.
+Vibrant Emotional Health is an equal opportunity employer. Applicants are considered for positions without regard to veteran status, uniformed service member status, race, creed, color, religion, gender, gender identity, sex, sexual orientation, citizenship status, national origin, marital status, age, physical or mental disability, genetic information, caregiver status or any other category protected by applicable federal, state or local laws.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:33.411695

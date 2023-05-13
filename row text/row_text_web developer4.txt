@@ -1,0 +1,62 @@
+Job Title: Web Developer & Graphics Designer
+Company: MSP Recovery, Coral Gables, FL
+Type: Full-Time
+About Us:
+MSP Recovery is a global leader in Medicare, Medicaid, commercial, and secondary payer reimbursement recovery and technology. MSP has a strong commitment to innovation, sustainability, and growth. Our mission is to empower our customers with state-of-the-art products and services while fostering a collaborative and diverse work environment. As a publicly traded company, we are proud of our achievements and continue to strive for excellence in all aspects of our business.
+The Opportunity:
+We are currently seeking a talented and creative Web Developer & Graphics Designer to join our dynamic team. This unique role provides the opportunity to work on exciting projects, creating visually stunning and user-friendly web applications and marketing materials for our rapidly growing company
+Key Responsibilities:
+- Design, develop, and maintain responsive, visually appealing websites and web applications
+- Collaborate with cross-functional teams to create engaging and impactful graphics for web, social media, and print materials
+- Ensure seamless integration of graphics, UI elements, and user experience design across all platforms
+- Optimize web applications and graphics for speed, usability, and accessibility
+- Continuously improve web and graphic design skills, staying up-to-date on the latest trends and technologies in the industry
+Qualifications:
+- Bachelor's degree in Web Development, Graphic Design, or related field
+- Minimum of 3 years of professional experience in web development and graphics design
+- Strong proficiency in HTML, CSS, JavaScript, and web development frameworks (e.g., Angular, React, or Vue.js)
+- Expertise in Adobe Creative Suite (Photoshop, Illustrator, InDesign) or similar design tools
+- Excellent visual design skills, with a strong understanding of typography, color theory, and layout principles
+- Solid understanding of SEO principles, web accessibility standards, and cross-browser compatibility issues
+- Effective communication and collaboration skills, with the ability to present ideas and solutions clearly
+- Strong attention to detail, time management, and problem-solving skills
+What We Offer:
+- Competitive salary and benefits package, including stock options
+- Collaborative, inclusive, and supportive work environment
+- Opportunities for professional growth and development
+- On-site amenities, including a fitness center, cafeteria, and free parking
+- Work-life balance and flexible work arrangements
+How to Apply:
+If you're an innovative, forward-thinking web developer and graphics designer eager to make a lasting impact at a leading publicly traded company, we want to hear from you! Please submit your resume, cover letter, and a link to your online portfolio showcasing your best work to aalvarez@msprecovery.com. Be sure to include the job title in the subject line.
+MSP Recovery is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Job Type: Full-time
+Pay: $52,000.00 - $115,000.00 per year
+Benefits:
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Compensation package:
+Bonus pay
+Stock options
+Experience level:
+3 years
+Schedule:
+8 hour shift
+Monday to Friday
+Ability to commute/relocate:
+Miami, FL 33134: Reliably commute or planning to relocate before starting work (Preferred)
+Experience:
+Front-end development: 1 year (Preferred)
+CSS: 1 year (Preferred)
+Angular: 1 year (Preferred)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:38:01.641414

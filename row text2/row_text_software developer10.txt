@@ -1,0 +1,30 @@
+Job Title: Terraform Developer
+Location: Plano, TX (2-3 days in office)
+Duration: 6 Months
+5+ years’ experience as a DevOps Engineer (Experience with CI/CD pipeline and various DevOps tools)
+Prior experience working on Cloud Adoption projects, specifically with AWS.
+Prior experience with Amazon S3 Storage very nice to have.
+Need to have cloud migration experience with Terraform.
+Able to maintain and modify existing Terraform modules.
+Experience with Python or any shell scripts
+Experience with Ansible
+Willingness to learn/work with Splunk.
+Job Type: Contract
+Pay: $70.00 - $80.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Plano, TX 75023: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+REST: 1 year (Preferred)
+Java: 1 year (Preferred)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:23.362764

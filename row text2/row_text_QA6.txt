@@ -1,0 +1,43 @@
+Who We Are
+At Spruce, our mission is to change the way people live in their homes by making home services more accessible. As the leading provider of lifestyle services to the multifamily industry, we offer daily chores and housekeeping services to more than 3,500 apartment communities across the US, and we work with over 85 of the top apartment managers in the country. Through the Spruce app, apartment residents can easily have their clothes folded, their dishes washed, their bed sheets changed, or their bathroom cleaned.
+Venture-backed and headquartered in Austin, Spruce has more than 80 employees and is growing rapidly. We promote a people-first culture where curiosity, ownership, hustle, and boldness are valued and encouraged. Each employee has a personal, measurable impact on the success of the company, and ideas are welcomed from everyone.
+About the Role
+We’re hiring an experienced QA Engineer to join our team to help establish first-ever quality assurance processes to ensure product quality. You’ll be a key contributor on a small distributed team working to define our testing strategies, design and execute automated/manual test scripts, and help ensure the delivery of robust, high quality product releases.
+What You Get to Do
+Establish project test strategy, methodologies and test plans for the full suite of Spruce applications and platform
+Participate in all phases of the software development life cycle by planning, estimating, and coordinating testing activities
+Create manual/automated test scripts using requirements documentation from product, design, and engineering
+Perform test execution of manual/automated scripts for applications and other systems under test using open source tools
+Identify and track bugs using defect tracking system reported from a variety of sources
+Track quality assurance metrics, like defect densities and open defect counts
+Who You Are
+3+ years experience as a QA Engineer
+Understanding of Software Test Life Cycle (STLC)
+Hands-on experience with automated testing tools (i.e. Jest, Appium, etc)
+Hands-on experience executing manual test plans for web and mobile applications
+Hands-on experience performing API testing
+Hands-on experience coding automated test cases for frontend applications and backend services
+Familiar with JIRA or similar defect tracking tool
+Strong written and verbal communication skills
+Highly detail oriented, well organized, and able to coordinate multiple projects simultaneously
+What We Offer
+Competitive salary
+Stock options
+401K plan
+Medical, vision, dental insurance
+Unlimited PTO
+100% remote work
+Spruce-provided WFH setup (laptop, keyboard, monitor(s), mouse)
+A huge role in the growth of a company with a meaningful mission
+We're building a strong, diverse team of curious, creative people who want to find purpose in their work and support each other in the process. If this sounds like you, then let's talk.
+#LI-Remote
+KLJDWZOFIg
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:47:38.332812

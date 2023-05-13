@@ -1,0 +1,35 @@
+We are looking to hire a mid-level developer full-time. You will be working alongside a designer to produce visually aesthetic, forward-thinking, and effective front-end experiences. The job will require you to build custom themes on the Shopify platform, develop custom functionality, and build A/B tests for eCommerce clients. You will most likely be balancing tasks on several clients at once and will need to have strong time management, organizational, and communication skills.
+Job Requirements:
+Desire to learn
+Ability to manage and communicate deadlines
+HTML
+CSS (SCSS)
+Javascript
+Strong attention to detail
+Suggested Skills:
+Familiar with the Shopify platform and Liquid
+Vue.JS
+A/B testing knowledge
+Job Types: Full-time, Contract
+Pay: $25.00 - $35.00 per hour
+Benefits:
+Flexible schedule
+Compensation package:
+Bonus pay
+Schedule:
+Monday to Friday
+Application Question(s):
+Why do you think you would be a good fit for this position?
+Experience:
+JavaScript: 2 years (Required)
+Web development: 2 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:37:48.309317

@@ -1,0 +1,31 @@
+Primary Responsibilities
+A minimum of 10 years' experience in IT Consultancy, at least 3 of which has been specific to the design and delivery of Power Platform applications, most importantly Power Apps / Power Automate/ low code applications (Canvas app and model driven apps). It is preferable that the successful candidate will have a background in either SharePoint or Dynamics development
+Deep technical and functional knowledge of Power Automate Platform/ low code applications (Canvas app and model driven apps)functionality and applications to be able to solve complex business problems
+Deep understanding of broader Microsoft technologies such as Azure Active Directory and Teams to the level of being able to design and implement solutions that incorporate these components
+Drive Power Platform implementations through all project phases including discovery, definition, build, test and deploy
+Proven understanding and application of Consulting and Project Management frameworks, approaches, and methodologies (particularly Agile). Industry recognized accreditations are a significant advantage
+Proven Ability to present internally and externally to very senior stakeholders
+Support estimation, planning and delivery as a technical leader.
+Collaborate closely with the clients and engineering teams to ensure our solutions are built to reflect the needs of the client and your solution vision, making the best use of current development practices
+Experience
+Should have led large technology-led organizational change initiatives.
+Should have led solutioning opportunities with teams comprising multi-disciplinary capabilities including solution owners, solution architects, delivery leaders, technical architects and developers.
+Demonstrated experience in working with both senior business and technology stakeholders.
+Experience of designing and implementing graphical User Interfaces would be a significant advantage.
+Experience of designing and implementing complex Power BI solutions would be a significant advantage
+Job Type: Contract
+Salary: $70.00 - $75.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Data modeling: 1 year (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 21:15:47.881337

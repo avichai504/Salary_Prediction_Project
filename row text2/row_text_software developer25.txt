@@ -1,0 +1,39 @@
+MANAGER'S NOTES:
+RPA (Robotic Process Automation) experience.
+Design, develop, and deploy RPA technology solutions that will interact with internal and external systems, automate business processes, and are robust, secure and security compliant.
+Take part in automation projects or components of automation projects from design through deployment.
+Act as Subject Matter Expert for RPA development teams
+Must have problem-solving and analytical skills and initiative to see problems through to completion including determination of root cause and resolution.
+Must possess strong interpersonal skills with the ability to work in a fast-paced environment and participate as an independent or team contributor and effectively interact with all types of personalities in dealing with employees and other customers
+Job Responsibilities:
+Assist RPA Administrator with installation/upgrade of RPA application and client software.
+Assist RPA Administrator responding to infrastructure monitoring alerts, resolving incidents to ensure system uptime and expected service levels
+Perform POC’s or feasibility checks as necessary to aid the design. Assess automation opportunities from a technical perspective, and provide solutions and estimates
+Build / code automation solutions, participate in testing and Go Live for an assigned RPA initiative
+Facilitate, monitor, and assist with resolution of support ticket escalation with the RPA vendors
+Track, and resolve technical issues and risks affecting delivery
+WORK ENVIRONMENT
+When applicable and appropriate, consideration will be given to reasonable accommodations.
+Mental: Clear and conceptual thinking ability; excellent judgment, troubleshooting, problem solving, analysis, and discretion; ability to handle work-related stress; ability to handle multiple priorities simultaneously; and ability to meet deadlines
+Physical: Computer keyboarding, travel as required
+Auditory/Visual: Hearing, vision and talking
+NOTE: Credit security clearance, confirmed via a background credit check, is required for this position.
+The statements contained in this document are intended to describe the general nature and level of work being performed by a colleague assigned to this description. They are not intended to constitute a comprehensive list of functions, duties, or local variances. Management retains the discretion to add or to change the duties of the position at any time.
+Job Type: Contract
+Salary: $40.00 - $40.86 per hour
+Schedule:
+8 hour shift
+Experience:
+RPA (Robotic Process Automation): 5 years (Required)
+SME (Subject Matter Expert): 5 years (Required)
+installation/upgrade of RPA application: 4 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: MASTER
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 12:31:52.061107

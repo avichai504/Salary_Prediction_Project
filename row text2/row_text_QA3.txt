@@ -1,0 +1,56 @@
+Job Description
+The Virtus Solution is a boutique Management Consulting firm looking for talented and ambitious resources who want to excel in a fast-paced and collaborative environment. The BA Tester is a key role in The Virtus Solution’s growing practice. The ideal candidate will......
+QA Tester – Special Projects – Contractor
+The Tester will support the Client's Special Projects Mainframe Team within the Office of Information Technology and will be responsible for the six applications that are a part of the Special Projects Team. The Special Projects team consists of 6 applications that include the Electronic Benefit Transfer (EBT), Uniform Accounting System (UAS), Random Moment Sampling System (RMSS), Debt Setoff (DSO) programs, (EAP) Energy Assistance Program, and the New Hire (W-4) systems.
+Job Responsibilities:
+Tests maintenance and operational (M&O) request and changes to the system.
+Tests applications for concrete, consistent, observable results in accordance with system requirements and specifications
+Create/maintain/Utilize test scripts
+Measures the severity of failures and defects in accordance with test plan guidelines.
+Accurately and thoroughly document application performance successes, failures and defects .
+Effectively communicates test results to programming staff, business customer, and upper management.
+Maintains issues/defects related to the test life cycle or change control environment into applicable tracking systems such as Jira.
+Attend daily triage meeting(s) and manage test effort.
+Qualifications
+Bachelor's degree in Computer Science or a related area
+Ten (10) years of experience as a QA Tester, Developer, or IT Business Analyst
+Five (5) years of experience Mainframe testing and support
+Working knowledge of Lunix Operating System and AWS environment
+Demonstrated knowledge of Testing methodology, practices, and software.
+Must have good knowledge of Microsoft Project/SharePoint Workspace planning
+Must have excellent customer service skills with strong decision-making capabilities
+Must have excellent verbal and written communication skills
+Additional Information:
+Candidates must be eligible to work in the U.S. for any employer directly. All positions include the possibility of travel.
+The Virtus Solution is an equal opportunity employer committed to fostering a culture of equality, inclusion and fairness — each foundational to our core values. We strive to create a diverse environment where each employee is encouraged to bring their unique ideas, background and experience to the workplace.
+Job Type: Contract
+Pay: $50.00 - $60.00 per hour
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Retirement plan
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Education:
+Bachelor's (Required)
+Experience:
+QA Tester: 6 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:47:28.781721

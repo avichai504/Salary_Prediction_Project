@@ -1,0 +1,59 @@
+Become an integral part of a diverse team. Currently DIGITALSPEC is seeking an experienced, motivated, career and customer-oriented Full Stack Developerto join our team.
+Position: Full Stack Developer
+Location: Remote/Sterling, VA
+Education: B.S. degree in relevant with at least (4+) years of IT experience.
+Clearance: U.S. Citizens Only. Must be able to obtain a CBP BI. Active TS or CBP suitability strongly desired.
+Job Summary:
+We are looking for a highly skilled Full Stack Developer who will be responsible for developing and maintaining our web and AI/ML applications used for homeland security purposes. The ideal candidate should have experience with SQL databases and using managed code using programming languages such as Python, Java, or C#. Experience in AI/ML is also highly valued.
+Key Responsibilities:
+- Developing and maintaining web applications using modern front-end frameworks and back-end technologies
+- Designing and developing SQL databases and implementing efficient data models
+- Writing reusable, testable, and efficient code using managed code such as Python, Java, or C#
+- Collaborating with the product team and other stakeholders to define software requirements and translate them into technical specifications
+- Building and deploying software using modern DevOps tools and practices
+- Ensuring the security, scalability, and performance of web applications
+- Keeping up-to-date with emerging trends and technologies in software development, including AI/ML.
+Key Qualifications:
+- Bachelor's or Master's degree in Computer Science or a related field
+- Proven experience as a Full Stack Developer, including experience with SQL databases and managed code in languages such as Python, Java, or C#
+- Experience with modern front-end frameworks such as React or Angular
+- Knowledge of modern DevOps tools and practices such as Git, Jenkins, and Docker
+- Strong understanding of software architecture and design patterns
+- Experience with AI/ML technologies is a plus
+- Strong problem-solving skills and attention to detail
+- Excellent communication skills and ability to work in a team environment.
+If you have a passion for software development and want to work with cutting-edge technologies, then this is the perfect opportunity for you. We offer a competitive salary, benefits package, and a collaborative work environment where you can grow your skills and advance your career.
+Corporate Performance Standards: In the performance of their respective tasks and duties all employees are expected to conform to the following:
+1. Perform quality work within deadlines with or without direct supervision.
+2. Interact professionally with other employees, customers and suppliers.
+3. Work effectively as a team contributor on all assignments.
+4. Work independently while understanding the necessity for communicating and coordinating work efforts with other employees and organizations.
+About DIGITALSPEC, LLC
+DIGITALSPEC, LLC (DSPEC) is a Small Business Administration (SBA) certified 8(a), ISO 9001, 20000, and 27001 company founded in 2005 and headquartered in Fairfax, VA. We are a leading provider of Business Consulting Services and Technical Solution Services delivering true business value and return on investment to Federal clients in the metropolitan Washington, D.C area. DSPEC provides solutions and services in markets such as: Homeland Security and Law Enforcement, Defense and Intelligence, Financial Services, and Social & Citizen Services. We work collaboratively with clients to create solutions that ‘fit’ the client environment and use industry best practices.
+Job Type: Full-time
+Pay: $140,000.00 - $160,000.00 per year
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Sterling, VA: Reliably commute or planning to relocate before starting work (Required)
+Application Question(s):
+Are you a US Citizen and have you resided in the US for at least the last 5 years (as required to obtain the needed clearances for this position)?
+Are you able to work on-site in Sterling VA?
+Do you currently hold an active DoD-TS/S clearance?
+Do you have experience in unit, integration, and e2e testing? Which tools or frameworks have you used?
+Do you have experience with querying databases with raw SQL or ORMs?
+What is the largest codebase you’ve worked on?
+What is the highest level of education you have completed?
+What is your expected yearly salary for this position?
+Work Location: Remote
+Speak with the employer
++91 (703) 763-1524
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:37:56.283938

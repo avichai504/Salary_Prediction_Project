@@ -1,0 +1,45 @@
+Philip J. Boren, Inc. is a manufacturer’s sales and marketing agency headquartered in Bellevue, WA, specializing in retail sales, consulting, marketing, and brand development. Now in our 55th year, we embody the best of old and new in an established agency with “start-up” nimbleness and opportunity for growth. We represent strong brands in many areas of the CPG arena.
+Philip J. Boren, Inc. is looking for a talented, driven, and experienced Power BI Developer to join our team and help us turn data into insights! As a Power BI Developer at PJB, you will be responsible for designing, developing, and maintaining Power BI Reports, dashboards, and other data visualizations. If you’re passionate about data, have a strong understanding of Power BI tools and technologies, and enjoy working in a fast-paced, collaborative environment, we want to hear from you!
+What you will do as a Power BI Developer at PJB:
+Develop and maintain business intelligence dashboards and reports using Power BI.
+Work with internal and external clients to understand their reporting and data visualization needs.
+Create data models and write queries to extract data from various sources.
+Utilize data visualization best practices to create clear and meaningful reports.
+Collaborate with the Data Science team to ensure data accuracy and consistency.
+Continuously monitor and improve report performance.
+Keep updated with new features and technologies of Power BI.
+Must-haves to be a Power BI Developer at PJB:
+Experience with Power BI.
+Strong understanding of data modeling.
+Experience with data visualization best practices.
+Strong analytical and problem-solving skills.
+Strong knowledge of both Power Query and DAX.
+Ability to work independently and as part of a team.
+Education and Experience:
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Three or more years of related experience.
+Physical Requirements:
+Prolonged periods sitting at a desk and working on a computer.
+Must be able to lift up to 15 pounds at times.
+Benefits and Perks of Working at PJB:
+Competitive base salary.
+Semi-annual performance bonuses.
+Comprehensive benefits package, to include 100% paid employee medical and dental insurance
+PTO & Paid Holidays.
+Voluntary vision, life, and long-term disability insurance.
+401K with company match.
+Remote and hybrid working options available.
+Flexible work schedules.
+Home office-set up reimbursement.
+Cell phone allowance.
+Ideal candidate will be available to work in the Bellevue, WA, office, but Philip J. Boren will also consider candidates who can work remotely in WA, FL, AZ, UT, AK, AL, AR, CO, DE, HI, IA, ID, KS, KY, LA, MD, ME, MO, MS, MT, N, NE, NH, NM, NW, RI, SD, TX, VA, VT, WV, WY.
+Philip J. Boren, Inc. is an equal opportunity employer, and all applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected my law.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-08 21:15:56.738621

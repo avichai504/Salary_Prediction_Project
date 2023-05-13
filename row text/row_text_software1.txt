@@ -1,0 +1,41 @@
+Job Description:
+
+What you will be doing
+
+As a recent/upcoming graduate who studied software development, you will enhance your skills working on one of our development teams creating safety critical systems. These safety critical systems will primarily involve embedded software for the avionics and medical device industries. If you have ever flown on a commercial airliner or been in a hospital emergency room, there is a lot of our embedded software keeping you safe. This is your opportunity to get involved with all aspects of the full Software Development Life Cycle. Unlike most companies, we do not have permanent teams. We put together teams to do a specific project and when that project is done you will work on a new project that could be very different from the project you just completed. So if you like a lot of diversity and learning new skills, we are the company for you. Almost all of the work is done in our office and there is very little travel involved with these development efforts. Our company emphasizes a great work and personal life balance. Salary range for each of our offices is $72,500-76,000 depending on location. Salary for our Bothell office is $83,000.
+
+
+
+Job Requirements:
+
+Bachelors or advanced degree in Computer Science, Computer Engineering, Electrical Engineering or Computer Systems Engineering or similar software development curriculum
+At least one strong Object Oriented Language (C++, C#, Python, Java, etc.) and academic exposure to software development methodologies (Waterfall, Agile, etc.)
+Embedded software experience is desired but not required
+Prior internship is highly desirable but not required
+Highly motivated and a self-starting attitude
+Must have already graduated or be graduating within the next 3 months
+
+Why work with those of us at Performance Software? Why start your career with us?
+
+Our Mission
+Your success. How, you might ask? … By providing a company culture dedicated to a sensible work/life balance by hiring carefully selected team players with whom you will work; by encouraging each other to produce the best embedded software for safety critical (Avionics & Medical Instruments) systems in the country; by having “raving fans” (customers who come back to us regularly because we get it done right and on time).
+We’re a medium-sized company that’s growing rapidly, but which maintains that small company feel. At Performance, you’re not just a name & face or locked onto a fixed team maintaining legacy systems; instead, you’ll be working on a wide variety of projects using the full gamut of advanced software development technologies.
+We provide what great talent wants and deserves!
+
+Benefits you’ll enjoy
+Our team members receive competitive salaries plus a contribution, every paycheck, to an individual SEP-IRA equal to 12% of salary. And, our team members are provided health/dental insurance coverage + STD and LTD coverage, paid sick/illness time off, vacation days, holidays, and other benefits.
+About Performance
+Performance Software Corporation is engaged in the design of Real-time Embedded Software and Hardware. This includes Avionics and Space Exploration applications such as Synthetic Vision Cockpit Displays, Flight Management System Guidance and Navigation, Platforms, and Datalink Applications. Our customers are both Commercial and Defense-related avionics and rocketry suppliers/manufacturers. We have locations in Phoenix, AZ, New Orleans, LA, Grand Rapids, MI, Clearwater, FL, Bothell, WA, and Cedar Rapids, IA. We have been in business since 1998 and have been awarded INC Magazine 5000 Fastest Growing Companies and Best Places to Work for multiple years.
+To learn more about us: www.psware.com
+Performance Inc. is an Equal Opportunity/Affirmative Action Employer.
+
+.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:02.420521

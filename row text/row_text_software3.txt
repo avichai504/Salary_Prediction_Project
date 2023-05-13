@@ -1,0 +1,48 @@
+is seeking a Sr. Software Development in Test Engineer to join our Engineering Services team to build test automation and processes to ensure the quality of our advertising systems. When our systems work properly, they are able to reliably deliver relevant ads to all of our viewers; driving higher revenue for our business and helping our customers to discover brands and products that are relevant to their interests. Defects in our ad systems can negatively impact revenue and deliver advertisements that detract from the viewer experience due to irrelevance, repetition and other factors. This is a unique opportunity to join an excellent team and have a meaningful impact on the QE and automation process and culture, as well as the products we release. As a result, those most likely to excel in this role are independent, creative, and able to operate effectively in ambiguous circumstances. If you are interested in a testing role with a heavy emphasis on automated testing where the results of your testing will have significant impact on the business and be highly visible to company leadership, then this might be the right opportunity for you!
+Responsibilities include:
+Work closely with Software Engineers to understand the complex advertising ecosystem in place at DMED Technology
+Develop automated test frameworks and suites on UI, API and Integration levels of testing using python or other OO language
+Participate in design discussions for our platform to help evolve the platform in a way that enables richer testing scenarios that simplify defect detection and prevention
+Assist with triage, diagnosis, and resolution of issues discovered across teams.
+Contribute to end-to-end acceptance tests
+Where necessary, develop and execute manual test cases to detect issues that cannot be detected through automated means
+Drive the conversion of manual tests to automated whenever possible
+Responsibilities and Duties of the Role:
+Focus on major areas of work, typically 20% or more of role
+% of Time
+Part of product teams in building architectures which are robust, fault-tolerant, and cloud- native. Builds solutions for problems of sizeable scope and complexity that have been successfully deployed to customers/users. Influences and drives software engineering best practices within the team
+25%
+Technically lead and deliver multiple projects utilizing an Agile methodology while reviewing team members code. Participates in developing technical and/or business approaches; and new/enhanced technical tools.
+25%
+Owns the design of software programs or systems within the team, and within the organization. Writes codes that establishes and enhances frameworks. Reviews code for the design, testability and clear usability. Builds solutions that scale and perform. Identifies opportunities to improve the system/product/services with each iteration.
+50%
+Required Education, Experience/Skills/Training:
+Minimum of 4 years of hands-on software test development experience, including both functional and non-functional test development
+Passion around driving best practices in the testing space
+Proficiency with Python or other OO language
+Knowledge of software engineering practices and agile approaches
+Strong desire for establishing and improving product quality
+Experience building or improving test automation frameworks .
+Proficiency CICD integration and pipeline development in Jenkins, Spinnaker or other similar tools.
+Proficiency in UI automation ( Selenium, Robot, Watir)
+Experience in Gherkin ( BDD /TDD )
+Willingness to take challenges head on while being part of a team
+B.S. in Computer Science (or equivalent degree or work experience)
+Job Type: Contract
+Salary: $50.00 - $55.00 per hour
+Schedule:
+8 hour shift
+Experience:
+SQL: 1 year (Preferred)
+Selenium: 1 year (Preferred)
+Test automation: 1 year (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-09 18:19:08.030321

@@ -1,0 +1,71 @@
+The Sterner Stuff team is growing! We’re in need of a part- to full-time web developer to work on WordPress, Laravel, and the occasional Shopify website.
+Who We Are
+Sterner Stuff is a web design & development shop based in Eugene, Oregon. We focus on three lines of business:
+Design, development, and long-term support for WordPress sites, ranging from the brochure to enterprise and at-scale
+Custom web applications built in Laravel
+Some Shopify
+Our clients range from local Eugene businesses to national publications handling 3000+ concurrent users at any time. We seek out results-based work: how can we demonstrate a return on investment to our clients.
+We currently service about 25 clients on an ongoing basis at a variety of levels.
+The Position
+Your duties will including maintaining and building out new features on existing websites. These projects may include things like:
+Installing and configuring WordPress plugins (both simple and complex)
+Using actions and filters to integrate or customize WordPress plugins
+Running and automating monthly updates to WordPress websites
+Building and maintaining Laravel applications
+You should have:
+Expert WordPress knowledge, expert Laravel knowledge, or both
+Ability to debug your own code and use debugging tools
+Expertise in HTML and CSS
+Ability to set up a local development environment and understand how it works
+Self-management skills to stay on task and deliver work in a timely fashion
+Specifically, you should have mid-level experience with the following:
+Object-oriented, namespaced PHP
+Git
+Composer
+WP-CLI
+WordPress theme development, including a good handle on the WordPress template API. Some experience with FSE is a plus.
+Modern JS frameworks. Vue is a plus.
+Remote work is acceptable - even encouraged - though preference will be given to candidates that can stop into the office from time to time. Ideally you're on Pacific time.
+We're a small company, which means the right person for this position will be able to manage themselves and interact with clients from time to time.
+Tools We Love
+These are some tools we commonly use. Familiarity with them will give you a leg up.
+Advanced Custom Fields
+Gravity Forms
+WooCommerce
+The Events Calendar by Modern Tribe
+Beaver Builder
+Bedrock by Roots
+WP Rocket
+AMP for WordPress
+First party Laravel tools like Socialite, Passport, Spark, Nova, Sanctum, etc.
+Compensation
+Pay for this position depends on experience, starting at $28/hr. Other benefits include:
+Accruing PTO @ 3 weeks/year
+Ongoing education opportunities
+Access to Laracasts and other digital training tools
+While not currently available, health and retirement benefits are a long-term priority.
+Job Types: Full-time, Part-time
+Pay: From $27.00 per hour
+Benefits:
+Flexible schedule
+Paid time off
+Compensation package:
+Hourly pay
+Experience level:
+3 years
+Schedule:
+8 hour shift
+Choose your own hours
+Experience:
+WordPress: 3 years (Required)
+Laravel: 3 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-09 16:37:45.012304

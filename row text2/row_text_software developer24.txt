@@ -1,0 +1,45 @@
+EOE Statement
+We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law. Applicants with disabilities can contact HR at 817-377-9473 if accommodations are needed.
+
+Workplace Type: Onsite
+
+Qualifications:
+Bachelor's degree in Computer Science or equivalent
+At least 1-2 years of experience in software development on the .NET framework in C# or VB.net
+Object oriented programming and design
+Javascript/Jquery/HTML/CSS
+Entity Framework 6.0 / LINQ/
+Bootstrap
+Strong analytical skills and the ability to work independently, including translation of user requirements and processes into program logic
+Ability to work in an agile programming environment where results are valued over process
+Working knowledge of Data Sources usage in a Windows Network Environment
+Computer skills including experience with Microsoft Office including Outlook, Word and Excel. Access is a plus.
+Preferred but not required
+
+Telerik Controls
+Experience using SSMS
+Database Design concepts
+ADO
+Generic Lists
+Creating Sites in IIS
+Job Description:
+Website and software application designing, building, or maintaining.
+Using scripting or authoring languages, management tools, content creation tools, applications and digital media.
+Conferring with teams to resolve conflicts, prioritize needs, develop content criteria, or choose solutions.
+Performing Website updates.
+Developing or validating test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types.
+Editing, writing, or designing Website content, and directing team members who produce content.
+Maintaining an understanding of the latest Web applications and programming practices through education, study, and participation in conferences, workshops, and groups.
+Back up files from Web sites to local directories for recovery.
+Identifying problems uncovered by customer feedback and testing and correcting or referring problems to appropriate personnel for correction.
+Evaluating code to ensure it meets company standards, is valid, is properly structured, and is compatible with browsers, devices, or operating systems.
+Determining user needs by analyzing technical requirements.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:50.201560

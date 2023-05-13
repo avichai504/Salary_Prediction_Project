@@ -1,0 +1,29 @@
+Job Title - Dashboarding / SQL BI Developer
+Location: Hilliard OH (Hybrid Role)
+Contract W2
+Job Duties:
+· Creatively using SQL and Dashboarding to understand our customer behaviour to better personalize, improve their experience, and find data anomalies.
+· Manage multiple responsibilities and deadlines while working independently with little supervision
+· Create SQL audits and reports for Bill To Cash and be able to find anomalies, clean data, create reports, and collaborate across cross-functional teams.
+· Find meaningful insights and communicate insights effectively.
+· Required experience creating interactive dashboards preferably in Qlik or Tableau.
+Job Type: Contract
+Pay: $35.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Hilliard, OH: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-08 21:16:23.407902

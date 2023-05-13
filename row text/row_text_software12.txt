@@ -1,0 +1,60 @@
+Job Description
+Building trusted markets — powered by our people.
+At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world.
+We’re building inclusive ways to support professional and personal development while strengthening the trust we’ve earned as a global market leader. Our teams are empowered to share ideas, actively pursue them, and bring on a challenge. As champions of internal mobility and access to opportunity, we encourage our people to “go for it” and equip our managers with the training to coach their teams to the next level. Our Associate Resource Groups champion diversity, equity and inclusion, giving employees a safe space to network, share ideas and create opportunities.
+Sound like the place for you? Join us!
+The Cboe Digital team is hiring for Software Engineer, Test.
+The Software Engineer, Test at Cboe will work across both Matching Engine and Clearing Systems groups, you will work alongside engineering and product teams to ensure new features and functionality work as expected. You will work to ensure the overall health of the system to ensure releases are stable, don’t have a negative impact on customers, and are accomplished as smoothly as possible. This will be successfully achieved through a combination of manual and automation testing.
+Your responsibilities will be:
+Design, implement and extend test software applications to validate business requirements.
+Review, document and understand system specifications.
+Work with Product and Engineering teams to create effective test plans.
+Develop and execute both manual and automated test cases, analyze results and provide feedback to necessary parties.
+Create documentation around best testing practices.
+Report bugs and work with engineering groups to come to a resolution.
+Organize and track necessary changes to get the team to a release.
+Develop and maintain code of proprietary java applications.
+Evaluate system requirements, develop unit test plans and process flow and translate into technical quality assurance test cases.
+Conduct quality assurance testing and analysis throughout the life cycle to all systems integration, software, database, and infrastructure changes.
+Develop, implement, and maintain test plans and test scripts to make certain a high level of quality to all users and supporting infrastructure.
+Understand full system architecture to set up and configure test environments for testing.
+Perform functional, regression and system integration testing.
+The ideal candidate has:
+Minimum Years of Work Experience: 2+ years
+Minimum Education Requirement: Bachelor's degree in Computer Science, Computer Engineering, or Information Technology
+Professional Information Technology experience working in the QA/Development Field
+Experience in developing software in various programming languages such as Python, C++, Java, HTML.
+Relevant experience with various web technologies, such as content management systems, application servers, e-commerce platforms, etc.
+Experience with Selenium for front end testing.
+Hands on experience in engineering and/or testing.
+Experience with automated test frameworks such as cucumber.
+End to end testing of applications.
+Working knowledge of testing methodologies
+Communication with users and engineers understanding bugs.
+Familiarity with Agile frameworks.
+Flexibility to fit within a small team, strong interpersonal and team skills are a must.
+You’ll really stand out with:
+Financial markets experience
+Familiarity with FIX, SQL, Git, and Linux
+Detail oriented and self-motivated
+Ability to multi task, prioritize and manage time effectively in a deadline driven environment
+#LI-CP2
+#LI-Remote
+As required by the New York City Human Rights Law, Cboe provides a reasonable range of minimum base salary for roles that may be performed in New York City. Actual compensation is influenced by a wide array of factors including but not limited to geographic location, skill set, level of experience, etc. For New York City only, the range of starting base salary for this role is $88,000-$145,200. Additional incentive compensation and benefits may be available.
+The Cboe Experience
+Whether you are just beginning your career or are a senior-level professional, working at Cboe will offer you countless opportunities to develop skills, make an impact through meaningful contributions, and gain rich experiences at an accelerated pace. By working collaboratively with smart, genuine and hardworking colleagues, you will build enduring relationships through frequent collaboration that will serve you well throughout your career, regardless of your chosen path. And, along your exceptional career journey at Cboe you’ll receive amazing benefits and robust rewards.
+
+Equal Employment Opportunity
+We're proud to be an equal opportunity employer - and celebrate our associates' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status
+
+Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.
+Start your job application: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 18:19:31.989225

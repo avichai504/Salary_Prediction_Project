@@ -1,0 +1,43 @@
+Freelance Software Developer
+
+Are you interested in helping to train AI models to write better code?
+How it works:
+We have several open projects where we are looking for talented developers to help train generative artificial intelligence models to write better code.
+You can work on all of our projects remotely. Hours are flexible, so you can work whenever is best for you.
+Your earnings from ongoing projects are sent out weekly.
+All you have to do is apply to this opportunity, and we will reach out to you with next steps if it’s a good mutual fit.
+You Will:
+Work on various projects to train generative AI models.
+Some examples of projects you might work on:
+Rank a series of code responses that were produced by an AI model.
+Write pieces of code with reasoning to show an AI model how to respond to prompts.
+Edit code written by an AI model to fix bugs and improve performance.
+Preferred Qualifications:
+These are not must-have qualifications! You should apply if you meet any of these (or anything similar you think makes you a good fit).
+Bachelor’s or Master’s Degree in Computer Science (current students welcome)
+Professional experience in software development
+Proficiency working with Python, Java, JavaScript, SQL, and/or HTML
+Earnings & Duration:
+Earnings: The hourly rate is equivalent to $25 USD / hr
+Location: Remote (must be authorized to work in your region). Available regions listed below:
+US States: Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, District of Columbia, Florida, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wyoming
+Duration: Variable depending on project length, flexible hours
+This opportunity involves contracting for a Scale affiliate: Smart Ecosystem, Inc.
+
+About Us:
+At Scale, we believe that the transition from traditional software to AI is one of the most important shifts of our time. Our mission is to make that happen faster across every industry, and our team is transforming how machine learning can build innovative products. Our products provide access to human-powered data for hundreds of use cases and are used by industry leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and many more. We’ve recently raised $325 million in Series E funding at a valuation of $7B+ and are expanding our team to accelerate the development of AI applications.
+
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.
+
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.
+
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants' needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:45.132479

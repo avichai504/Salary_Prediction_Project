@@ -1,0 +1,49 @@
+Angular UI/UX Developer
+Job Description:
+As a Front-End Developer, your responsibilities will include designing, developing, testing, and maintaining web application screens while ensuring seamless integration with back-end services. The successful candidate will possess strong critical thinking skills, attention to detail, and the ability to adapt to emerging trends in front-end development.
+Responsibilities:
+Create wireframes and mockups, then help implement them as interactive web applications.
+Develop responsive and visually appealing user interfaces using HTML, CSS, and Angular.
+Build custom components in Angular based on functional requirements
+Use REST end points to connect Angular front end components with backend
+Ensure cross-browser and cross-platform compatibility for optimal user experience.
+Implement and maintain design systems and style guides.
+Analyze requirements and translate them into technical specifications.
+Work closely with back-end developers to integrate front-end designs with back-end services.
+Optimize application performance by identifying and resolving bottlenecks.
+Conduct thorough testing to ensure the quality and reliability of the final product.
+Qualifications:
+Authorized to work in the United States without a need for future sponsorship.
+Bachelor's degree in Computer Science, IT, or a related field, or equivalent experience.
+At least 4 years of experience as a front-end developer using Angular.
+Proficiency in HTML, CSS, and front end frameworks Angular.
+Strong understanding of responsive design and cross-browser compatibility.
+Fluency in the English language for effective communication.
+Ability to work full-time (40 hours/week).
+Job Types: Full-time, Contract
+Salary: $30.00 - $70.00 per hour
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Experience level:
+5 years
+6 years
+7 years
+8 years
+Schedule:
+8 hour shift
+Experience:
+Angular: 5 years (Required)
+Designer: 5 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:57.635671

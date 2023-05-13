@@ -1,0 +1,41 @@
+Overview:
+The purpose of the Quality Assurance Analyst I is to ensure our technology delivers an extraordinary experience. They do so by thoroughly validating that changes to our products meet business requirements, design criteria, and quality standards before being deployed to production environments, while fending off the robot apocalypse if necessary. This role is expected to undertake work of light to moderate complexity, with regular support from more senior team members.
+Key Responsibilities:
+Partner with cross functional teams to develop, understand, and update requirements for product features. Serve as a subject matter expert for at least one applications, or business processes, driving collaboration between technology and the business.
+Develop new test that validate new features, verify consistant operation of existing functionality, and identify weakness/concerns in usability. Assist in the maintenance of appropriately detailed Test Cases,Test Suites, and Test plans in a Test Management tool.
+Deliver on day-to-day functional processes with an eye towards continuous improvement, including accurate estimates and appropriate testing.
+Reveal, identify, document and track issues as they arise. Communicate test progress, test results, and other relevant information to cross functional teams and managers.
+Maintain high awareness of quality and performance, addressing failures as necessary, always keeping in mind impacts across live production environments and any unique attributes they possess.
+Continue to learn, grow, and regularly finding ways to add value to our team and business.
+Key Qualifications:
+Bachelor’s Degree or equivalent experience in Computer Science or related field, preferred
+QA Certification such as ISTQB, ASTQB, CSTE, CSQA, CAST
+1+ years Software/hardware testing experience - manual required, automation preferred
+1+ years Experience with test management and defect tracking tools
+Motivated, self-starting, and eager to learn
+Attention to detail and organizational skills are key – a proven ability to spot glitches in The Matrix
+Communication expert with the ability to convey technical information, both verbal and written, to a wide range of audiences
+Ability to work collaboratively across multiple teams
+Proficient in core technical tool and methodologies for function
+
+ADA
+The above statements cover what are generally believed to be principal and essential functions of the job. Specific circumstances may allow or require some incumbents assigned to the job to perform a different combination of duties.
+
+EEO Statement
+Topgolf is a global sports and entertainment community and is committed to equal opportunity and is firmly committed to preventing discrimination and harassment, including sexual misconduct, based on legally protected diversity characteristics (such as race, color, religion, national origin, sex, age, disability, sexual orientation, gender identity or expression, family status, citizenship, genetic information and veteran status) in its application and hiring processes and in its employment decisions. As an affirmative action employer, Topgolf also takes steps to prevent retaliation and to create a respectful, equitable and inclusive environment for our Guests, Associates, business partners, vendors, and the communities we serve.
+
+Topgolf is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity or expression, marital status, veteran status, genetics or any other category protected under applicable law.
+
+Topgolf Entertainment Group does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website, employees or Human Resources. Topgolf will not pay fees for unsolicited agency resumes and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of Topgolf Entertainment Group and will be processed accordingly without fee.
+
+Topgolf participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+To apply to this job, click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:47:56.281706

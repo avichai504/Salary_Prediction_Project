@@ -1,0 +1,33 @@
+Description
+We are seeking a Data Scientist to assist on multiple projects and deliverables within the Model Risk Governance team. The position requires that the individual collaborate independently with teammates across various work streams and eventually across various business groups at the bank. Will support the Governance team by participating in several critical initiatives, including:
+Risk reporting, project management, training, end-to-end model review process and documentation of procedures & guidelines.
+Participate in defining monthly requirements for online project management platform (GRC Archer platform).
+Will act as a resource for other team members; may lead projects of limited risk and resource requirements.
+Qualifications
+1-2 years of applicable experience
+Strong MS Office (Excel, Word, SharePoint, PowerPoint, Outlook, Teams).
+Strong communication skills, both verbal and written.
+Organized with great time management.
+Skill set should include project management and ability to effectively influence and engage stakeholders.
+Education
+Bachelor's Degree, in business or a quantitative field, or equivalent work experience required.
+Hours & Work Schedule: (3 days in the office)
+Hours per Week: 40
+Work Schedule: Monday-Friday
+Some job boards have started using jobseeker-reported data to estimate salary ranges for roles. If you apply and qualify for this role, a recruiter will discuss accurate pay guidance.
+Equal Employment Opportunity
+At Citizens we value diversity, equity and inclusion, and treat everyone with respect and professionalism. Employment decisions are based solely on experience, performance, and ability. Citizens, its parent, subsidiaries, and related companies (Citizens) provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability, perceived disability or history or record of a disability, ethnicity, gender, gender identity or expression (including transgender individuals who are transitioning, have transitioned, or are perceived to be transitioning to the gender with which they identify), genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague’s or a dependent’s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws.
+Equal Employment and Opportunity Employer
+Citizens is a brand name of Citizens Bank, N.A. and each of its respective affiliates.
+Why Work for Us
+At Citizens, you'll find a customer-centric culture built around helping our customers and giving back to our local communities. When you join our team, you are part of a supportive and collaborative workforce, with access to training and tools to accelerate your potential and maximize your career growth
+Start your job application: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:21:57.373769

@@ -1,0 +1,80 @@
+We are interested in every qualified applicant who is eligible to work remotely in the United States. However, we are not able to sponsor new VISAs.
+
+What is My Impact?
+
+You will develop, program, code CRM Applications.
+You will document detailed system specifications, participation in unit testing and maintenance of planned and unplanned internally developed applications, evaluation and performance testing of purchased products.
+You will create IT Controls to protect the confidentiality, integrity, as well as availability of the application and data processed or output by the application.
+Associate/Junior developers perform job functions under the supervision of IT Developers or Advanced IT Developers.
+
+What Will I Do?
+Write code for simple system designs for CRM applications.
+Can read and understand system and functional requirements.
+Adheres to the coding standard/practices established by the advanced developers.
+Write simple technical specifications for single programs.
+Report inaccuracies and inconsistencies found in system and functional requirements to other Developers.
+“Scope” time, resources, etc. required to complete programming projects. Seek review from other Developers on estimates.
+Consult with other IT Developers, Business Analysts, Systems Analysts, Project Managers and vendors.
+Accountable for including IT Controls to protect the confidentiality, integrity, as well as availability of the application and data processed or output by the application.
+Ensure all SDLC guidelines are adhered to as defined by the SDLC Office to support audit compliance.
+
+What is Required?
+2+ years related work experience. Experience Details: Professional experience with technical design and coding in the IT industry
+High school diploma or GED
+Experience with unit testing and release procedures.
+Basic demonstrated proficiency using versioning tools.
+Demonstrated database and SQL skills
+Working knowledge of Information Technology fields and computer systems.
+Demonstrated organizational, analytical and interpersonal skills.
+Flexible team player.
+Ability to manage tasks independently under close supervision and take ownership of responsibilities.
+Ability to learn from mistakes and apply constructive feedback to improve performance.
+Must demonstrate initiative and effective independent decision-making skills.
+Ability to communicate technical information clearly and articulately.
+Ability to adapt to a rapidly changing environment.
+Must have an understanding of the systems development life cycle.
+Basic proficiency programming in at least one object-oriented programming language.
+Basic proficiency using standard desktop applications such as MS Suite and flowcharting tools such as Visio.
+Basic proficiency using debugging tools.
+
+What is Preferred?
+
+Masters in computer science
+React, Node.JS
+Experience using Agile methodology
+
+General Physical Demands
+Sedentary work: Exerting up to 10 pounds of force occasionally to move objects. Jobs are sedentary if traversing activities are required only occasionally.
+
+
+What We Offer:
+As a Florida Blue employee, you will thrive in our Be Well, Work Well, GuideWell culture where being well as an individual, and working well as a team, are both important in serving our members and communities.
+
+To support your wellbeing, comprehensive benefits are offered. As an employee, you will have access to:
+Medical, dental, vision, life and global travel health insurance
+Income protection benefits: life insurance, Short- and long-term disability programs
+Leave programs to support personal circumstances
+Retirement Savings Plan includes employer contribution and employer match
+Paid time off, volunteer time off, and 11 holidays
+Additional voluntary benefits available
+A comprehensive wellness program
+Employee benefits are designed to align with federal and state employment laws. Benefits may vary based on the state in which work is performed. Benefits for intern, part-time and seasonal employees may differ.
+
+To support your financial wellbeing, we offer competitive pay as well as opportunities for incentive or commission compensation. We also conduct regular annual reviews with pay for performance considerations for base pay increases.
+
+Annualized Salary Range: $61,000 - $99,100
+
+Typical Annualized Hiring Range: $61,000 - $76,200
+
+Final pay will be determined with consideration of market competitiveness, internal equity, and the job-related knowledge, skills, training, and experience you bring.
+
+We are an Equal Opportunity/Protected Veteran/Disabled Employer committed to creating a diverse, inclusive and equitable culture for our employees and communities.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:31:30.304590

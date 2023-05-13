@@ -1,0 +1,331 @@
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+import time
+import pandas as pd
+from datetime import datetime
+from selenium import webdriver
+import re
+
+
+def get_jobs(keyword, num_jobs, path, slp_time):
+
+    print(f"Entering get_jobs with keyword {keyword}, number of jobs={num_jobs}")
+
+    options = webdriver.ChromeOptions()
+    options.add_argument("start-maximized")
+
+    driver = webdriver.Chrome(executable_path=path, options=options)
+    url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=" + keyword + "&sc.keyword=" + keyword + "&locT=&locId=&jobType="
+    driver.get(url)
+
+    time.sleep(slp_time)
+    jobs = []
+
+
+    try:
+        driver.find_element_by_class_name("selected").click()
+        print('#  Process Start Successfully  #  ')
+    except ElementClickInterceptedException:
+        pass
+
+    try:
+        driver.find_element_by_css_selector('[alt="Close"]').click()  # clicking to the X.
+        print('Close button clicked\n')
+    except NoSuchElementException:
+        pass
+
+    # Handling the first clik problem by giving it more chance to clik
+    max_retries = 5
+    retry_delay = 1  # seconds
+
+    for i in range(max_retries):
+        try:
+            job_buttons = driver.find_elements_by_css_selector("a.jobLink")
+            time.sleep(slp_time)
+            job_buttons[0].click()
+            time.sleep(slp_time)
+            print("Clicked on job button successfully!")
+            break  # exit the loop if click is successful
+        except Exception as e:
+            print(f"Attempt {i + 1}: Failed to click on job button. Error: {str(e)}")
+            # if the page dose not uploads ok, we need to close and start agine
+            # driver.quit()
+            #
+            # time.sleep(retry_delay)
+            # driver.get(url)
+            # time.sleep(retry_delay)
+    else:
+        print(f"Failed to click on job button after {max_retries} attempts. Exiting...")
+
+    try:
+        driver.find_element_by_css_selector('[alt="Close"]').click()  # clicking to the X.
+        print('Close button clicked\n')
+    except NoSuchElementException:
+        # print('Close button NOT found')
+        pass
+
+    num_of_job_in_page = 0  # In every page there has 30 jobs
+    currentPage = 0
+
+    j = int(1)  # for creating a files
+    while num_jobs > len(jobs):
+        print("Entering page number:", currentPage + 1)
+
+        time.sleep(slp_time)
+
+        # Test for the "Sign Up" prompt and get rid of it.
+        try:
+            driver.find_element_by_class_name("selected").click()
+        except ElementClickInterceptedException:
+            pass
+        time.sleep(1)
+
+        job_buttons = driver.find_elements_by_css_selector("a.jobLink")  # list of links to the current page
+
+        for i, job_button in enumerate(job_buttons):
+            if len(jobs) >= num_jobs:  # here we will stop the scraper eventually
+                break
+
+            if num_of_job_in_page == 30:  # here we will stop and move to the next page
+                break
+
+            if i % 3 == 0:  # because each post has 3 links
+                now = datetime.now()
+                num_of_job_in_page += 1
+                is_remote = False
+                print("\n")
+                print(
+                    "Progress: {}".format("" + str(len(jobs) + 1) + "/" + str(num_jobs)) + " in page number: {}".format(
+                        "" + str(currentPage + 1)))
+
+                try:
+                    job_button.click()  # Click on the next post in the list
+                    time.sleep(slp_time)  # Waiting for the element to create
+                except:
+                    print(
+                        "Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs,
+                                                                                                               len(jobs)))
+                    df = pd.DataFrame(jobs)
+                    return df
+
+                try:
+                    job_title = driver.find_element_by_css_selector("div[data-test='jobTitle']").text
+                except:
+                    print("Failed to collect job title!")
+                    job_title = -1
+
+                try:
+                    more_optionButton = driver.find_element_by_xpath('//*[@id="JobDescriptionContainer"]/div[2]')
+                    more_optionButton.click()
+                    try:
+                        text = driver.find_element_by_xpath('//*[@id="JobDescriptionContainer"]').text
+
+                        years_of_experience = extract_years_of_experience(text)
+                        education = extract_education(text)
+                        position_level = extract_position_level(job_title)
+                        if position_level == -1:
+                            position_level = extract_position_level(text)
+
+                        with open(f"row text2/row_text_{keyword}{j}.txt",
+                                  'w') as f:  # for testing the 'extract' functions
+                            j += 1
+                            f.write(text)
+                            f.write(
+                                f"\n\n\nTesting regine:\nExperience: {years_of_experience}\nEducation: {education}\nPosition Level: {position_level}\n Time of Scrape: {now}")
+
+                    except Exception as e:
+                        years_of_experience = education = position_level = -1
+                        print(f"Attempting to scrape the text did not worked  {str(e)} ")
+
+
+                except Exception as e:
+                    years_of_experience = education = position_level = -1
+                    print(f"Failed!{str(e)}")
+
+                try:
+                    company_name = driver.find_element_by_xpath(
+                        '//div[@class="css-87uc0g e1tk4kwz1"]').text  # It's working!
+                except:
+                    print("Failed to collect company name!")
+                    company_name = -1
+
+                try:
+                    location = driver.find_element_by_css_selector("div[data-test='location']").text
+                    if "Remote" in location:
+                        is_remote = True
+                except:
+                    print("Failed to collect location!")
+                    location = -1
+
+                try:
+                    job_rating = driver.find_element_by_css_selector("span[data-test='detailRating']").text
+                except:
+                    print("Failed to collect job Rating!")
+                    job_rating = -1
+
+                try:
+                    rating_elements = driver.find_elements_by_css_selector("span.css-a7hxlj.erz4gkm1")
+
+                    career_opportunities = rating_elements[1].text
+                    comp_and_benefits = rating_elements[3].text
+                    culture_and_values = rating_elements[5].text
+                    senior_management = rating_elements[7].text
+                    work_life_balance = rating_elements[9].text
+
+
+
+                except Exception as e:
+                    career_opportunities = comp_and_benefits = culture_and_values = senior_management = work_life_balance = -1
+                    print(e)
+
+                try:
+                    salaries = driver.find_element_by_xpath('//div[@class="css-1bluz6i e2u4hf13"]').text
+                except NoSuchElementException:
+                    print("Failed to collect Salary Estimate!")
+                    salaries = -1
+
+                try:
+                    driver.find_element_by_css_selector('h2.css-1r0ltbv.e9b8rvy0').click()
+
+                    try:
+                        size = driver.find_element_by_xpath(
+                            '//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Size"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        size = -1
+                        print("Failed to collect company size!")
+
+                    try:
+                        founded = driver.find_element_by_xpath('//span[text()="Founded"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        founded = -1
+                        print("Failed to collect founded date!")
+
+                    try:
+                        type_of_ownership = driver.find_element_by_xpath(
+                            '//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Type"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        type_of_ownership = -1
+                        print("Failed to collect type of ownership!")
+
+                    try:
+                        industry = driver.find_element_by_xpath(
+                            '//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Industry"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        industry = -1
+                        print("Failed to collect industry!")
+
+                    try:
+                        sector = driver.find_element_by_xpath(
+                            '//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Sector"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        sector = -1
+                        print("Failed to collect sector!")
+
+                    try:
+                        revenue = driver.find_element_by_xpath(
+                            '//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Revenue"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        revenue = -1
+                        print("Failed to collect revenue!")
+
+                except:
+                    size = -1
+                    founded = -1
+                    type_of_ownership = -1
+                    industry = -1
+                    sector = -1
+                    revenue = -1
+
+                    print("Failed to click the Company Overview button!")
+
+                jobs.append({"Job Title": job_title,
+                             "Experience": years_of_experience,
+                             "Position": position_level,
+                             "Education": education,
+                             "Company Name": company_name,
+                             "Salary Estimate": salaries,
+                             "Location": location,
+                             "Rating": job_rating,
+                             "Is Remote": is_remote,
+                             "Company Size": size,
+                             "Founded": founded,
+                             "Type of Ownership": type_of_ownership,
+                             "Industry": industry,
+                             "Sector": sector,
+                             "Revenue": revenue,
+                             "Career Opportunities": career_opportunities,
+                             "Comp & Benefits": comp_and_benefits,
+                             "Culture & Values": culture_and_values,
+                             "Senior Management": senior_management,
+                             "Work Life Balance": work_life_balance,
+                             "Time of Scrape": now})
+
+        currentPage += 1
+        num_of_job_in_page = 0
+
+        # move to the next page
+        next_page = driver.find_element_by_css_selector('[alt="next-icon"]')
+        next_page.click()
+
+    df = pd.DataFrame(jobs)
+    return df
+
+
+def extract_years_of_experience(job_description):
+    # pattern = r"\b(at least )?([0-9]+|(one|two|three|four|five|six|seven|eight|nine|ten))\s+(year|years|years'|ye|ya|Y)(\s+of\s+)?(\w+\s+){0,2}(experience|professional|work|exp)\b"
+    pattern = r"\b(at least )?([0-9]+\+?|(one|two|three|four|five|six|seven|eight|nine|ten))\s+(year|years|years'|ye|ya|Y)(\s+of\s+)\b"
+
+    # Search for the pattern in the job description
+    match = re.search(pattern, job_description, re.IGNORECASE)
+
+    if match:
+        # Extract the number of years from the match object
+        years_of_experience_str = match.group(2)
+        if years_of_experience_str.isdigit():
+            years_of_experience = int(years_of_experience_str)
+        else:
+            # convert word to digit
+            words_to_digits = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
+                               "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
+            years_of_experience = words_to_digits[years_of_experience_str]
+        return years_of_experience
+    else:
+        # If no match is found, return -1
+        return -1
+
+
+def extract_education(job_description):
+    pattern_high_school = r"\b(High school|Highschool|Secondary school|Secondary education)\b"
+    pattern_bachelor = r"(?i)\b(bachelor|bachelor's|bs|b\.s\.|b\s\s?\.?\s?sc)\b(?=.*degree)"
+    pattern_master = r"(?i)\b(master|master's|ms|m\.s\.)\b(?=.*degree)"
+    pattern_doctor = r"(?i)\b(doctor|doctoral|phd|dr|d\.?\s?phil\.?|d\s\s?\.?\s?sc|doctorate)\b(?=.*degree)"
+
+    match_hi = re.search(pattern_high_school, job_description)
+    match_bs = re.search(pattern_bachelor, job_description)
+    match_ms = re.search(pattern_master, job_description)
+    match_dr = re.search(pattern_doctor, job_description)
+
+    if match_hi:
+        return "high-school".upper()
+    if match_bs:
+        return "bachelor".upper()
+    if match_ms:
+        return "master".upper()
+    if match_dr:
+        return "doctor".upper()
+    else:
+        return -1
+
+
+def extract_position_level(job_description):
+    junior_regex = r"\b(Junior|Jr\.|Jnr\.|Entry-level|Assistant|Trainee|Associate|Apprentice|Freshman|Newcomer|Rookie|Junior-level|Junior-level position|Junior role|Junior position|Junior team member|Junior staff member|Junior employee|Junior member|Junior assistant|Junior trainee)\b"
+    senior_regex = r"\b(Senior|Sr\.|Snr\.|Lead|Principal|Director|Manager|Executive|Chief|Head|Expert|Specialist|Consultant)\b"
+
+    match_ju = re.search(junior_regex, job_description, re.IGNORECASE)
+    match_se = re.search(senior_regex, job_description, re.IGNORECASE)
+
+    if match_ju:
+        return "junior".upper()
+    if match_se:
+        return "senior".upper()
+    else:
+        return -1

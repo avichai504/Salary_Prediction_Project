@@ -1,0 +1,58 @@
+Visa: USC/ GC only
+JOB Description:
+Please find the JD for SAP HANA BI/BW profile. Both sections are required.
+General BI Required Skills:
+Proven expertise in SAP BW Architecture/design and data modeling
+Proven expertise in HANA architecture/design and data modeling
+Proven expertise in SAP Business Objects Architecture, IDT and reporting tools design(Webi, Crystal, Lumira, Dashboards, etc..)
+Proven experience with design and architecture of Enterprise Data Warehouse environments
+Proven experience with formulating governance standards and guidelines around design/development of solutions
+Proven expertise and/or expert Knowledge in SAP S4, SAP ECC 6.0, CRM, SRM, SCM
+Good Understanding and experience in modules such as and not limited to SAP SD, FI, PP, PM, GL, COPA
+Proven expertise in providing Technical Solutions to fulfill Business requests using SAP BW, SAP BW on HANA, SAP HANA and SAP Business Objects
+Minimum 3 Full lifecycle implementation experience in SAP BW, HANA and Business Objects
+Deep and broad exposure and understanding of SAP Data Warehouse concepts
+Excellent verbal and written communication skills
+Strong interpersonal skills
+Ability to work under pressure with minimal supervision and provide guidance to team members
+Experience or good understanding of implementing projects in Agile / Scrum / DevOps methodologies
+At least 2 industries experience in implementing SAP Projects from the following
+Aerospace
+CPG
+Manufacturing
+IS-Retail
+Utilities
+Media
+Apparel
+Required HANA Skills:
+Proven hands on experience with SAP HANA
+Strong SQL Scripting skills to write SQL Procedures and SQL based HANA models
+Proven experience with data modelling at a conceptual and physical level
+Experience in creating schemas
+Experience in creating HANA attribute, analytical, calculation views, input parameters
+Experience in designing star join based HANA models
+Experience in creating XS jobs and scheduling
+Experience in crating Native HANA models and BW based HANA models
+Experience in replicating data from source system to HANA using SLT, SDA
+Experience in performance and tuning of HANA models/queries
+Experience in development HANA models using Studio and/or eclipse
+Experience in creating HANA models using CDS views
+Experience in creating BW and ABAP based HANA models
+Experience in developing ODATA models and configure ODATA objects
+Experience in developing HANA objects with side car approach
+Experience in transporting HANA objects using CTS+
+Experience in creating SAP BO reports using HANA models
+Job Type: Contract
+Salary: $75.00 - $80.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 21:15:40.569080

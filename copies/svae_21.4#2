@@ -1,0 +1,175 @@
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium import webdriver
+import time
+import pandas as pd
+from datetime import datetime
+
+
+def get_jobs(keyword, num_jobs, path, slp_time):
+    options = webdriver.ChromeOptions()
+    options.add_argument("start-maximized")
+
+    driver = webdriver.Chrome(executable_path=path, options=options)
+    url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=" + keyword + "&sc.keyword=" + keyword + "&locT=&locId=&jobType="
+    driver.get(url)
+
+    jobs = []
+
+    try:
+        driver.find_element_by_class_name("selected").click()
+        print('#  Process Start Successfully  #  ')
+    except ElementClickInterceptedException:
+        pass
+
+    job_buttons = driver.find_elements_by_css_selector("a.jobLink")
+    job_buttons[0].click()
+    time.sleep(slp_time)
+
+    try:
+        driver.find_element_by_css_selector('[alt="Close"]').click()  # clicking to the X.
+        print('Close button clicked\n')
+    except NoSuchElementException:
+        # print('Close button NOT found')
+        pass
+
+    num_of_job_in_page = 0  # In every page there has 30 jobs
+    currentPage = 0
+
+    while num_jobs > len(jobs):
+        print("Entering page number:", currentPage + 1)
+
+        time.sleep(slp_time)
+
+        # Test for the "Sign Up" prompt and get rid of it.
+        try:
+            driver.find_element_by_class_name("selected").click()
+        except ElementClickInterceptedException:
+            pass
+        time.sleep(1)
+
+        job_buttons = driver.find_elements_by_css_selector("a.jobLink")  # list of links to the current page
+
+        for i, job_button in enumerate(job_buttons):
+            if len(jobs) >= num_jobs:  # here we will stop the scraper eventually
+                break
+
+            if num_of_job_in_page == 30:  # here we will stop and move to the next page
+                break
+
+            if i % 3 == 0:  # because each post has 3 links
+                now = datetime.now()
+                num_of_job_in_page += 1
+                is_remote = False
+                print(
+                    "Progress: {}".format("" + str(len(jobs) + 1) + "/" + str(num_jobs)) + " in page number: {}".format(
+                        "" + str(currentPage + 1)))
+
+                job_button.click()  # Click on the next post in the list
+                time.sleep(slp_time)  # Waiting for the element to create
+
+                try:
+                    company_name = driver.find_element_by_xpath(
+                        '//div[@class="css-87uc0g e1tk4kwz1"]').text  # It's working!
+                except:
+                    print("Failed to collect company name!")
+                    company_name = 'EMPTY'
+
+                try:
+                    location = driver.find_element_by_css_selector("div[data-test='location']").text
+                    if "Remote" in location:
+                        is_remote = True
+                except:
+                    print("Failed to collect location!")
+                    location = 'EMPTY'
+
+                try:
+                    job_title = driver.find_element_by_css_selector("div[data-test='jobTitle']").text
+                except:
+                    print("Failed to collect job title!")
+                    job_title = 'EMPTY'
+
+                try:
+                    job_rating = driver.find_element_by_css_selector("span[data-test='detailRating']").text
+                except:
+                    print("Failed to collect job Rating!")
+                    job_rating = 'EMPTY'
+
+                try:
+                    salaries = driver.find_element_by_xpath('//div[@class="css-1bluz6i e2u4hf13"]').text  # It's work!
+                except NoSuchElementException:
+                    print("Failed to collect Salary Estimate!")
+                    salaries = 'EMPTY'
+
+                try:
+                    driver.find_element_by_css_selector('h2.css-1r0ltbv.e9b8rvy0').click()
+
+                    try:
+                        size = driver.find_element_by_xpath('//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Size"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        size = 'EMPTY'
+                        print("Failed to collect company size!")
+
+                    try:
+                        founded = driver.find_element_by_xpath('//span[text()="Founded"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        founded = 'EMPTY'
+                        print("Failed to collect founded date!")
+
+                    try:
+                        type_of_ownership = driver.find_element_by_xpath('//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Type"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        type_of_ownership = 'EMPTY'
+                        print("Failed to collect type of ownership!")
+
+                    try:
+                        industry = driver.find_element_by_xpath('//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Industry"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        industry = 'EMPTY'
+                        print("Failed to collect industry!")
+
+                    try:
+                        sector = driver.find_element_by_xpath('//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Sector"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        sector = 'EMPTY'
+                        print("Failed to collect sector!")
+
+                    try:
+                        revenue = driver.find_element_by_xpath('//div[@class="d-flex justify-content-start css-rmzuhb e1pvx6aw0"]//span[text()="Revenue"]/following-sibling::span').text
+                    except NoSuchElementException:
+                        revenue = 'EMPTY'
+                        print("Failed to collect revenue!")
+
+                except:
+                    size = 'EMPTY'
+                    founded = 'EMPTY'
+                    type_of_ownership = 'EMPTY'
+                    industry = 'EMPTY'
+                    sector = 'EMPTY'
+                    revenue = 'EMPTY'
+                    print("Failed to click the Company Overview button!")
+
+
+                jobs.append({"Job Title": job_title,
+                             "Company Name": company_name,
+                             "Salary Estimate": salaries,
+                             "Location": location,
+                             "Rating": job_rating,
+                             "Is Remote": is_remote,
+                             "Company Size": size,
+                             "Founded": founded,
+                             "Type of Ownership": type_of_ownership,
+                             "Industry": industry,
+                             "Sector": sector,
+                             "Revenue": revenue,
+                             "Time of Scrape": now})
+
+
+        # move to the next page
+        currentPage += 1
+        num_of_job_in_page = 0
+        next_page = driver.find_element_by_css_selector('[alt="next-icon"]')
+        next_page.click()
+
+
+    df = pd.DataFrame(jobs)
+    return df

@@ -1,0 +1,79 @@
+About Us
+We are a thriving, medication management solutions company, headquartered in Manhattan, but largely virtually distributed, committed to tackling the $528B suboptimal medication management problem. Patient medication information is often incomplete for healthcare providers and systems – it’s our mission to fill in the gaps. We provide real-time, universal access to accurate medication data for over 265 million patients and high-quality interventions by board certified telepharmacists. Through our solutions, healthcare providers can reduce preventable hospitalizations, avoid readmissions, and ultimately, improve patient outcomes. We’re already used by dozens of hospital systems, with tens of thousands of clinicians and supporting staff using us to care for millions of patients.
+Here at Cureatr, we are driven by a core set of values and strive to incorporate them into everything we do. We care deeply about our users, patients, and employees, and we aim to live and operate compassionately. We take pride in creating a diverse, inclusive, and equitable company culture, where our open and honest approach to work fosters innovation and encourages employees to achieve professional and personal growth.
+
+The Role
+We’re looking for a Data Engineer to join our growing Engineering team. Use the power of healthcare data to find insights that will demonstrate the value Cureatr is delivering to our customers, help improve patient outcomes, and expand the scope of Cureatr’s mission. As a Data Engineer at Cureatr, you will be responsible for designing, implementing and maintaining our data infrastructure, pipelines, automation, and ETL processes. You will work closely with our Data Science and Analytics teams to ensure that our data is clean, accurate, and readily available for analysis. You will also be responsible for ensuring that our data meets industry standards for security, privacy, and compliance.
+This is a remote, work from home position, but candidates must be located within the U.S. Ideal candidates must be able to travel to our New York City office, or TBD company-wide offsite locations, up to 4x per year.
+
+You’ll be part of a team working to solve problems like:
+Increasing the number of patients who receive the opportunity to do a medication reconciliation, which can help keep them out of the hospital.
+Streamlining and automating processes so that our pharmacists can serve as many patients as possible.
+Predicting patient events likely to occur so that our clinical team can adequately prevent them before it’s too late.
+Helping our pharmacists make the most of data and insights that will help them be as effective as possible in serving patients.
+Evaluating the effectiveness of our clinical services impact at the population level.
+
+What You’ll Do:
+Design, implement, and maintain our data infrastructure, pipelines, automation, and ETL processes to support our data needs.
+Build and maintain scalable data models and databases.
+Collaborate with Data Science and Analytics teams to understand their data needs and provide data solutions accordingly.
+Ensure data quality and integrity by implementing data validation and cleansing processes.
+Ensure data security and compliance with healthcare regulations.
+Monitor and optimize data performance and scalability.
+Design and implement data governance policies and procedures.
+Evaluate and implement new data technologies and tools to improve our data capabilities.
+
+Your Skills:
+3+ years of experience as a Data Engineer or similar role.
+Strong programming skills in languages such as Python and SQL.
+Experience using git to track changes.
+Experience with data modeling and database design.
+Experience with the “modern data stack” preferred
+Experience with ETL and data pipeline development.
+Knowledge of healthcare data and related standards (e.g., HL7, FHIR) is a plus.
+Familiarity with AWS.
+Strong problem-solving and analytical skills.
+Excellent communication and collaboration skills.
+
+Technology Stack:
+Python
+RedShift
+dbt
+Dagster
+MongoDB
+Looker
+AWS
+
+Educational Requirement: Bachelor’s Degree or relevant work experience
+
+Salary: $110,000 - $140,000 plus full benefits
+
+Why work with us?
+Make a measurable impact on patients’ lives
+Be part of a company dedicated to living its core values:
+Empathy
+Honesty
+Integrity
+Impact
+Fun
+Equity in Healthcare
+Work in the company without micromanagement
+Share your vision and make an impact on the product
+Opportunities for career growth
+Remote work
+Competitive salary
+Premium benefits (Health, Dental, Vision, 401k, unlimited PTO, more)
+
+Equal Employment Opportunity Policy
+Cureatr is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, pregnancy, race, religion or religious creed, color, gender, gender identity, gender expression, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status, registered domestic partner status, age, sexual orientation, military or veteran status, protected veteran status, or any other basis protected by federal, state, local law, ordinance, or regulation and will not be discriminated against on these bases
+Disclaimer: we are aware of a scam targeting applicants using a cureatrcareers.com email address. Please block and report this sender, as they are not affiliated with Cureatr. If you have any questions, please contact us at jobs@cureatr.com. Thank you!
+uBajh3OfeT
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:55.620966

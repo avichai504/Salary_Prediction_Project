@@ -1,0 +1,23 @@
+In a world where many social apps measure their success by time spent online, Raya is a technology company focused on providing utility. Our iOS only app is a tool for discovery of and access to exciting people, events, opportunities and recommendations globally. We believe that by marrying great software with a membership-based community built around core values of trust, creativity, and reciprocity, we can provide solutions that have heretofore been impossible.
+
+Extracting insight from data is at the heart of our quest to serve our members, and we are growing our Data team so that we can provide accurate, timely and actionable data to our Product Managers, Community leaders and executives. The BI Analyst we are searching for will be responsible for vetting new data sources, creating new ongoing reporting, serving as judge and jury of all A/B tests, and anticipating further needs or follow-ups that our internal stakeholders might have.
+
+The ideal candidate will possess natural curiosity, and most importantly will be obsessive in the accurate crafting of new metrics to help shed light on our members and our business. This person will need to collaborate closely with Engineering in order to understand the origin and meaning of all data created by our software. They will also need to be comfortable working with downstream stakeholders to intake, refine, execute and iterate on their data requests and questions.
+
+Requirements
+Mastery of SQL
+Basic understanding of Python and ability to manipulate data and create simple visualizations using pandas or other appropriate Python libraries
+Detail orientation, and specifically an obsession with accuracy & correctness
+Natural curiosity for exploring data. When a loose thread emerges, you’re inclined to pull on it
+Clear, proactive communication
+Your word is your bond. When you commit to something, you always deliver
+This is a fully remote position. The company largely operates on West Coast time.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-08 21:16:04.993121

@@ -1,0 +1,30 @@
+PAR is seeking a highly motivated software Quality Assurance (QA) Test Engineer to join our team and help us deliver high-quality, situational awareness, mobile and computer software applications. The ideal candidate is detail oriented, persistent, and works well in a team environment. Experience in creating, executing, and documenting test cases, along with a passion for finding and reporting software defects are highly desired. The QA Test Engineer will work closely with software developers and project managers to ensure that our applications meet the highest quality standards.
+
+Responsibilities and Duties:
+Develop and execute test plans for mobile and computer applications.
+Conduct manual and automated testing on Android, iOS, Windows, and/or LINUX devices.
+Identify, report, and track software defects.
+Work with developers to troubleshoot issues and verify bug fixes.
+Participate in daily stand-ups, sprint planning, and retrospective meetings.
+
+
+Required Skills
+Bachelor’s degree in computer science or equivalent related technical background - desired
+Excellent problem-solving and communication skills - required.
+Strong knowledge of testing methodologies and processes - desired
+Understanding of agile software development methodologies - desired
+
+
+Required Experience
+Able to obtain a DoD Security Clearance
+Minimum of 2 years of experience in software testing and/or development - desired
+Experience in both manual and automated testing - desired
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:47:54.086092

@@ -1,0 +1,44 @@
+Hi,
+Please find the below Job Description. If interested, please share your updated resume along with below details.
+Job Title: QA Test Engineer
+Location: NYC, NY 10001 (Hybrid)
+Duration: 12+ Months Contract
+Responsibilities:
+Good understanding of Capital Markets.
+Experience on Financial Domain Investment Banking
+Strong DB Testing experience using SQL
+Strong Functional Testing experience
+Some knowledge/experience on Python, Java , Selenium, Java Script
+Excellent problem solving and critical thinking skills.
+Data Reconciliation experience is a must.
+Have good experience working with both desktop and web-based apps and also a good understanding of the backend architecture and data workflow.
+Proactive in tracking issues and reaching out to necessary teams to help with the testing effort.
+Excellent knowledge of software development lifecycle, test methodologies and tools and, passion for quality processes
+Thanks & Regards,
+Sekhar
+Job Type: Contract
+Salary: $55.00 - $60.00 per hour
+Compensation package:
+1099 contract
+Experience level:
+8 years
+Schedule:
+8 hour shift
+Experience:
+QA: 8 years (Required)
+Capital Markets: 5 years (Required)
+Financial: 5 years (Required)
+Investment Banking: 4 years (Required)
+Database Testing: 1 year (Required)
+Functional Testing: 1 year (Required)
+Data Reconciliation: 1 year (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:49:19.523497

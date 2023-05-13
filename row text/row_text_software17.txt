@@ -1,0 +1,63 @@
+Role : Software Engineer I
+Location : Dallas, TX or Remote
+At Blue Yonder, we deliver world class supply chain and fulfillment solutions for our customers. The Software Engineer I will be a key role in a growing organization of Blue Yonder, supporting our Execution capabilities. You will be part of a team that is responsible for delivering Warehousing, Transportation and Labor management innovation for our portfolio of products. Your experience in fast-paced environments and your full stack engineering skills will help you succeed in this role. We are looking for a passionate engineer who has pride in their work and can collaborate in our larger global organization.
+Our current technical environment:
+Software: Data Structures & Algorithms, Java, Spring boot, Gradle, GIT, Hibernate, Rest API, OAuth, React, Angular
+Application Architecture: Scalable, Resilient, event driven, secure multi-tenant Microservices architecture.
+Cloud Architecture: MS Azure (ARM templates, AKS, HD insight, Application gateway, Virtue Networks, Event Hub, Azure AD)
+Frameworks/Others: Docker, Kubernetes, Kafka, Elasticsearch, Spark, NOSQL, RDBMS, Spring boot, Gradle GIT, Ignite
+Software Development: TDD & Agile (SCRUM)
+What you’ll do:
+Guided by team members, contributes simple features and bug fixes and provides matching test cases.
+Finds suitable work items in the team backlog with the help of other team members.
+Participates in team activities such as backlog grooming, planning, daily stand-ups, and retrospectives.
+Is aware of the team's continuous integration pipeline and fixes broken builds as necessary.
+Learns how to improve readability and maintainability of code.
+Continuously improves themselves and the code they produce.
+Develops an understanding of the problem domain their team works on.
+What we are looking for:
+Bachelor’s Degree with 1 to 2 years of experience in Software Development of large and complex enterprise applications.
+Experience in developing enterprise application using ReactJS, React Native, Node JS and Express JS framework.
+Hands on experience in unit testing frameworks
+Experience in Responsive Web Design (RWD) for Web Applications.
+Experience in working with BFF approach of development.
+Identifies & builds reusable components.
+Knowledge on Java, Rest APIs is an added advantage.
+Knowledge on SQL and NoSQL databases.
+Knowledge in building apps with Docker and using cloud platforms like Azure or AWS is added advantage.
+Develops and maintains relevant product and domain knowledge.
+Developer with DevOps mindset who has experience in working with Operations teams and identifying bugs and solve them.
+Adheres to the performance benchmark based on pre-defined requirements.
+LI-SR1
+LI-REMOTE
+-
+The salary range for this position is: USD $72,360.00 – $104,922.00.
+The salary range information provided, reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual salary will be commensurate with skills, experience, certifications or licenses and other relevant factors. In addition, this role will be eligible to participate in either the annual performance bonus or commission program, determined by the nature of the position.
+At Blue Yonder, we care about the wellbeing of our employees and those most important to them. This is reflected in our robust benefits package and options that includes:
+Comprehensive Medical, Dental and Vision
+401K with Matching
+Flexible Time Off
+Corporate Fitness Program
+Wellbeing Days
+A variety of voluntary benefits such as; Legal Plans, Accident and Hospital Indemnity, Pet Insurance and much more
+At Blue Yonder, we are committed to a workplace that genuinely fosters inclusion and belonging in which everyone can share their unique voices and talents in a safe space. We continue to be guided by our core values and are proud of our diverse culture as an equal opportunity employer. We understand that your career search may look different than others, and embrace the professional, personal, educational, and volunteer opportunities through which people gain experience.
+Our Values
+
+If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here:
+Core Values
+Diversity, Inclusion, Value & Equality (DIVE)
+is our strategy for fostering an inclusive environment we can be proud of. Check out Blue Yonder's inaugural
+Diversity Report
+which outlines our commitment to change, and our
+video
+celebrating the differences in all of us in the words of some of our associates from around the world.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:40.969768

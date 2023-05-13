@@ -1,0 +1,231 @@
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium import webdriver
+import time
+import pandas as pd
+from datetime import datetime
+# For whiting:
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+
+def get_jobs(keyword, num_jobs, verbose, path, slp_time, more_option):
+
+    options = webdriver.ChromeOptions()
+    options.add_argument("start-maximized")
+    driver = webdriver.Chrome(executable_path=path, options=options)
+    url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=&locId=&jobType="
+    driver.get(url)
+
+    jobs = []
+
+
+    try:
+        driver.find_element_by_class_name("selected").click()
+        print("#  Selected was clicked  #  ")
+    except ElementClickInterceptedException:
+        pass
+
+
+    job_buttons = driver.find_elements_by_css_selector("a.jobLink")
+
+    job_buttons[0].click()
+    # print("The first clice")
+    time.sleep(slp_time)
+
+    try:
+        driver.find_element_by_css_selector('[alt="Close"]').click() #clicking to the X.
+        print('Close button clicked\n')
+    except NoSuchElementException:
+        # print('Close button NOT found')
+        pass
+
+
+
+
+    # for i in range(100):
+    #     job_buttons[i].click()
+    #     print("Click number:", i)
+    #     time.sleep(1)
+
+
+
+
+
+    for i, job_button in enumerate(job_buttons):
+        if len(jobs) >= num_jobs:
+            break
+
+
+        if i % 3 == 0:
+
+            print("Progress: {}".format("" + str(len(jobs) + 1) + "/" + str(num_jobs)))
+
+            job_button.click()  # Click on the next post in the list
+            time.sleep(slp_time) # Waiting for the element to create
+
+            try:
+                company_name = driver.find_element_by_xpath('//div[@class="css-87uc0g e1tk4kwz1"]').text  # It's worknig!
+                # print("Company name successfully collected ", company_name)
+            except:
+                print("Failed to collect company name!")
+                company_name = 'EMPTY'
+                # time.sleep(3)
+
+            try:
+                location = driver.find_element_by_css_selector("div[data-test='location']").text
+                # print("Location successfully collected")
+            except:
+                print("Failed to collect location!")
+                location = 'EMPTY'
+                # time.sleep(3)
+
+            try:
+                job_title = driver.find_element_by_css_selector("div[data-test='jobTitle']").text
+                # print("Job title successfully collected")
+            except:
+                print("Failed to collect job title!")
+                job_title = 'EMPTY'
+                # time.sleep(3)
+
+            try:
+                job_rating = driver.find_element_by_css_selector("span[data-test='detailRating']").text
+                # print("Job rating successfully collected")
+            except:
+                print("Failed to collect job Rating!")
+                job_rating = 'EMPTY'
+                # time.sleep(3)
+
+
+            try:
+                salaries = driver.find_element_by_xpath('//div[@class="css-1bluz6i e2u4hf13"]').text # It's work!
+                # print("Salary Estimate successfully collected --- ")
+                # print(salaries)
+
+            except NoSuchElementException:
+                print("Failed to collect Salary Estimate!")
+                salaries = -1
+
+
+
+            # here we can find more options to add to the list
+            if more_option:
+                try:
+                    driver.find_element_by_xpath('.//div[@class="tab" and @data-tab-type="overview"]').click()
+
+                    try:
+                        headquarters = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Headquarters"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        headquarters = -1
+
+                    try:
+                        size = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Size"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        size = -1
+
+                    try:
+                        founded = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Founded"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        founded = -1
+
+                    try:
+                        type_of_ownership = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Type"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        type_of_ownership = -1
+
+                    try:
+                        industry = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Industry"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        industry = -1
+
+                    try:
+                        sector = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Sector"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        sector = -1
+
+                    try:
+                        revenue = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Revenue"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        revenue = -1
+
+                    try:
+                        competitors = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Competitors"]//following-sibling::*').text
+                    except NoSuchElementException:
+                        competitors = -1
+                except:
+                    headquarters = -1
+                    size = -1
+                    founded = -1
+                    type_of_ownership = -1
+                    industry = -1
+                    sector = -1
+                    revenue = -1
+                    competitors = -1
+
+            # printing for debugging
+            if verbose:
+                print("Job Title: {}".format(job_title))
+                print("Salary Estimate: {}".format(salaries_estimate))
+                print("Rating: {}".format(job_rating))
+                print("Company Name: {}".format(company_name))
+                print("Location: {}".format(location))
+                print("@@@@@@")
+
+            # printing for debugging
+            if verbose and more_option:
+                print("Headquarters: {}".format(headquarters))
+                print("Size: {}".format(size))
+                print("Founded: {}".format(founded))
+                print("Type of Ownership: {}".format(type_of_ownership))
+                print("Industry: {}".format(industry))
+                print("Sector: {}".format(sector))
+                print("Revenue: {}".format(revenue))
+                print("Competitors: {}".format(competitors))
+                # print("@@@@@@@@@")
+
+            # append to the list if 'more_options' is true
+            if more_option:
+                jobs.append({"Job Title" : job_title,
+                             "Salary Estimate" : salary_estimate,
+                             "Rating" : job_rating,
+                             "Company Name" : company_name,
+                             "Location" : location,
+                             "Headquarters" : headquarters,
+                             "Size" : size,
+                             "Founded" : founded,
+                             "Type of ownership" : type_of_ownership,
+                             "Industry" : industry,
+                             "Sector" : sector,
+                             "Revenue" : revenue,
+                             "Competitors" : competitors,
+                             "Time of Scrapt": now})
+
+
+            # basic options
+            elif not more_option:
+                now = datetime.now()
+                jobs.append({"Job Title" : job_title,
+                             "Salary Estimate" : salaries,
+                             "Rating" : job_rating,
+                             "Company Name" : company_name,
+                             "Location" : location,
+                             "Time of Scrapt": now})
+
+            if num_jobs < len(jobs):
+                try:
+                    print("Trying to clicke on 'next page'")
+                    next_button = driver.find_element_by_css_selector("button[data-direction='next']")
+                    next_button.click()
+                    print("It worted!!")
+                except NoSuchElementException:
+                    print("! Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
+                    break
+            # else: print("Scraping terminated seccusfuly! Needed {}, got {} :) ".format(num_jobs, len(jobs)))
+
+
+
+
+
+    return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
+
+

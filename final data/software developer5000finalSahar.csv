@@ -1,0 +1,987 @@
+,Job Title,Annual Salary,Experience,Education,Position,Is Remote,Company Size Scale,Company Old,Revenue Scale,Rating,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance
+0,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+1,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+2,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+3,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+5,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+7,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+8,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+9,Python Developer,109275.0,2,BACHELOR,-1,1,3,-1,-1,-1,-1,-1,-1,-1,-1
+10,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,0,1,-1,2,4.0,3.4,3.1,2.4,3.1,3.4
+11,Software Developer,90000.0,3,BACHELOR,-1,1,3,38,6,4.4,4.4,3.7,4.3,4.0,4.0
+12,Web Developer - Contract,166400.0,4,BACHELOR,SENIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+13,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+14,"Software Developer, Frontend",120000.0,-1,BACHELOR,-1,1,3,8,-1,4.5,4.1,4.3,4.2,4.1,4.2
+15,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+16,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+17,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+18,Java Full Stack Developer 021,150800.0,5,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+19,Junior Software Developer,84897.0,5,BACHELOR,JUNIOR,0,4,34,7,2.8,3.2,2.8,2.9,2.6,2.7
+21,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+22,Software Developer,62400.0,1,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+23,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+24,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+25,Software Developer,145000.0,5,BACHELOR,SENIOR,1,2,12,-1,4.3,4.3,4.2,4.3,4.0,3.5
+26,Junior Software Developer,67500.0,2,BACHELOR,-1,0,2,30,3,3.7,3.5,3.4,3.8,3.6,3.7
+28,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+31,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+32,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+35,US Citizen: Full Stack Java Developer,150800.0,7,BACHELOR,-1,1,1,-1,-1,5.0,4.5,5.0,5.0,5.0,5.0
+36,Junior Software Developer,91500.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,3.9,3.9,3.9,3.4,3.4,3.9
+37,Backend Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+38,Senior Java Developer,130000.0,8,BACHELOR,SENIOR,0,3,17,-1,4.0,4.0,3.7,3.9,3.8,3.7
+39,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+40,"Jr. Software Developer (Java, Python)",88400.0,1,BACHELOR,JUNIOR,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+42,Software Developer,135200.0,3,MASTER,-1,0,2,-1,-1,4.3,3.9,4.0,4.4,4.3,4.1
+43,Java API Developer,124800.0,10,MASTER,-1,0,3,17,-1,4.0,4.0,3.7,3.9,3.8,3.7
+44,Java React Developer,130000.0,8,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+45,AWS Developer,90193.0,-1,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+46,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+48,Software Prototype Developer,124800.0,-1,BACHELOR,-1,0,2,5,3,4.6,4.4,4.5,4.5,4.4,4.3
+49,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+50,Python Developer,130000.0,8,MASTER,-1,0,3,20,4,4.3,3.9,3.7,4.2,4.2,4.0
+51,AWS with Java Developer,121264.0,10,DOCTOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+52,Jr. ReactJS/NodeJS Developer,68600.0,2,BACHELOR,JUNIOR,1,7,79,9,3.9,3.7,3.8,4.1,3.7,4.0
+53,Delphi developer,156000.0,-1,MASTER,JUNIOR,1,2,18,-1,3.7,3.6,3.9,3.5,3.5,3.6
+54,Software Developer,82500.0,3,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+56,Full Stack Developer,84645.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+57,Jr. Software Developer,54080.0,1,BACHELOR,SENIOR,0,1,-1,-1,4.3,4.0,3.5,4.5,3.5,4.0
+59,AWS Developer,124800.0,8,MASTER,-1,0,1,-1,-1,4.2,3.9,3.7,4.0,4.0,4.2
+60,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+61,Jr Frontend Developer,70000.0,10,BACHELOR,SENIOR,0,2,18,-1,4.1,4.1,4.0,4.3,4.1,4.2
+62,"Software Developer, Junior",75950.0,-1,BACHELOR,JUNIOR,0,7,109,8,4.2,4.1,3.9,4.3,4.0,4.3
+63,"Jr. Software Developer (Java, Python)",88400.0,1,BACHELOR,JUNIOR,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+65,AWS Developer,90193.0,-1,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+67,Jr. ReactJS/NodeJS Developer,68600.0,2,BACHELOR,JUNIOR,1,7,79,9,3.9,3.7,3.8,4.1,3.7,4.0
+68,Junior Level Cloud Engineer,88400.0,1,MASTER,-1,1,2,23,-1,3.9,3.5,3.4,3.6,3.7,3.5
+69,Junior Developer,110000.0,3,BACHELOR,SENIOR,0,5,56,7,3.7,3.5,3.3,3.7,3.4,3.6
+70,Full Stack Software Developer,27040.0,5,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+72,Jr Frontend Developer,70000.0,12,BACHELOR,-1,0,4,24,7,4.1,4.0,3.8,4.0,3.7,4.1
+74,Junior Web Developer,70238.0,1,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+75,Web Developer,145600.0,3,BACHELOR,-1,0,7,36,7,3.8,3.5,3.3,3.7,3.5,3.7
+76,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+77,Junior Developer,84240.0,-1,BACHELOR,-1,0,1,-1,1,2.1,1.7,2.0,1.7,1.7,1.7
+78,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+79,Java Developer,101691.2,4,MASTER,-1,0,1,-1,-1,4.1,4.1,4.0,4.0,4.0,4.1
+80,Software Developer,82399.0,2,BACHELOR,SENIOR,0,5,39,6,4.3,4.4,4.1,4.2,4.2,4.1
+81,Software Developer,98800.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+82,Junior Level Full Stack Developer,72500.0,1,BACHELOR,JUNIOR,0,1,6,-1,4.2,4.2,3.6,4.1,4.1,4.0
+83,Junior Software Developer,85253.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+84,Software Developer,82500.0,3,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+85,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+87,Software Developer (Remote),55736.0,5,BACHELOR,SENIOR,0,4,34,-1,4.3,3.9,4.1,4.3,4.2,3.9
+89,Trainee - Software Developer,90411.0,1,BACHELOR,JUNIOR,0,2,-1,-1,3.7,3.8,3.5,3.6,3.6,3.6
+90,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+91,AWS with Java Developer,121264.0,10,DOCTOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+92,Junior Level Cloud Engineer,88400.0,1,MASTER,-1,1,2,23,-1,3.9,3.5,3.4,3.6,3.7,3.5
+93,Junior Level Full Stack Developer,72500.0,1,BACHELOR,JUNIOR,0,1,6,-1,4.2,4.2,3.6,4.1,4.1,4.0
+94,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+95,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+96,Java/J2EE Developer,117520.0,-1,BACHELOR,-1,0,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+97,"Jr. Software Developer (Java, Python)",88400.0,1,BACHELOR,JUNIOR,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+98,Software Developer (Remote),55736.0,5,BACHELOR,SENIOR,0,4,34,-1,4.3,3.9,4.1,4.3,4.2,3.9
+99,Python Developer,114400.0,5,BACHELOR,SENIOR,0,5,-1,-1,4.5,4.4,4.2,4.2,3.9,4.1
+100,Junior Web Developer,70238.0,1,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+102,Software Developer,99364.0,-1,MASTER,-1,0,1,41,3,3.1,2.6,2.7,2.7,2.7,2.6
+103,Software Developer,88548.0,2,BACHELOR,-1,0,7,172,7,4.2,3.8,3.6,4.0,3.7,4.1
+104,Java AWS Developer,124800.0,10,MASTER,-1,0,2,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+105,Software Prototype Developer,124800.0,-1,BACHELOR,-1,0,2,5,3,4.6,4.4,4.5,4.5,4.4,4.3
+107,Software Developer,66788.8,-1,MASTER,-1,0,-1,-1,-1,4.8,4.7,4.5,4.5,4.5,4.7
+108,Software Engineer,112950.0,12,BACHELOR,JUNIOR,0,7,56,9,4.1,4.1,4.2,4.0,3.5,3.6
+109,AWS Java Developer,124800.0,6,MASTER,-1,0,1,-1,-1,4.2,3.9,3.7,4.0,4.0,4.2
+110,DevOps Engineer,109200.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+111,"Software Developer, Junior",75950.0,-1,BACHELOR,JUNIOR,0,7,109,8,4.2,4.1,3.9,4.3,4.0,4.3
+112,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+113,Java Full Stack Developer,122500.0,7,MASTER,-1,0,7,325,7,3.9,3.7,3.6,3.9,3.5,3.9
+114,Software Engineer (Neo4J/Binqa),145600.0,5,MASTER,-1,1,4,-1,6,4.2,3.9,3.9,4.1,3.9,4.3
+115,Junior Full Stack Developer,55120.0,1,MASTER,JUNIOR,1,3,26,-1,4.0,4.0,3.9,4.0,3.8,4.0
+116,Database Developer(SQL),169520.0,-1,BACHELOR,-1,0,2,24,4,3.6,3.6,3.4,3.5,3.6,3.5
+118,Software Developer 1,103258.0,-1,MASTER,-1,0,7,46,9,3.9,3.7,3.5,3.8,3.6,4.0
+119,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+120,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+121,Jr. Software Developer,113270.0,-1,MASTER,SENIOR,0,1,14,3,5.0,5.0,5.0,5.0,4.5,5.0
+122,Software Developer,99364.0,-1,MASTER,-1,0,1,41,3,3.1,2.6,2.7,2.7,2.7,2.6
+123,Software Developer 1,103258.0,-1,MASTER,-1,0,7,46,9,3.9,3.7,3.5,3.8,3.6,4.0
+124,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+125,Software Developer,88548.0,2,BACHELOR,-1,0,7,172,7,4.2,3.8,3.6,4.0,3.7,4.1
+126,Full Stack Developer,124800.0,1,MASTER,SENIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+127,Junior Level Cloud Engineer,88400.0,1,MASTER,-1,1,2,23,-1,3.9,3.5,3.4,3.6,3.7,3.5
+128,Full Stack Java Trainee,62400.0,-1,BACHELOR,SENIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+129,Software Engineer,112950.0,12,BACHELOR,JUNIOR,0,7,56,9,4.1,4.1,4.2,4.0,3.5,3.6
+130,Trainee - Software Developer,90411.0,1,BACHELOR,JUNIOR,0,2,-1,-1,3.7,3.8,3.5,3.6,3.6,3.6
+131,Developer,90000.0,-1,MASTER,-1,1,4,52,6,3.4,3.4,3.3,3.6,3.0,3.8
+132,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+133,Software Developer,150000.0,5,BACHELOR,JUNIOR,0,1,3,-1,5.0,5.0,5.0,5.0,5.0,5.0
+134,Software Developer,82399.0,2,BACHELOR,SENIOR,0,5,39,6,4.3,4.4,4.1,4.2,4.2,4.1
+135,Junior Software Developer (Core),78372.0,1,BACHELOR,JUNIOR,0,-1,-1,-1,3.6,3.4,3.4,3.9,3.6,3.4
+138,Junior Developer,84183.0,3,BACHELOR,JUNIOR,0,2,4,-1,4.8,4.5,4.2,5.0,4.8,4.7
+139,Software Engineer - CommerceTools,94099.2,1,MASTER,SENIOR,1,7,43,7,3.6,3.4,3.0,3.5,3.1,3.5
+140,Software Prototype Developer,124800.0,-1,BACHELOR,-1,0,2,5,3,4.6,4.4,4.5,4.5,4.4,4.3
+141,Web Developer,145600.0,3,BACHELOR,-1,0,7,36,7,3.8,3.5,3.3,3.7,3.5,3.7
+142,Software Developer I,64400.0,1,BACHELOR,SENIOR,0,5,-1,6,4.2,3.7,3.5,4.1,3.8,3.9
+143,Junior Java Software Developer,75000.0,2,BACHELOR,JUNIOR,0,2,-1,-1,2.2,3.2,2.8,2.2,2.7,3.2
+144,Junior Full Stack Developer,55120.0,1,MASTER,JUNIOR,1,3,26,-1,4.0,4.0,3.9,4.0,3.8,4.0
+145,Python Developer,114400.0,5,BACHELOR,SENIOR,0,5,-1,-1,4.5,4.4,4.2,4.2,3.9,4.1
+146,Java/J2EE Developer,117520.0,-1,BACHELOR,-1,0,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+147,Junior Software Developer,68584.0,-1,MASTER,JUNIOR,0,1,14,3,2.8,2.9,3.3,3.0,2.8,2.7
+149,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+150,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+151,Jr. Software Developer,113270.0,-1,MASTER,SENIOR,0,1,14,3,5.0,5.0,5.0,5.0,4.5,5.0
+152,Software Developer,99364.0,-1,MASTER,-1,0,1,41,3,3.1,2.6,2.7,2.7,2.7,2.6
+153,Software Developer 1,103258.0,-1,MASTER,-1,0,7,46,9,3.9,3.7,3.5,3.8,3.6,4.0
+154,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+155,Full Stack Java Trainee,62400.0,-1,BACHELOR,SENIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+156,Software Engineer,112950.0,12,BACHELOR,JUNIOR,0,7,56,9,4.1,4.1,4.2,4.0,3.5,3.6
+157,Developer,90000.0,-1,MASTER,-1,1,4,52,6,3.4,3.4,3.3,3.6,3.0,3.8
+158,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+159,Software Developer,150000.0,5,BACHELOR,JUNIOR,0,1,3,-1,5.0,5.0,5.0,5.0,5.0,5.0
+160,Software Developer,82399.0,2,BACHELOR,SENIOR,0,5,39,6,4.3,4.4,4.1,4.2,4.2,4.1
+161,Junior Software Developer (Core),78372.0,1,BACHELOR,JUNIOR,0,-1,-1,-1,3.6,3.4,3.4,3.9,3.6,3.4
+162,Software Developer,66788.8,-1,MASTER,-1,0,-1,-1,-1,4.8,4.7,4.5,4.5,4.5,4.7
+164,Junior Developer,84183.0,3,BACHELOR,JUNIOR,0,2,4,-1,4.8,4.5,4.2,5.0,4.8,4.7
+165,Software Engineer - CommerceTools,94099.2,1,MASTER,SENIOR,1,7,43,7,3.6,3.4,3.0,3.5,3.1,3.5
+166,Software Prototype Developer,124800.0,-1,BACHELOR,-1,0,2,5,3,4.6,4.4,4.5,4.5,4.4,4.3
+167,Web Developer,145600.0,3,BACHELOR,-1,0,7,36,7,3.8,3.5,3.3,3.7,3.5,3.7
+168,Junior Java Software Developer,75000.0,2,BACHELOR,JUNIOR,0,2,-1,-1,2.2,3.2,2.8,2.2,2.7,3.2
+169,Python Developer,114400.0,5,BACHELOR,SENIOR,0,5,-1,-1,4.5,4.4,4.2,4.2,3.9,4.1
+170,Junior Software Developer,68584.0,-1,MASTER,JUNIOR,0,1,14,3,2.8,2.9,3.3,3.0,2.8,2.7
+172,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+174,AWS with Java Developer,121264.0,10,DOCTOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+177,Software Developer,67278.0,1,BACHELOR,SENIOR,0,-1,-1,-1,3.6,3.1,2.8,3.8,3.1,3.7
+178,Software Developer,82674.0,12,BACHELOR,-1,0,3,31,4,3.5,3.3,2.9,3.7,3.3,3.4
+179,SOFTWARE DEVELOPER,92856.0,-1,BACHELOR,-1,0,-1,-1,-1,2.3,2.2,1.9,2.0,1.5,2.0
+180,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+181,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+182,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+183,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+184,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+186,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,0,1,-1,2,4.0,3.4,3.1,2.4,3.1,3.4
+187,Junior Software Developer,91500.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,3.9,3.9,3.9,3.4,3.4,3.9
+188,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+190,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+191,Jr Frontend Developer,70000.0,10,BACHELOR,SENIOR,0,2,18,-1,4.1,4.1,4.0,4.3,4.1,4.2
+192,AWS Developer,90193.0,-1,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+193,Python Developer,109275.0,2,BACHELOR,-1,1,3,-1,-1,-1,-1,-1,-1,-1,-1
+194,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+195,Software Developer,90000.0,3,BACHELOR,-1,1,3,38,6,4.4,4.4,3.7,4.3,4.0,4.0
+196,Junior Software Developer,84897.0,5,BACHELOR,JUNIOR,0,4,34,7,2.8,3.2,2.8,2.9,2.6,2.7
+198,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+199,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+200,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+202,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+203,Junior Level Software Developer,70000.0,1,BACHELOR,JUNIOR,0,1,6,-1,4.2,4.2,3.6,4.1,4.1,4.0
+204,Jr. ReactJS/NodeJS Developer,68600.0,2,BACHELOR,JUNIOR,1,7,79,9,3.9,3.7,3.8,4.1,3.7,4.0
+206,Jr Frontend Developer,70000.0,12,BACHELOR,-1,0,4,24,7,4.1,4.0,3.8,4.0,3.7,4.1
+207,Software Developer,102500.0,-1,MASTER,SENIOR,1,-1,-1,-1,3.6,5.0,5.0,5.0,5.0,4.0
+209,Jr. Web Developer,45760.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+210,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+211,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+212,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+213,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+214,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+216,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,0,1,-1,2,4.0,3.4,3.1,2.4,3.1,3.4
+217,Junior Software Developer,91500.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,3.9,3.9,3.9,3.4,3.4,3.9
+220,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+222,AWS Developer,90193.0,-1,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+223,Python Developer,109275.0,2,BACHELOR,-1,1,3,-1,-1,-1,-1,-1,-1,-1,-1
+224,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+225,Software Developer,90000.0,3,BACHELOR,-1,1,3,38,6,4.4,4.4,3.7,4.3,4.0,4.0
+226,Junior Software Developer,84897.0,5,BACHELOR,JUNIOR,0,4,34,7,2.8,3.2,2.8,2.9,2.6,2.7
+227,"Software Developer, Frontend",120000.0,-1,BACHELOR,-1,1,3,8,-1,4.5,4.1,4.3,4.2,4.1,4.2
+228,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+229,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+230,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+232,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+233,Junior Level Software Developer,70000.0,1,BACHELOR,JUNIOR,0,1,6,-1,4.2,4.2,3.6,4.1,4.1,4.0
+234,Jr. ReactJS/NodeJS Developer,68600.0,2,BACHELOR,JUNIOR,1,7,79,9,3.9,3.7,3.8,4.1,3.7,4.0
+236,Jr Frontend Developer,70000.0,12,BACHELOR,-1,0,4,24,7,4.1,4.0,3.8,4.0,3.7,4.1
+237,Software Developer,102500.0,-1,MASTER,SENIOR,1,-1,-1,-1,3.6,5.0,5.0,5.0,5.0,4.0
+239,Jr. Web Developer,45760.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+240,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+241,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+242,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+243,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+244,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+245,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+246,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+247,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+248,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+249,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+250,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+251,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,0,1,-1,2,4.0,3.4,3.1,2.4,3.1,3.4
+252,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+254,AWS Developer,90193.0,-1,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+255,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+256,IT Software Developer,142480.0,2,BACHELOR,-1,0,-1,-1,-1,4.0,4.1,3.9,4.1,4.2,3.9
+257,Junior Developer,84240.0,-1,BACHELOR,-1,0,1,-1,1,2.1,1.7,2.0,1.7,1.7,1.7
+260,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+261,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+262,Java Full Stack Developer 021,150800.0,5,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+263,Jr. Software Developer,101668.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+264,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+265,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+266,Java AWS Developer,124800.0,10,MASTER,-1,0,2,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+267,Jr Frontend Developer,70000.0,10,BACHELOR,SENIOR,0,2,18,-1,4.1,4.1,4.0,4.3,4.1,4.2
+268,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+269,Automation Testing Software Developer,114400.0,-1,BACHELOR,-1,0,2,-1,3,3.7,2.3,2.8,3.0,2.6,3.2
+270,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+271,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+272,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+273,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+275,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+277,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+278,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+279,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+280,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+281,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+283,Junior Software Developer,91500.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,3.9,3.9,3.9,3.4,3.4,3.9
+284,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,0,1,-1,2,4.0,3.4,3.1,2.4,3.1,3.4
+285,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+286,AWS Developer,90193.0,-1,MASTER,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+287,Software Developer,90000.0,3,BACHELOR,-1,1,3,38,6,4.4,4.4,3.7,4.3,4.0,4.0
+288,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+289,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+290,Jr Frontend Developer,70000.0,10,BACHELOR,SENIOR,0,2,18,-1,4.1,4.1,4.0,4.3,4.1,4.2
+291,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+292,Python Developer,109275.0,2,BACHELOR,-1,1,3,-1,-1,-1,-1,-1,-1,-1,-1
+293,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+294,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+295,Jr. Software Developer,101668.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+298,AWS with Java Developer,121264.0,10,DOCTOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+299,Automation Testing Software Developer,114400.0,-1,BACHELOR,-1,0,2,-1,3,3.7,2.3,2.8,3.0,2.6,3.2
+300,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+301,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+302,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+304,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+305,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+306,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+307,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+309,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+310,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+311,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+312,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+313,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+314,IT Software Developer,142480.0,2,BACHELOR,-1,0,-1,-1,-1,4.0,4.1,3.9,4.1,4.2,3.9
+315,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+316,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+317,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+318,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+319,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+320,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+321,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+322,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+323,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+324,Senior Java/J2EE Developer,111280.0,12,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+325,Python Developer,145600.0,3,MASTER,SENIOR,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+326,Java React Developer,130000.0,8,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+327,Java Full Stack Developer 021,150800.0,5,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+328,AngularJS Developer,111905.0,10,BACHELOR,SENIOR,0,1,1,-1,-1,-1,-1,-1,-1,-1
+329,AWS with Java Developer,121264.0,10,DOCTOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+330,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+331,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+332,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+333,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+334,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+336,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+337,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+338,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+339,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+340,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+341,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+342,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+343,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+344,IT Software Developer,142480.0,2,BACHELOR,-1,0,-1,-1,-1,4.0,4.1,3.9,4.1,4.2,3.9
+345,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+346,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+347,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+348,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+349,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+350,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+351,Senior Java/J2EE Developer,111280.0,12,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+352,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+353,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+354,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+355,Junior Software Developer,69420.0,2,BACHELOR,JUNIOR,0,1,-1,2,4.0,3.4,3.1,2.4,3.1,3.4
+356,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+357,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+358,Java Full Stack Developer 021,150800.0,5,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+359,Junior Java Developer,69680.0,1,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+360,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+361,Python Developer With AWS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+362,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+363,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+364,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+365,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+366,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+367,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+369,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+370,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+371,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+372,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+373,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+375,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+376,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+377,Java Full Stack Developer 021,150800.0,5,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+378,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+379,Junior Java Developer,69680.0,1,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+380,AWS FULL STACK DEVELOPER,187200.0,9,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+381,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+382,IT Software Developer,142480.0,2,BACHELOR,-1,0,-1,-1,-1,4.0,4.1,3.9,4.1,4.2,3.9
+383,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+384,Junior Software Developer,90000.0,-1,BACHELOR,JUNIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+386,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+387,Java React Developer,130000.0,8,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+388,Java API developer,109200.0,5,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+389,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+390,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+392,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+393,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+394,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+395,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+396,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+401,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+402,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+403,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+404,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+405,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+406,Software Engineer (Remote),122500.0,1,BACHELOR,-1,0,1,9,-1,3.5,3.5,3.1,4.0,3.4,4.3
+408,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+409,Junior Java Developer,69680.0,1,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+410,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+411,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+412,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+413,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+414,Java React Developer,130000.0,8,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+415,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+416,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+418,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+419,Junior Software Developer,91500.0,-1,BACHELOR,JUNIOR,0,-1,-1,-1,3.9,3.9,3.9,3.4,3.4,3.9
+420,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+422,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+423,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+424,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+426,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+427,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+429,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+430,"Full Stack Java Developer (AWS, 10+ Years)",156000.0,10,BACHELOR,SENIOR,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+431,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+432,Java Developer (backend)(Only for US and GC candidate),83200.0,6,MASTER,-1,0,1,-1,-1,5.0,4.0,4.0,4.0,4.0,4.0
+433,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+434,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+435,Junior Java Developer,69680.0,1,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+436,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+438,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+439,Software Engineer (Remote),122500.0,1,BACHELOR,-1,0,1,9,-1,3.5,3.5,3.1,4.0,3.4,4.3
+440,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+441,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+442,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+443,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+444,Java Developer,101691.2,4,MASTER,-1,0,1,-1,-1,4.1,4.1,4.0,4.0,4.0,4.1
+445,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+446,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+447,Software Developer,114400.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+448,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+449,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+451,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+452,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+453,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+454,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+455,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+456,Java Developer,91977.0,6,MASTER,-1,0,2,13,2,3.3,3.0,3.4,3.1,3.0,3.3
+457,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+458,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+459,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+460,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+461,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+462,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+463,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+464,Java Developer Mid,94449.0,4,BACHELOR,-1,0,1,-1,1,3.6,3.4,3.2,3.4,3.4,3.2
+465,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+466,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+467,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+468,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+469,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+470,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+472,Java Developer,101691.2,4,MASTER,-1,0,1,-1,-1,4.1,4.1,4.0,4.0,4.0,4.1
+473,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+474,Java Developer,107500.0,9,MASTER,-1,0,-1,17,-1,4.0,3.7,3.8,3.9,3.5,3.8
+475,java microservices developer,144248.0,9,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+476,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+478,Java Developer,147500.0,-1,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+479,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+480,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+481,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+482,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+483,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+484,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+485,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+486,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+487,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+488,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+489,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+491,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+492,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+494,Java Backend Developer,114400.0,10,BACHELOR,SENIOR,0,1,-1,-1,4.6,4.6,4.2,4.4,4.3,4.6
+495,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+496,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+497,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+498,Senior Contract Java Developer,130000.0,8,BACHELOR,SENIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+499,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+500,Java Developer,91977.0,6,MASTER,-1,0,2,13,2,3.3,3.0,3.4,3.1,3.0,3.3
+502,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+503,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+504,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+505,Java Developer,107500.0,9,MASTER,-1,0,-1,17,-1,4.0,3.7,3.8,3.9,3.5,3.8
+506,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+508,Java AWS Developer with Terrafrom,135200.0,1,MASTER,-1,0,1,-1,-1,4.2,3.9,3.7,4.0,4.0,4.2
+509,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+510,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+511,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+512,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+513,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+515,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+516,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+517,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+519,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+520,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+521,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+522,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+523,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+524,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+525,Java Full Stack Developer,130000.0,4,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+527,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+528,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+529,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+530,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+531,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+532,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+533,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+535,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+536,Java Backend Developer,114400.0,10,BACHELOR,SENIOR,0,1,-1,-1,4.6,4.6,4.2,4.4,4.3,4.6
+537,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+538,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+539,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+540,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+541,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+542,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+545,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+546,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+547,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+548,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+549,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+550,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+551,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+552,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+553,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+554,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+555,Java Full Stack Developer,130000.0,4,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+557,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+558,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+559,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+560,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+561,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+562,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+563,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+564,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+565,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+566,Java Backend Developer,114400.0,10,BACHELOR,SENIOR,0,1,-1,-1,4.6,4.6,4.2,4.4,4.3,4.6
+567,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+568,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+569,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+570,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+571,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+572,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+573,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+575,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+576,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+577,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+578,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+579,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+580,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+581,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+582,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+583,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+584,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+585,Java Full Stack Developer,130000.0,4,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+587,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+588,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+589,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+590,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+591,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+592,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+593,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+594,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+595,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+596,Java Backend Developer,114400.0,10,BACHELOR,SENIOR,0,1,-1,-1,4.6,4.6,4.2,4.4,4.3,4.6
+597,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+598,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+599,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+600,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+601,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+602,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+603,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+604,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+605,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+606,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+608,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+610,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+611,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+612,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+613,Python Developer,145600.0,3,MASTER,SENIOR,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+614,Java Developer,135200.0,6,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+615,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+616,Java Developer,104166.4,6,BACHELOR,SENIOR,0,2,10,2,4.6,4.4,4.2,4.7,4.4,4.4
+618,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+619,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+620,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+621,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+623,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+624,Java Developer,101691.2,4,MASTER,-1,0,1,-1,-1,4.1,4.1,4.0,4.0,4.0,4.1
+625,Senior Backend Engineer,153861.0,8,MASTER,SENIOR,1,1,12,-1,4.0,4.0,4.1,4.0,4.0,4.3
+626,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+627,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+628,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+629,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+630,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+631,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+632,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+633,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+634,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+635,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+636,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+637,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+638,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+639,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+640,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+642,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+643,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+644,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+645,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+646,Senior Contract Java Developer,130000.0,8,BACHELOR,SENIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+647,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+648,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+649,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+650,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+651,Frontend Software Developer (React/React Native),120000.0,5,MASTER,-1,0,1,11,-1,3.5,3.6,3.4,3.5,3.0,3.6
+656,Java Developer Mid,94449.0,4,BACHELOR,-1,0,1,-1,1,3.6,3.4,3.2,3.4,3.4,3.2
+657,Java Developer,91977.0,6,MASTER,-1,0,2,13,2,3.3,3.0,3.4,3.1,3.0,3.3
+659,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+661,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+662,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+663,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+664,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+665,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+666,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+667,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+668,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+669,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+670,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+672,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+673,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+674,Frontend Software Developer (React/React Native),120000.0,5,MASTER,-1,0,1,11,-1,3.5,3.6,3.4,3.5,3.0,3.6
+675,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+676,Senior Contract Java Developer,130000.0,8,BACHELOR,SENIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+677,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+678,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+679,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+680,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+681,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+682,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+683,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+684,Senior Backend Engineer,153861.0,8,MASTER,SENIOR,1,1,12,-1,4.0,4.0,4.1,4.0,4.0,4.3
+685,Java Backend Developer,114400.0,10,BACHELOR,SENIOR,0,1,-1,-1,4.6,4.6,4.2,4.4,4.3,4.6
+687,Java Developer Mid,94449.0,4,BACHELOR,-1,0,1,-1,1,3.6,3.4,3.2,3.4,3.4,3.2
+688,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+690,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+691,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+695,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+696,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+697,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+698,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+699,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+700,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+702,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+703,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+704,Frontend Software Developer (React/React Native),120000.0,5,MASTER,-1,0,1,11,-1,3.5,3.6,3.4,3.5,3.0,3.6
+705,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+706,Senior Contract Java Developer,130000.0,8,BACHELOR,SENIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+707,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+708,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+709,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+710,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+711,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+712,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+713,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+714,Senior Backend Engineer,153861.0,8,MASTER,SENIOR,1,1,12,-1,4.0,4.0,4.1,4.0,4.0,4.3
+715,Java Backend Developer,114400.0,10,BACHELOR,SENIOR,0,1,-1,-1,4.6,4.6,4.2,4.4,4.3,4.6
+718,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+720,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+721,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+723,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+725,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+726,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+727,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+728,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+729,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+730,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+731,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+732,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+733,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+734,Frontend Software Developer (React/React Native),120000.0,5,MASTER,-1,0,1,11,-1,3.5,3.6,3.4,3.5,3.0,3.6
+735,Senior Contract Java Developer,130000.0,8,BACHELOR,SENIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+736,Java Developer,91977.0,6,MASTER,-1,0,2,13,2,3.3,3.0,3.4,3.1,3.0,3.3
+737,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+738,Java Full Stack Developer,138320.0,4,MASTER,SENIOR,0,3,-1,-1,-1,-1,-1,-1,-1,-1
+739,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+740,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+741,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+742,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+743,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+744,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+746,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+747,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+748,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+749,"Full Stack Java Developer (AWS, 10+ Years)",156000.0,10,BACHELOR,SENIOR,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+750,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+751,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+752,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+754,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+755,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+756,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+757,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+758,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+759,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+760,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+761,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+762,Java Developer,91977.0,6,MASTER,-1,0,2,13,2,3.3,3.0,3.4,3.1,3.0,3.3
+763,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+764,AngularJS Developer,111905.0,10,BACHELOR,SENIOR,0,1,1,-1,-1,-1,-1,-1,-1,-1
+765,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+766,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+767,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+768,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+769,Java Full Stack Developer,138320.0,4,MASTER,SENIOR,0,3,-1,-1,-1,-1,-1,-1,-1,-1
+770,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+771,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+772,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+773,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+774,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+775,Java Developer Mid,94449.0,4,BACHELOR,-1,0,1,-1,1,3.6,3.4,3.2,3.4,3.4,3.2
+776,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+777,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+778,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+779,Junior Software Developer (Remote),68078.0,1,BACHELOR,JUNIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+780,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+781,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+782,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+783,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+785,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+786,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+787,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+788,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+789,Java Developer,91977.0,6,MASTER,-1,0,2,13,2,3.3,3.0,3.4,3.1,3.0,3.3
+790,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+791,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+792,AngularJS Developer,111905.0,10,BACHELOR,SENIOR,0,1,1,-1,-1,-1,-1,-1,-1,-1
+793,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+794,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+795,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+796,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+798,Java Full Stack Developer,138320.0,4,MASTER,SENIOR,0,3,-1,-1,-1,-1,-1,-1,-1,-1
+799,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+800,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+801,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+802,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+803,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+805,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+806,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+807,Java Developer Mid,94449.0,4,BACHELOR,-1,0,1,-1,1,3.6,3.4,3.2,3.4,3.4,3.2
+808,Java Developer,124800.0,-1,BACHELOR,-1,0,7,96,7,3.3,3.1,3.0,3.1,3.0,2.9
+809,Software Developer,86285.0,-1,MASTER,-1,0,3,24,4,4.7,4.4,4.3,4.8,4.6,4.6
+810,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+811,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+812,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+813,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+814,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+815,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+816,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+817,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+818,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+821,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+822,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+823,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+824,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+825,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+826,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+827,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+828,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+829,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+830,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+831,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+832,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+833,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+834,React JS Developer,109200.0,9,MASTER,-1,0,2,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+835,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+836,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+837,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+838,Java Full Stack Developer,138320.0,4,MASTER,SENIOR,0,3,-1,-1,-1,-1,-1,-1,-1,-1
+839,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+840,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+841,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+842,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+843,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+844,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+845,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+847,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+848,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+849,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+850,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+851,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+852,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+853,Java Full Stack Developer,129001.6,-1,BACHELOR,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+854,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+855,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+856,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+857,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+858,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+859,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+860,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+861,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+862,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+863,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+864,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+865,Java Full Stack Developer,138320.0,4,MASTER,SENIOR,0,3,-1,-1,-1,-1,-1,-1,-1,-1
+866,Sr. Full Stack Java Angular Developer (BHJOB22048_741),77114.0,5,BACHELOR,SENIOR,0,1,13,2,4.5,4.0,4.2,4.3,4.3,4.3
+867,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+868,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+869,Java Developer,101691.2,4,MASTER,-1,0,1,-1,-1,4.1,4.1,4.0,4.0,4.0,4.1
+870,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+871,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+872,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+873,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+874,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+875,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+877,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+878,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+879,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+880,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+881,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+882,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+883,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+884,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+885,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+886,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+887,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+888,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+889,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+890,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+891,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+892,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+893,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+894,Java Full Stack Developer,138320.0,4,MASTER,SENIOR,0,3,-1,-1,-1,-1,-1,-1,-1,-1
+895,Sr. Full Stack Java Angular Developer (BHJOB22048_741),77114.0,5,BACHELOR,SENIOR,0,1,13,2,4.5,4.0,4.2,4.3,4.3,4.3
+896,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+897,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+898,Java Developer,101691.2,4,MASTER,-1,0,1,-1,-1,4.1,4.1,4.0,4.0,4.0,4.1
+899,React JS Developer,109200.0,9,MASTER,-1,0,2,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+900,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+901,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+902,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+903,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+904,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+905,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+906,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+908,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+909,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+910,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+911,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+912,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+913,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+914,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+915,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+916,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+918,Senior Contract Java Developer,130000.0,8,BACHELOR,SENIOR,0,1,-1,-1,-1,-1,-1,-1,-1,-1
+919,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+920,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+921,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+922,Java Developer Mid,94449.0,4,BACHELOR,-1,0,1,-1,1,3.6,3.4,3.2,3.4,3.4,3.2
+924,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+925,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+926,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+927,Sr. Backend Java Developer,140400.0,10,MASTER,-1,0,5,16,7,3.6,3.6,3.8,3.8,3.2,3.9
+928,AWS with Java Developer,121264.0,10,DOCTOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+929,Full Stack Java Trainee,62400.0,-1,BACHELOR,SENIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+930,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+931,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+932,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+933,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+934,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+935,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+937,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+938,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+939,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+940,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+941,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+942,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+943,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+944,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+945,React JS Developer,109200.0,9,MASTER,-1,0,2,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+946,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+947,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+948,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+949,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+950,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+952,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+953,Senior Software Developer,135900.0,4,BACHELOR,SENIOR,0,7,12,8,3.7,3.6,3.5,3.6,3.3,3.6
+954,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+956,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+957,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+959,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+960,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+961,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+962,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+964,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+965,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+967,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+968,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+969,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+970,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+971,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+972,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+973,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+974,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+975,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+976,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+977,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+978,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+979,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+980,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+981,React JS Developer,109200.0,9,MASTER,-1,0,2,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+982,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+983,Software Developer,135200.0,3,MASTER,-1,0,2,-1,-1,4.3,3.9,4.0,4.4,4.3,4.1
+984,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+985,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+986,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+987,Full Stack Java Trainee,62400.0,-1,BACHELOR,SENIOR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+990,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+991,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+992,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+993,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+994,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+996,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+997,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+998,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+999,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1002,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+1003,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+1004,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+1005,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+1006,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+1007,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+1008,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1009,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+1010,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+1011,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1012,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1013,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+1014,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1015,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+1016,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+1017,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+1019,Java Developer,130000.0,1,BACHELOR,-1,0,5,-1,-1,4.5,4.5,4.2,4.5,4.3,4.3
+1020,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+1021,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+1022,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+1023,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1024,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+1025,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1026,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+1027,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1028,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1029,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1031,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+1032,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+1033,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+1034,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+1035,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+1037,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+1038,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+1039,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+1040,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+1041,Full Stack Java,119600.0,1,DOCTOR,-1,1,1,-1,-1,4.7,4.7,4.5,4.7,4.3,4.5
+1042,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1043,Sr. Java Developer,140400.0,-1,DOCTOR,-1,0,2,-1,-1,5.0,5.0,4.6,4.8,4.8,4.8
+1044,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1045,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1046,Java Developer (AWS),140400.0,5,BACHELOR,-1,0,1,-1,2,5.0,-1,-1,-1,-1,-1
+1047,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1048,Java Developer (Backend),130000.0,7,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1049,Java Developer,135200.0,10,BACHELOR,SENIOR,0,2,11,-1,4.5,4.4,3.7,4.0,4.5,3.8
+1050,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+1051,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+1052,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+1053,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1054,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1055,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+1056,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+1057,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1059,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+1060,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1061,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1062,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1063,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+1064,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+1066,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+1067,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+1068,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+1069,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+1070,Sr. Java Developer,140400.0,12,BACHELOR,-1,0,1,13,3,3.9,3.7,3.8,3.5,3.5,3.4
+1071,Software Developer I,76301.0,-1,BACHELOR,-1,0,3,46,-1,3.3,3.1,3.8,3.0,3.1,3.2
+1072,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1073,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+1074,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1075,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1076,Software Developer,135200.0,3,MASTER,-1,0,2,-1,-1,4.3,3.9,4.0,4.4,4.3,4.1
+1077,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+1078,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+1079,Software Developer,82500.0,4,BACHELOR,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1080,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+1081,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+1082,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+1083,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1084,AWS Developer,166400.0,5,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1085,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+1086,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+1089,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1090,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1091,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1093,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+1094,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+1096,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+1097,Senior Java/J2EE Developer,116480.0,12,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1098,Java Backend Developer,119600.0,7,BACHELOR,-1,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+1099,Back End Developer,140400.0,3,DOCTOR,-1,0,2,8,2,4.9,4.9,4.7,4.9,4.9,4.9
+1100,Core Java/J2EE developer,109200.0,10,MASTER,-1,0,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,5.0
+1102,Software Developer I,76301.0,-1,BACHELOR,-1,0,3,46,-1,3.3,3.1,3.8,3.0,3.1,3.2
+1103,Factory Java Developer,114400.0,8,BACHELOR,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1104,Full Stack Java Developer,83771.0,5,BACHELOR,SENIOR,0,3,23,-1,3.7,3.5,3.8,3.5,3.5,4.2
+1105,Sr. Java Developer,145600.0,2,MASTER,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1106,Java Microservices Developer,135200.0,10,BACHELOR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1107,Software Developer,135200.0,3,MASTER,-1,0,2,-1,-1,4.3,3.9,4.0,4.4,4.3,4.1
+1108,Java Developer,135200.0,6,BACHELOR,JUNIOR,0,1,-1,-1,5.0,4.5,4.5,5.0,5.0,5.0
+1109,Frontend UI Developer,105000.0,7,MASTER,-1,0,2,13,4,4.0,3.7,3.8,3.7,3.5,3.9
+1110,Software Developer,124800.0,2,BACHELOR,-1,1,2,-1,4,3.8,3.3,2.6,3.1,3.3,3.8
+1111,Java Developer with React,140400.0,9,BACHELOR,-1,1,2,6,-1,4.3,4.0,4.0,4.3,3.9,4.1
+1112,Software Developer - JAVA (#0000101540),142480.0,5,BACHELOR,JUNIOR,0,5,24,6,3.5,3.5,3.2,3.4,3.2,3.5
+1113,Terraform developer,156000.0,5,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1115,Sr. Java Developer(Onsite),148720.0,8,BACHELOR,SENIOR,0,2,-1,-1,3.6,3.0,3.0,2.5,3.0,2.5
+1116,Java Backend Developer,114400.0,6,BACHELOR,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1117,Java Full Stack Developer,130000.0,7,BACHELOR,SENIOR,0,3,25,4,4.0,4.1,3.9,4.2,4.3,4.2
+1118,Python Developer With ReactJS,130000.0,10,MASTER,-1,0,3,14,3,4.7,4.4,4.3,4.6,4.4,4.5
+1119,Java Developer,124800.0,5,BACHELOR,JUNIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1120,SENIOR Java backend Developer,156000.0,10,MASTER,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+1122,Java Backend Engineer,104227.0,5,BACHELOR,SENIOR,0,2,19,4,4.3,4.2,4.3,4.7,4.7,4.5
+1123,Apigee API Software Developer,114400.0,-1,MASTER,SENIOR,1,2,-1,-1,5.0,5.0,4.7,4.9,4.7,5.0
+1125,Java Developer,130000.0,-1,MASTER,-1,0,4,17,-1,3.9,3.9,3.9,3.9,3.9,4.0
+1126,Software Developer,140400.0,1,BACHELOR,-1,0,1,-1,-1,4.1,4.1,4.1,4.1,4.1,4.1
+1127,Senior Java/J2EE Developer,116480.0,12,MASTER,SENIOR,0,-1,-1,-1,-1,-1,-1,-1,-1,-1

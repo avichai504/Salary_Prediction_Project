@@ -1,0 +1,18 @@
+s Fluency in node.js (specifically koa.js), vue.js Fluency in MongoDB (specifically MongoDB Atlas) Fluency in SQL (specifically Snowflake) Can-do problem-solving mentality regardless of programming challenges Full-Stack mentality across UI, server, database, and devops/deployment engineering Fluency/willingness to work with Docker, Kubernetes, Terraform Opinionated about “the best” stacks, but willing to work with stacks in place Able to own and drive feature work both independently and collaboratively Comfortable working in an agile delivery environment Nice to haves Experience with adjacent technologies (e.g. other full-stack techs) with willingness to learn a new stack Multi-lingual/polyglot engineers/personalities strongly preferred Key Responsibilities Deliver new features to production Support and improve tech stack, infrastructure, architecture Collaborate with distributed team in a best-practices delivery context Qualifications 3-5 years of hands-on relevant experience working in delivery teams
+Job Type: Contract
+Pay: $55.00 - $60.00 per hour
+Schedule:
+On call
+Experience:
+node.js (specifically koa.js), vue.js: 8 years (Preferred)
+Java,MongoDB,SQL,Full-Stack: 8 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:25.122752

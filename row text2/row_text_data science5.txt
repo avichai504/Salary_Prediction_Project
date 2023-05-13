@@ -1,0 +1,40 @@
+pulseData is changing the way healthcare data is utilized within major healthcare sectors. As a series A health-tech startup, we provide the insights necessary for medical staff to understand who has and is at risk of major chronic illnesses. We have rooted ourselves within the Kidney space, and have the capabilities of bringing our approach to many more patient populations given our capabilities.
+
+We are a fast growing series-A health-tech startup which means we are onboarding brilliant people and providing endless areas for our employees to grow their careers. We believe in trust and transparency, and enjoy a remote friendly working environment that promotes collaboration and diversity.
+The Role:
+In your role as a Data Science Associate, you will use machine learning to deliver insightful and actionable intelligence and predictive solutions to our team to improve Healthcare growth in our business. You will gain experience understanding healthcare and developing data driven solutions to improve care delivery, while working closely with other team members of our Data Science and engineering team to deliver value to our business partners. Aside from supporting our data science model creation and data teams, you'll also assist the product team with growth opportunities.
+
+Qualifications:
+Min 1 year of professional Data Science experience at a company.
+Strong communication skills.
+Cumulative GPA of 3.5 or higher.
+Bachelor Degree or higher
+Exposure to writing code (Python preferred, R and SQL okay), collaboration (Git), developing models (machine learning, boosting & bagging algorithms, &/or regression techniques), and performing predictive analytics testing and evaluation (match case analysis, ANOVA, confidence intervals, experimental design, A/B testing, etc.).
+A hunger to learn and work on challenging problems.
+Any prior experience working in a startup will be bonus points
+
+Benefits/Perks:
+A base between $80k to $110k plus bonus.
+Equity and Bonus Potential
+Unlimited Paid Time Off
+100% remote working environment - work from home!
+Top tier benefits including medical, dental, and vision insurance - 85% of which is covered by pulseData.
+$300 to use for upgrading your home office each year!
+Fun gym discounts, a 401k, and a new laptop + equipment.
+Company offsite adventures throughout the US each year.
+Tons of room for growth and the ability to learn new things.
+
+++ So much more!! Be sure to apply today if you're interested.
+$85,000 to $110,000 Salary
+Chronic Kidney Disease (CKD) is a substantially under-diagnosed condition that affects 37 million people in the US. Today, clinical and care management teams use our platform to identify the most at risk-individuals and proactively deliver care in advance of adverse events, delivering better clinical outcomes at a lower cost. Our clients are risk-bearing healthcare enterprises: ACOs, kidney clinics and nephrology practices, large health systems, managed care and health insurance companies. Together, we use data science to deliver more human care.
+
+pulseData is backed by some of the best investors in the industry, having raised $16.5M in our Series A led by Bain Capital and Two Bear Capital.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-11 12:21:30.143954

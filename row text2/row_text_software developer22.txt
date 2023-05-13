@@ -1,0 +1,28 @@
+Skillset(JD)
+Skillset - Nice to Have
+Java + AWS
+Java, Spring, Springboot, AWS, Terraform, Aurora PostgresSQL, Kafka, MSK, SQS, Distributed Systems. Hands-on experience with AWS environments is a must have.
+AWS certification is a plus.
+Java FSD
+Java, Spring, Kafka, Cloud, AWS, JavaScript, ReactJs
+Full stack engineer with backend focus
+Full stack engineer with front end focus, Cassandra, Oracle
+Job Type: Full-time
+Salary: $120,000.00 - $140,000.00 per year
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Plano, TX 75023: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Java (Preferred)
+REST (Preferred)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:44.447049

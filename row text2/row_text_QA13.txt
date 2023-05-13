@@ -1,0 +1,30 @@
+Experience with Keyword, Modular and data driven framework. Preferred experience with database and service testing.
+Experience in Agile/Scrum
+Understanding of various Ruby gems.
+Knowledge of web development framework like MVC. Skilled in recognizing patterns and creating re-usable scripts.
+Create and maintain test cases and test data using industry standard test automation tools. Preferred knowledge in Selenium – Cucumber, Appium, Postman, RubyMine
+Write, review, and maintain the automation test scripts in test automation
+Job Type: Contract
+Salary: $50.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Ability to commute/relocate:
+Columbus, OH 43219: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Ruby: 3 years (Preferred)
+Selenium: 5 years (Preferred)
+Test automation: 5 years (Preferred)
+Cucumber: 3 years (Preferred)
+Work Location: One location
+Speak with the employer
++91 6146995995
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:48:00.287028

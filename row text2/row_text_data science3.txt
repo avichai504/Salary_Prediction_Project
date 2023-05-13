@@ -1,0 +1,34 @@
+Job Responsibilities:
+The Data Analyst (SQL) will be primarily accountable for the following
+Integrate data from multiple data sets, examine and interpret complex data sets and make findings relevant and actionable for both internal and external stakeholders
+Sett up, deploy, configure, and monitor multiple systems
+Provide timely, accurate and reliable management reporting and research of data
+Create innovative solutions to an extensive range of complex data requests
+Assist in the development of additional information system projects, as needed
+Verify data quality to ensure accurate reporting
+Job Requirements:
+Bachelors Degree in MIS, Statistics, Mathematics, Business Management, Computer Science or a related field and 2+ years of demonstrated experience (coursework or professional experience) with databases, SQL query development and at least one scripting language (Python, R, or other) OR a Master's Degree in above listed areas and 1+ years of experience.
+Must be detail-oriented with excellent data and quantitative skills.
+Demonstrated ability to apply innovative and resourceful solutions to solve challenges and the ability to meet detailed project goals while working autonomously.
+Must have excellent written and verbal skills with the ability to clearly organize thoughts and/or document content and convey complex concepts effectively regardless of audience
+Must be proficient with Microsoft SQL Server and SQL Reporting Services, Microsoft Excel, Microsoft Access and other database tools
+Why Work With Us?
+When you work with Cambium Assessment, you’ll be helping to design and build inspiring solutions that make a real impact on the online testing industry, as well as the educators and students we support.
+Our systems are highly scaled and mission critical serving over a third of all students in grades 3-8 in the United States.
+Our web applications are highly interactive and universally accessible.
+Our machine scoring methods are driven by artificial intelligence allowing computers to perform such complex operations as grading essays with more accuracy than humans.
+Our processes use intensive algorithmic computing allowing a customized experience for each student as the exam adapts real-time based upon answers given.
+In the 2021–2022 school year, we delivered more than 100 million online tests, successfully supported peak testing volumes exceeding 1.3 million simultaneous test takers, while ensuring an average response time of less than a tenth of a second. We have the most advanced features of any online testing system, and we continue to push boundaries to improve student performance measurement and enabling educators with actionable insights to drive better overall educational outcomes for our students. To learn more about our organization and the exciting work we do, visit
+www.cambiumassessment.com
+An Equal Opportunity Employer
+We are dedicated to fostering a culture that celebrates unique backgrounds, ideas, and experiences. All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, age, religion, sex, gender, gender identity/expression, sexual orientation, national origin, protected veteran status, or disability.
+To apply to this job, click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:26.693180

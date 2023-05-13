@@ -1,0 +1,41 @@
+Creates a test approach, identifying scope of testing with risk-based approach for each feature or scope of work in a project effort identifying test environments, dependencies, constraints, prioritizing test cases and scheduling time for the testing.
+Responsible for ensuring end to end testing methodology including all appropriate documentation and requirements.
+Sets up software and hardware in the test lab, per specs.
+Ensures test results are accurate, thorough and appropriately documented.
+Communicates results and coordinates logistics to the Systems Analysts, Developers, and other key IT staff and leadership as appropriate.
+Documents problems or results inconsistent with expected results.
+Performs quality assurance tests on all work and performs detailed analysis on test results.
+Certifies application for release to the next testing stage or to the production environment. Generates and distributes periodic status reports for testing.
+Sets up and executes complex scripts independently.
+Sets up test data beds based on data matching specific test conditions.
+Creates and executes moderately complex SQL queries.
+Executes automated test scripts.
+Writes/coordinates resolution of system defects. Ensures appropriate hand-offs and re-testing
+May provide technical guidance to other IT Testing Specialists.
+Participates in requirements gathering sessions or solicits information on incomplete requirements.
+Participates in facilitation and coordination of user acceptance testing.
+Design tests to aid learning and mitigate risks.
+Work with developers to create automated tests.
+Work with business analysts and business stakeholders to undertake exploratory testing.
+Ensures stories contain specific acceptance test conditions which communicate objectives to both technical and non-technical stakeholders.
+Knowledge of performance and security vulnerability testing is a plus.
+Assist product owner in coming up with the acceptance criteria for user stories
+Job Type: Contract
+Pay: $45.00 - $50.00 per hour
+Schedule:
+8 hour shift
+On call
+Experience:
+SQL queries.: 4 years (Preferred)
+Software testing: 4 years (Preferred)
+Test automation: 4 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:48:29.983919

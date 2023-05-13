@@ -1,0 +1,32 @@
+Details:
+This position is an excellent opportunity for an experienced Angular Developer leading the work for one of our top clients.
+Perform tests on user interface elements to ensure proper functionality.
+This position requires 9+ years of experience with a solid understanding of UI development fundamentals.
+This role requires expert proficiency in the following languages/tools/frameworks/libraries: TypeScript, JavaScript, SASS/CSS, HTML, Git, Angular 8+.
+Must be able to operate efficiently in an Agile and Scrum environment.
+Must understand product specifications and user mindset and predict what might work for both.
+Job Types: Full-time, Contract
+Salary: $62.00 - $70.00 per hour
+Experience level:
+9 years
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Experience:
+UI development: 9 years (Preferred)
+Perform tests on user interface elements: 8 years (Preferred)
+Angular 8+: 2 years (Preferred)
+TypeScript, JavaScript: 1 year (Preferred)
+SASS/CSS, HTML, Git: 1 year (Preferred)
+Agile and Scrum environment: 1 year (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 9
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 12:31:28.558864

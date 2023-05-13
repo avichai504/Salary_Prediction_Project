@@ -1,0 +1,32 @@
+The CSL Internship Program is a hands-on experience that allows current university students to work alongside industry professionals in a collaborative, global, and dynamic environment. Students work on meaningful projects and enhance their skills through early career training and development.
+Responsibilities:
+Create conceptual diagrams, following established standards for coding, accessibility and cross-browser functionality.
+Work with stakeholders to gather and refine specifications and requirements based on technical needs
+Create basic website layouts and user interfaces with HTML/CSS/JavaScript and work alongside web developers to implement code.
+Test and document new features developed.
+Provide insights and incorporate feedback into product designs
+
+Qualifications:
+High School Diploma or equivalent vocational or technical training
+Working toward bachelor's degree in computer science, web development, software development, or related field
+Skills:
+Working knowledge of graphic design
+Web development fundamentals, including HTML, CSS, and JavaScript
+Front-end JavaScript frameworks such as Vue, React, and Angular
+Our Benefits
+We encourage you to make your well-being a priority. It’s important and so are you. Learn more about how we care at CSL.
+About CSL Behring
+CSL Behring is a global leader in developing and delivering high-quality medicines that treat people with rare and serious diseases. Our treatments offer promise for people in more than 100 countries living with conditions in the immunology, hematology, cardiovascular and metabolic, respiratory, and transplant therapeutic areas. Learn more about CSL Behring.
+We want CSL to reflect the world around us
+As a global organization with employees in 35+ countries, CSL embraces diversity and inclusion. Learn more about Diversity & Inclusion at CSL.
+Do work that matters at CSL Behring!
+To apply to this job, click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:38:22.847021

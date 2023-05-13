@@ -1,0 +1,44 @@
+Position: Full-Stack Developer
+Duration: Long Term
+Location: Remote
+Development
+Knowledge of REACT JS with fundamental React principles, such as React components, hooks, and the React lifecycle
+NODE JS, GraphQL, JSONAPI
+CI/CD with Jenkins knowledge using the Docker Kubernetes
+DB Knowledge RDBMS and NoSQL, DDL, and DML
+- DML Creation
+- DDL Creation
+- Flyway
+- Postgres
+Microservices with NodeJS, Messaging (Apache Pulsar)
+SSO Security using OIDC, SAML
+Authorization including integration with LDAP
+Languages
+JavaScript / TypeScript
+SQL
+Others:
+YAML
+XPath
+JSON.
+Environment
+AWS, EKS, Docker, Kubernetes
+Kubernetes/Docker EKS hands on
+End to end knowledge, capable of building proof of concepts exploring new technology/business idea
+GitHub or related modern, continuous integration, version control systems
+Soft Skills
+Should be an accountable independent Individual Contributor who can bring a feature from design to reality with an eye on the bigger picture beyond the specific implementation
+Should be comfortable with writing low level design document creation.
+Should have familiarity with user story handling using Jira
+Job Type: Contract
+Schedule:
+8 hour shift
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:15.472463

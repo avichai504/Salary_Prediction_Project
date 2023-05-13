@@ -1,0 +1,37 @@
+We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.
+Responsibilities
+Identify valuable data sources and automate collection processes
+Undertake preprocessing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Combine models through ensemble modeling
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams
+Skills
+Proven experience as a Data Scientist or Data Analyst
+Experience in data mining
+Understanding of machine-learning and operations research
+Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset
+Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)
+Analytical mind and business acumen
+Strong math skills (e.g. statistics, algebra)
+Problem-solving aptitude
+Excellent communication and presentation skills
+BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred
+Job Type: Full-time
+Salary: $83,000.00 - $99,000.00 per year
+Schedule:
+Monday to Friday
+Work Location: Remote
+Speak with the employer
++91 6149150409
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:50.438110

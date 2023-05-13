@@ -1,0 +1,49 @@
+HealthTech Company with big vision of developing top competing healthcare software, systems integrations, and mobile experiences in need of the enthusiastic support of a talented Full Stack Developer. You will be working on a team of several other developers to build out new features, support deployments, offer your talent on architecture and to advance our brand to the next level.
+There's plenty of opportunity to get involved across the whole product and as a full stack developer, you will be working along side of our founder and other amazing talent!
+*****What we are looking for in you*****
+-You love writing code and you're excited to assist in improving patient care.
+-You take an "us" and "our" approach to solving problems and developing solutions, willing to use the time necessary to produce a quality product.
+-You respect consistency, convention and best practices and enjoy researching before jumping into a new problem
+-You are well organized, keep track of features, tasks, defects and document design details
+*****Requirements*****
+PLEASE READ:
+-3-5 years of software engineering experience including developing, architecting, DevOps engineering, and deploying highly scalable distributed computer systems
+- 2-3 years of experience focused on AWS as an Application/Solutions architect
+- Experience working with AWS technologies such as EC2, ELB, Elastic Beanstalk, S3, RDS, Redis, IAM, Route53, DocumentDB, CodeDeploy, CodePipeline, CloudFormation, CloudWatch
+- Experience provisioning highly scalable infrastructure and micro services using AWS
+- Solid programming skills in languages such as Javascript, Python, Shell, PHP, Java and familiarity with AWS SDK and Node.js
+- Experience working with NestJs, MongoDB, Socket.IO, and MySQL is an asset
+- Familiarity with design patterns and principles, including DevOps techniques, performance testing & management, and data storage & processing
+- Experience installing, configuring and monitoring Apache/Nginx HTTP servers
+- Excellent troubleshooting, debugging, and problem-solving skills
+- Strong analytical, organizational, project management and time management skills
+- Excellent written and verbal communication skills
+- High levels of integrity, autonomy, and self-motivation
+(((Opportunity for permanent contract, available for top performers.))))
+Job Types: Full-time, Part-time, Contract
+Pay: $8.00 - $18.00 per hour
+Benefits:
+Flexible schedule
+Professional development assistance
+Schedule:
+Choose your own hours
+Day shift
+Evening shift
+Night shift
+No weekends
+On call
+Weekend availability
+Application Question(s):
+(ANSWER REQUIRED) What is your pay requirement?
+Experience:
+Full-stack development: 2 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:39.155584

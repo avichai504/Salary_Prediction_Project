@@ -1,0 +1,56 @@
+Overview
+Who we are
+At Toyota, we are reimagining mobility through innovative, high-quality technology solutions designed to enhance lives and meet our company mission of “Producing Happiness for All.” If you are interested in reimagining mobility with us in an inclusive environment built on teamwork that puts respect for people first, we want to talk to you.
+This position is based in Plano, TX
+Toyota encourages all employees to live within a reasonable commuting distance of their assigned work location. Hybrid work from outside of the assigned work location may be permitted in a pre-approved list of states (AZ, CA, CO, GA, IL, IN, KY, MA, MI, MO, NJ, NY, OH, OR, TN, TX, VA, WV) with certain stipulations.
+Speak with your recruiter and hiring manager to learn more about our hybrid work program.
+To save time applying, Toyota does not offer sponsorship of job applicants for employment-based visas or any other work authorization for this position at this time
+Who we’re looking for
+Toyota’s One Tech organization is looking for a passionate and highly motivated Data Scientist within the Marketing Technology & Analytics department.
+The primary responsibility of this role is to build scalable data science solutions using customer and marketing data, help build customer/individual level of intelligence to help business make decision at various stages of customer journey.
+Reporting to the Manager of Customer Data Science, the person in this role will support the Marketing Technology and Analytics department's objective to optimize marketing investment by building customer level intelligence like next best action, recommendation engine, etc.
+What you’ll be doing
+Utilize machine learning and deep learning models to create consumer intelligence, such as Next Best Action, Behavior Models, and Churn, for customer-centric business teams.
+Write production level test driven code in Python and SQL
+Analyze large datasets to uncover insights that inform marketing and customer-centric investments.
+Plan and execute experimentation initiatives, ensuring cross-functional alignment, robust analysis, and practical insights.
+Develop data-driven products that provide clear insights and recommendations to non-technical audiences through visualizations and presentations.
+Work collaboratively with product managers, senior scientists, engineers, and other team members in an agile and scrum environment to fulfill modeling needs.
+What you bring
+Strong interest in exploring all aspects of data and possess the ability to communicate insights effectively, while also concentrating on the technical solutions underlying them.
+Proficient in analyzing and modeling big data utilizing statistical, machine learning, and deep learning techniques.
+Expertise in transforming ambiguous questions into impactful experiments, analysis, or models.
+Familiarity with modeling requirements for Customer 360 and Customer Journey.
+Experience with Machine Learning platforms (AWS Sagemaker, Databricks), Data Pipelines (Spark, Airflow), CI/CD, GitHub, and visualization (Power BI/Tableau).
+Have a degree in a quantitative field such as Computer Science/Engineering, Mathematics, Statistics, or Economics, with an advanced degree being desirable.
+Added bonus if you have
+Experience with deploying model in production.
+An advanced degree (MS or PhD)
+Hands-on experience with developing Machine Learning models for marketing campaigns.
+What we’ll bring
+During your interview process, our team can fill you in on all the details of our industry-leading benefits and career development opportunities. A few highlights include:
+A work environment built on teamwork, flexibility, and respect
+Professional growth and development programs to help advance your career, as well as tuition reimbursement
+Vehicle purchase & lease programs
+Comprehensive health care and wellness plans for your entire family
+Flextime and virtual work options (if applicable)
+Toyota 401(k) Savings Plan featuring a company match, as well as an annual retirement contribution from Toyota regardless of whether you contribute
+Paid holidays and paid time off
+Referral services related to prenatal services, adoption, childcare, schools, and more
+Flexible spending accounts
+Relocation assistance (if applicable)
+Belonging at Toyota
+Our success begins and ends with our people. We embrace diverse perspectives and value unique human experiences. Respect for all is our North Star. Toyota is proud to have 10+ different Business Partnering Groups across 100 different North American chapter locations that support team members’ efforts to dream, do and grow without questioning that they belong. As a company that has been one of DiversityInc’s Top 50 Companies for Diversity and a member of The Billion Dollar Roundtable supporting minority and woman-owned suppliers for over 10 years, we are proud to be an equal opportunity employer that celebrates the diversity of the communities where we live and do business.
+
+Applicants for our positions are considered without regard to race, ethnicity, national origin, sex, sexual orientation, gender identity or expression, age, disability, religion, military or veteran status, or any other characteristics protected by law.
+Have a question or need assistance with your application? Check out the How to Apply section of our careers page on Toyota.com or send an email to talent.acquisition@toyota.com.
+To apply to this job, click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 10
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:22:27.809264

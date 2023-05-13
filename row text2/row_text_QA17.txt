@@ -1,0 +1,38 @@
+Role: QA Engineer with AEM Experience
+Length: 6 months to start, with strong possibility of extension, long-term role
+Location: 100% Remote, must work West Coast hours
+Skills:
+· AEM experience
+· Two week Sprint, fast moving, need to be able to adapt to that
+· Almost entirely Manual, very little Automation, big plus if has experience validating automation logs
+· End to end testing or System Integration Testing, front end website (UI Testing), verify data on backend
+· No programming languages needed
+· Backend: AWS and Salesforce, verify data (Community and Marketing Cloud), AWS and Salesforce - a plus, not necessary
+· Experience with validating data in backend, Salesforce is a definite plus
+· Database experience, MySQL, Athena (service from AWS, Cloud database tool, query against it)
+· API Testing as well, not extensively, wants to include that
+· Adobe Experience Manager is a big plus (would prioritize Candidates with AEM experience)
+Reliable: assigning work, good comm skills, willing to speak up in meetings (multiple Scrum meetings every two weeks, daily calls, speak up and share perspective)
+Willing to help others on Team
+Thanks & Regards
+Venu Gopal
+Phone: 848-202-7710
+Email: venugopal(at)aptivacorp(dot)com
+Job Types: Full-time, Contract
+Salary: $50.00 - $60.00 per hour
+Experience level:
+7 years
+8 years
+9 years
+Schedule:
+8 hour shift
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:15.668586

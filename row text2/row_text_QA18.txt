@@ -1,0 +1,70 @@
+Veracity is a digital consulting company headquartered in Richmond, Virginia. What started in 2015 as a small group of consultant trailblazers has quickly transformed into a fast-growing firm innovating fortune 500s that you see today.
+Our team is made up of technologists, strategists, and creative problem solvers who have one goal in common: creating fluid solutions that support business growth. With substantial experience in more than 10 industries, we come together as one team to deliver transformative results. While we take our work seriously, we never lose our playful spirit and we pride ourselves on our fun and energetic culture.
+Today, we’re ready to add a Quality Assurance (QA) Engineer to our team. As a QA engineer, you will actively participate in story planning and detailed daily standups, while providing input for architectural design decisions, and developing code to meet story acceptance criteria. You will have the opportunity to continuously develop technical knowledge and skills on multiple platforms, and educate team members (including BSAs, Scrum Masters and Product Owners) on the capabilities and constraints of technologies.
+
+What you will do:
+Work closely with team and product managers to define the automated testing components that will be used to validate requirements against developed software
+Develop manual tests to meet story acceptance criteria
+Develop automated tests to support regression testing
+Participated in peer reviews to ensure compliance with standards
+Estimate level of effort to develop manual and automation tests to meet acceptance criteria
+Ensure adherence to continuous improvement practices as required to meet quality / time to market imperatives
+Work with team members in adopting and learning test automation techniques
+Contribute to an atmosphere of cross-functional teamwork within the organizations’ project lifecycle
+Candidate must be a team player and work closely with developers in defining effective automation frameworks to ensure maximum reusability, maintainability and flexibility
+Conduct 508 Compliance testing using Axe/Wave plug-in and screen readers
+Conduct end point and integration testing using Postman
+What we would like to see:
+Bachelor’s Degree in Computer Science or Management Information Systems
+At least 4 years of experience with testing methodologies for software applications
+Experience with Test Automation tools and frameworks
+Experience defining and driving test automation including selection of testing tools
+Previous experience leading a team of Testers
+Experience testing in a Microsoft environment and experience testing SharePoint or Office 365
+Thorough understanding of all aspects unit, system, integration, regression, user, load and performance testing functions.
+A good understanding of tools used in CI/CD Test & SDLC processes (CodedUI, Selenium, UFT, VSTS, ServiceNow, etc.) a plus.
+At least 2 years’ experience in testing with a firm understanding of functional end-to-end testing, system testing, batch processing, user acceptance testing, and regression testing
+Experience with one or more tools like NUnit, Visual Studio, JUnit, Selenium, Cucumber, Protractor, Waitir/N, Selenium, Karma or Jasmine a big plus
+Experience in testing products with the following technology stacks (or equivalent): SharePoint, .NET, C# Java, SQL, XML, SOAP, or RESTful/web services
+At least 2 years’ experience with methodologies like Agile and supporting techniques (e.g. Test Driven Development and continuous integration processes), packaged system implementations, and traditional specification – driven approaches
+At least 2 years’ experience in testing with a firm understanding of functional end-to-end testing, system testing, batch processing, user acceptance testing, and regression testing
+Experience with one or more tools like Postman, JUnit, Selenium, Cucumber, Protractor, Waitir/N, Selenium, Karma or Jasmine a big plus
+Experience in testing products with the following technology stacks (or equivalent): Ruby, Java, SQL, XML, SOAP, or RESTful/web service
+
+Why Work for Veracity?
+Our Culture
+Flexible work environment (remote or onsite)
+Family first
+Agile and collaborative
+Fun and energetic
+Group of likeminded folks and creative problem solvers
+Fast paced
+Inclusive and Passionate
+Supportive, approachable, and encouraging leadership and team members
+All roles are client facing
+Summary of Benefits*
+Competitive salary with potential financial rewards and perks
+Discretionary Annual Bonus
+Comprehensive medical, dental and vision plans
+Basic Life, Supplemental Life & Disability Plans
+401k Savings Plan with Company Match
+Employee Stock Purchase Plan
+Open Paid Time Off, plus 6 Paid Holidays
+Parental Leave
+Company-provided Equipment
+Career Advancement and Training Opportunities
+Benefit eligibility may vary based on employment status upon hire
+All compensation is commensurate with employee qualifications, experience, and other factors including geographic location, market, and operational factors.
+Equal Opportunity Employer
+Veracity Consulting Group is proud to be an Equal Opportunity Employer and committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, national origin, gender, pregnancy, sexual orientation, gender identity, age, physical or mental disability, genetic information, or veteran status, and encourage all applicants to apply.
+Visit our website at www.meetveracity.com to see the amazing work our teams have done and continue to do!
+jSfvytelob
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:18.025578

@@ -1,0 +1,45 @@
+Location: Irvine, United States of America
+Thales people architect solutions that enable two-thirds of planes to take off and land safely. We create in-flight entertainment systems that engross 50 million fliers every year and we develop the avionics that control the world’s largest commercial aircrafts. Our simulators train the next generation of pilots for fighter jets, transporters and search and rescue helicopters. And, together, each and every member of our aerospace team makes a difference.
+Position Summary
+This is an on-site position located in Irvine, California.
+The New Graduate Software Engineer will join our Software organization to develop new features of our next generation InFlight Entertainment and Connectivity (IFEC) product suite. As a Scrum team member, the Software Component Engineer will design and implement changes in the Android based client components and in the Linux based server components meeting the quality objectives. After delivery of each release, he/she will support the system integration and verification team, investigating and providing fixes to resolve remaining issues.
+Key Areas of Responsibility
+Implement and integrate new features in our InFlight Entertainment and Connectivity (IFEC) product suite.
+Participate in all phases of software development to extend the current Thales Linux Framework code, developing Android and Java applications.
+Submit code for code review and participate in peer code reviews.
+Debug and fix problems found during testing activities and issues reported from the field.
+Work with automated testing tools/scripting for validation of implementation.
+Work in an agile-driven (Scrum) environment.
+Minimum Requirements
+Bachelor of Science in Computer Science or related engineering discipline.
+0-4 years of work experience.
+Experience debugging on Linux and/or Android based systems.
+Very good understanding of Object Oriented Programming concepts and design patterns.
+Experience in Java and/or Android development.
+Excellent verbal and written communication skills.
+Self-motivated, critical thinker with strong technical background.
+Preferred Qualifications
+Experience with application/services in C++/Java programming in Android Framework.
+Python/Bash scripting is a plus.
+Experience in media streaming (rtsp, hls, dash).
+Experience in network protocols (tcp/udp/rtp).
+The anticipated salary range for this role is $77,350.00 - $143,650.00 USD Annual. The Company reserves the right to ultimately pay more or less than the posted range and offer additional benefits and other compensation, depending on circumstances not related to an applicant’s status protected by local, state, or federal law.
+The Company provides an extensive benefits program for all full-time employees working 30 or more hours per week and their eligible dependents, including the following:
+Elective Health, Dental, Vision, FSA/HSA and Well-Being plans.
+401(k) Retirement Savings Plan with a company contribution and a match, and without vesting period.
+Company paid holidays, vacation days, and paid sick leave.
+Company provided Life Insurance, AD&D, Disability, and Employee Assistance Plan.
+#LI-Onsite
+This position will require successfully completing a post-offer background check. Qualified candidates with (a) criminal history will be considered and are not automatically disqualified, consistent with federal law, state law, and local ordinances.
+Successful applicant must comply with federal contractor vaccine mandate requirements.
+Thales champions inclusion and we believe diversity strengthens the fabric of our culture. We are an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law
+If you need an accommodation or assistance in order to apply for a position with Thales, please contact us at talentacquisition@us.thalesgroup.com.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:35.775117

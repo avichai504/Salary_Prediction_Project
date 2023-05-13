@@ -1,0 +1,33 @@
+50 years old
+Required Skills
+This person will be working for our client and Mobile site within the Loyalty Program.
+1. Website, Mobile app (dynamic loyalty program) and Cross Browser Testing using Browser Stack and Splunk
+2. Experience using Postman for web services testing (SOAP/REST/API’s)
+3. Experience writing User Acceptance Criteria required (write from tickets – driven
+Nice to have:
+Some exposure to Automation on Selenium w/ Java and Ruby is helpful, not required
+Jenkins
+Saucelabs
+Job Types: Full-time, Contract
+Pay: $45.00 - $50.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Ability to commute/relocate:
+Chicago, IL: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Manual QA: 6 years (Required)
+Mobile app (dynamic loyalty program): 1 year (Required)
+Cross Browser Testing using Browser Stack and Splunk: 1 year (Required)
+Postman for web services testing (SOAP/REST/API’s): 1 year (Required)
+writing User Acceptance Criteria: 1 year (Required)
+lead tester: 10 years (Required)
+Work Location: In person
+Show Less
+Report
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:47:26.571244

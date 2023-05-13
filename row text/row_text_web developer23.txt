@@ -1,0 +1,41 @@
+Position Information
+Posting Number
+PG193525TM
+
+Position Number
+48TP106
+
+Position Type
+Temporary
+
+Essential Job Duties
+This position will work as part of a team responsible for the web-based applications developed to support the department’s Program for continuing professional development enterprise. This position will work with needs requirements, product specifications, development, and testing of new functionalities for the state.
+
+This position will be part of a 100% remote team with core defined working hours from 9:00 am- 3:00 pm with flexibility for the other hours.
+
+Is Time Limited
+No
+
+If Yes, Appointment Length
+
+Department Information
+Job City & State
+Chapel Hill, NC
+
+Department
+
+System Information
+Classification Title
+Temporary-Technical/Paraprofessional
+
+Working Title
+UTS - Remote Web Services Developer at UNC Chapel Hill
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:37:38.994912

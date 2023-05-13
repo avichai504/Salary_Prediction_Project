@@ -1,0 +1,85 @@
+For Current Gilead Employees and Contractors:
+Please log onto your
+Internal Career Site
+to apply for this job.
+
+Job Description
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to pursuing scientific invention to prevent and treat life-threatening diseases, including HIV, viral hepatitis and cancer. Gilead has operations in more than 35 countries worldwide, with headquarters in Foster City, California.
+You will be part of a team that is helping millions of people live healthier, more fulfilling lives. We are a close community where every individual matters and everyone has a chance to enhance their skills through ongoing development. Inclusion is one of our core values, which means we are creating and fostering a work environment where our differences are valued, and everyone feels respected and empowered to bring their authentic selves to work. By joining Gilead, you will further our mission to discover, develop and deliver innovative therapeutics for people with life-threatening diseases.
+The Gilead Business Services center in Raleigh’s Research Triangle region will be home to some of the company’s critical shared service teams in North America, including Information Technology, Global Financial Solutions, HR Operations and Procurement Services Desk. These functions provide the necessary support to ensure Gilead’s business runs effectively and efficiently. The center will also be a catalyst for standardization of processes, digital transformation and technology optimization.
+Essential Job Functions
+Deliver Data Science solutions across business domains such as Finance, HR, Operations, Compliance, Legal, Sales, Marketing, R&D and Pharma Drug Manufacturing (PDM)
+Build Predictive & Prescriptive Analytics, Anomaly Detection & Diagnostic Analytics, Forecasting, Preventive Maintenance and Edge Inference solutions
+Design complex Graph Structured Datasets, and build Graph Neural Networks (GNNs) & Neural Graph Databases (NGDs) to identify Similarities and Anomalies
+Develop, implement and optimize Data Science solutions on AI/ML platform built on AWS/Databricks, using Machine Learning, Deep Learning frameworks, libraries and platforms
+Build Data Prep and Data Engineering workflows to come up with high quality data sets for AI/ML use cases
+Develop Feature Sets and Composite Features
+Train and Build AI/ML Models
+Optimize Model Performance to achieve desired accuracy and minimize errors
+Visualize Model predictions
+Basic Qualifications
+Master’s Degree with Data Science, Math or Statistics major with 1-2 years of experience
+PhD in Statistics or Data Science with 0-1 years of experience
+Preferred Qualifications
+Proficiency in Graph Neural Networks (GNNs) & Neural Graph Databases (NGDs)
+Excellent understanding of Supervised, Unsupervised and Reinforcement learning techniques, Dimensionality Reduction techniques, and algorithms such as Linear regression, Logistic regression, Linear/Quadratic discriminant analysis, PCA, SVM, K-Means, Hierarchical clustering, K-Nearest Neighbors, Decision Trees, Gradient-boosting trees, Random Forests, Naive Bayes; Neural networks such as CNNs, RNN, LSTMs; and Recommender systems
+Proficiency in ML & Deep Learning frameworks such as PyTorch, TensorFlow, Keras etc.
+Familiarity with all aspects of data management including data modeling, data mining, data warehouses, reporting & data visualization, including experience in Spark for Data Engineering and familiarity with Parquet data formats
+Familiarity in AWS AI/ML Services such as SageMaker, SageMaker Neo, Augmented AI, Amazon Forecasting, Deep Learning AMIs, Gluon, Greengrass, etc.
+Invest in Continuous learning to stay up-to-date with the advancements in the field of AI/ML
+Good Business Partnering and presentation skills
+Gilead Core Values:
+Integrity (Doing What’s Right)
+Inclusion (Encouraging Diversity)
+Teamwork (Working Together)
+Excellence (Being Your Best)
+Accountability (Taking Personal Responsibility)
+If this is not the right move for you now but remain interested in a career at Gilead Sciences, please connect with us via our Career Site:
+https://gilead.yello.co/job_boards/v42vD4vKxb3AkKvV93YsrQ
+As an equal opportunity employer, Gilead Sciences Inc. is committed to a diverse workforce. Employment decisions regarding recruitment and selection will be made without discrimination based on race, color, religion, national origin, gender, age, sexual orientation, physical or mental disability, genetic information or characteristic, gender identity and expression, veteran status, or other non-job related characteristics or other prohibited grounds specified in applicable federal, state and local laws. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants who require accommodation in the job application process may contact careers@gilead.com for assistance.
+For more information about equal employment opportunity protections, please view the ‘EEO is the Law’ poster:
+https://www.eeoc.gov/employers/upload/poster_screen_reader_optimized.pdf
+Notice: Employee Polygraph Protection Act:
+https://www.dol.gov/whd/regs/compliance/posters/eppac.pdf
+Your rights under the Family and Medical Leave Act:
+https://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf
+Pay transparency nondiscrimination provision:
+https://www.dol.gov/ofccp/pdf/pay-transp_formattedESQA508c.pdf
+Our environment respects individual differences and recognizes each employee as an integral member of our company. Our workforce reflects these values and celebrates the individuals who make up our growing team.
+Gilead provides a work environment free of harassment and prohibited conduct. We promote and support individual differences and diversity of thoughts and opinion.
+Gilead and Kite Careers
+
+The salary range for this position is: $83,725.00 - $108,350.00. Gilead considers a variety of factors when determining base compensation, including experience, qualifications, and geographic location. These considerations mean actual compensation will vary. This position may also be eligible for a discretionary annual bonus, discretionary stock-based long-term incentives (eligibility may vary based on role), paid time off, and a benefits package. Benefits include company-sponsored medical, dental, vision, and life insurance plans*.
+For additional benefits information, visit:
+https://www.gilead.com/careers/compensation-benefits-and-wellbeing
+Eligible employees may participate in benefit plans, subject to the terms and conditions of the applicable plans.
+
+For jobs in the United States:
+As an equal opportunity employer, Gilead Sciences Inc. is committed to a diverse workforce. Employment decisions regarding recruitment and selection will be made without discrimination based on race, color, religion, national origin, gender, age, sexual orientation, physical or mental disability, genetic information or characteristic, gender identity and expression, veteran status, or other non-job related characteristics or other prohibited grounds specified in applicable federal, state and local laws. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants who require accommodation in the job application process may contact
+careers@gilead.com
+for assistance.
+
+For more information about equal employment opportunity protections, please view the
+'Know Your Rights'
+poster.
+NOTICE: EMPLOYEE POLYGRAPH PROTECTION ACT
+
+YOUR RIGHTS UNDER THE FAMILY AND MEDICAL LEAVE ACT
+PAY TRANSPARENCY NONDISCRIMINATION PROVISION
+Our environment respects individual differences and recognizes each employee as an integral member of our company. Our workforce reflects these values and celebrates the individuals who make up our growing team.
+Gilead provides a work environment free of harassment and prohibited conduct. We promote and support individual differences and diversity of thoughts and opinion.
+
+For Current Gilead Employees and Contractors:
+Please log onto your
+Internal Career Site
+to apply for this job.
+Apply Now: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:48.636430

@@ -1,0 +1,36 @@
+Jr. Software Developer
+Full Time (In-Person) No relocation assistance
+Visalia, CA
+Responsibilities
+4Creeks is looking for a Jr. Software Developer to join our team. We create applications that empower Local and State Agencies to manage and support their processes managing water resources. That may sound a little boring, but this role is actually quite engaging and challenging. This position will work directly with our team to create tools and processes for ingesting data from multiple sources, both public and private, and presenting it in usable manner for users. This position is an opportunity to be a part creating long-term and impactful solutions.
+Responsibilities for this position would include assisting with the buildout of applications including framework, input forms, and data sets. This position will report to the Team Lead and will be required to work on a small team, while embodying the initiative of a self-starter.
+Minimum Qualifications
+The position requires a B.S. Computer Science or 1+ years of work experience in software development
+The ideal candidate will have some experience in:
+C#, .NET Framework and .NET Core
+ASP.NET MVC
+MSSQL & Entity Framework
+HTML, CSS and Java Script as well as REST APIs
+Self- starter. Strong internal motivation and drive
+Problem solving abilities and able to work in a fast-paced environment
+Experience with Microsoft Excel
+Compensation
+Hourly rate will be determined by candidates skill and experience level and highly competitive with industry standards. This position is full-time and eligible for our Benefits package. The expected pay range for this position is $20 to $32 per hour.
+About 4Creeks
+We are a small band of visionaries, mentors, and citizens, driven by a deeply instilled belief that together we can help solve some of the challenges we face. Were determined to play our part in inspiring a new future and rebuilding what's broken, from Bakersfield to Sacramento. We call Central California home and were committed to using all the tools and resources at our disposal to make this region known for greatness.
+You'll quickly find out that 4Creeks is built on a fun, challenging and collaborative work-environment. A team-based approach is the standard we uphold, and we believe that no one person is more valuable than the other. We enjoy working together and pooling our resources to provide the best solution we can create together.
+How to Apply
+For immediate consideration; please apply on our website with your resume and cover letter detailing your background, skills, and experience. Our Human Resource Administrator will contact you promptly for initial interview coordination. If there are any questions, please contact us at apply@4-creeks.com.
+The Other Stuff
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the employee is regularly required to sit, apply range of motion within hands and fingers, including sensitivity to touch, and use a computer. The employee frequently is required to talk, hear, and reach with hands and arms. The employee must occasionally lift and/or move up to 50 pounds. Specific vision abilities required by this job include close vision and the ability to adjust focus.
+This position may require occasional field work which requires the ability to work outdoors in a wide variety of weather and terrain conditions.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 12:31:40.652177

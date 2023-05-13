@@ -1,0 +1,45 @@
+Benefits
+What we offer in return
+Company Mac + External Monitor
+Competitive Salary
+40-hour Workweeks
+European Vacations Policy
+Remote Work
+Whatever Software you need
+Flexible Work Hours
+International Culture
+Private Medical Insurance
+
+Job description
+Jumpseller is a SaaS solution for small business to manage their online business. We focus on making e-commerce easier for everyone, so businesses can focus on what they do best: building and selling their products. Today, merchants use the Jumpseller platform to manage every aspect of their online business — from products to orders to customers, selling with an online store, on mobile, on social networks and through different e-commerce channels.
+At Jumpseller you will find a startup environment in which your contributions matter and you are enabled to grow professionally. We have 2 offices, one in Porto, Portugal, and another in Santiago, Chile, and our working culture is international and working remotely.
+The role
+
+We are looking for a Software Engineer to join our growing team. We look for skilled & dedicated people who share our passion for building a product that millions of people use.
+
+You will
+Work in an informal environment, for a global market;
+Strive to write clean, modular, flawless and scalable code responsible to handle millions of records;
+Design new features from ground-up, from a given set of specs;
+Build automated tests for your code while help improving and maintaining our current test set;
+Be in contact with our Customer Support Team, resolving technical issues and understand how to improve our service;
+Take responsibility, autonomy and ownership of your work.
+Job requirements
+You are
+A bachelor/master in Informatics (or related);
+Proven professional experience in OO programming and web development;
+Attentive to details, delivering quality code which is maintainable, efficient and reliable;
+Experienced in MySQL, or other relational databases;
+Familiar with version-control and automated testing tools;
+Used to work in JSON/XML/CSV formats and have no issues with HTML/CSS;
+Experienced in Ruby or Ruby and Rails (the right candidate will be considered without this experience);
+Good in English communication and teamwork.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:47.677408

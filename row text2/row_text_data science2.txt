@@ -1,0 +1,27 @@
+The Data Scientist will use their strategic and analytical skills to drive projects with major customer and business impact. You will act as the primary data driven Risk force of change to drive faster and more profitable risk decisions. You will slice and dice data to find insights, form data driven hypotheses and implement changes that have immediate and direct customer and business impact.
+Key Responsibilities & Objectives
+Use modeling and analytical prowess to understand and communicate how business and risk policies and processes are impacting our bottom line.
+Build data science intelligence and help automate risk decisions based on regression and machine learning models
+Conduct statistical analysis to identify trends, variations, patterns and insights relating to the risk performance of accounts
+Set up your own problem frameworks and develop hypothesis to test for optimal outcomes. This will include scoping the operational feasibility, product and vendor impact, lead cross functional implementation effort, and monitor the success of your solutions.
+Work with internal and external data to build comprehensive customer risk profiles
+Evaluate risk operational processes to determine opportunities for efficiencies
+Provides reports on a regular basis, and as directed or requested, to keep senior management informed
+Other analytical and data driven duties as needed
+Preferred Qualifications
+Bachelor's degree or higher in a quantitative field (Statistics, Math, Science, Engineering, Business, Economics, Finance)
+4+ years of experience in related field
+Experience in data extraction, analysis, SQL, R, Python, Tableau, Splunk all a plus
+Ability to work under pressure in fast-paced environment
+Great communication and data driven storytelling skills
+Strong attention to detail
+Solution-Oriented with appetite to test and learn quickly
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:21:25.065815

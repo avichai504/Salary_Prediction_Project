@@ -1,0 +1,85 @@
+Power BI Developer
+Salary Range: 70 – 100k
+Queryon is looking to fill a Power BI developer role.
+The Business Intelligence Developer will deliver focused reporting and business analysis. BI developer will understand business problems/challenges and create solutions that address these. Primary responsibilities include development of ad hoc reports, SQL tools (SSRS/T-SQL), Power BI and/or Tableau.
+Qualifications
+Prior consulting experience (a plus but not required)
+Experience with Microsoft Stack (Azure, PowerApps, PowerBI, Javascript, C#, .NET, etc.)
+Experience with SQL (DAX experience is a big plus)
+Experience with PowerBI report development
+Experience with Power Apps
+Excellent visual skills (require portfolio of previous work)
+Attention to detail
+Excellent communication skills
+Flexible and focused on solutions
+Organized and self-sufficient
+Evidence of a deep understanding of technology by way of proven work history / technical accomplishments or a college degree in Computer Science, Management of Information Systems, AI, Analytics, or equivalent.
+Prior experience creating reports for project controls (i.e. work with construction companies – a plus but not required)
+Responsibilities
+Develop complex logic for reports and data analysis using advanced functionality within Microsoft SQL tools (SSRS/T-SQL), Crystal Reports and/or Tableau/Power BI or other reporting applications.
+Design, develop, deliver and maintain efficient reports, visualizations and dashboard solutions to enhance end users understanding of information.
+Prepare and present concise summaries to explain findings, limitations and recommendations based upon actionable insight.
+Uses and refines if needed financial and business requirements related to reporting applications support for the applications.
+Assess and estimate requests to determine scope and effort required.
+Understand and learn workflows to translate between the transactional system and the data repository.
+Obtain and maintain Data Model and/or reporting tools certifications or training as needed and/or maintain current knowledge via self-study for reporting tools and reporting programming techniques.
+Perform proper testing and validation techniques to insure accuracy and integrity of reported or extracted data and document the unit test and validation processes used
+Benefits
+Health insurance benefits
+Generous unlimited PTO / sick leave
+401(k) plan with employer match
+Home office stipend
+Quarterly bonus structure
+Work remotely from anywhere in the US!
+About Queryon
+During the summer of 2015, with just a few staff, we decided to build a lean company, one that fits with today’s economy and values. To us, that means no office space, working anywhere in the world, with all the latest tools and techniques adopted from day one. You can read our business plan here:
+Over the many years we have worked together we have discussed and refined what we believe makes a good service provider. We came up with several core values—
+Data safety is job 1
+Inaccurate, leaked, or accidentally deleted data is intolerable. Data accidents can threaten people's physical safety or cause businesses to fail. Data safety is the most critical objective and is everyone's responsibility
+Focus on the client
+Think about problems and solutions from the client perspective first
+Communicate early and often
+Good, bad, or otherwise, we let our clients and teammates know what's going on
+Sometimes you should paint outside the box
+Follow the rules, but don't follow them off a cliff. Take time to stop and look around – what is the client really asking? Is there a way to get from A to B cheaper? Smarter? Simpler? Bring it up, do it, don't let the "box" define sub-optimal delivery – you have permission as Queryon to break out of bounds to deliver excellence
+Be creative explorers
+To provide value in the creative age, we foster an environment that promotes creative, imaginative, and exploratory staff. We embrace change, sometimes we drive it
+Be inclusive and diverse
+Diversity and inclusiveness build stronger teams. We don't tolerate racism, bigotry, discrimination in the workplace. We won't do business with people that aren't aligned with those values, including customers
+Maintain life-work balance
+High performance starts with balancing personal life and work. We put "life" before work – that's the way it should be. We still make a profit and believe you can do that and have successful lives at the same time
+Keep learning and level up
+Stay ahead of the status quo and complacency. A world that is continually innovating means we need to keep investing in our people with training. It's our job to be looking at new technology and staying up on the latest advancements in our field
+Keep calm and Queryon
+People hire us to handle complicated, tough, and sometimes terrifying situations. We bring the level head; we introduce the calmness. Low drama, easy to work with, occasionally cracking a joke or two. It's grit with a touch of humor
+Job Type: Full-time
+Pay: $70,000.00 - $100,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Compensation package:
+Yearly bonus
+Experience level:
+3 years
+Schedule:
+8 hour shift
+Experience:
+Power BI: 3 years (Required)
+SQL: 3 years (Required)
+Dashboard solutions: 3 years (Required)
+Business consulting: 2 years (Required)
+Data lake: 2 years (Preferred)
+Data warehouse: 2 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 21:16:01.768333

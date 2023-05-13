@@ -1,0 +1,68 @@
+The Software Developer I is responsible for developing and maintaining software applications using Java and/or JVM-based languages. To accomplish responsibilities, the Software Developer I will work closely with team members to design, develop, test, and deploy high-quality software applications.
+Compensation:
+$65,000 - DOE
+Responsibilities:
+Design, develop, and enhance software systems according to technical design documentation and business requirements.
+Develop code with high standards that is clean, efficient, and maintainable.
+Collaborate and work with teams in an agile environment to deliver projects in a timely manner.
+Develop and deliver technical solutions for the business to meet customer and business needs.
+Participate in the installation and testing of software systems and integrations including 3rd party integrations.
+Monitor production software to ensure the system operates in conformance with specifications.
+Document software design, development, and testing processes.
+Follow develop software best practices and standards.
+Participate in team meetings as needed.
+Debug and troubleshoot software issues.
+Miscellaneous tasks as directed.
+Qualifications:
+Skills & Abilities
+Required
+
+Basic understanding of OO design and common OO patterns as well as RDBMS concepts and SQL
+Familiar with object-oriented programming (OOP) principles
+Familiar with relational database concepts
+Familiar with test-driven development (TDD) and Business Driven Development (BDD) methodology
+Know the IDE used in the primary area(s) of work
+Understanding of appropriate revision control systems and code repositories
+Access and use documentation, requirements, etc. independently in the course of daily work
+Understand security protocols, practices, and what constitutes PII
+Preferred
+
+Insurance industry software experience (Guidewire InsuranceSuite)
+Strong SQL skills and an understanding of ORM concepts
+Experience with MVC patterns and frameworks
+Test Driven Development experience and creating meaningful Unit tests
+Development experience with 1 or more of the following languages and technologies:
+
+Java, Gosu, Groovy, or other JVM languages
+DevOps (Jenkins, Docker, CI/CD Pipelines, GitLab)
+Grails
+Micro services (REST or other)
+Node JS or equivalent
+WebSphere MQ and/or JMS
+Angular, React, iOS/Android, and or React Native
+Education: Bachelor’s Degree or equivalent experience in Computer Science, Business Informatics, or related field preferred.
+About Company
+
+Employee Benefits
+Our employees are rewarded with a competitive salary, a benefit program that recognizes the diverse needs of our employees, and the security of a well-established company. Some of our employee benefits include:
+Health
+Dental
+Life
+Vacation
+Sick Leave
+Holidays
+Major Medical
+Flexible Schedules
+Industry-Specific (insurance)
+Employee Profit Sharing Bonus
+Loans/Savings and Investments available through Farm Bureau Finance Company
+Cancer, Accident, and Short-Term Disability insurance plans are also available
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:32.095782

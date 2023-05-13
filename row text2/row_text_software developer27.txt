@@ -1,0 +1,31 @@
+Job Description Summary:
+We are seeking a highly motivated and skilled Junior Front-End Developer with experience in Magento framework to join our development team. The ideal candidate should have a strong foundation in front-end technologies such as CSS, JavaScript, jQuery, and Python and be familiar with Magento architecture and development practices.
+Job Description:
+Responsibilities:
+Work closely with the development team to implement front-end solutions for Magento-based e-commerce site
+Create and maintain custom themes and templates using Magento’s layout system and XML configuration files
+Implement responsive designs that work seamlessly across different devices and screen sizes
+Optimize website performance and page load speed through efficient front-end development techniques and tools
+Stay up-to-date with the latest front-end technologies and trends and apply them to enhance the user experience and functionality of our websites
+Collaborate with designers, project managers, and other stakeholders to ensure high-quality deliverables and timely project completion
+Requirements:
+Bachelor’s degree in Computer Science, Software Engineering, or related field
+3-5 years of experience in front-end development, preferably with Magento framework
+Proficiency in CSS, JavaScript, jQuery and Python
+Familiarity with Magento’s architecture and development practices, including the use of layout XML, blocks, and templates
+Experience with version control systems such as Git and SVN
+Knowledge of front-end optimization techniques and tools such as minification, concatenation, and caching
+Strong problem-solving and analytical skills, with a keen attention to detail
+Excellent communication and collaboration skills, with the ability to work effectively in a team-oriented environment
+If you are a self-motivated and results-driven front-end developer with a passion for creating engaging and user-friendly websites, we would love to hear from you. Apply today and join our team of talented professionals!
+Additional Job Description:
+Apply Now: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:31:55.768107

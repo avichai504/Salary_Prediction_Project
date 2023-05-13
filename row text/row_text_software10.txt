@@ -1,0 +1,42 @@
+Role: Test Engineer
+Client: HPE
+Duration: 3+ months
+Location: 100% remote
+Skills: Scripts using Inflectra Rapise with Spiraplan
+Required Knowledge, Skills, and Abilities
+· Design test architecture (e.g. test automation framework) for the team to use across the
+development environments
+· Responsible for creation, execution and maintenance of manual and automated testing scripts using
+Inflectra Rapise with Spiraplan
+· Must have the ability to work independently and also have a positive attitude, effective
+communication skills, be familiar with agile methodologies
+· Working knowledge of system testing and software quality assurance best practices and
+methodologies
+· Experience in automation, web application testing, regression testing, test plan generation, and
+bug/defect tracking and reporting
+· Hands-on experience with scripting in automation frameworks. Spiraplan Rapise is preferred.
+Otherwise experience with other automation frameworks is desired, such as Protractor or Selenium
+with a willingness to quickly learn Spiraplan Rapise through independent training.
+· Experience with Microsoft technologies
+· 5+ years’ industry experience with test automation.
+Job Type: Contract
+Pay: $40.00 - $50.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Rapise: 2 years (Required)
+Spiraplan: 2 years (Preferred)
+Test automation: 4 years (Preferred)
+Work Location: Remote
+Speak with the employer
++91 9056783206
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:28.493127

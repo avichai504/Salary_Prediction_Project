@@ -1,0 +1,36 @@
+Acklen Avenue is a trusted partner in outsourced development. We help ambitious companies accelerate software delivery by providing complete agile development teams as well as staff augmentation.
+
+Acklen Avenue offers more than talent. Our dedicated teams offer a mature product development process, staffed with experienced, full-time experts. And our staff augmentation offering delivers fully vetted and Acklen approved individual developers to add the right skills when and where you need them.
+WHO YOU ARE
+You’re a Jr. React Full stack Developer, with a basic understanding of web development, and a willingness to learn React, Node.js, and related technologies. As a Junior React Full stack Developer, you will work with a team of developers to develop and maintain web applications.
+POSITION ACCOUNTABILITIES
+Develop and maintain web applications using React, Node.js, and related technologies.
+Collaborate with cross-functional teams to design, develop, and implement new features and enhancements.
+Write clean, well-designed code that adheres to best practices and standards.
+Ensure the performance, quality, and responsiveness of web applications.
+Identify and troubleshoot software defects and bugs.
+Participate in Agile development practices, including daily stand-ups, sprint planning, and retrospectives.
+Continuously learn and improve your skills in React, Node.js, and related technologies.
+POSITION SKILLS & REQUIREMENTS
+Basic knowledge of HTML, CSS, and JavaScript.
+Familiarity with React and its core principles.
+Familiarity with Node.js and related web frameworks (e.g. Express, Koa) is a plus.
+Knowledge of version control systems (e.g. Git).
+Good problem-solving skills and attention to detail.
+Good communication and collaboration skills.
+Willingness to learn Agile development methodologies and practices.
+CORE VALUES
+At Acklen, we are committed to creating a place for people to grow and improve their lives. We really care about growing people. We are not Messing Around.
+Committed to Personal Growth
+Seek First to Understand
+Bring Out the Best in Others
+Solutions-Oriented
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 18:19:39.086035

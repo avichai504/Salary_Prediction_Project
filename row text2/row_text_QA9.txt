@@ -1,0 +1,36 @@
+QA Tester
+Merrifield, VA
+
+JOB
+JOB TITLE: Test Engineer Fairfax, LOCATION: VA
+Main Responsibilities:
+The candidate must be able to meet the following qualifications to be considered for this position:
+Basic working knowledge and experience with manual and automated testing.
+Ability to clearly write test plans (to include objectives, methodologies, instrumentation requirements,
+analysis, safety, etc.) and test procedure documents.
+Good analytical and problem-solving skills to successfully lead the test planning and test execution of
+software enhancements.
+Perform independently to drive the QA process towards automation.
+Play a central role in coordinating with multiple teams to standardize the QA process.
+Assist with the operation, implementation, maintenance, upgrading, testing, and integration of software.
+Provide technical assistance and support to team members in the operation and use of IT resources,
+including desktop operating system and applications.
+Some teleworking is allowed
+Position requirements:
+The candidate must have prior experience with the following:
+At a minimum, Bachelor’s degree in related discipline.
+At least 1-3 years IT experience with a focus in software testing.
+At least 1-3 years of experience with QA methodologies (Test Plan, Test Cases, Test Scripts, Bug
+Reporting).
+Contact information:
+Please Submit Resumes to hr@code-plus.com
+2750 Prosperity Avenue, Suite 230, Fairfax, VA (703) 846-0030 code-plus.com
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:47:50.186582

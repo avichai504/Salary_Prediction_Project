@@ -1,0 +1,53 @@
+DISQO is changing the way that the world’s largest brands, agencies and media companies get to know their customers. DISQO is the customer experience (CX) intelligence platform for understanding every customer experience. Businesses trust DISQO to power better decisions for every customer, touchpoint, and outcome. DISQO’s insights, agile testing and advertising measurement products are powered by millions of consumers on the industry’s largest opt-in consumer data platform.
+
+Check out the DISQO Developer Blog for the latest from our DISQOTECH team.
+
+Duties:
+Analyze information to determine, recommend, and plan installation of a new frontend system application.
+Create automation tools and frameworks that will ensure the integrity, scalability and performance of the application.
+Optimize software systems through complex metrics to enhance software efficiency.
+Use Continuous Integration (CI) tools to enable real-time feedback to test and deploy future systems through automation in an agile manner.
+Collaborate with Product Managers to create optimal software to reduce team backlog.
+Requirements:
+Master’s degree in Computer Information Systems, Computer Science, or in a related field.
+Two (2) years of experience in job offered, or as a Software Engineer, Software Developer, or in a related occupation.
+Must have experience/knowledge with Angular, Typerscript, Javascript, Node js, Nx js, HTML5, CSS3, SCSS, Angular Material, Rxjs and experience with Frameworks.
+$110,000 - $130,000 a year
+Your pay will be determined by your experience, work location, and other applicable factors.
+ADDRESS(ES) OF EMPLOYMENT : 400 N. Brand Boulevard, Suite 600, Glendale, CA 91203. (Telecommuting is an optional benefit of employment and employee may live anywhere in the U.S. Occasional work at headquarter maybe required.)
+
+#LI-DNI
+
+Perks & Benefits:
+
+100% covered Medical/Dental/Vision for employee, 80% for dependents
+Equity
+401K
+Generous PTO policy
+Flexible workplace policy
+Team offsites, social events & happy hours
+Life Insurance
+Health FSA
+Commuter FSA (for hybrid employees)
+Catered lunch and fully stocked kitchen
+Paid Maternity/Paternity leave
+Disability Insurance
+Travel Assistance Program
+24/7 Counseling Services offered to Employees
+Access to personal and professional growth tools - Calm App & LinkedIn Learning
+2023 End of year recess
+
+Note: The benefits noted above are for full time US based employees only.
+
+DISQO is an equal opportunity employer. Discovery, innovation, and growth are possible when we open ourselves to new possibilities, perspectives, and approaches. That’s why, at DISQO, we welcome, support, and empower individuals from diverse backgrounds. Exceptional teams are rooted in extraordinary people, each with a unique story and a compelling set of skills. DISQO does not discriminate against employees based on race, color, religion, sex, national origin, gender identity or expression, age, disability, pregnancy (including childbirth, breastfeeding, or related medical condition), genetic information, protected military or veteran status, sexual orientation, or any other characteristic protected by applicable federal, state or local laws.
+
+Recruiting firms that submit resumes to DISQO without first entering into a written contract will not be entitled to any compensation on candidates referred by that firm.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:31:37.371397

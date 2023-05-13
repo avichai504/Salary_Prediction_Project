@@ -1,0 +1,27 @@
+Banking Domain
+Responsible for the planning, integration, test casing, scripting, and execution of all testing to ensure proper coverage
+Schedules and leads test deliverables review sessions as necessary
+Work on multiple projects/systems as a project team member and are considered to be a subject matter expert for a single project/system.
+These projects are of moderate to high complexity within one or more development environments;
+Collaborate with the BSA and Development teams in the analysis and review of business objectives and requirements to ensure requirements are testable
+Collaborates with Project Test Lead on estimating the test efforts;
+Collaborates with the project team to support UAT efforts as needed; Maintains the regression test bed to meet changing requirements
+Job Type: Contract
+Salary: $50.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Ability to commute/relocate:
+Columbus, OH 43219: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Banking Domain: 2 years (Preferred)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:47:30.347018

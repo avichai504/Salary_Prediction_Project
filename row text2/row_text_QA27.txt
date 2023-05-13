@@ -1,0 +1,62 @@
+You…
+The Test Engineer works with agile teams and Test manager to automate testable test cases, user stories, Acceptance Criteria and the Definition of Done. This role will have moderate experience in conducting automated test efforts using commercial and open-source test automation tools for complex software development projects. The ideal candidate for this role has an impeccable attention to detail, a solid experience in software quality engineering and understanding of commercial and opensource test automation tools and frameworks. You should work well with people of differing experience levels. Some of the specific functions are as follows:
+Ensures that every phase and feature of the system is tested and that issues are identified and fixed before the product goes live.
+Takes responsibility for all phases of testing activities in an Agile environment.
+Reviews and analyzes the requirements/stories/tasks and identifies the test scenarios for automation.
+Designs manual test plans, test scenarios, reusable test cases in a test management tool.
+Executes manual test scripts and automated scripts.
+Prepares reusable test data for manual and automated test cases for every test scenario.
+Works closely with other testers, Business analysts and identifies the good candidates for test automation and automates the test cases.
+Documents software defects in a bug tracking tool and reports defects.
+Monitors defect resolution efforts and tracks progress and status.
+Creates BDD [Behavior Driven Development] test cases using Cucumber feature files.
+Performs functional, regression, performance, security, and usability testing of the system.
+Designs & executes test automation scripts.
+Maintains test automation scripts with high quality.
+Designs performance testing scripts using performance test tools like JMeter etc.
+Under limited supervision, carries out the day-to-day activities as Test Engineer.
+Prepares reusable test data for every test scenario irrespective of environment.
+Contribute to story point estimates based on level of effort.
+Review, Verify and evaluate the test results.
+Testing of new stories in the sprint and automating the test scenarios.
+Test case/test scripts peer reviews.
+Review and analyze the stories for any ambiguity, better clarity, completeness, testability, acceptance criteria definition.
+Us…
+We were founded as a fresh alternative in the Government Consulting Community and are dedicated to the belief that results are a product of analytical thinking, agile design principles and that solutions are built in collaboration with, not for, our customers. This mantra drives us to succeed and act as true partners in advancing our client’s missions.
+Program Mission…
+This program delivers a mix of Lean-Agile, DevSecOps, and Human-Centered Design (HCD) support including product management, user research, UI/UX design, and Agile facilitation in support of the modernization of acquisition processes and tools. You’ll join a team that embraces a Lean-Agile / DevSecOps culture to promote innovation, measurement and continuous improvement, and high-quality support services delivering business value and outcomes to our customers and partners.
+Requirements…
+Has a tester mindset, is curious and can come up with interesting test scenarios.
+Experience with test management tools such as Test Rail
+Experience with testing tools/frameworks such as Selenium, RestAssured, Cucumber, Junit, TestNG, JMeter
+Experience in testing Web based applications and APIs.
+Minimum of 3 years of experience as a Test Engineer with primary focus on test automation
+Minimum of 3 years of experience in developing test automation scripts using tools like Selenium, RestAssured, JMeter, Junit etc
+Minimum of 3 years of experience in working with Selenium based test automation frameworks.
+Experience with GitHub/GitLab/Bitbucket
+Experience with programming languages, tools, and data exchange formats such as Java, JSON, SQL
+Experience working as part of an agile scrum team.
+Minimum 3 years of software testing experience through a full system development life cycle, including implementing test plans, test cases, and test procedures.
+Minimum 3 years of experience in analyzing test data and test results.
+Minimum 3 years of experience in software quality assurance
+Minimum 3 years of experience in performing functional, integration, system, regression, and performance testing in an Agile Scrum environment.
+Minimum 3 years of experience in documenting test results for corrective actions, reports, and audits
+Experience with issue tracking, collaboration, and documentation tools like Jira and Confluence
+Desired Experience:
+Prior experience in working with the Centers for Medicare and Medicaid Services (CMS) is a plus
+Experience with test and environment orchestration using Jenkins or similar orchestration tools as well as container technologies such as Docker.
+Knowledge in designing & implement customized test automation frameworks as needed using open source and commercial tools.
+Ability to incorporate individual contributions to automation repository.
+Knowledge of AWS services to test AWS related tasks
+Years of Experience: 3 years of related work experience (see more under “Requirements”).
+Education: Bachelors’ degree in a related discipline.
+Clearance: Must be able to obtain and maintain a federal Public Trust/Suitability, which includes a requirement of U.S. residency for three out of the last five years.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:43.667529

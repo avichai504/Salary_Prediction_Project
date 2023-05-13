@@ -1,0 +1,51 @@
+Title: IT Software Development Advisor
+Location: Memphis, TN
+Description:
+Description:
+**This position is Contract to Hire and Open to Remote**
+MANAGER'S NOTES:
+Structured programming languages (5+ years), C#.net (1+ years),
+Java (1+ years),
+JavaScript/React/Typescript (2+ years)
+MariaDB/SQL Server/SQL (3+ years)
+IT Software Development Advisor Exempt
+PRIMARY PURPOSE: To design, develop, maintain, test and debug software and applications; to determine the impact of new programs on and ensure compatibility with existing systems; to develop expertise in and assume responsibility for one or more specific system functions; under general supervision, to formulate/define system scope and objectives; to devise or modify procedures to solve complex problems considering computer equipment capacity and limitations, operating time and form of desired results; in some cases, to be responsible for project completion; and to provide guidance and training to other analyst/programmers.
+ESSENTIAL FUNCTIONS and RESPONSIBILITIES
+Becomes familiar with all aspects of the application, including reports, parameters, claims management, intake services, carrier/client interfaces and vendor/business partner interfaces.
+Assumes responsibility and develops expertise for a specific area of functionality of the application.
+Analyzes user needs, as required, and leads in the design of specifications to meet those needs.
+Develops and maintains software to meet the specifications outlined in data processing requests.
+Assesses requirements of insurance carriers and regulatory groups; leads in the design and development of software to meet those requirements.
+Tests and debugs software; assists in testing projects for other analyst/programmers.
+Prepares documentation for assigned projects and completes the paperwork necessary to release the project.
+Assists in the professional growth of other analyst/programmers.
+Follows departmental pre-established standards and guidelines as applicable to design and development.
+Adheres to the goal of delivering and maintaining the highest quality of customer service to clients.
+Keeps up-to-date with technology changes and direction.
+Job Type: Contract
+Pay: $60.00 per hour
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Experience:
+Structured programming languages: 5 years (Required)
+Java: 1 year (Required)
+JavaScript/React/Typescript (2+ years): 2 years (Required)
+MariaDB/SQL Server/SQL (3+ years): 1 year (Required)
+C#.net (1+ years),: 1 year (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: MASTER
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 12:31:33.871529

@@ -1,0 +1,44 @@
+The Challenge:
+Do you want to build software that solves enterprise-scale challenges while learning and growing your skills?
+This role is more than just coding. Our junior developers use their passion to learn new tools and techniques and apply them towards identifying and delivering needed software solutions. You will learn software development principles and how to apply them through various development methodologies, including Scrum, Scaled Agile Framework, and Kanban. Our goal in hiring a junior developer is to match your intensity and passion for software development with our deep experience in the practice of software delivery to help deliver products for our customers and to evolve your career.
+Join us. The world can’t wait.
+You Have:
+Experience with Java, Python, and JavaScript in industry or academic environments
+Experience with researching, designing, developing, or modifying enterprise-wide systems or applications software in an internship or academic environment
+Knowledge of Web protocols and services
+Ability to work independently and within a team
+Ability to obtain a security clearance
+HS diploma or GED
+Nice If You Have:
+Experience with Agile software development processes and tools, including Atlassian Tool Suite
+Experience with documenting testing and maintenance of system corrections
+Knowledge of Oracle or MS Structured Query Language
+Possession of excellent analysis and problem solving skills
+Bachelor's degree
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+Build Your Career:
+A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to:
+experts in virtually every field
+a culture that focuses on supporting our employees
+opportunities that provide stability while offering variety
+You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, on-site boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+Compensation
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $49,900.00 to $102,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees.
+Work Model
+Our people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.
+If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.
+EEO Commitment
+We’re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change – no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law.
+Apply Now: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:31:42.414713

@@ -1,0 +1,51 @@
+Company Overview
+
+At Modernize (a QuinStreet division) our mission is to simplify home improvement by inspiring motivated homeowners and connecting them with qualified contractors. Our foundation is based on 10 years as a driving force as Home Improvement Leads in online lead generation – connecting homeowners with high–quality contractors – in the $300 billion annually grossing home improvement market. We're working hard on a new brand and new products to cater to homeowners and the most successful contractors in the industry.
+
+We're looking for sharp, motivated individuals to join our growing team. Teammates who enjoy using technology to solve problems will thrive in our dynamic startup environment. We have an open floor plan that encourages the entire team to participate in critical discussions and allows everyone to be a vital contributing factor. You'll enjoy our hip, newly renovated office in the heart of downtown with a view of the capital and the downtown skyline.
+
+Covid-19 Hiring Update: As a company, we've transitioned to a work-from-home model and will continue to interview and hire during this time. This role is expected to begin as a remote position. We understand each person's circumstances may be unique and will work with you to explore possible interim options.
+Job Category
+Are you a self-motivated critical thinker who is driven to succeed and likes to have fun doing it? Our downtown office space has an open floor plan that encourages collaboration and pushing each other to be our best. We take care of our team as well; a solid benefits package, quarterly bonuses, regular company outings, free coffee, beer, snacks, music, and great co-workers are all included with employment at Modernize Home Services.
+
+In this position, you will research, design, build, test, deploy, and maintain web applications and microsites. Your knowledge of web development and user experience combined with programming skills will be put to the test as you build out websites that optimize the experience of millions of online users. Working in a tight-knit team environment, you will participate in design discussions, code reviews, sprint planning, and deployments. We are seeking applicants that have a passion for front-end development and a desire to learn and grow quickly.
+
+Responsibilities
+Develop mobile-first responsive websites
+Build websites with an eye on usability, conversion, and attention to detail
+Participate in the refinement and ideation of user interface A/B tests
+Define new features that ensure a high performing and scalable user experience for all users
+Collaborate with peers on technical design, work estimation, and feature implementation
+Participate in sprint planning by understanding the effort, risk, and priority of remaining work committed for each release
+Perform peer code reviews and collaborate with the team to improve overall code quality
+Contribute ideas for continually improving the team's productivity, release quality, and job enjoyment
+
+Experience
+6 months of full-time experience in web development (HTML/CSS/JavaScript).
+Solid grasp of best practices for front end development
+Excellent communication skills with the ability to present and translate complex information to internal teams
+Experience translating a design from Sketch or Adobe Photoshop into code
+Nice to haves:
+Understanding of front-end build processes including gulp and webpack
+Experience with SQL and databases
+Experience with Agile Scrum
+Experience with CMS platforms like WordPress
+Experience with React and consuming API's
+Who you are:
+Loves to solve problems
+Motivated, driven, and works well autonomously
+Always researching a better, more efficient way to build something
+
+The expected salary range for this position is $65,000 USD to $75,000 USD annually. This salary range is an estimate, and the actual salary may vary based on the Company's compensation practices. The salary may be adjusted based on applicant's geographic location. The position is also eligible to receive performance bonus or commission and equity in the form of restricted stock units. This position is eligible to participate in the Company's standard employee benefits programs, which currently include health care benefits; (2) retirement benefits; (3) the amount of paid days off (paid sick leave, parental leave, paid time off, or vacation benefits); (4) any other tax-reportable benefits.
+#LI-REMOTE
+Modernize (a QuinStreet division) is an equal opportunity employer. We do not discriminate based on race, color, religion, national origin, pregnancy status, sex, age, marital status, disability, sexual orientation, gender identity, or any other characteristics protected by law.
+Please see QuinStreet's Employee Privacy Notice here.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-09 16:37:59.790816

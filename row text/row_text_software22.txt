@@ -1,0 +1,53 @@
+Entry-level Software Developer
+BeaconFire Corporation based in Central NJ, specializing in Software Development, Web Development, and Business Intelligence is looking for candidates with a strong background in Software Engineering, Computer Science, for Java / Software Developer position.
+Job Responsibilities:
+· Develop applications using Java 8/JEE (and higher), AngularJS, React.js, SQL, Spring, and HTML5, among other tools.
+· Write scalable, secure, maintainable code that powers our clients’ platforms.
+· Create, deploy and maintain automated system tests.
+· Works with Testers to understand defects opened and resolves them in a timely manner
+· Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review
+· Collaborates effectively with other team members to accomplish shared user story and sprint goals
+Requirement:
+· Experience using Spring, Maven, and Angular frameworks, HTML, CSS
+· Experience in a programming language Java or similar (e.g. Python, C, C++, C#, etc.) and understanding of the software development life cycle
+· Basic programming skills using object-oriented programming (OOP) languages with in-depth knowledge of common APIs and data structures like Collections, Maps, lists, Sets, etc.
+· Knowledge of other contemporary Java technologies (e.g. Weblogic, RabbitMQ, Tomcat, etc.)
+· Knowledge of JSP, J2EE, and JDBC
+· Knowledge of relational databases (e.g. SQL Server, Oracle) basic SQL query language skills
+Preferred Qualifications:
+· Master’s Degree in Computer Science (CS)
+· 0-1 year of practical experience in Java coding
+BeaconFire Corporation is an e-verified company, and we provide sponsorship (H1B Visa/Green card) to all qualified candidates.
+Job Type: Full-time
+Pay: $60,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Relocation assistance
+Retirement plan
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Education:
+Bachelor's (Preferred)
+Experience:
+Java: 1 year (Preferred)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: MASTER
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 18:19:52.992540

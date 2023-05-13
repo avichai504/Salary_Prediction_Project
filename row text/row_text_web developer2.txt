@@ -1,0 +1,45 @@
+This position is based onsite in our headquarters office in Park City, Utah.
+The Web Developer is responsible for collaborating with the marketing, creative, merchandising, and user experience teams to manage and execute on-site marketing promotions. The core responsibilities include content management, front-end development (html/css/js), troubleshooting bugs related to promotions and CMS tools, some KPI analysis. Marketing promotions include visual banners, guides/lookbooks, shipping offers, and discount codes. This is a highly collaborative position and will work with multiple departments across the organization. The ideal candidate is a self-starter who can support a fast paced marketing calendar and adapt to changing priorities.
+
+ESSENTIAL DUTIES & RESPONSIBILITIES:
+Responsible for testing and QA on all site marketing campaigns before launch, including responsive functionality across all devices/browsers
+Responsible for coordinating day to day aspects of all onsite marketing campaigns for multiple retail sites, including creation of banners, landing pages, and collections
+Support marketing analytics through tracking code creation, management, HTML implementation, and troubleshooting
+Develop approach to QA to ensure reliable delivery, and partner with business teams such as engineering to scale successful approaches
+Development and maintenance of cart promotions
+Collaborate with design team to incorporate scalable visual design with functional user interactions
+Support marketing and business projects to enable A/B testing for dedicated pages, promos/customer experience evaluation, etc.
+Troubleshoot coding issues and bugs relating to content management
+QUALIFICATIONS, SKILLS & ABILITIES:
+1-2 years of Web Development experience
+Fluent in HTML/XHTML and CSS
+Understanding and implementation of mobile and responsive code development and best practices
+Experience with Javascript development
+Strong organizational/time management skills and acute attention to detail
+Demonstrated ability to handle multiple projects successfully under tight deadlines
+Ability to collaborate across multiple departments in multiple disciplines
+Excellent communication skills
+CSS3, HTML5 proficiency highly desirable
+E-commerce site development experience preferred
+Proficient with cross-platform and browser compatibility issues
+ABOUT BACKCOUNTRY:
+Seek it. Find it. Send it. We help customers seek the perfect gear for their backcountry, find their awe, and send it their way. Through our five brands—Backcountry, Competitive Cyclist, MotoSport, Bergfreunde, and Steep&Cheap—we give our customers the gear, knowledge, and inspiration they need to chase life’s greatest moments. We foster local outdoor communities around the locations of our expanding number of retail stores, and we’re actively creating a more inclusive and equitable outdoors for all through our Diversity, Equity & Inclusion initiatives.
+
+We’re a company of Gearheads and we offer personalized expertise at every level of the organization. This means we curate the best assortment of premium gear and apparel, a premium shopping experience, personalized Gearhead advice, super-fast and accurate fulfillment, and aspirational and informative content.
+
+We take growth and personal fulfillment seriously. For our employees—aka, our Herd—this means career growth potential and the ability to take ownership and make an impact daily. We offer perks like an exceptional gear discount, an annual summer Adventure Contest, summer barbecues, and a pet-friendly office.
+
+When you join the Backcountry Herd, you join a crew that is passionate about their jobs and equally stoked on the outdoors. Pre-dawn skintrack laps are the norm, MTB rides are our lunch break, and you’ll regularly find coworkers hitting the trail together post-work. Benefits are competitive and include medical, dental, vision, and disability & life insurance, paid maternity and paternity leave, 401(k) matching, Flexible Spending or Health Savings Account.
+
+#LI-SE1
+#corporate
+To apply to this job, click Easy Apply
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-07 21:29:07.776649

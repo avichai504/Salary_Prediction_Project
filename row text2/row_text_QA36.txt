@@ -1,0 +1,49 @@
+The Company
+BetaNXT is the next wave in wealth management technology and outsourcing solutions. We focused on solving our customers' most demanding integration challenges with flexible, efficient, connected solutions. Our products reduce enterprise cost, streamline operation processes, increase advisor productivity, and enhances the investor experience. Together with BetaNXT, wealth management firms are transforming their platforms into differentiating assets that enable scale and commercial growth.
+But we're not just invested in our customers; we're also invested in people. We know that our overall success is a combined effort, and we therefore strive to provide opportunities for our employees to learn, grow and thrive.
+The Opportunity
+BETA is a self-clearing securities processing solution for wealth management firms. Built on years of expert knowledge and hands-on experience, BETA provides critical back-office controls including corporate action management, middle office exception management, and front office account management and trading tools for advisors. As a Quality Engineer you are accountable for the testing and overall quality of the deliverables your project team builds to enhance our suite of financial products. You will influence a cross-functional scrum team and be responsible for coordinating and executing end-to-end testing needs in partnership with the other members of your team and other teams. The role requires balancing time across multiple tasks or projects, learning and understanding complex brokerage-related concepts, quality reporting, performing independent test design, testing, and test documentation as well as strong situational awareness and relationship management skills.
+About the Team
+Reporting to the Manager, Quality Engineering, this role is part of a team responsible for designing, coding, and testing business logic changes to our core brokerage back-office processing platform (BetaHOST). The team operates in a SCRUM model and team members participate in daily Scrum meetings and require heavy collaboration within and across domain areas.
+What You’ll Do
+Using an analytical, engineering-focused approach and expert knowledge of product behavior to validate the team’s deliverables and ensure software is as functional and robust as the client or consumer needs. Core responsibilities will include:
+Planning
+Independently develop effective testing plans, test scenarios, test cases and requirements traceability for projects, all to company standards
+Seek out the necessary system and business documentation to allow you to fully understand the system change being made and develop test cases appropriately
+Define clear expectations for all testing tasks, including inputs, outputs and error conditions
+Design test cases with automation in mind
+Evangelize process adherence and company standards with your project team
+Testing
+Own your testing assignments from analysis to production validation
+Perform test data creation or setup for all planned test execution activities
+Execute the testing for your project team (manual and/or automated); may include functional, integration and regression as well as assisting with user acceptance testing
+
+Reporting and Metrics
+Proactively identify project risk and keep the manager informed of any identified risks
+Manage bug tracking and maintain accurate metrics for your team
+Track the results of testing and report on key metrics
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community
+
+Your Experience
+Bachelor's degree in computer science, information systems, or other technology field and 2-3 years of experience; preferably within the financial services/brokerage industry
+Experience in backend mainframe testing with knowledge of Copybooks, File Aid, TSO, Db2, SAR reports.
+Some experience with test automation tools, ex UFT
+Basic SQL knowledge
+Basic experience of API testing
+Solid understanding of JIRA
+Solid understanding of Excel and O365 products
+Excellent oral and written communication skills and work well in a team environment
+Ability to convert requirements into meaningful, effective, and detailed test cases
+Comprehensive understanding of test methodologies and techniques including White, Black, and Gray box testing; regression, negative, system, unit testing, etc.
+Software testing certification preferred but not required
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. Therefore, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under country or local law.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:49:16.782517

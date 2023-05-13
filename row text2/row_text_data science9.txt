@@ -1,0 +1,47 @@
+ROLE: AI Architect
+LOCATION: REMOTE(25% traveling)
+Job Description:
+Job Summary:
+We are looking for a Data Scientist/Machine Learning expert, who will support our clients with insights gained from analyzing their data. The data will be related to software testing from SDLC. The ideal candidate is skilled at using large data sets to find opportunities for process optimization and using models to test the effectiveness of different courses of action. Create new ai/ml use cases based on client data and need. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+Responsibilities:
+·Work with stakeholders throughout the organization and client to identify opportunities for leveraging company data to drive business solutions.
+·Consult on AI/ml offerings and present the findings from data science activities.
+·Mine and analyze data from client databases to drive optimization and improvement of use case development, marketing techniques and business strategies.
+·Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+·Develop custom data models and algorithms to apply to data sets.
+·Use predictive modeling to increase and optimize QA and other business outcomes.
+·Develop company A/B testing framework and test model quality.
+·Coordinate with different functional teams to implement models and monitor outcomes.
+·Develop processes and tools to monitor and analyze model performance and data accuracy.
+·Occasional Travel will be needed.
+Requirements
+·8+ Years of experience in Data Science, AI/ML and total IT experience of 12+ years.
+·R language experience is a must.
+·Experience with Python would be additional qualification.
+·Ability to learn new AI/ML tools and use them effectively.
+·Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+·Demonstrated experience data retrieval from various SDLC systems and analytic reporting databases.
+·Familiarity with databases and database query languages such as MySQL, Access, and SQL. Ability to interface effectively with client and work constructively on a team.
+·Excellent verbal and written communications skills.
+·Experience with NLP algorithms such as LSA, LDA, and QNLI. Experience with JIRA, Confluence, and GitHub. Knowledge of software engineering and structured software development.
+·Demonstrated ability performing statistical data analysis.
+·Experience with cloud computing environments and data science tools such as AWS, SageMaker, GCP and Databricks would be a plus
+Job Type: Contract
+Salary: $70.00 - $85.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Data Science, AI/ML: 8 years (Required)
+R Langusge: 5 years (Required)
+Work Location: Remote
+Speak with the employer
++91 9732980602
+Show Less
+Report
+
+
+Testing regine:
+Experience: 8
+Education: MASTER
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:21:36.770391

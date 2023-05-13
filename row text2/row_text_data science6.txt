@@ -1,0 +1,71 @@
+Senior Data Analyst
+Skill : Data Analyst + Erwin + Collibra
+Exp : 8+. years
+Location : United States
+Job Type :100% Remote
+Visa :US Citizen, GC, GC-EAD
+JOB SPECIFICATIONS:
+KNOWLEDGE: Include professional expertise/theories essential to perform the job, knowledge of equipment,
+technology, and software.
+Proficient in data modeling for both transactional and dimensional data warehouse databases.
+Proficient in creation of source to target mappings; mapping of tables, files, XML schemas, etc. from source
+to target
+Working experience with a standard data modeling toolset, working knowledge of ER/Studio a strong plus.
+Data mining skills (including data auditing, aggregation validation and reconciliation)
+Strong ability to work with SQL databases including working SQL knowledge of SQLServer and/or Netezza
+DBMS a plus.
+Data Analysis experience with data profiling and data validation.
+Data Quality understanding of DQ concepts and familiarity with DQ tools and methods.
+Communicate with customers to obtain data requirements and perform data analysis on data provided
+Working knowledge of Hadoop Platform and data components like Hive, Hbase, or Impala.
+Knowledge of real-time analytics and BI platforms such as Tableau
+Strong oral and written communication and presentation skills
+Ability to communicate complex findings and ideas in plain language
+Ability to work with teams towards a shared goal
+Ability to change direction quickly based on data analysis
+Ability to proactively seek clarification of requirements and direction
+SKILLS AND ABILITIES: Include talents the individual must possess, and capabilities acquired through nature,
+education, training, and experience. Please exclude generic requirements such as “ability to multi-task,” “ability to
+work with little supervision,” etc.
+Analytical/Problem Solving: Intellectual capacity and ability to gather, sort and analyze data and then
+develop logical conclusions; critical thinking skills; familiar with problem solving tools/techniques and able
+to communicate options, conclusions, and recommendations to both the business and the technology teams.
+Ability to creatively solve problems, deal with ambiguity and a changing environment
+Ability to meet concurrent, rigorous deadlines in a fast-paced environment
+Strong interpersonal skills. Must be influential and able to work effectively in a project team
+Department of Human Resources Page 2 of 2 February 2016
+Excellent written and verbal communication skills, must be able to communicate complex technical issues to
+all stakeholders, including those who do not have a technical background
+Presentation, communication, and diplomacy skills at all levels of the organization – C-level officers down to
+individual contributors.
+Technical Leadership – Provide technical leadership, mentorship, and guidance to others in all the above.
+What you’ll be doing:
+Analyze, create, maintain, and review complex objects and data models to align with project requirements.
+Complete source to target data mappings with detailed transformations to be used by developers in writing code.
+Write SQL to analyze, validate, or correct data according to project requirements; may include complex stored
+procedures, views, and functions.
+Measure and monitor data quality, review data issues, perform analysis and execute remediation plans according
+to company standards and procedures.
+Provide oversight and direction for the team to develop solution alternatives and recommendations for technology
+enabled business projects. Review recommendations and present findings to the business, data analysts,
+integration team, BI Services, and others as appropriate for a direction and/or decision.
+Perform review of deliverables and artifacts for projects and require any misalignment, quality, or compliance
+issues to be corrected.
+Research, evaluate, and recommend software packages and solutions for purchase and deployment.
+Participate in the hiring process as needed.
+Job Type: Contract
+Pay: From $70.00 per hour
+Experience:
+Data Analyst: 8 years (Required)
+Erwin: 8 years (Required)
+Collibra: 8 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 8
+Education: MASTER
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:21:31.808314

@@ -1,0 +1,70 @@
+BIICS, Inc is looking to fill a Java Developer position. The position is located in Tallahassee, Florida and work is onsite.
+This position will serve as an Application Developer focusing on the following technologies: Java/JEE and Oracle DBMS. This role supports ongoing maintenance needed to ensure the stability of applications residing in the department’s portfolio. The focus of this support work will focus on a specific Division’s application portfolio, however the team member may also be assigned to work on other projects and/or applications in the department’s application portfolio.
+Responsibilities:
+Provide maintenance, enhancement and support for a variety of the agency’s business applications.
+Assisting in the preparation and documentation of program requirements and specifications.
+Research and document requirements of program users.
+Writing, translating and coding software programs and applications per specifications.
+Assisting in the development and maintenance of user manuals and guidelines.
+Working with network administrators, systems analysts and software engineers to assist in resolving problems with software products or company software systems.
+Providing mentoring and guidance to junior programmers.
+Potential candidate must possess the following:
+7+ years’ experience with Java application development, leveraging frameworks such as Struts/Tiles, Struts 2, Servlets/JSP, and JPA/Hibernate
+5+ years’ experience with Oracle databases, possessing the capability to develop DML and DDL statements to produce very complex queries and PL/SQL database objects, including both DML and DDL
+3+ years’ experience with Javascript frameworks, such as AngularJS, NodeJS, React or JQuery
+3+ years’ experience as a full-stack developer
+Experience with responsive design frameworks, preferably Bootstrap
+Experience using code repositories, preferably Git
+Experience using continuous integration tools, preferably Jenkins
+Knowledge of relational database designs
+Knowledge of object-oriented design methodologies
+Knowledge of Information Systems Development Methodology (ISDM)
+Experience with database query tools (i.e., TOAD, SQL Developer, SQL Navigator)
+Knowledge of database security, including role-based security
+Knowledge and experience with Unified Modeling Language (UML)
+Ability to be creative, to use sound judgment, and to display foresight to identify potential problems and design/specifications and assigned application software systems
+Ability to establish and maintain effective working relationships with others
+Ability to work independently
+Ability to determine work priorities and ensure proper completion of work assignments
+Ability to work well under pressure and meet deadlines without sacrificing quality
+Excellent interpersonal, collaborative, oral and written communication skills
+Preferred Knowledge, Skills & Abilities (KSAs):
+Oracle certification(s)
+Familiarity with Agile development, specifically Scrum, Extreme Programming (XP) and Kanban.
+Experience with Virtualization, preferably Docker
+Experience implementing GIS (Geographic Information System) applications
+Experience developing web services, preferably RESTful web services
+Experience with environmental regulatory business processes and practices
+Business Intelligence & Informatics Consulting Services, Inc. (BIICS, Inc) is a business and information management solutions company serving clients in both the public and private sector. With access to new opportunities every day, BIICS, Inc is a premier source for placing highly skilled individuals with the most sought-after career opportunities and salaries.
+Please send resumes or inquiries to careers @ biics.comfor more information regarding this or other potential positions you may be interested in.
+Job Types: Full-time, Contract
+Pay: $50.52 - $72.00 per hour
+Benefits:
+Health insurance
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Tallahassee, FL 32399: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Bachelor's (Preferred)
+Experience:
+Java application development,: 7 years (Required)
+Oracle databases: 5 years (Required)
+Javascripts frameworks: 3 years (Required)
+full-stack development: 3 years (Required)
+code repositories, preferably Git: 1 year (Required)
+continuous integration tools: 1 year (Required)
+relational database: 1 year (Required)
+knowledge of ISDM: 1 year (Required)
+database query tools: 1 year (Required)
+UML: 1 year (Required)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: 7
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:32:06.979178

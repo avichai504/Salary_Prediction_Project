@@ -1,0 +1,53 @@
+Senior Java Developer - Full Stack
+We are looking for a highly skilled and experienced Senior Java Developer with a strong background in modern Java technologies, J2EE, Spring, Spring Boot, Oracle, as well as expertise in developing APIs/RESTful services and front-end development using Angular. As a Senior Java Developer, you will be responsible for designing, developing, and maintaining full-stack applications using Java technologies for both front-end and back-end development. You will work closely with cross-functional teams, including other developers, testers, business analysts, and project managers, to deliver high-quality software solutions that meet customer requirements.
+Responsibilities:
+Design, develop, and maintain full-stack applications using Java technologies, including J2EE, Spring, Spring Boot, and Oracle.
+Develop APIs/RESTful services to enable integration between different systems and components.
+Collaborate with cross-functional teams to analyze user requirements and translate them into technical specifications.
+Implement front-end features using Angular and modern web technologies, such as HTML5, CSS3, and JavaScript, to create responsive and user-friendly interfaces.
+Implement back-end features, including data models, business logic, and database interactions, using Java technologies and best practices.
+Debug and resolve software defects and production issues in a timely manner.
+Perform code reviews and provide constructive feedback to junior team members.
+Participate in software development life cycle activities, including requirements gathering, design, coding, testing, and deployment.
+Provide technical guidance and mentorship to junior developers, as needed.
+Continuously improve software development processes and practices to ensure efficient and effective delivery of high-quality software.
+Qualifications:
+Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.
+Minimum of 5 years of professional experience in Java software development, with full-stack expertise.
+Strong proficiency in Java technologies, including J2EE, Spring, and Spring Boot.
+Experience with front-end technologies, such as Angular, HTML5, CSS3, and JavaScript.
+Solid understanding of relational databases, particularly Oracle.
+Experience in developing APIs/RESTful services using Java technologies.
+Strong analytical and problem-solving skills, with the ability to troubleshoot and resolve complex technical issues.
+Excellent communication and collaboration skills, with the ability to work effectively in a team-oriented environment.
+Proven track record of delivering high-quality software solutions on time and within budget.
+Knowledge of software development best practices, coding standards, and version control systems.
+Experience with agile software development methodologies, such as Scrum or Kanban.
+Ability to adapt to changing technologies and learn new skills quickly.
+Preferred Qualifications:
+Experience with performance optimization and tuning of Java applications
+Familiarity with other front-end technologies, such as React, Vue.js, or Ember.js.
+Familiarity with other API standards, such as GraphQL or SOAP.
+Understanding of security best practices in software development.
+Experience with DevOps practices, such as continuous integration, continuous delivery, and automated testing.
+Job Types: Full-time, Contract
+Salary: $65.00 - $72.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Denver, CO: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Bachelor's (Required)
+Experience:
+REST: 1 year (Preferred)
+Java: 1 year (Preferred)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 18:19:42.721204

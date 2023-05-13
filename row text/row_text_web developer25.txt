@@ -1,0 +1,38 @@
+The
+mission
+of The New York Times is to seek the truth and help people understand the world. That means independent journalism is at the heart of all we do as a company. It’s why we have a world-renowned newsroom that sends journalists to report on the ground from nearly 160 countries. It’s why we focus deeply on how our readers will experience our journalism, from print to audio to a world-class digital and app destination. And it’s why our business strategy centers on making journalism so good that it’s worth paying for.
+
+Note for US based roles: Any offer of employment is contingent on providing proof of Covid-19 vaccination prior to your start date, subject to approved medical and/or religious exemptions, in accordance with applicable law.
+Job Description
+
+You will be joining a growing team of landing page specialists who will handle development of marketing landing pages for the entire New York Times product portfolio, covering direct acquisition, brand, gifting and occasionally retention or product needs. We're held to a high standard of operational excellence which we strive to meet by building a collaborative and supportive team environment - always looking for ways to work smarter. We hold to a spirit of collaboration and are excited by new ideas.
+Responsibilities:
+You will develop and deploy landing pages in our CMS Magnolia. You are familiar with HTML, CSS, React and JavaScript best practices for targeted experiences. You will have had prior experience in front-end web development , and be ready to jump into new projects. Efficient and able to work with peers and stakeholders with a constant focus on improvement. You will report to the Manager of the Landing Pages.
+Code and deploy landing pages in our CMS Magnolia to spec, using CSS, HTML and React JS
+Maintain best practices for landing pages, and make recommendations
+Complete projects effectively, and proactively manage inventory
+Troubleshoot and debug, sometimes collaboratively to resolve coding and trafficking issues
+Analyze early post-launch activities, and resolve any performance problems related to set up or technical issues
+Basic Qualifications:
+2+ years experience in front-end development
+Hand-code responsive landing pages using HTML, CSS, React JS
+Basic knowledge of design tools like Adobe Photoshop / Figma (capable of converting PSDs to pixel-perfect HTML/CSS)
+Familiarity with website content management systems such as Magnolia, Optimizely, BlueKai, etc.
+Demonstrated knowledge of creative A/B testing, media formats and internet technologies
+Familiarity with version control software, such as GitHub
+Preferred Qualifications:
+Understanding of inventory and delivery process, third-party ad tags, rich media concepts
+Prior experience leading UX/UI projects, particularly on website projects
+Knowledge of backend language as Python or PHP
+The annual base pay range for this role is between $90,000.00 and $115,000.00.
+The New York Times is committed to a diverse and inclusive workforce, one that reflects the varied global community we serve. Our journalism and the products we build in the service of that journalism greatly benefit from a range of perspectives, which can only come from diversity of all types, across our ranks, at all levels of the organization. Achieving true diversity and inclusion is the right thing to do. It is also the smart thing for our business. So we strongly encourage women, veterans, people with disabilities, people of color and gender nonconforming candidates to apply.
+The New York Times Company is an Equal Opportunity Employer and does not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion, marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment without regard to legally protected characteristics. The New York Times Company will provide reasonable accommodations as required by applicable federal, state, and/or local laws, and will consider qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable "Fair Chance" laws.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 21:53:47.353087

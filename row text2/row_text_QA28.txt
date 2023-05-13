@@ -1,0 +1,30 @@
+Position’s Contributions to Work Group
+AKA Senior SDET Extend testing automation framework using JAVA/JAVA Script Take ownership in understanding business requirements/ACs and develop test strategy/test plan Develop automation testcases using existing automation framework
+Typical Day:
+Develop test automation code for Continuous Integration (CI), Continuous Delivery (CD), of systems, infrastructure, and test framework. • Plan, design, develop, and maintain API test automation framework that facilitates automation scripting, execution, and analysis of results • Provide technical leadership and mentoring for test engineers on multiple applications/projects onshore and offshore; train and mentor project team members to create, execute, analyze, and maintain automated regression suites • Coordinate with product owner to resolve open issues/enhancements/upgrades and understand the use of a specific functionality as needed • Develop automated functional scripts using tools such as Java, Karate, JMeter. • Perform exploratory and manual testing of the product suite as appropriate • Provide expertise in testing methodologies, best practices, and standards Position will be onsite hybrid starting day 1. Interviews may also be onsite
+Education Requirements:
+Bachelor's degree in computer science, computer engineering or relevant field required. • 10+ years experience required.
+Technical Skills:
+Required: Top three: • Strong design and development skills in two or more of the following technologies and tools: Java, Python, Cucumber, JBehave or other BDD testing frameworks • At least 8 years of test automation framework design and development experience in AWS Cloud technology • 3+ years of prior either functional or object- oriented coding experience in modern programming languages like C++, Java or Python (preferably Java) • Strong experience in testing Webservices (REST APIs) Also required: 2+ years of experience as a Test Lead Experience working with an off-shore (India) team. • Proven experience developing test scripts, test cases, and test data • The ability to write queries in SQL or other relational databases • 3+ years of experience in developing scenario based performance testing using JMeter • Experience testing full stack and integration testing with 3rd parties • Strong knowledge in AWS technologies • End-to-end system integration testing experience for software platforms Preferred Skills: • Hands on experience with Python, Java • Experience in TDD, continuous integration, code review practice is strongly desired • Experience with Apigee or other API gateways is a plus • Experience with DevOps concepts and tools (e.g., CI/CD, Jenkins, Git) • At least 2 years working on an Agile team with a solid understanding of Agile/Lean practices. • Understanding of a micro service Architecture • Experience load and performance testing • Strong documentation skills
+Soft Skills:
+Ability to adapt quickly to a complex environment • Pro-active, flexible and creative • Very strong communication skills and the ability to collaborate with developers and business users.
+Job Type: Contract
+Pay: $58.00 - $60.00 per hour
+Experience level:
+11+ years
+Schedule:
+Monday to Friday
+Experience:
+Api testing: 5 years (Required)
+Cucumber: 5 years (Required)
+java: 5 years (Required)
+Work Location: Hybrid remote in Chicago, IL 60661
+Show Less
+Report
+
+
+Testing regine:
+Experience: 8
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:48.513707

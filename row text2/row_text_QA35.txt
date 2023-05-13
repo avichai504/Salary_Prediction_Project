@@ -1,0 +1,35 @@
+THE COMPANY
+Versaterm Public Safety is an Ottawa-based vertical market software company that has been in business for over 40 years. We provide industry-leading products in mission-critical areas for Police, Fire and EMS agencies across North America and the Caribbean.
+
+FivePoint Solutions, a Versaterm Public Safety Company, is a software products and services company focused on delivering solutions to state and local agencies, primarily courts and law enforcement. We are the U.S.-based leading provider of Pre-trial Services, Case Management, School Safety, Data Exchange, and Records Management services to governments. FivePoint Solutions is a company that hasn’t forgotten why it exists. We make people’s lives easier by helping them work smarter.
+
+FivePoint Solutions is uniquely positioned in the marketplace with vast experience streamlining data entry; importing, organizing & managing documents; increasing workflow & efficiency through automation; designing agency-defined customized dashboards & workflows; connecting officers, investigators and prosecutors through one portal; and facilitating data exchange between disparate systems to over 30 RMS, CAD, and JMS vendor systems. Our solutions focus on the delivery of services and solutions including law enforcement, school safety solutions, court solutions, and document management systems.
+
+THE ROLE
+FivePoint Solutions is seeking 2 Quality Assurance Specialists to test functional web-based/cloud services and applications. Each project team will be comprised of the QA, Developers, a Business Analyst, and a Project Manager who will closely to deliver our solutions to our government clients.
+
+THE IDEAL CANDIDATE
+You should have extensive experience manual testing web-based services built from scratch. You must be comfortable writing test cases and the tenaciousness to keep looking for bugs. You must be effective at prioritizing workload, balancing demands from multiple projects and ongoing prioritization of goals and objectives, as well as skilled at problem solving and expectation management. You are a curious individual who does not hesitate to ask questions. Ultimately, you understand the importance of undertaking repetitive tasks in an attempt to locate issues with the solutions and enjoy working alongside a dynamic team to resolve them.
+
+THE ROLE REQUIREMENTS
+
+3+ years professional experience testing software solutions
+Ability to create test cases
+Experience testing in a .Net environment is an asset
+Experience API testing is an asset
+Other nice to haves include the ability to query a database and knowledge of Azure Dev Ops
+Bachelor’s Degree preferred
+Must be a US Citizen, Canadian Citizen, or Green Card holder and eligible for the necessary clearances
+
+EQUAL OPPORTUNITY
+Versaterm Public Safety is committed to building and supporting inclusion, diversity, equity and sustaining a barrier free environment. Accommodations are available, on request, throughout all aspects of the selection process. These principles apply to the terms and conditions of employment at Versaterm.
+For detailed information on our accessibility policies, plans and training programs please contact info@versaterm.com.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:49:13.687859

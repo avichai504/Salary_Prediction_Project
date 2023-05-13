@@ -1,0 +1,47 @@
+Position Summary:
+Ability to analyze project requirements and system processes to develop test plans. Experience in creating payloads, submitting payloads and evaluation of responses. Interact directly with both internal and external stakeholders to understand the request and insure a successful deployment of all changes.
+Responsibilities
+Ensure quality of enhancements and fixes in strategic IT products. Scope includes: understanding critical business and functional requirements, Enact technology stack and customer needs.
+Ability to assist in research and diagnose issues in the application environment and identify changes needed to resolve.
+Translate functional system requirements into detailed test plan document.
+Support deployment of new integration connections under the existing technology platform.
+Conduct all required testing with QA and UAT cycles for all changes.
+Build knowledge base of previous, current, and new transactions standards. MISMO, XML, JSON, X12/EDI, Flat file.
+Experience with Postman.
+Analyze and understand business problems/opportunities, identifying probable root causes, and proposing possible solutions that balance cost with business benefits.
+Ability to work extended hours and occasional weekends with little notice.
+Experience:
+· Working knowledge of the mortgage industry.
+· Expertise level knowledge of the mortgage insurance industry data standards (MISMO).
+· Working knowledge of data transfer applications and working with SFTP and API.
+· Ability to independently set and manage priorities and projects with tight deadlines in a fast-paced environment.
+Requirements:
+Prior experience working with mortgage systems applications and/or integrations.
+Self-directed, with demonstrated ability to multi-task, prioritize and execute on executive strategies
+Excellent written and oral communication skills with the ability to articulate ideas to technical and non-technical audiences.
+Strong analytical, evaluative, and problem-solving abilities.
+Job Types: Full-time, Contract
+Salary: $45.00 - $50.00 per hour
+Experience level:
+5 years
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Experience:
+Manual Testing: 5 years (Preferred)
+API Testing: 1 year (Preferred)
+UAT cycles for all changes.: 4 years (Preferred)
+mortgage, MISMO: 1 year (Preferred)
+previous, current, and new transactions standards: 1 year (Preferred)
+MISMO, XML, JSON, X12/EDI, Flat file: 1 year (Preferred)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:57.088752

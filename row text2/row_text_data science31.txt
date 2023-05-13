@@ -1,0 +1,39 @@
+About Pinterest:
+Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more.
+As a Data Scientist you will shape the future of people-facing and business-facing products we build at Pinterest. Your expertise in quantitative modeling, experimentation and algorithms will be utilized to solve some of the most complex engineering challenges at the company. You will collaborate on a wide array of product and business problems with a diverse set of cross-functional partners across Product, Engineering, Design, Research, Product Analytics, Data Engineering and others. The results of your work will influence and uplevel our product development teams while introducing greater scientific rigor into the real world products serving hundreds of millions of pinners, creators, advertisers and merchants around the world.
+What you'll do
+Develop best practices for instrumentation and experimentation and communicate those to product engineering teams to help us fulfill our mission - to bring everyone the inspiration to create a life they love
+Bring scientific rigor and statistical methods to the challenges of product creation, development and improvement with an appreciation for the behaviors of our Pinners
+Build and prototype analysis pipelines iteratively to provide insights at scale while developing comprehensive knowledge of data structures and metrics, advocating for changes where needed for product development
+Work cross-functionally to build and communicate key insights, and collaborate closely with product managers, engineers, designers, and researchers to help build the next experiences on Pinterest
+What we're looking for
+4+ years of experience analyzing data in a fast-paced, data-driven environment with proven ability to apply scientific methods to solve real-world problems on web-scale data
+Extensive experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields
+Experience using machine learning and deep learning frameworks, such as PyTorch, TensorFlow or scikit-learn
+A scientifically rigorous approach to analysis and data, and a well-tuned sense of skepticism, attention to detail and commitment to high-quality, results-oriented output
+Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL (or other database languages) and a scripting language (Python or R)
+Excellent communication skills and ability to explain learnings to both technical and non-technical partners
+A team player who's able to partner with cross-functional leadership to quickly turn insights into actions
+This position is not eligible for relocation assistance.
+#LI-REMOTE
+#LI-NM4
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+US based applicants only
+$145,700—$258,700 USD
+Our Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibility@pinterest.com for support.
+
+Not Specified
+0
+To apply to this job, click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:22:17.775356

@@ -1,0 +1,43 @@
+Research question:
+Can we predict the level of employee satisfaction in the tech industry based on job title, location, salary estimate, company rating,
+company size, company founded, industry, and sector using machine learning techniques?
+
+Background/motivation:
+The motivation for this project is to *identify the factors that contribute to employee satisfaction in the tech industry
+and to determine which jobs in the industry are the most rewarding for employees.*
+This information can be used by job seekers to make informed decisions about their career paths,
+and by employers to improve their workplace culture and retain talented employees.
+
+Features:
+The dataset contains information on the job title, location, salary estimate, company rating, work-life balance rating,
+company size, company founded, industry, sector and option to work from home; for each job in the tech industry.
+The dataset may also include additional features that are relevant to employee satisfaction, such as work-life balance,
+job security, career growth opportunities, company culture, health insurance, work from home, vacation & paid time off.
+I will get this additional data as soon as my research question will be approve :)
+
+Instances:
+The dataset includes approximately 100,000 jobs in the tech industry, with each row representing a single job posting.
+
+Data sources:
+The data was scraped from the Glassdoor website, which provides detailed information on job listings and company profiles.
+This gives us an edge over publicly available sources, as Glassdoor provides more detailed information on job satisfaction
+and company culture.
+
+Data mining methods:
+I used web scraping techniques to extract data from the Glassdoor website.
+I used Python Selenium liberty to automate the data collection process.
+I scraped multiple pages of job listings to gather a large dataset.
+
+Planned visualizations:
+I plan to use scatter plots and heat maps to explore the relationships between the different features
+and the level of employee satisfaction.
+I also plan to use dimensionality reduction techniques such as principal component analysis (PCA)
+to visualize the dataset in lower dimensions.
+
+Planned models:
+I plan to use various regression models such as linear regression,
+decision trees, random forests, and gradient boosting to predict the level of employee satisfaction based on the given features.
+
+Validation methods:
+I plan to use k-fold cross-validation and hold-out validation to evaluate the performance of our models.
+I will use metrics such as mean squared error and R-squared to measure the performance of our models.

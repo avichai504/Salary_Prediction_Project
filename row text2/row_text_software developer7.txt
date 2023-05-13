@@ -1,0 +1,78 @@
+About Us:
+OpenDrives makes high performance data storage a reality for our customers using our unique combination of hardware and software. Our customers range from Hollywood blockbusters, to medical imaging specialists, to academia, and everything in between. At OpenDrives we are building next-generation data storage solutions for high-performance workflows
+About the Role:
+We are currently looking for Software Developers and Senior Software Developers. As a Software Developer you are responsible for the creation, maintenance, and enhancement of the web-based user interface and all supporting server aspects of that technology.
+Essential Duties & Responsibilities:
+To perform this job successfully, an individual must be able to perform the following satisfactorily; other duties may be
+assigned. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential
+functions.
+Research and Development for our new and existing product lines.
+The creation, implementation, and support of features for our product line.
+Troubleshoot and solve bugs in the application
+Serve as the ‘back line' for our CX organization to solve hard customer issues
+Excellent communication with product, customer experience, and solutions departments
+Promote growth and mentorship with all other engineering team members
+Enable, equip, and enhance the capabilities of their team
+Demonstrate, document, and hand-off aspects of the project they are working on
+Find holes/gaps in our workflow/products and bring in new ideas, propose solutions, and take ownership over
+execution.
+Expertise:
+The following technological expertise is required:
+Javascript, Node, React, Redux
+The following technological expertise is desired, but not required:
+ZFS
+SMB/NFS
+Lustre
+Highly Available Systems (pcs, pacemaker, corosync)
+HSM (robinhood)
+Cloud storage integration (aws, gcp, azure)
+AI/ML, Data Science
+Docker, Kubernetes
+Competencies & Skills:
+To perform the job successfully, an individual should demonstrate the following.
+A desire to learn, try new things, and iterate on solutions.
+The courage to ask questions, recognize what you don't yet know and seek the answers.
+The willingness to pair program with other team members on difficult problems
+Excited about working on a team with other contributors
+The Willingness to take a project from conception to release
+Empowerment - We bring our talent, voice, and knowledge to each encounter.
+Effectiveness - We understand how to do our best work by picking the right tools, creating expectations and scheduling deadlines. We work iteratively and produce a usable product.
+Empathy - We understand how to care for ourselves and show respect and care for other teammates.
+Education & Experience:
+Bachelor's Degree in Computer Science, Engineering, or related field preferred
+3-5 years (Software Developer)/ 5+ years (Senior Software Developer) of relevant experience preferred
+Physical Demands
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+While performing the duties of this job, the employee is regularly required to sit and use hands to finger, handle, or feel. The employee is frequently required to talk or hear; stand and walk. The employee must be able to occasionally lift and/or move up to 10 pounds.
+
+
+Work Environment
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+The noise level in the work environment is usually moderate.
+
+Benefits
+We have some awesome perks if you want to work with us.
+Incredible vacation policy and flexible schedule
+Great health, dental, and vision insurance
+Employer and Employee Paid Life Insurance & AD&D Options
+Voluntary Short & Long Term Disability Options
+Flexible Spending Account/Health Savings Account Options
+Employee Assistance Program
+401(k)
+Options for hybrid remote/office work, or full remote
+Cell Phone and Internet Allowance
+A culture of empathy and empowerment
+
+
+Pay Scale Disclaimer
+The hiring base salary range for this role is $115,000.00- $175,000.00 USD annually.
+Please note that the compensation information provided is a good faith estimate for this position only and is provided pursuant to the California Salary Transparency in Job Advertisements Law. OpenDrives takes into consideration a candidate's education, training, and experience, external market and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In compliance with the California Law, a potential new employee's salary history will not be used in compensation decisions.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 12:31:17.135321

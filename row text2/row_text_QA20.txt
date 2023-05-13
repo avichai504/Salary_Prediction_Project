@@ -1,0 +1,47 @@
+Acunor is hiring QA Test Engineer for one of our premier clients. This is a Onsite and Contract(C2C) opportunity. Interested candidates are encouraged to apply with the most recent resume.
+Job Title: Q/A Test Engineer
+Location: Framingham MA (Onsite)
+Contract C2C
+Candidate Roles and Responsibilities Must have:
+· Strong analytical and troubleshooting skills
+· Effective communication and collaboration skills
+· Manage Windows & Linux systems
+· CI/CD pipelines
+· Python
+· Groovy
+· Jenkins, plugins and node management
+· Docker
+· Shell/Bash scripting
+· Experience on at least one build system Make, CMake, Conan
+· git CLI
+· Quick learner and adapt new technologies
+· Basic understanding of embedded software.
+Good to have:
+Manage OS X systems
+Artifactory (conan or docker registry)
+CI/CD in Gitlab or Github actions
+ElectricFlow
+Nagios
+Grafana
+Ansible
+Jira integration with CI/CD
+AWS tools and technologies
+Understanding of embedded devices and its integration with CI/CD
+C/C++
+Exposure to Agile methodologies and CI/CD SDLC best practices
+Bachelors or Masters in IT or Computer Science.
+Job Type: Contract
+Pay: Up to $50.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:48:23.319672

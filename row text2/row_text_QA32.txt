@@ -1,0 +1,45 @@
+The main function of a QA test analyst is to develop and execute system-level test protocols in order to identify system & software problems and their causes.
+Specific Requirements:
+Diverse experience with various testing methods such as Functional testing, Regression Testing, System Testing, Integration Testing, Black Box testing, Exploratory testing etc
+Working experience on various tools such as HP-ALM, Quality Center, DOORS, JIRA or any such ALM tool.
+Experience on performing formal software verification (Medical device is a plus).
+Participated in the Agile/SCRUM development environment (Worked on Azure dev-ops is a plus).
+Experiences in development or verification of medical devices at the system or software levels
+Flexible working on multiple domains of the system and willing to help other teams if and when needed.
+Able to come on-site and work in the lab every day
+Experiences in development or verification of medical software
+Skills:
+Verbal and written communication skills, problem solving skills, and interpersonal skills.
+Ability to work independently and manage one's time.
+Basic mentoring skills necessary to provide support and constructive performance feedback.
+Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.
+Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.
+Knowledge of the practical application of engineering science and technology.
+Education/Experience:
+Bachelor's degree in an engineering or relevant field required.
+3-7 years of experience required.
+Job Type: Contract
+Salary: Up to $70.00 per hour
+Experience level:
+10 years
+11+ years
+8 years
+9 years
+Schedule:
+8 hour shift
+Experience:
+SQL: 5 years (Required)
+Selenium: 5 years (Required)
+Test automation: 5 years (Required)
+Willingness to travel:
+100% (Required)
+Work Location: On the road
+Show Less
+Report
+
+
+Testing regine:
+Experience: 7
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:49:01.555430

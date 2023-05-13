@@ -1,0 +1,41 @@
+As a full-time frontend Web Developer for Beavercreek Marketing, the selected candidate would be part of a dynamic development team that creates, designs, and produces highly innovative campaigns and marketing tools for financial institutions in all 50 states and throughout North America.
+We have an immediate opening for a Web Designer with experience and working knowledge of HTML, JavaScript and CSS.
+The ideal candidate will be able to communicate efficiently, both verbally and in written form, to ensure they can effectively work both individually and with other developers.
+Technical Requirements:
+Proficient in HTML/CSS/JavaScript
+Experience working in React, Node.js and GitLab preferred
+Strong problem-solving and analytical skills
+Responsibilities
+Developing and implementing interactive websites and applications
+Ensuring cross-browser and cross-device compatibility
+Writing clean, efficient, and scalable code
+Troubleshooting and debugging issues
+Location:
+Hybrid and Remote working available. Office location Grand Island, NE.
+Job Types: Full-time, Part-time
+Pay: $35,000.00 - $55,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Vision insurance
+Schedule:
+Monday to Friday
+Education:
+High school or equivalent (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: HIGH-SCHOOL
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:37:46.517191

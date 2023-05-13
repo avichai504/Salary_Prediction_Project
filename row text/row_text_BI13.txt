@@ -1,0 +1,36 @@
+Experience in creating Reports, Dashboard and visualizations in PowerBI
+Competent with Power BI Desktop, Gateway, Service and Report Server.
+Good understanding of Power Query M and hands on experience in writing complex DAX queries
+Experience in creating KPI and map based reports
+Experience in implementing static and dynamic Row Level Security in Power BI, extensive experience with Dataset design, Data Cleansing and Data Aggregation
+Excellent understanding of tool functions, limitations and hidden features
+Certified in Power BI is an added advantage
+Understanding of relational database structures, theories, principles, and practices
+Strong SQL reporting skills with the ability to create SQL views and write SQL queries to build custom datasets for reporting or analysis
+Building up Strong COE Approach
+Migration and Upgrade experience is added advantage
+Power BI Cluster Management and Performance tuning is added advantage
+Experience in Commercial Pharma is a great plus
+Proven track record of performance tuning, handling data issues
+Strong communication and presentation skills
+Strong problem solving attitude
+Excellent analytical, problem solving and debugging skills, with strong ability to quickly learn and comprehend business processes and problems in order to effectively develop technical solutions to their requirements
+Job Type: Contract
+Schedule:
+8 hour shift
+Weekend availability
+Experience:
+VMWare: 1 year (Preferred)
+Linux: 1 year (Preferred)
+Security clearance:
+Confidential (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-08 21:16:06.690311

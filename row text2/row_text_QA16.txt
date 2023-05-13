@@ -1,0 +1,29 @@
+Working knowledge on Life 70 admin system from a QA prospective
+· Should be able to create and enhance effective testing procedures for the insurance project.
+· Test Strategy – Create a test strategy based on project requirements and schedules.
+· Test planning – Which involves activities of defining the objectives of testing and the approach for meeting test objectives
+· automation testing as well – Selenium/Cucumber/Postman
+· Executing tests with appropriate techniques (manually or by using test execution tools) and documenting testing failures.
+· Analyze the Defects and identify the root cause. Inform the test progress against a schedule of the quality management
+· Should be able to interact with BA, project manager, development team, and client as per need.
+· Knowledge on life insurance domain. Basis working knowledge of traditional (Term/WL) and Advance (UL/IUL/VUL) life insurance product.
+Job Type: Full-time
+Salary: $50.00 - $55.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Life70: 10 years (Preferred)
+Selenium: 10 years (Preferred)
+Test automation: 10 years (Preferred)
+Life/70: 10 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:13.793740

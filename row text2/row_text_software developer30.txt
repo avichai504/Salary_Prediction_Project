@@ -1,0 +1,27 @@
+We are looking for a great React developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality products are important.
+Responsibilities
+Developing new user-facing features using React.js
+Building reusable components and front-end libraries for future use
+Translating designs and wireframes into high-quality code
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+
+Job Requirements
+Minimum React Experience : 2 Years
+Previous experience working as a react developer.
+In-depth knowledge of JavaScript, CSS, HTML, and front-end languages.
+Knowledge of REACT tools including React, Webpack, Enzyme, Redux, and Flux.
+Experience with user interface design.
+Experience with Material UI Component library.
+Knowledge of performance testing frameworks including Mocha and Jest.
+Experience with browser-based debugging and performance testing software.
+Excellent troubleshooting skills.
+Good project management skills.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:32:03.647784

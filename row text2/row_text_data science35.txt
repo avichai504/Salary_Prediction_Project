@@ -1,0 +1,71 @@
+We Are Overstock:
+At Overstock.com, we believe that everyone should “Be You!”. Overstock is a community that upholds a culture of understanding, acceptance, and respect. We believe a person’s individuality is at the core of diversity, and those traits, beliefs, and characteristics should be valued and embraced. Living by this ethos is essential to the success of our business. Our goal is to foster a more diverse environment where every employee visibly demonstrates inclusive behaviors and respect for individuals.
+This position is eligible for remote work. Currently we can hire employees in the following states: Arizona, California, Connecticut, Florida, Idaho, Kansas, Maine, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Dakota, Texas, Utah, Washington, Wisconsin, Wyoming. This role will have occasional on site expectations.
+Job Description
+The data science group at Overstock tackles some of the hardest analytical problems facing our multifaceted, multibillion dollar business.
+The team works with large data sets to give product guidance, detect anomalies, forecast, and predict. This requires an understanding of not just strong mathematical and technical foundations, but also business acumen and communication skills to drive value.
+A data scientist is somebody who can look at a complicated technical problem, figure out the useful questions, do what is necessary to get the answers, and then implement solutions based upon those answers. A great data scientist is curious about learning and understanding as much about the business as he or she can, can direct that curiosity towards insights that drive major business improvements, and can communicate those insights effectively to anybody in the company who could benefit from them.
+Job Responsibilities
+Gather, clean, report, and interpret data rapidly and thoughtfully. Ingest large volumes of data, identify the critical signal in all that information, and then act on that signal to drive millions in growth or savings.
+Perform ad hoc analyses using statistics, machine learning, and data mining techniques.
+Partner with product, engineering, and business teams to solve problems and identify opportunities.
+Perform analysis and build models to inform prioritization and planning of the product roadmap.
+Design and analyze experiments to generate actionable outcomes.
+Perform self-directed ad-hoc analysis to identify drivers of business outcomes.
+Report findings, recommendations, and conclusions resulting from analysis. The more people understand an insight, the more useful it is. Your insights can make a huge difference at Overstock, but only if they're understood.
+Construct informative and insightful visualizations. A good visualization can be the difference between confusion and comprehension.
+ETL and analysis of large-scale data using SQL, Hadoop, and related tools.
+Build tools that enable other teams to perform and understand analytics.
+Perform other duties as required and assigned by manager and upper management.
+Follow legal policies as directed.
+Job Requirements
+2-4 years relevant work experience
+Strong intellectual curiosity combined with a knack for recognizing correlations, trends, and statistical irregularities.
+Strong understanding of foundational statistical concepts and methods including hypothesis testing.
+Proficient with SQL and relational databases.
+Familiarity with statistical data analysis tools (Python, R, etc.).
+Exposure to Big Data technologies (e.g. Hadoop).
+Experience with regression and classification modeling.
+Ability to create clear, informative data visualizations.
+Preferred
+1+ years relevant experience.
+Familiarity with Online and Digital Marketing as well as Direct Marketing.
+Interpretation of and exposure to the development of financial forecasts.
+Refined presentation skills and story development.
+Experience with semi-structured and unstructured data.
+Experience working with a product or business team to identify valuable opportunities and executing on them.
+§ Familiarity with one or more of anomaly detection, optimization, causal inference, clustering techniques.
+Skills
+SQL, Python/R, Bi tools, Microsoft Excel, and statistical analysis methods
+Education
+An undergraduate degree in Statistics, Mathematics, Computer Science, Information Systems, Business Analytics, Economics, other related STEM fields or equivalent work experience is preferred.
+Master’s degree preferred.
+Base Pay Range:
+$ 88,000.00 - $110,000.00 per year
+Who We Are:
+We’re a passionate group of collaborative problem solvers and creative innovators, working on cutting-edge technology. From building award-winning retail applications (with amazing AR functionality) to creating leading blockchain and machine learning technologies, each of us embodies a unique value and contributes a diverse perspective to the team.
+What We Offer:
+401k (6% match)
+Flexible Schedules
+Onsite Health Clinic
+Tuition Reimbursement, Leadership Development Program, & Mentorship Program
+Onsite Fitness Center
+Overstock Women's Network (OWN)
+And More…
+Benefits vary based on position, tenure, location, and employee election
+Physical Requirements:
+
+This position requires you to sit, stand and perform general office functions. You may also be required to lift up to 25 pounds occasionally. Bending, stooping and reaching are also frequently required.
+Equal Employment Opportunity:
+
+It is our policy to provide equal employment opportunity for all applicants and associates. This policy includes our commitment to ensure that all employment decisions are made without regard to race, color, religion, gender, national origin, disability, pregnancy, veteran status (including Vietnam era veterans), age, sexual orientation, gender identity, or any other non-job-related characteristic protected by law.
+Back to Overstock Careers
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:22:25.695204

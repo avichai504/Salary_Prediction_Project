@@ -1,0 +1,42 @@
+Build the future of data. Join the Snowflake team.
+We’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Our ‘get it done’ culture allows everyone at Snowflake to have an equal opportunity to innovate on new ideas, create work with a lasting impact, and excel in a culture of collaboration.
+Snowflake is rapidly growing our Systems Integrators Go To Market Initiatives . Systems Integrators are an integral part of Snowflake business to help customers unlock Power of Snowflake Data Cloud . We are looking for a self-driven, go-getter to help grow these SI's into profitable revenue streams and accelerate the growth of the business.
+Success in this position requires the candidate to be a ninja at managing relationships, execute programs, set goals and metrics, track and ensure progress. The candidate will also need help shape and deliver on a strategy to build mind share among Snowflake SI Partners.
+We are seeking a candidate with a proven track record of successfully working with large SI partners (it’s easy when everything is going fine) and strong business acumen in growing a business/ channel/ partnership. Candidate with knowledge on broader Platform ecosystem , products, competition to influence and be the partner’s trusted advisor
+AS A DATA CLOUD ARCHITECT - SI PARTNERS, YOU WILL:
+Help Solution Providers/Practice Leads with the technical strategies that enables them to sell their offerings on Snowflake
+Forward Strategic thinking - quickly grasp the essence of new concepts and business value messaging
+Strong understanding of how SI make revenue through the Industry priorities & complexities they face and influence where Snowflake products can have the most impact for their product services
+Help develop and launch joint differentiated solution offerings with SI Partners
+Conversations with other technologists, providing presentations at the C-level.
+OUR IDEAL DATA CLOUD ARCHITECT - SI PARTNERS WILL HAVE:
+Providing technical product and deep architectural expertise & latest product capabilities with our Partner Solution Architect community
+Expertise and hands-on experience in developing and deploying Machine Learning models through the full Data Science life cycle (data wrangling, feature engineering, model development, model deployment and monitoring).
+Experience building ML models using machine learning frameworks and libraries such as scikit-learn.
+Expertise in data science programming languages including Python, SQL, Scala, and/or Spark.
+Hands-on experience with Cloud ML platforms such as Sagemaker, Azure ML, VertexAI, and/or MLFlow.
+Experience building and deploying ML model pipelines using serverless and containerized computing including AWS Lambda, Azure Functions, Google Cloud Functions, Docker, Kubernetes etc.
+Familiarity with MLOps and CI/CD processes and tools, such as GIT, Azure DevOps, Sagemaker Pipelines, Google Cloud Build
+Experience with developing AI/ML use cases including communicating AI/ML strategy and business value
+Experience using Big Data or Cloud integration technologies such as Matillion, Azure Data Factory, AWS Glue, AWS Lambda, etc.
+Experience with database technologies
+Strong experience with major cloud platforms and tooling, especially Azure or AWS, or Google Cloud
+MENTORSHIP:
+We have a diverse team across the globe with different set skills , experience and tenureship. We have a team who celebrates the upleveling of their colleagues in Knowledge across all areas and see you being successful with your Partners.
+
+The following represents the expected range of compensation for this role:
+The estimated base salary range for this role is $177,000 - $270,000.
+Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.
+The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+How do you want to make your impact?
+Start your job application: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:59.105348

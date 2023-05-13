@@ -1,0 +1,38 @@
+Required
+Self-motivated individual who functions well solo and within a team.
+Ability to employ data science and supply chain operations research in the development of analytics models that can tackle complex supply chain problems.
+Ability to use open-source languages and/or algorithms for model development.
+Be proficient in one or more programming language, such as Python, R, C++, or Java.
+Be proficient in one or more visualization tools, such as Tableau or Power BI
+Have experience building simulation models and applying simulation software (e.g., AnyLogic,.), either through formal coursework or through research/work experience.
+Proficiency in data engineering to work closely with data engineers to define the data requirements for modeling purposes.
+Ability to effectively communicate technical work to both technical and non-technical audiences.
+Preferred:
+Preferred fields are Computer Science/Computer Engineering, Data Science, Operations Research, Industrial Engineering, Biomedical Engineering, or an equivalent/similar area.
+Experience in supply chain planning processes (e.g., demand planning, supply planning, production planning, etc.), supply chain network design, and/or supply chain optimization.
+Formal coursework in probability, linear programming, and/or stochastic programming.
+Familiarity with large datasets, understanding of data analysis workflows, and/or knowledge of querying languages such as SQL.
+Knowledge of machine learning algorithms such as Random Forests, SVM, neural networks, etc.
+Additional supply chain education, training and/or certification through Massive Open Online Courses (MOOCS) and/or professional organizations.
+Job Type: Contract
+Salary: $75.00 - $80.00 per hour
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Experience:
+Data science: 5 years (Preferred)
+Supply chain management: 4 years (Preferred)
+SQL: 4 years (Preferred)
+Work Location: Remote
+Speak with the employer
++91 9729196946
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:22:03.166437

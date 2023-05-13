@@ -1,0 +1,46 @@
+We are an information technology company that provides high-quality consulting and staffing services to its clients. We work with organizations to understand their particular business needs and develop and implement effective business strategies and technological solutions, taking a balanced approach to strategy, people, process, and technology.
+Responsibilities:
+Works with analysts to interpret high-level requirements, decomposing them into acceptance criteria and test cases
+Be involved in creating and maintaining all test documentation and artifacts including but not limited to test plans, test cases, test data, defect reports, etc.
+Interface and communicate with internal teams and external support groups
+Work with the product development team to create test plans
+Execute test cases (manual and/or automated) and analyze results
+Monitor application errors and performance monitoring
+Report task progress, suggest creative ideas and approaches for improvement and escalate issues to the Sr. QA Analyst and Lead Analyst
+Participate in all phases of software development while working in an Agile environment
+Participates in preliminary story review, providing constructive feedback and input on work effort estimation as well as design
+Actively works on broadening or adding a skill.
+Qualifications:
+Bachelors or Masters degree in Computer Science, Engineering, or any STEM field
+0-2 years of experience as a Software Tester /QA analyst or any other IT field
+Comfortable with working on a fast-paced, time-sensitive project
+Proficiency in clear and concise written and verbal communication
+Strong analytical skills are a plus
+Understanding of SQL and Database is a plus
+Multitasking and ability to and shift focus as needed
+In-depth understanding of various Software testing methodologies
+Ability to work in a fast-paced development environment
+Theoretical/functional knowledge of Selenium, SOAP, ReST, SQL, ETL, or other programming/technical concepts is a bonus
+Java, C#, Python or other OOPs concept based programming knowledge is a plus
+Must be willing to relocate and accept onsite positions.
+About Us:
+We are one of the Fastest Growing IT Companies in Northern America and the DC Metro Area with its headquarters in Ashburn, Virginia. We are an Information Technology Provider delivering superior quality software development, consulting, and staffing solutions to our client partners.
+Our services are uniquely positioned to support clients in achieving profound efficiencies and relentlessly delivering results, making us a long-time and trusted resource for its clients and partners.
+We are an Equal Opportunity Employer M/F/V/D and are proud to state that we are enrolled with the USCIS for the E-Verification Program.
+Job Type: Contract
+Salary: $25.00 - $30.00 per hour
+Benefits:
+Health insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:55.177050

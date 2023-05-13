@@ -1,0 +1,29 @@
+Job Responsibilities:
+• This person will participate in the development and maintenance of web-based applications for the network security product suite
+• The candidate will be responsible for the design, implementation and maintenance for front end UI development
+• To work with developers to produce high fidelity mock-ups and prototypes for interfaces
+• To communicate and work closely with product management and development team to carry out product improvements and usability
+• Continuous focus and contribution to understand customer needs and reflects them in design work
+Job Requirements:
+• UX design experience for web-based applications
+• Experience working with JavaScript, HTML, and CSS
+• Experience with one or more JavaScript frameworks/libraries, such as JQuery, AngularJS, VueJS etc
+• Hands-on coding experience with Python
+• Having strong analytical skills and collaboration spirit
+• Being able to attend to details of usability and aesthetics
+• Being passionate about user interface and user experience and having the desire to pursue perfection
+• Good communication (written and verbal) with technical engineers
+Educational Requirements:
+• Bachelor’s degree or advanced in CS, web design, interaction design, UI/UX design
+#LI-BHAVYA
+#GD
+Start your job application: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:38:10.645878

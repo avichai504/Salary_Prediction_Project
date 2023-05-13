@@ -1,0 +1,48 @@
+We’re a team of bright, kind individuals who are motivated by challenge and who care deeply about achieving great things. We know our individual strengths, but believe we only win as a team. We’re transforming the way people find what they love - and we need your big ideas. We just might be the perfect fit.
+ABOUT THE TEAM
+At Stitch Fix, our data science team combines machine learning with expert human judgment to generate innovative recommendations and insights that transform the way our clients discover what they love. We believe in a curiosity-driven data science culture where members are empowered to deliver impact through end-to-end model development. The diversity of the problems that we work on and the data-rich environment of our business make it possible, even essential, to bring the tools of multiple disciplines to bear on our hardest problems. As a large company, our growing business is looking for data scientists to join us in revolutionizing retail.
+ABOUT THE ROLE
+Multiple teams are looking for Data Scientists. Here are some examples of teams you may have the opportunity to join:
+GROWTH ALGORITHMS: We focus on optimizing the experience of prospective and new clients as well as reengaging our existing clients. This role is focused on existing client re-engagement and we are looking for a thought leader to consolidate our existing efforts in this space and work closely with cross functional partners to expand. This role will have a large scope across traditional marketing channels (Email, Facebook, etc.) as well as integrations with the Stitch Fix core product (e.g., Homefeed). The Growth Algorithms team generates personalized content tailored to client preference, and selects targeted tactics to drive client engagement. Cross-functional collaboration is deeply meaningful to us and is how we’ve built up immense trust with our partners in Marketing, Product, Strategy, and Engineering. You'll have the opportunity to bring your ideas to life by building on a foundation of strong business support, clear vision, engaged internal users, and bright, kind teammates
+STYLING ALGORITHMS: The Styling Algorithms team is part of the broader Client Algorithms group. This team supports two types of customers: our pool of incredibly talented stylists as well as StitchFix clients. We build the systems that allow our stylists to focus on creating assortments that delight and surprise our clients. Some of the themes we focus on include creating sets of clothing items that are cohesive, ensuring a client-right level of diversity and freshness, and seasonal appropriateness of apparel. We use a wide variety of techniques, including Bayesian modeling, deep learning, search strategies and large language models. This is a high-impact and high-visibility team.
+YOU'RE EXCITED ABOUT THIS OPPORTUNITY BECAUSE YOU WILL…
+Have access to a wealth of unique data and best-in-class algorithms, providing a solid foundation to build on
+Own full life-cycle model creation and deployment
+Be a data steward, ensuring that our raw inputs, intermediate results, and finished data products are accessible and useful in perpetuity
+Holistically understand ambiguous business problems and frame appropriate work streams
+Act as a thought leader for the team – identify, research, advise, and implement approaches to new and old problems
+Be empowered to take initiative and follow your innate curiosity
+WE’RE EXCITED ABOUT YOU BECAUSE…
+Have 3+ years of experience working with cross-functional partners to develop and push forward strategies that impact multiple projects.
+Have 6+ years of applied data science experience, e.g. not just fitting a model but being held accountable for creating business value.
+Have an expertise in Math, Operations Research, Physics, Statistics, Biostatistics, Economics, Finance, Computer Science, or another quantitative field.
+Have strong software engineering and design skills and can work within a shared (Python) code base.
+Have experience applying data analysis, machine learning, or statistical modeling to real world applications.
+Like a good challenge and are driven to make a tangible business impact.
+WHY YOU'LL LOVE WORKING AT STITCH FIX...
+We are a group of bright, kind people who are motivated by challenge. We value integrity, innovation and trust. You’ll bring these characteristics to life in everything you do at Stitch Fix.
+We cultivate a community of diverse perspectives— all voices are heard and valued.
+We are an innovative company and leverage our strengths in fashion and tech to disrupt the future of retail.
+We win as a team, commit to our work, and celebrate grit together because we value strong relationships.
+We boldly create the future while keeping equity and sustainability at the center of all that we do.
+We are the owners of our work and are energized by solving problems through a growth mindset lens. We think broadly and creatively through every situation to create meaningful impact.
+We offer comprehensive compensation packages and inclusive health and wellness benefits.
+ABOUT STITCH FIX
+We're changing the industry and bringing personal styling to every body. We believe in a service and a workplace where you can show up as your best, most authentic self. The Stitch Fix experience is not merely curated—it’s truly personalized to each client we style. We are changing the way people find what they love. We’re disrupting the future of retail with the precision of data science by combining it with human instinct to find pieces that fit our client’s unique style. This novel juxtaposition attracts a highly diverse group of talented people who are both thinkers and doers. This results in a simple, yet powerful offering to our customers and a successful, growing business serving millions of men, women and kids throughout the US and UK. We believe we are only scratching the surface and are looking for incredible people like you to help us boldly create our future.
+COMPENSATION AND BENEFITS
+
+Our anticipated compensation reflects the cost of labor across several US geographic markets, and the range below indicates the low end of the lowest-compensated market to the high end of the highest-compensated market. This position is eligible for new hire and ongoing grants of restricted stock units depending on employee and company performance. In addition, the position is eligible for medical, dental, vision, and other benefits. Applicants should apply via our internal or external careers site.
+Salary Range
+$181,000—$262,000 USD
+This link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data.
+Please review Stitch Fix's US Applicant Privacy Policy and Notice at Collection here: https://stitchfix.com/careers/workforce-applicant-privacy-policy
+Apply Now: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:22:19.547669

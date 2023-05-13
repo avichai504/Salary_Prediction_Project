@@ -1,0 +1,50 @@
+Data Engineer- Remote
+Role: Data and Analytics is an evolving space which includes more software engineering, distributed systems, and cloud skills.
+WIll develop, maintain, and enhance the data platform capabilities in an open and collaborative environment to build the central platform.
+Will collaborate with internal data customers across IT and the Business to minimize the time from idea inception to analytical insight.
+Job responsibilities will include: contributing to data infrastructure design efforts and collaborating with other platforms to integrate infrastructure into the client's systems and testing the feasibility and effectiveness of various technology options; supporting complex tools and solutions to manage orchestration, data pipelines, and infrastructure as code solutions the Data Engineering team builds.
+Required skills:
+Proven experience in designing, building, and supporting complex data pipelines using a variety of traditional and non-traditional data sources.
+Version Control and associated best practices
+Advanced programming experience in programming languages used in analytics and data science (e.g. Python, Java, Scala). Comfortable with Linux environments and shell scripting.
+Experience with Cloud-based infrastructures (AWS)
+Experience working with SQL/NoSQL
+Experience utilizing data pipeline orchestration frameworks.
+Verbal Communication
+Preferred skills and experiences:
+Analysis
+API Development
+CI/CD
+Creating Real Time or Streaming Systems
+Data Governance
+Data Lineage
+Data Metadata
+Data Testing
+Distributed Databases
+Domain Knowledge
+Schema
+Snowflake
+Visual Communication
+EDUCATION AND/OR EXPERIENCE REQUIRED:
+Education and/or experiences listed below are the minimum requirements for job entry.
+Bachelor's Degree or higher in an Information Technology discipline or related field of study and minimum of two years of work experience designing, programming, and supporting software programs or applications.
+In lieu of degree, minimum of four years related work experience designing, programming, and supporting software programs or applications may be accepted.
+Job Types: Full-time, Contract
+Pay: $90.00 - $120.00 per hour
+Benefits:
+Health insurance
+Experience level:
+6 years
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:21:23.218629

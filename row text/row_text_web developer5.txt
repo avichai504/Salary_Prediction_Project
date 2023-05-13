@@ -1,0 +1,50 @@
+Summary: Responsible for designing, developing, testing and implementing web-based applications and websites.
+
+Essential Functions:
+Develop web-based applications for Company clients based on business and project technical requirements in an ASP.NET environment.
+Upgrade, configure, integrate, and maintain Ektron Content Management System (CMS).
+Database development such as create data import/export routines and stored procedures, user defined functions, and database objects.
+Program using various languages and platforms.
+Develop with JavaScript Frameworks, Cascading Style Sheets (CSS), Web Services, Windows Communication Foundation (WCF) and working with version control systems.
+Communicate and interact with clients and coworkers via phone, email, and in-person.
+Analyze client business needs.
+Prepare technical specification documents and User Guides for client web sites and applications.
+Train clients on newly developed websites and functionalities.
+Work with, resolve, and respond to client support tickets.
+Mentor more junior staff with project work.
+
+Special Skills Required
+Developing web-based applications based on technical requirements in an ASP.NET environment.
+Experience upgrading, configuring, integration, and maintaining CMS.
+JavaScript Frameworks, CSS, Web Services, WCF, and version control systems.
+Analyzing and understanding business requirements in order to prepare technical specifications.
+Substantial experience with the following technologies: ASP.NET, C#, Vb.NET, SQL Server, JavaScript, jQuery, HTML,
+CSS, WCF, CMS tools, version control systems.
+
+Qualifications: Education
+Bachelor’s degree in computer science, Information Technology, Electrical/Electronic Engineering or a closely related field.
+
+Work Experience
+5 years of experience as a web/software developer.
+
+Special Skills Required
+Developing web-based applications based on technical requirements in an ASP.NET environment.
+Experience upgrading, configuring, integration, and maintaining CMS.
+JavaScript Frameworks, CSS, Web Services, WCF, and version control systems.
+Analyzing and understanding business requirements in order to prepare technical specifications.
+Substantial experience with the following technologies: ASP.NET, C#, Vb.NET, SQL Server, JavaScript, jQuery, HTML,
+
+Requires working from National Automobile Dealers Association’s offices in McLean, VA a minimum of 4 days per week. Up to 5% travel required.
+The estimated salary for this position is $134,599 per year
+To apply for this position, please upload your resume and cover letter to https://nada.org/nada/about-nada/jobs-nada. No telephone calls, please.
+
+NADA is committed to a policy of equality of opportunity for all its employees and applicants for employment regardless of race, color, sex, age, national origin, sexual orientation, gender identity, genetic information, religion, military status, veteran status, or disability or any other protected class under federal, state, or local law.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 16:38:03.355458

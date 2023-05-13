@@ -1,0 +1,42 @@
+Pay Range: $90,000 - $100,000
+These pay ranges apply to employees in New York and California. Pay ranges for employees in other states may differ.
+Technology Analyst Program
+
+Fiserv’s Technology Analyst Program is an early career development program where candidates experience two structured assignments within one specific track over a 2 - 2.5-year time period. Each assignment builds upon the other and together will provide a breadth of experience within Fintech and unique to you! We are looking for recent university graduates with drive, enthusiasm, and an evolving target for their careers. The best and brightest will be the framework of the firm’s future, a pipeline of top talent for positions in critical functional areas across the firm. You must possess unrestricted work authorization and not require future sponsorship.
+What you will do:
+
+As part of the Data Science track within the Technology Analyst Program, you will have opportunities in the Analysis, Management, and Visualization of Data across the firm. You will participate in complicated projects that can have significant outcomes in the business while strengthening the skills fundamental to lead in the FinTech industry. Training curriculum, mentoring, on the job learning, and exposure to senior leadership will be offered in these entry-level opportunities to advance within our company upon completing the two-year program.
+What you need to have:
+Recent graduates of a bachelor’s degree program in a STEM program
+3.0 + GPA
+Sophisticated Excel and PowerPoint knowledge
+Experience working in a fast-paced environment and flexible to changing priorities
+Military-Affiliated applicants encouraged to apply (Veterans, Military Spouses, and Guard/Reservists)
+
+What would be great to have:
+Knowledge of .NET, JCL, Java, C, C++, C##, Java & COBOL
+Experience in Python, R Languages, SQL, T-SQL, PowerBi, and Tableau
+Familiarity with .Net technologies and languages and Selenium tools
+Utilizing Test Driven Development (TDD)
+API Testing and MSTest or NUnit
+
+Majors:
+A range of college majors are considered based on specific needs of department such as: Computer Science, Network Engineering, Engineering, Software Development, but willing to train the right candidate.
+
+Please Note: Our Technology Analyst Program interview process begins in October and typically lasts through March for a January or June 2023 start date. You can expect to hear from one of our recruiters if your qualifications align.
+
+Our commitment to Diversity and Inclusion:
+Fiserv is an Equal Opportunity Employer, and we welcome and encourage diversity in our workforce that reflects our world. All qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other category protected by law.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+#FSAP
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-11 12:21:46.867314

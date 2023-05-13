@@ -1,0 +1,34 @@
+Client : Banking
+Job Title : Quality Assurance Consultant
+Locations : Plano, TX/Remote to start
+Duration : 12 months with possible extension
+Position Summary
+5 years QA experience
+Experience in Agile Testing, Participate in Scrum Team discussion, Story pointing
+Experience in API testing, use Postman or Ready API
+Experience in testing in Pega Application or Mule
+Experience in Database validation (SQL and Oracle)
+Good communication to deliver clear comments/questions
+Know how to use JIRA and ALM
+Job Type: Contract
+Pay: $55.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Plano, TX 75023: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+SQL: 3 years (Preferred)
+Selenium: 3 years (Preferred)
+Test automation: 3 years (Preferred)
+Work Location: In person
+Speak with the employer
++91 6096695092
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:09.582784

@@ -1,0 +1,39 @@
+We are looking for a self-motivated, experienced junior developer to join our client’s team. Let yourself be part of the leading multi-disciplined service provider that has changed the landscape of the industry. The successful candidate will have the opportunity to work on a variety of projects at the forefront of innovation in the industry. You will be responsible for assisting in the design, development, and implementation of web-based applications, utilizing technologies such as React.js, Node.js, and AWS.
+Must have:
+Bachelor's degree in Computer Science or a related field
+1-2+ years of experience as a developer
+Strong understanding of web technologies such as JavaScript, HTML, CSS, and web frameworks
+Strong understanding of software development principles and best practices
+Experience with Git, JIRA, and other development tools
+Strong written and verbal communication skills
+Upper-Intermediate English and better
+Good to have:
+Strong problem-solving and analytical skills
+Strong desire to learn new technologies
+Excellent communication and collaboration skills
+Responsibilities:
+Assist in the design, development, and maintenance of web-based applications
+Write clean, maintainable, and efficient code
+Collaborate with cross-functional teams to deliver high-quality software solutions
+Troubleshoot and debug applications
+Stay up-to-date with new technology trends
+Participate in code reviews and ensure that all solutions are aligned with industry best practices
+We offer:
+Competitive salary with the regular review
+Flexible working schedule, fully remote work opportunities, office in the very center of Kyiv
+PE 5% Taxes compensations, accountant assistance
+Vacation (up to 20 working days)
+Paid sick leaves (10 working days)
+Medical Insurance after probation period (3 months)
+Online English courses
+Direct cooperation with the customer
+Great working environment and team spirit
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:40:34.174024

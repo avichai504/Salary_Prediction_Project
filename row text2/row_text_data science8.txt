@@ -1,0 +1,27 @@
+SR.DATA ARCHITECT ROLE
+Required Skills - Artificial Intelligence
+Nice to have skills - AIA-Data Profiling
+Job Summary:
+Design and define prompts for “Chatgpt” for ad-hoc use cases around the company
+Stand-up/train/refine our ml models from existing data
+Build ai services that can be used more formally across the enterprise
+Full stack technical, with architecture proficiency across the enterprise.
+We need someone who understands the full ai stack, probably with a lean towards azure, and also understands how it fits into the enterprise from an architectural perspective.
+Job Type: Contract
+Salary: From $90.00 per hour
+Schedule:
+8 hour shift
+Experience:
+DATA ARCHITECT: 1 year (Preferred)
+AI & ML: 1 year (Preferred)
+Chat GPT: 1 year (Preferred)
+Work Location: On the road
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: MASTER
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:21:35.064474

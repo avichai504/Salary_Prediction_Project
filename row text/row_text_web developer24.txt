@@ -1,0 +1,42 @@
+•Expert in in Full Stack design technique as well as experience working across large environments
+•Is multi-skilled with expertise across software development lifecycle and toolset in Agile and cultivating teams working in Agile frameworks
+•Strong understanding of techniques such as Continuous Integration, Continuous Delivery, Test Driven Development, Cloud Development, resiliency, security
+•Design and Development of Spring Boot based microservices deployable on cloud platforms
+•Spring Framework (Spring Boot, Spring Integration, Spring Data JPA , Spring JMS
+•Spring MVC, Spring Cloud, XML technologies Event Driven Microservices (JMS or Kafka)
+•NoSQL Databases such as MongoDB, Cassandra and ElasticSearch
+•Automated Test Cases using Junit and Mockito Build and Deploy tools, CICD Pipelines Knowledge of React JS would be an added advantage
+•Experience in various aspects of full stack development – Front End and Back end application platforms, and would be capable of solving problems and programing across the stack with experience in User experience design for software web applications, mobile devices
+•Full stack development with experience in React + Redux, Node.js and Amazon Web Services
+•Experience of development experience on User Interface areas with HTML, HTML5, XHTML, DOM, CSS, CSS3, JavaScript, jQuery, AJAX and JSON.
+•Experience in developing web page quickly and effectively using jQuery, HTML5, CSS3, Responsive Web Design, Bootstrap
+•Experience in React js, Redux or Angular 2/4 frameworks, Webpack
+•Experience in Testing frameworks: selenium
+•Usage of version control tools like GitHub and experience in using CI tools like Jenkins
+•Experience in working with Nodejs with graphql
+•Experience with Amazon web services and cloud platform services integrations
+•Experience in working with REST, SOAP services integration
+•Experience with relational and no-relational database structures – SQL/NoSQL
+•Strong written communication, verbal communication, client facing presentation
+•Strong analytical skills
+Job Types: Full-time, Contract
+Pay: From $40.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Application Question(s):
+How many years of Java/Spring/jQuery experience do you have?
+Education:
+Bachelor's (Required)
+Experience:
+J2EE: 3 years (Required)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 21:53:45.348802

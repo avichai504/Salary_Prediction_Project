@@ -1,0 +1,98 @@
+You Might Be a Great Fit For This Position if You Have…
+
+A Bachelor’s Degree
+Successful Fxers in this role have majored in computer science and related fields
+GPA above 3.4
+
+A Few Related Skills and Experiences
+(This is an entry-level role, and experience in every one of these areas is not required - training is provided on all core platforms, tools, and technologies you will need to know! But the following skills/experience are awesome to have, and will help get your career off to a running start:):
+
+Part-time/summer job/internship experience is a must
+Development experience with web application backend languages (PHP, Python, Ruby, etc.)
+Experience with both OOP and procedural programming methodologies
+Knowledge of software development frameworks, such as server-side MVC (e.g. Rails, Symfony)
+Database experience (MySQL, Google BigQuery)
+Background in HTTP API design
+Experience with continuous integration and unit testing
+Experience with JS Frameworks (JQuery, React, Vue, Backbone, etc.)
+Experience with Cloud Computing Programs, Google Cloud Platform, AWS, Azure, etc.
+Understanding of software development life-cycles and best practices
+
+Any of these Signature FXer Traits!
+You’re passionate about web/software development - you even find yourself spending your free time tinkering and learning new technologies!
+You’re comfortable with both object-oriented and procedural programming methodologies
+You’re committed to delivering high-quality projects for clients
+You enjoy variety, and like the challenge of working on multiple projects
+You’re comfortable working both independently and as part of a team
+You take direction well, but aren’t afraid to take initiative and make decisions
+You see yourself as a problem-solver, and face challenges with a can-do mindset
+You put the customer and their goals first
+You have an interest in the web and stay up-to-date on new and developing technologies
+You are a professional, dependable, and independent worker with a solid work ethic
+You’re self-motivated, thrive on challenges, and enjoy getting things done
+You have an eye for detail and dedication to high-quality work
+You have an exceptional level of follow-through
+You possess excellent time/project management skills
+You work with a sense of urgency and can consistently meet deadlines
+You are an outstanding communicator and possess strong interpersonal skills
+You are a lifelong learner who loves to grow and stretch outside of your comfort zone, and are always looking to improve your skills
+
+If any of these sound like you, then we want to hear from you! We are committed to growing 1% better everyday, and we believe working at WebFX could quite possibly make your life 1(00)% better - after all, you would be surrounded by the #BestCoworkersinPA!
+
+In This Role, You’ll Get To…
+
+Build new features to add to our product suite using modern frameworks such as React + React Native
+Utilize modern cloud technologies within Google Cloud Platform to ensure high availability
+Develop projects within individual namespaces pushed to deployment through Kubernetes
+Perform functional testing while also utilizing unit and pipeline tests set up through our Kubernetes and CI/CD deployments
+Collaborate with Project Managers and Quality Assurance Testers to keep projects within scope and delivered on time
+Monitor, troubleshoot, and optimize application performance using modern full-stack logging technologies
+Determine your own goals within each sprint cycle
+Report on project KPIs
+Explore new technologies and suggest new ways to enhance our roadmap to market velocity and reduce technical debt
+
+A Typical ‘Day in the Life’ Might Consist of:
+5% planning and quoting new functionality
+10% consulting with other team members and clients
+10% performing maintenance and debugging
+75% building new functionality
+100% pursuing your own personal best while delivering real-world impact for our clients
+
+What You’ll Get From Us!
+
+Opportunities to Learn and Train With Our Team!
+Our “Bootcamp” training program will be provided for new FXers to learn, grow and develop both in and out of the office in the specific hard skills necessary to be successful in their position
+World class on-the-job training from the experts (think Sr. Developers, not the HR team) as well as opportunities for ongoing personal learning and development
+On-site, state-of-the-art training amenities to facilitate departmental trainings, industry-related updates, and monthly Lunch-and-Learns.
+
+A Place to Grow Your Career
+WebFX grew 250%+ over the past 3 years, and we promote almost exclusively internally. Merit-based promotional opportunities are abundant for new FXers who meet or exceed position performance metrics
+
+Potential promotional path for Jr. Web Developer:
+Web Developer
+Associate Web Developer
+Associate Lead Web Developer
+Lead Web Developer
+Sr. Web Developer
+
+Compensation
+$77,500 - $100,000 (potentially higher based on work experience)
+Potential additional bonus may be offered for GPA's of 3.8+ or graduating with high honors
+Check out our culture on social media:
+Instagram
+Twitter
+Facebook
+
+You don't need to apply more than once even if you're interested in multiple positions - you can simply let us know! We consider all open roles when reviewing resumes and applications!
+
+WebFX is an Equal Opportunity Employer, committed to providing and fostering an inclusive environment where all people, including women, minorities, LGBTQ+ and other underrepresented groups are supported, respected, and encouraged to excel within STEM careers. Our goal as an organization is to empower our team to achieve their personal best, bring people together, and provide equal opportunity to do so regardless of race, age, gender, sexual orientation, religion, physical ability or disability, or political affiliation. You can learn more on our website here!
+To apply to this job, click Easy Apply
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-09 16:37:49.815726

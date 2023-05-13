@@ -1,0 +1,46 @@
+Overview:
+About Wipro:
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. We leverage our holistic portfolio of capabilities in consulting, design, engineering, operations, and emerging technologies to help clients realize their boldest ambitions and build future-ready, sustainable businesses. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 250,000 dedicated employees serving clients across 66 countries. We deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world.
+A PROUD HISTORY OF OVER 75 YEARS
+FY22 REVENUE 10.4 BN USD
+WE’RE PRESENT IN 66 COUNTRIES
+OVER 1,400 ACTIVE GLOBAL CLIENTS
+
+Role: QA Test Analyst
+Rate: $65/hr
+
+Specific Requirements:
+
+Diverse experience with various testing methods such as Functional testing, Regression Testing, System Testing, Integration Testing, Black Box testing, Exploratory testing etc
+Working experience on various tools such as HP-ALM, Quality Center, DOORS, JIRA or any such ALM tool.
+Experience on performing formal software verification (Medical device is a plus).
+Participated in the Agile/SCRUM development environment (Worked on Azure dev-ops is a plus).
+Experiences in development or verification of medical devices at the system or software levels
+Flexible working on multiple domains of the system and willing to help other teams if and when needed.
+Able to come on-site and work in the lab every day
+Experiences in development or verification of medical software
+
+Skills:
+
+Verbal and written communication skills, problem solving skills, and interpersonal skills.
+Ability to work independently and manage one's time.
+Basic mentoring skills necessary to provide support and constructive performance feedback.
+Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.
+Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.
+Knowledge of the practical application of engineering science and technology.
+
+Education/Experience:
+
+Bachelor's degree in an engineering or relevant field required.
+3-7 years of experience required.
+Wipro is an Equal Employment Opportunity employer and makes all employment and employment-related decisions without regard to a person's race, sex, national origin, ancestry, disability, sexual orientation, or any other status protected by applicable law.
+Apply Now: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 7
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:48:07.259720

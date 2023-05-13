@@ -1,0 +1,40 @@
+Migrate Vue.js components to React in an existing, large application
+Migrate legacy Vue stores to in-house state management layer
+Write component snapshot tests using Jest
+Build and maintain software control panels for vehicle components
+Build and maintain interactive workflows for operational, maintenance, and troubleshooting tasks
+Requirements:
+Fluency with React, TypeScript, HTML & SCSS
+Familiarity with GIT
+Experience building accessible and performant user-facing web applications
+Proven written and verbal communication skills
+Proven ability to work on remote teams
+Bonus qualifications:
+Experience using Vue.js or other modern frontend UI frameworks
+Experience with CSS-in-JS libraries, such as Styled-Components, Emotion, or Linaria
+Experience writing UI snapshot component tests
+Experience building dashboards and/or data visualization frontends
+Experience building real-time and/or data intensive applications
+Experience using component libraries based off of Material UI
+The ideal candidate should have a proven track record of building robust, user-friendly interfaces for complex systems, as well as experience working with low-level protocols and interfacing with hardware. You should be comfortable working independently and collaborating with our team to integrate your work into our existing codebase. Strong communication skills, a positive attitude, and the ability to work on remote teams are essential.
+Job Type: Contract
+Salary: $80.00 - $90.00 per hour
+Experience level:
+10 years
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Foster City, CA 94404: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Front-end development: 10 years (Required)
+Robotics: 2 years (Required)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:38:08.838489

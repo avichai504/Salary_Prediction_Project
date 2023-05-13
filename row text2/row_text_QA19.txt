@@ -1,0 +1,39 @@
+Hybrid Work Model
+
+SEGA. . . What do you think of when you hear that word? Do you think of the console with the iconic, harmonized voice fire ups or do you think of the countless gaming hits from Sonic the Hedgehog, Golden Axe, or the Persona series? . . .
+
+When we think of SEGA, we think of its evolution as a pioneer in the video game market to one of the most prominent video game developers and publishers ever! Globally, SEGA has over 5,000 employees passionately working to bring the best gaming entertainment to players around the planet. We have one of, if not the richest, portfolio of original IPs something we are very proud of and excited about as the market continues to change.
+
+New streaming technologies and shifts in the retail landscape are well poised for what will be the most disruptive and innovative time in our industry. Our IP strategy positions us well for this, and we are enthusiastic about the future!
+
+There's never been a more exciting time in the company's history to join SEGA!
+Your responsibilities will include:
+Identifying and reporting functional bugs related to game logic, progression blockers, and/or crashes.
+For English localization projects, identifying and reporting game text issues such as misspellings, grammatical mistakes, and consistency problems.
+Writing clear and concise bug reports with appropriate reproductions steps and attachments.
+Completing testing assignments according to the test plan laid out by the QA Lead.
+Communicating with the testing team regarding new and ongoing issues.
+Performing regression passes when new builds are received.
+
+The skills & experience we’re looking for:
+A passion for gaming.
+18 years of age or older only.
+Strong reading and writing skills.
+Keen attention to detail.
+Basic knowledge of Office 365.
+
+Really catch our eye with:
+A positive attitude.
+Previous software or game testing experience.
+Familiarity with Atlassian products.
+Strong general computer knowledge.
+Local to the greater Orange County, CA area.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 18
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:48:21.150157

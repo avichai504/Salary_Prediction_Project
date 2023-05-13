@@ -1,0 +1,44 @@
+The desired candidate will be responsible for designing, developing, testing, maintaining, and supporting complex data extract, transformation, and load (ETL) programs for an Enterprise Data Warehouse. Understanding how complex data should be transformed from the source and loaded into the data warehouse is critical to this job.
+Expertise and solid experience in BI Tools – Power BI and BigQuery
+Strong Informatica technical knowledge in design, development, and management of complex Informatica mappings, sessions, and workflows on Informatica Designer Components -Source Analyzer, Warehouse Designer, Mapping Designer & Mapplet Designer, Transformation Developer, Workflow Manager, and Workflow Monitor.
+Experienced in Business Intelligence and Data warehousing concepts and methodologies.
+Contribute to the design and implementation of the solution's metadata, ETL, and reporting components, including testing and, at times, deployment of the components.
+Extensive experience in data analysis and root cause analysis and proven problem-solving and analytical thinking capabilities.
+Analytical capabilities to slice and dice data and display data in reports for the best user experience.
+Demonstrated ability to review business processes and translate them into BI reporting and analysis solutions.
+Ability to follow the Software Development Lifecycle (SDLC) process and should be able to work under any project management methodologies used.
+Ability to follow best practices and standards.
+Ability to identify BI application performance bottlenecks and tune them.
+Ability to work quickly and accurately under pressure and project time constraints.
+Ability to prioritize workload and work with minimal supervision.
+Exposure Data Modeling using Star/Snowflake Schema Design, Data Marts, Relational and Dimensional. Data Modeling, Slowly Changing Dimensions, Fact and Dimensional tables, Physical and Logical data modeling.
+Produce client deliverables such as detailed design documentation, configuration documentation, unit test plans, and training curriculum.
+Required Qualifications:
+A bachelor's degree in Computer Science or a related field.
+6 to 7 years of experience working with Power BI, Informatica, and BigQuery.
+Experience with Oracle RDBMS 19c.
+Proven ability and desire to mentor/coach others in a team environment.
+Soft Skills:
+Strong written and oral communication skills in the English Language.
+Ability to work with Businesses and communicate the technical solution to solve business problems.
+Job Type: Contract
+Salary: $50.00 - $60.00 per hour
+Experience level:
+11+ years
+Schedule:
+Monday to Friday
+Experience:
+Informatica: 6 years (Preferred)
+Oracle RDBMS 19c: 4 years (Preferred)
+Power BI: 7 years (Preferred)
+BigQuery: 3 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 7
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-08 21:16:10.556631

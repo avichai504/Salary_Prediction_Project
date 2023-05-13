@@ -1,0 +1,35 @@
+Java Developer
+Green Card or US Citizen
+Remote Work
+Requirements and skills
+Proven experience as a Full Stack Developer or similar role
+Experience developing desktop and mobile applications
+Familiarity with common stacks
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)
+Knowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+Excellent communication and teamwork skills
+Great attention to detail
+Organizational skills
+An analytical mind
+Degree in Computer Science, Statistics or relevant field
+Job Types: Full-time, Contract
+Pay: $38.67 - $85.37 per hour
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Day shift
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:13.411497

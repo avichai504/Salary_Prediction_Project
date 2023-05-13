@@ -1,0 +1,68 @@
+You are a driven and motivated problem solver ready to pursue meaningful work. You strive to make an impact every day & not only at work, but in your personal life and community too. If that sounds like you, then you've landed in the right place.
+
+Overview of the Position
+
+The Incubation Lab is dedicated to data-driven innovation within Commercial Lines Data Science at The Hartford. The lab focuses on value-multiplying our insurance portfolio by evaluating new, cutting-edge technologies, datasets, and insuretech vendors; prototyping predictive models; and supporting The Hartford’s data science teams and their business partners in leveraging data to drive process and product improvements.
+
+The Hartford’s Incubation Lab seeks an energetic and passionate Junior Data Scientist to push forward the design, development, and implementation of solutions modernizing and transforming our operations and business based on vehicle telematics data. This position requires basic knowledge of statistical or probabilistic modeling, data transformation and visualization, and will offer career-accelerating opportunities to build skills and domain expertise in both the business and the craft of data science.
+
+In this role, you will be part of a team working in a fast-paced, open-ended environment to help define how our firm’s data scientists and business teams leverage telematics data to improve our processes and products. Success will depend on your ability to rapidly learn the craft and the business and quickly deliver capabilities and recommendations for partners within the Internet of Things Lab and other business stakeholders.
+
+Responsibilities
+
+Help assess the value of new data sources and analytical techniques to ensure ongoing competitive advantage
+Conduct cost-benefit analysis and estimate value-add of data-driven solutions, including third party data sources
+Create and evaluate sensor-based features and capabilities using data science and machine learning techniques and state-of-the-art tools and data sources
+Engage with technical and business stakeholders to help define and design solution concepts
+Support the implementation and delivery of complex technological proofs of concept and implementations
+
+What’s in it for you?
+Build your skills in a supportive, constructive environment:
+Develop a deeper understanding of data analysis, emerging technologies, and development practices
+Grow your communication, analytical, interpersonal, and organizational capabilities
+Learn and support rapid software development and deployment using a mix of technologies
+Foster an entrepreneurial mindset, working to support teams across an enterprise
+Accelerate your career:
+Collaborate in a high-performing, fast-paced team
+Iterate and deliver in a focused, high-visibility environment to stakeholders including teams and leaders across the enterprise
+Deliver work in a culture of constructive feedback with many opportunities for growth and advancement based on consistent demonstrated performance
+
+Qualifications:
+2+ years of educational or self-taught experience in a quantitative field, such as (but not limited to): computer science, quantitative economics, data analytics, mathematics, physics
+Curious and interested about learning other teams’ business practices and brainstorming ways to create value for them
+Excited to learn about current and emerging IT products, services, processes and methodologies.
+Basic knowledge of, or ability to quickly learn data scientific tools including: scripting languages (ex: python), SQL (ex: Oracle, PL/SQL), and big data environments (ex: AWS, GCP, Azure, Hadoop)
+Demonstrated analytical approach with a strong interest in uncovering and resolving open-ended problems by delivering innovative approaches and solutions
+Self-motivated and results-oriented, with a strong sense of ownership and accountability
+Effective written, verbal communication and presentation skills
+Passionate about finding opportunities to grow and learn from successes and failures
+
+Desired Qualifications:
+Experience with telematics
+Demonstrated knowledge of SQL and the python data science stack
+Track record of analytical projects covering all stages of data utilization, from collection through transformation to analysis and evaluation of implications
+Strong understanding of quantitative approaches, their benefits, and their limitations
+Compensation
+The listed annualized base pay range is primarily based on analysis of similar positions in the external market. Actual base pay could vary and may be above or below the listed range based on factors including but not limited to performance, proficiency and demonstration of competencies required for the role. The base pay is just one component of The Hartford’s total compensation package for employees. Other rewards may include short-term or annual bonuses, long-term incentives, and on-the-spot recognition. The annualized base pay range for this role is:
+$84,960 - $127,440
+Equal Opportunity Employer/Females/Minorities/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/Age
+About Us
+|
+Culture & Employee Insights
+|
+Diversity, Equity and Inclusion
+|
+Benefits
+Data Scientist - GD08AE
+-
+Skills:
+To apply to this job, click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-11 12:21:38.215584

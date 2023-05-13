@@ -1,0 +1,34 @@
+Position: Power BI Developer
+Location: Atlanta, GA (Day 1 onsite)
+Duration: Full Time
+Job Qualifications / Requirements:
+Connecting data sources, importing data, and transforming data for Business intelligence.
+Analytical thinking for translating data into informative reports and visuals.
+Should have hands on experience on making DAX queries in Power BI desktop
+Should be able to develop tabular and multidimensional models that are compatible with data warehouse standards.
+Developing visual reports, KPI scorecards, and dashboards using Power BI desktop.
+Capable of implementing row-level security on data along with an understanding of application security layer models in Power BI.
+Strong technical documentation skills.
+Strong Database query experience using Microsoft Azure, SQL data warehouse and other databases.
+Design, develop, test, and deploy Power BI scripts and perform detailed analytics
+Very good communication skills must be able to discuss the requirements effectively with the client teams, and with internal teams.
+Job Type: Full-time
+Salary: $80,845.95 - $100,747.83 per year
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Atlanta, GA 30303: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-08 21:16:13.190394

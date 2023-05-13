@@ -1,0 +1,33 @@
+Job Description
+
+As the EMP MDA Data Scientist, you will be responsible for but not limited to:Delivering Operational Analytics and Automation solutions in partnership with business subject matter experts and super users to solve complex problems and developing an effective analytics self-service community within the business.Designing and applying leading Data Analytics solutions to influence how the business groups in EMP use analytics as an integral ingredient to a world class Manufacturing organization.Developing algorithms and mathematical models, performing experimentation and building data driven apps to translate data into intelligence, solve a variety of business problems and enable business strategy.Delivering data engineering and automation capabilities that enable analytics solution.Enabling EMP wide data culture through engagements with customers, educating them on technical capabilities available and facilitating data accessibility and awareness initiatives.Work with EMP teams to identify analytics needs and create plans to deliver models that provide insights.The ideal candidate should exhibit the following behavioral traits:Understanding of internal business segment. (stakeholders)Possess written and communication skills. Able to clearly communicate project status, risks and help needed. Be able to elicit requirements, discuss solution options and drive adoption with customers.Self-starter, responsible, dependable and inquisitive.Ability to solve complex analytics problemsDesire to drive change and infuse new mindset to streamline our business.Challenges status quo and has a passion to drive smart change using data.Project management skills as well as Supply Chain business background with a track record of leading and delivering complex projects thru multi-disciplinary, matrixed cross- geo teams and partnerships.Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+Qualifications
+
+Minimum Qualifications: The candidate must possess at least one of the following degrees plus the years of experience determined for each degree in the areas specified below Ph.D or Master's Degree in Data Analytics/Science, Mathematics, Statistics, Machine Learning with 4+ years of experience Proficiency with real-world experience, and areas Business Intelligence products. Developing BI models and solutions using Microsoft BI stack on Azure Azure Data Platform including DataBricks/Snowflake/Synapse/SQL/DataLake, LogicApps, Data Factory Statistics and advanced analytics to find patterns and relationships in data Large data set manipulation Creation of data models and visualizations to tell a compelling story and interpret the results that will enable others to drive change and action to drive business optimizations Predictive modeling statistics Machine Learning Data Mining and other data analysis techniques to collect explore and extract insights from structure and unstructured data. Experience with modern analytics frameworks to drive world-class analytics capability Deep experience with analytics languages and frameworks such as Python, R Experience with creating insights and visualizations This position is not eligible for Intel immigration sponsorship. Preferred Qualifications: Work experience in Supply Chain is preferred Hands on experience with Agile Development methodology and framework MS Azure Data Platform certification Semiconductor industry experience
+Inside this Business Group
+
+Intel's Sales and Marketing (SMG) organization works with global customers and partners to solve critical business problems with Intel based technology solutions. SMG works across business units to amplify the customer voice and deliver solutions that accelerate their business. We work across numerous industries, including retail, enterprise and government, cloud services and healthcare as examples. The operations team focuses on forecasting, driving alignment with factory production and delivering efficiency tools and our marketing capability drives demand and localized marketing in locations around the globe. Our sales force navigates a complex partner and customer ecosystem while shaping product roadmaps, driving value for our customers, and collaborating to harness emerging technology trends to deliver comprehensive solutions.
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Benefits
+
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here: https://www.intel.com/content/www/us/en/jobs/benefits.html
+
+It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel’s offices for various positions and further requiring them to deposit money to be eligible for the interviews. We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at https://jobs.intel.com/ and not fall prey to unscrupulous elements.
+Working Model
+
+This role is available as a fully home-based and generally would require you to attend Intel sites only occasionally based on business need. This role may also be available as our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. In certain circumstances the work model may change to accommodate business needs.
+
+JobType
+Fully Remote
+Start your job application: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-11 12:22:21.427689

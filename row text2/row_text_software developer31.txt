@@ -1,0 +1,39 @@
+Job Description:
+Our startup is focused on building donation software for nonprofit organizations, and we're looking for a skilled PHP Laravel developer to join our team. As a developer on our team, you will be responsible for designing and implementing new features, as well as maintaining and optimizing our existing codebase.
+Key Responsibilities:
+Design and implement new features using PHP Laravel framework
+Write clean, maintainable, and testable code
+Work closely with our product team to gather requirements and ensure that our software meets the needs of nonprofit organizations
+Participate in code reviews and provide feedback to other developers
+Troubleshoot and debug issues in our codebase
+Optimize the performance of our software
+Stay up-to-date with the latest trends and technologies in PHP and web development
+Requirements:
+Strong experience in PHP Laravel framework
+Proficient in web development technologies such as HTML, CSS, and JavaScript
+Familiarity with MySQL or other relational databases
+Experience with version control systems such as Git
+Experience working in an agile development environment
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+Nice to have:
+Experience with AWS or other cloud services
+Familiarity with frontend frameworks such as React or Vue.js
+Knowledge of nonprofit organizations and their fundraising practices
+If you're passionate about building software that can make a real difference in the world, and you have the skills and experience we're looking for, we'd love to hear from you!
+Job Type: Contract
+Pay: $50.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Muscle Shoals, AL 35661: Reliably commute or planning to relocate before starting work (Required)
+Work Location: Hybrid remote in Muscle Shoals, AL 35661
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: MASTER
+Position Level: -1
+ Time of Scrape: 2023-05-10 12:32:05.431980

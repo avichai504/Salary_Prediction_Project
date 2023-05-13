@@ -1,0 +1,63 @@
+Job Summary:
+
+In addition to the responsibilities listed below, this position is also responsible for solving client analytics problems under the guidance of more senior employees; communicating results and methodologies; designing experiments to validate findings or test hypotheses; defining validity of information, how long information is meaningful, and relation to other information; working with data steward to ensure information is in compliance with regulatory and security policies; and qualifying where information can be stored or what information may be used in support of the use case.
+
+This position is also responsible for assessing the volume of data supporting an initiative, data type, and speed or sudden variations in data collection; helping the organization understand principles and math behind the process; and providing on-going tracking and monitoring of performance of decision systems and statistical models.
+
+Essential Responsibilities:
+
+
+
+Pursues self-development and effective relationships with others by proactively providing resources, information, advice, and expertise with coworkers and customers; influencing others through technical explanations and examples; providing occasional mentoring to team members; listening and responding to, seeking, and addressing performance feedback; creating plans to capitalize on strengths and develop weaknesses; anticipating and responding to the needs of others; and adapting to and learning from change, difficulties, and feedback.
+
+Completes work assignments by applying up-to-date expertise in subject area to generate creative solutions; ensuring all procedures and policies are followed; leveraging an understanding of data, and resources to support projects or initiatives; collaborating cross-functionally to solve business problems; identifying and monitoring priorities, deadlines, and expectations; communicating progress and information; identifying, recommending, and implementing ways to address improvement opportunities; and escalating issues or risks as appropriate.
+
+Supports and develops analytical and/or statistical models enabling informed business decisions by determining data and analytical requirements; creating models leading to actionable insights; and testing, refining, and validating models.
+
+Gathers data and information on targeted variables in an established systematic fashion by validating data sources; querying, merging, and extracting data across sources; completing routine data refresh and update; developing and/or delivering tools for electronic data collection; and providing user training, support, and documentation.
+
+Supports data analysis interpretation by applying findings to contextual settings under the guidance of more senior employees; and developing reports and presentations telling a compelling story to stakeholders to enable and influence decision making.
+
+Develops, implements, and automates business and reporting solutions by working with stakeholders in their design, planning, and implementation while ensuring consistency and coherency; summarizing data and results; creating summary statistics; organizing data reports, visualizations, and/or interactive Business Intelligence (BI) reports; identifying needs for the development and implementation of additional reporting solutions; and preparing documentation as appropriate.
+
+Prepares data for analytic efforts by consolidating data; reviewing data for quality and accuracy; profiling data inaccuracies; and cleaning and creating final data set(s) for analysis.
+
+Supports data-informed decisions by consulting with clients to identify and clarify key business needs; developing outcomes and process measures; translating business requirements; determining data/information needs and data collection methods; developing analysis plans; measuring the impact of business decisions on clients, customers, and/or members; working with clients and staff to identify opportunities and methods to improve efficiencies with analysis; supporting and training end-users; and documenting processes and deliverables.
+
+Supports the execution of creative data analytic approaches leading to actionable outcomes by identifying metrics to be analyzed; calculating algorithms; and conducting analyses under the guidance of more senior employees, including descriptive, correlational, inferential, and/or predictive statistics.
+
+Minimum Qualifications:
+
+Minimum two (2) years programming experience.
+
+Minimum two (2) years experience working with data visualization tools.
+
+Minimum two (2) years statistical analysis and modeling experience.
+
+Bachelors degree in Mathematics, Statistics, Engineering, Social/Physical/Life Science, Business, or related field and Minimum three (3) years experience in data analytics or a directly related field. Additional equivalent work experience in a directly related field may be substituted for the degree requirement.
+
+PrimaryLocation : California,Downey,Downey Boeing - Independence Park
+HoursPerWeek : 40
+Shift : Day
+Workdays : Mon, Tue, Wed, Thu, Fri
+WorkingHoursStart : 08:00 AM
+WorkingHoursEnd : 04:00 PM
+Job Schedule : Full-time
+Job Type : Standard
+Employee Status : Regular
+Employee Group/Union Affiliation : NUE-SCAL-01|NUE|Non Union Employee
+Job Level : Individual Contributor
+Job Category : Data Analytics
+Department : Independence Park - Rx Admin-Analytical Svc (PAS) - 0801
+Travel : Yes, 10 % of the Time
+Kaiser Permanente is an equal opportunity employer committed to a diverse and inclusive workforce. Applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), age, sexual orientation, national origin, marital status, parental status, ancestry, disability, gender identity, veteran status, genetic information, other distinguishing characteristics of diversity and inclusion, or any other protected status.
+Apply Now: click Apply Now
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:22:09.792035

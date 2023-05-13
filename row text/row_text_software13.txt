@@ -1,0 +1,50 @@
+Job Summary
+The software engineer will generally work remotely on one or more projects for Chara's customers or internal applications. Traveling to customer sites may be required at times.
+All development utilizes one or more of the following technologies:
+Java, Spring Boot, Hibernate
+Oracle or SQL Server
+SQL, PLSQL, TSQL
+React JS, JavaScript
+XML messaging with middleware
+RESTful web services and JSON
+Typical developer activities may include (but not limited to):
+Developing new features from user stories in sprints or from other technical documentation
+Investigating bugs or ticket resolution
+Working with customers either in person or video / teleconference
+Training staff or customers on processes or technology
+Requirements
+Work remotely (home state must be Texas or Florida) in an effective and efficient manner during normal business hours (9 AM to 5 PM)
+Experienced with a majority of the skills and technology listed above.
+Excellent communication skills in English
+US Citizenship
+Job Types: Full-time, Contract
+Pay: $85,000.00 - $140,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+Application Question(s):
+Are you a US Citizen?
+Do you live in Texas or Florida?
+Experience:
+RESTful API: 2 years (Preferred)
+Java: 2 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-09 18:19:34.346536

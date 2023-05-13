@@ -1,0 +1,32 @@
+Job Title : Data Analyst
+Location :Cupertino ,CA (Hybrid)
+Duration :9 Months
+Client is Looking for "Store Experience Product Launch Global Data Analyst"
+Duties:
+•Own the global Channel store merchandising landscape in preparation of a product launch: Perform data validation and scrubbing, working with inputs from regional teams
+•Forecast store demos and security elements for product launches: Develop models based on current merchandising to forecast demand at SKU-level based on global strategy, against a fluctuating baseline
+•Contribute to marketing strategy: Be resourceful using sales and merchandising datasets, along with tools to research and develop insights that contribute to strategy decisions
+•Tell stories with data every day: Propose and defend your ideas with strong research and compelling analyses to internal cross-functional team and sales/marketing leadership stakeholders
+•NPI Project management: Lead projects across internal planning, merchandising, supply/demand and country/regional teams to ensure forecast accuracy and supply availability within a defined schedule
+•A mix of team & independent work: manage your deliverables and deadlines independently, but connect everything to the bigger picture with your colleagues; communicate the status and results of your independent projects to cross-functional forums
+Hard Skills: Very strong Excel and data management; Data visualizations (Tableau/Power BI), analysis and reporting across several levels of the organization; MacOS and iOS; Experience with supply/demand planning, inventory management or retail merchandising an asset
+Soft Skills: Detail-oriented; Comfortable working in an extremely agile, collaborative, fast-paced environment with a lot of ambiguity; comfortable working with highly sensitive information; resourceful; deadline-driven; strong problem solving; ability to prioritize multiple, conflicting deliverables; Ideal candidates would have a passion for data storytelling, problem solving, and an interest in collaborating with others to shape the in-store experience for a major tech brand
+Education: Bachelor’s degree or data analysis certifications preferred. MBA or master’s in data science a plus
+Job Types: Full-time, Contract
+Salary: $65.00 - $70.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Cupertino, CA 95014: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+SQL: 3 years (Preferred)
+Work Location: Hybrid remote in Cupertino, CA 95014
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:22:01.127796

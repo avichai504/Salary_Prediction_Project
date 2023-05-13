@@ -1,0 +1,29 @@
+100% remote, must be open to pacific/mountain time zone work wise.
+Please send candidates that fit the below must have skills, automation testing is not the focus. It is not a bad thing to have, but likely this person will come from more of the business/testing and SQL side of things is what the manager made a point to tell us. Please make sure
+R exp (data science tool), and SQL are required, with VBA being 3rd most important tech focus.
+Their application is on SQL Servers on physical blades, will be decommissioned and rebuilt in virtual environment
+Need to move everything, new versions of IDEs
+This role will take every production level script and test in the new environment
+Some business acumen to know what the script is doing
+Know order of operations within each language
+Someone who has built scripts not just tested
+Automation is not the focus for the role
+Likely someone with 5-8+ years of exp
+Job Type: Contract
+Salary: $45.00 - $50.00 per hour
+Ability to commute/relocate:
+Greenwood Village, CO 80111: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+R: 5 years (Required)
+SQL: 5 years (Required)
+VBA: 3 years (Required)
+Work Location: One location
+Show Less
+Report
+
+
+Testing regine:
+Experience: 8
+Education: MASTER
+Position Level: SENIOR
+ Time of Scrape: 2023-05-11 12:21:41.732309

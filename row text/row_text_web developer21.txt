@@ -1,0 +1,35 @@
+This position includes improving and maintaining current websites and databases. We are looking for a team player that can take direction as well as take initiative by providing solutions to the company's growing needs. Candidate will be expected to provide sample code.
+This is a mid level position with excellent opportunities for advancement in the company. People that are strong in the following will be considered: Positive attitude, goal oriented, enthusiastic, strong work ethic, team player, willingness to learn and be trained, cares about people, and concerned about the end result. CZP is a fun and fast paced atmosphere where those who are willing to work hard and grow as a professional have a great future ahead.
+Requirements:
+Experienced in HTML, CSS, PHP, Javascript and MySQL
+Familiar with OOP, Composer, Vue.js, Git and Linux CLI
+Aware of web trends and technologies
+A desire to learn new technologies
+Detail-oriented and self motivated
+Able to communicate and explain solutions
+Job Type: Full-time
+Pay: From $60,000.00 per year
+Benefits:
+Employee discount
+Health insurance
+Paid time off
+Retirement plan
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Phoenix, AZ 85027: Reliably commute or planning to relocate before starting work (Preferred)
+Education:
+High school or equivalent (Preferred)
+Experience:
+PHP: 3 years (Preferred)
+MySQL: 3 years (Preferred)
+Work Location: In person
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: HIGH-SCHOOL
+Position Level: -1
+ Time of Scrape: 2023-05-09 16:37:35.859841

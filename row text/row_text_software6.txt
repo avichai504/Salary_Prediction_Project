@@ -1,0 +1,50 @@
+The NBA is committed to providing a safe and healthy workplace. To safeguard our employees and their families, our visitors, and the broader community from COVID-19, and in consideration of recommendations from health authorities and the NBA’s own advisors, any individual working onsite in our New York and New Jersey offices must be fully vaccinated against COVID-19. The NBA will discuss accommodations for individuals who cannot be vaccinated due to a medical reason or sincerely held religious belief, practice, or observance.
+
+Position Summary:
+At the WNBA, we're passionate about growing the business of basketball. Through the intensity of the game and the amazing athletic skill of our players, we deliver excitement to hundreds of millions of fans around the world.As a global sports and media business, the WNBA is so much more. While Basketball Operations runs the league's on-court activities, other departments are also critical to managing relationships with television and digital media partners, developing marketing partnerships with some of the world's most recognizable companies, and running the business operations and transformation for the League's leadership.The Digital Products team will develop and deliver a number of strategic digital product initiatives for the WNBA. We are looking for a Full Stack Developer to produce scalable software solutions. You'll be part of a cross-functional team that's responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility. The candidate for this growth position should be an expert in their field and help lead the team strategically in achieving our goals.
+
+Major Responsibility:
+Work with development teams and product managers to ideate software solutions
+Where applicable, design client-side and server-side architecture and build the front-end of applications through appealing visual design
+Provide technical and developmental mentorship to subordinates
+Partnering with Product and Content Teams, gather business requirements and design technical solutions to meet those needs
+Liaise with, and provide written feedback to technical and business constituents as necessary
+Set coding standards and help drive the strategic technical direction of our engineering efforts; develop systems to meet or exceed business KPIs
+Understand and modify existing systems as business requirements and consumer behaviors change
+Develop system test criteria and participate in systems testing
+Respond to, isolate and resolve programming problems
+Provide after hours and weekend support for production systems when needed
+
+Required Skills/Knowledge:
+Proven experience as a Full Stack Developer or similar role
+Experience developing desktop and mobile applications
+Familiarity with common stacks Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, JSON, XML)
+Knowledge of multiple back-end languages (e.g. PHP, Node, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+Strong knowledge of web server technologies (i.e. Apache) and web proxies (i.e. Varnish)
+Strong knowledge of Amazon Web Services and Microsoft Azure inclusive of Lambda, S3 and other micro-services
+Knowledge of Content Delivery Networks (i.e. Akamai) and CI/CD stack
+Excellent written and verbal skills
+
+Education:
+BS in computer science, electrical engineering or a related technical discipline.
+
+Salary Range:
+$120,000 to $135,000
+
+#LI-NA1
+The NBA does not accept unsolicited resumes from search firms or any other third parties. Any unsolicited resume sent to the NBA will be considered NBA property, and the NBA will not pay a fee should it hire the subject of any unsolicited resume.
+
+The NBA considers applicants for all positions on the basis of merit, qualifications, and business needs, and without regard to race, color, national origin, religion, sex, age, disability, sexual orientation, gender identity, alienage or citizenship status, ancestry, marital status, genetic predisposition or carrier status, veteran status, familial status, status as a victim of domestic violence, or any other status or characteristic protected by applicable federal, state, or local law.
+
+About the WNBA
+The WNBA is a bold, progressive basketball league that stands for the power of women. Featuring 12 teams, the W is a unique sports property that combines competition and entertainment with a commitment to diversity and inclusion and social responsibility. Through its world-class athletes, the in-game fan experience, TV and digital broadcasts, digital and social content and community outreach programs, the league celebrates and elevates the game of basketball and the culture around it.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-09 18:19:16.889724

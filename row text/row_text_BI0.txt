@@ -1,0 +1,35 @@
+15+ Years Power BI (including PowerPivot, Power Query, and Power View)
+Proficiency with Snowflake, Azure Data warehouse, Azure Analysis Services
+Should be strong in SQL and Building Analysis Services reporting models.
+Proficient in making DAX queries in Power BI desktop.
+Expertise in using advance level calculations on the data set.
+Able to develop tabular and multidimensional models that are compatible with warehouse standards.
+Good knowledge of designing and Integration of Power Apps for write back functionality
+Strong ability to analyse user requirements and build front-end BI applications according to specs.
+Exceptional analytical, conceptual, and problem-solving
+Strong knowledge that demonstrates database technical functionality such as performance, security and reliability
+Strong and effective inter-personal and communication skills and the ability to interact professionally with a diverse group of users and staff.
+Should understand and be able to contribute in all phases of the development life cycle
+Good to Have:
+Mining KPI experience
+Some understanding of Statistical chart.
+Job Type: Contract
+Salary: $38.78 - $75.00 per hour
+Experience level:
+9 years
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-08 21:15:38.031911

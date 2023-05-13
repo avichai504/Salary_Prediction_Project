@@ -1,0 +1,64 @@
+Job Information
+Number of Positions
+10
+Industry
+Technology
+Work Experience
+0-1 year
+Job Description
+Job Summary:
+
+As a Software Developer Trainee, you should be well-versed on programming languages, development frameworks and third-party libraries. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.
+
+Responsibilities and Deliverables:
+Understanding of Coding languages for frontend or backend development.
+Ability to search for components and plugins in platforms matching the requirements.
+Basic to medium knowledge of developing custom plugins and components
+Should have good analytical skills and logical reasoning skills
+Clean & Structured coding pattern with a very strong focus on documentation and commenting
+Very good at understanding the logic of code and algorithms
+Work with development teams and product managers to ideate software solutions.
+Creating servers and databases for functionality.
+Write effective APIs
+Create security and data protection settings
+Design client-side and server-side architecture
+
+Requirements
+Required Skills:
+Able to learn new skill sets and develop software products.
+Ability to analyze and understand technical aspects of a project to write code.
+Good understanding of the IT industry and latest technologies in trend.
+Effective verbal and written communication skills.
+Good at analytical approach, and client-centric approach with exceptional client interfacing and problem solving skills.
+Candidate should have strong knowledge of OOPS, Java / C, C++, HTML, Data Structure, Algorithms.
+The candidate must have excellent programming skills.
+The candidate should be a fast learner
+Knowledge of Android, iOS, or angular, ReactJS or NodeJS would be preferred.
+
+Experience:
+Freshers
+
+
+Qualification:
+The candidate with B.tech in CS/IT, MCA/ MBA/ M.Tech, or any post-graduation in Computer Sciences.
+
+Benefits
+Salary and Benefits:
+Work from home
+Opportunity to work on the latest technology domains including Blockchain, IoT, Cloud or AI.
+Fast Learning
+Flexible working hours
+Deep technical training from coding to architecture
+Opportunity to interact and present work directly to the customer based in US/UK.
+Rs. 3 Lakhs per annum effective from the date of joining.
+Six Months Probation period from the date of joining.
+Annually Salary increment.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:31:48.389225

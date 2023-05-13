@@ -1,0 +1,102 @@
+A WORLD LEADER IN TESTING, INSPECTION & CERTIFICATION SERVICES
+Bureau Veritas offers dynamic, exciting employment opportunities with an attractive salary/benefit package and an opportunity to play a vital role with a global organization. If you would enjoy working in a dynamic environment and are looking for an opportunity to become part of a stellar team of professionals, we invite you to apply online today.
+Bureau Veritas is an Equal Opportunity Employer, and as such we recruit, hire, train, and promote persons in all job classifications without regard to race, color, religion, sex, national origin, disability, age, marital status, citizen status, sexual orientation, genetics, status as a protected veteran, or any other non-job-related characteristics.
+This position is responsible to ensure equal opportunity in employment in that all persons are treated equally and on the basis of merit, in decisions regarding selection, placement, promotions, training, work assignments, transfers and other personnel actions.
+City: Remote
+State: Remote
+Job Title: Junior Software Developer
+
+Summary:
+
+The Junior Software Developer is responsible for the development, design and implementation of new or modified software products or ongoing business projects, using primarily ASP.Net Framework, C#, JavaScript and MSSQL. The Software Developer will be involved in supporting and maintaining software applications and designing enhancements.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other job-related duties may be assigned in conformance with state and federal regulations.
+
+Core functions:
+
+Designs, modifies, develops, writes, and implements software programming applications.
+Design and implement features and functionality within existing software platforms.
+Manage support ticketing system including user communications, issue replication, diagnosis and resolving bugs.
+Collaborates with system owners and other development team members to design, develop, install, and deploy new applications and/or upgrades to existing applications.
+Ensures that applications meet business requirements and systems goals, fulfill end-user requirements, and identify and resolve systems issues.
+Assist in task planning and estimation.
+Ensures proper system documentation.
+Provides ideas for new product enhancements utilizing the latest technology and best-practices.
+
+In addition, you will:
+
+Enhance professional and technical knowledge by attending educational workshops, reviewing professional publications, establishing personal networks, and participating in professional societies.
+Comply with federal, state, and local legal requirements by studying new and existing legislation, anticipating future legislation, enforcing adherence to requirements, and advising management on necessary action.
+Protect operations by keeping company information confidential.
+Deliver outstanding customer service through timely response and proactive solutions to clients needs.
+Demonstrate BV’s guiding principles in support of the company's strategic goals.
+Follow all documented policies, Standard Operating Procedures, and Work Instructions applicable to the position and support of BV's quality standards and strategic initiatives.
+Maintain safe and clean work area by complying with all procedures, rules, and regulations.
+May be required to work overtime.
+Possess the ability to use and skillfully operate a computer is essential to this position.
+Successfully work from remote location.
+
+SUPERVISORY RESPONSIBILITIES: This job does not have specific supervisory responsibilities.
+
+QUALIFICATIONS: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Education and/or Experience:
+Bachelor’s degree in Computer Science, Engineering, Information Systems, or related field is highly preferred.
+Open to new graduates and entry level candidates.
+Years of experience and certifications in lieu of degree will be given consideration.
+Experience working remotely as a part of a collaborative team.
+Knowledge of standard software development methodologies.
+
+Certificates, Licenses, Registrations:
+None required.
+
+PREFERENCE will be given to candidates with knowledge of or experience with:
+Microsoft web technologies (ASP.NET Framework, C#)
+Web Services & APIs
+Microsoft Azure platform
+Microsoft Azure application architecture
+Microsoft SQL Server
+JSON
+JavaScript and frameworks (JQuery, AngularJS, NodeJS, Angular2)
+Microsoft Office Products
+Testing framework experience
+
+Other Qualifications:
+Must have a cell phone and supply your own internet service.
+Must be able to work from a remote location.
+Intermediate knowledge of Microsoft Word, Excel, Outlook, Windows
+Excellent verbal and written communication with Sales, Clients, Technical Operations, and other departments
+Strong written and verbal communication skills.
+Excellent time management skills including ability to perform multiple priorities in a fast-paced environment and ability to work independently.
+
+PHYSICAL DEMANDS: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+While performing the on-site duties of this job, the employee is frequently required to:
+Sit for extended periods of time
+Use of a computer for the primary portion of a workday.
+Repetitive use of hands/fingers for keyboard interaction.
+Talking
+Hearing
+Specific vision abilities required by this job include close vision, distance vision, and ability to adjust focus.
+
+The employee is occasionally required to:
+Stand, walk, and reach with hands and arms
+Lift and/or move up to 10 pounds
+
+WORK ENVIRONMENT: The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.
+
+Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time. EEO/AAE: This employer is an Equal Opportunity Employer. M/F/V/D are encouraged to apply. This employer is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, gender, marital status, protected veteran status, sexual orientation or any other characteristic protected by law. All qualified applicants, including individuals with disabilities, “disabled Veterans”, or Veterans with service-connected disabilities, are encouraged to apply. We value the service Veterans have given to our country and we strongly support the hiring of returning Service Members. Our company is a federal contractor and requests priority referrals of protected Veterans. Please understand that this offer does not create a contract of employment for a definite term or a contract of continuing employment. This employer is an at-will employer and either party can terminate the relationship at any time with or without cause and with or without notice.
+If you are an individual with a disability and you would like us to assist you with searching the Careers Page site for employment opportunities and/or assistance with completing your profile and application, please contact us at 1-888-357-7020 or email us with your request to NorthAmericaTA@bureauveritas.com.
+We are happy to assist you and encourage you to consider Bureau Veritas for your next great career opportunity!
+
+If you would like additional information regarding Bureau Veritas' federal obligations in regards to equal employment opportunity, please click the link below:
+http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: JUNIOR
+ Time of Scrape: 2023-05-10 12:31:19.153388

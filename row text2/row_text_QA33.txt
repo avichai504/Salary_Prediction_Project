@@ -1,0 +1,39 @@
+Location-Miramar, FL
+Client: Southern Glazier Wine and Spirits
+Rate: 55/hr C2C
+Hybrid-1-2 days onsite per week-must be local to Miramar, FL or Dallas, TX
+Duration 2+ years
+Skill Set:
+Strong knowledge of SQL or Query
+Understanding of three-tier supply chain distribution systems
+Ability to lead medium size projects with multiple interface points
+Knowledge of EDI is a plus.
+Desired Work Location: Miramar or Dallas
+POSITION SUMMARY: The Senior Quality Assurance Analyst is responsible for developing and executing formal test plans to ensure the delivery of quality software solutions. Involved in test planning, writing test cases/scripts, test case automation and test execution in support of IT changes to business processes. May participate in change control processes and approvals, particularly at more experienced levels. Defines and tracks quality assurance metrics such as defects, defect counts, test results and test status. Documents all problems communicating the issue to development staff to assist in their resolution. More experienced Senior Quality Assurance Analysts may deliver quality and testing process training to IT staff and project teams. They may also perform quality and testing audits across the various IT functions to ensure adherence to quality and testing standards, procedures, and methodologies are being followed properly and consistently. The Senior QA Analyst acts as team leader with strong leadership skills and ability to build high performance work teams for solution testing. This individual also coordinates the work activities and results with the offshore leader of an outsourced testing organization that will offset capacity issues during time periods with heavy project loads. The responsibilities for this role are: Develop testing approaches, including those for test automation Plan and document succession planning within scope of responsibility Develop test plans, including test conditions and expected results, test cases, and test scripts Identify test data requirements and work with other teams as needed to create and maintain test data Execute testing, including documentation of test results and defects Assist in defect troubleshooting and resolution Assist in the implementation and maintenance of software testing tools Create, run, and maintain reports to measure and track testing metrics Participate in testing automation, including script development and maintenance Stay up-to-date on software application testing tools and best practices Deliver quality and testing process training to IT staff and project teams Perform quality and testing audits across the various IT functions to ensure quality and testing standards, procedures and methodologies are being followed properly and consistently Mentor peers to help them build capabilities Oversee and participate in quality and testing audits across the various IT functions to ensure quality and testing standards, procedures and methodologies are being followed properly and consistently Improve efficiency of team
+Job Types: Full-time, Contract
+Pay: $45.00 - $55.00 per hour
+Benefits:
+Dental insurance
+Tuition reimbursement
+Vision insurance
+Schedule:
+Evening shift
+Night shift
+Ability to commute/relocate:
+Havana, FL 32333: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+SQL: 1 year (Preferred)
+Selenium: 1 year (Preferred)
+Test automation: 1 year (Preferred)
+Work Location: In person
+Speak with the employer
++91 704-461-1082
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: SENIOR
+ Time of Scrape: 2023-05-10 09:49:09.190167

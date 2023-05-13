@@ -1,0 +1,23 @@
+Become an Outcoder as a QA Manual Engineer
+We are looking for a Quality Assurance (QA) Engineer to develop and execute exploratory and automated tests to ensure product quality. QA engineer responsibilities include designing and implementing tests, debugging and defining corrective actions. You will also review system requirements and track quality assurance metrics (e.g. defect densities and open defect counts.) The QA technician role plays an important part in our company's product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs, while being cost-effective. If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we'd like to meet you. Ultimately, you should monitor all stages of software development to identify and resolve system malfunctions to meet quality standards.
+What you'll need to be successful:
+Proven work experience in software development
+Proven work experience in software quality assurance
+Strong knowledge of software QA methodologies, tools and processes
+Experience in writing clear, concise and comprehensive test plans and test cases
+Hands-on experience with both white box and black box testing
+Hands-on experience with automated testing tools
+Solid knowledge of SQL and scripting
+Experience working in an Agile/Scrum development process
+Experience with performance and/or security testing is a plus
+BS/MS degree in Computer Science, Engineering or a related subject
+About us: EX² Outcoding is a premier solution provider of a broad range of outsourcing services, combining proven expertise in technology and project execution for companies searching for high-quality software development solutions. We specialize in delivering the best technical solution but also in enhancing that solution creatively by working closely with stakeholders to understand the business context.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:48:25.538259

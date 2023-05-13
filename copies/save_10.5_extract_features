@@ -1,0 +1,60 @@
+
+def extract_years_of_experience(job_description):
+    # pattern = r"\b(at least )?([0-9]+|(one|two|three|four|five|six|seven|eight|nine|ten))\s+(year|years|years'|ye|ya|Y)(\s+of\s+)?(\w+\s+){0,2}(experience|professional|work|exp)\b"
+    pattern = r"\b(at least )?([0-9]+\+?|(one|two|three|four|five|six|seven|eight|nine|ten))\s+(year|years|years'|ye|ya|Y)(\s+of\s+)\b"
+
+    # Search for the pattern in the job description
+    match = re.search(pattern, job_description, re.IGNORECASE)
+
+    if match:
+        # Extract the number of years from the match object
+        years_of_experience_str = match.group(2)
+        if years_of_experience_str.isdigit():
+            years_of_experience = int(years_of_experience_str)
+        else:
+            # convert word to digit
+            words_to_digits = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
+                               "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
+            years_of_experience = words_to_digits[years_of_experience_str]
+        return years_of_experience
+    else:
+        # If no match is found, return -1
+        return -1
+
+
+def extract_education(job_description):
+    pattern_high_school = r"\b(High school|Highschool|Secondary school|Secondary education)\b"
+    pattern_bachelor = r"(?i)\b(bachelor|bachelor's|bs|b\.s\.|b\s\s?\.?\s?sc)\b(?=.*degree)"
+    pattern_master = r"(?i)\b(master|master's|ms|m\.s\.)\b(?=.*degree)"
+    pattern_doctor = r"(?i)\b(doctor|doctoral|phd|dr|d\.?\s?phil\.?|d\s\s?\.?\s?sc|doctorate)\b(?=.*degree)"
+
+    match_hi = re.search(pattern_high_school, job_description)
+    match_bs = re.search(pattern_bachelor, job_description)
+    match_ms = re.search(pattern_master, job_description)
+    match_dr = re.search(pattern_doctor, job_description)
+
+    if match_hi:
+        return "high-school".upper()
+    if match_bs:
+        return "bachelor".upper()
+    if match_ms:
+        return "master".upper()
+    if match_dr:
+        return "doctor".upper()
+    else:
+        return -1
+
+
+def extract_position_level(job_description):
+    junior_regex = r"\b(Junior|Jr\.|Jnr\.|Entry-level|Assistant|Trainee|Associate|Apprentice|Freshman|Newcomer|Rookie|Junior-level|Junior-level position|Junior role|Junior position|Junior team member|Junior staff member|Junior employee|Junior member|Junior assistant|Junior trainee)\b"
+    senior_regex = r"\b(Senior|Sr\.|Snr\.|Lead|Principal|Director|Manager|Executive|Chief|Head|Expert|Specialist|Consultant)\b"
+
+    match_ju = re.search(junior_regex, job_description, re.IGNORECASE)
+    match_se = re.search(senior_regex, job_description, re.IGNORECASE)
+
+    if match_ju:
+        return "junior".upper()
+    if match_se:
+        return "senior".upper()
+    else:
+        return -1

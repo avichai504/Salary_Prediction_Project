@@ -1,0 +1,47 @@
+QA Engineer=Remote
+Required Skills
+Define and standardize processes for building scalable & robust test automation frameworks
+Experience with TDD/BDD techniques and experience with Cucumber, Gherkin
+Technical Skills
+Selenium, Protractor, Oracle, MongoDB, SOAPUI and POSTMAN
+Processes: - SAFe/Agile, SDLC. Test Management and automation
+Extensive experience with testing middleware services, web services, daemon processes using tools like SOAP UI and Postman
+Extensive experience in RDBMS (Oracle/Mongo) DB testing Proficient in writing complex SQL queries
+Experience in preparing the Test Strategy, Test Plan, and Test Cases & Test Data Setup
+Experience in working with Agile (Scrum) and Waterfall software development methodologies
+Experience with Test Management tools like HP-ALM (QC), JIRA
+Excellent problem solving and critical thinking skills
+Able to communicate with business partners as well as internal and external technical teams including working with remote and offshore teams
+Experience in developing and understanding of HTML, XML, CSS, and experience in using version control tools like SVN, Git, GitHub
+Preferred Skills
+Experience with CI/CD and DevOps best-practices using Jenkins
+Test data management, Test environment management
+Testing batch support and operations
+Ensure self and others' adherence to enterprise testing standards, frameworks, and controls
+Good Communication Skills
+Job Types: Full-time, Contract
+Pay: $55.00 - $60.00 per hour
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Remote: Reliably commute or planning to relocate before starting work (Required)
+Willingness to travel:
+25% (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: -1
+Position Level: -1
+ Time of Scrape: 2023-05-10 09:47:44.636720
