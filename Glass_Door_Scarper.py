@@ -64,12 +64,15 @@ def get_jobs(keyword, num_jobs, path, slp_time):
         print(e, "e1")
         return "Break"
 
+
+
     num_of_job_in_page = 0  # In every page there has 30 jobs
     currentPage = 0
     j = int(1)  # for creating a files
 
     while num_jobs > len(jobs):
         print("Entering page number:", currentPage + 1)
+
 
         # Test for the "Sign Up" prompt and get rid of it.
         try:
@@ -78,14 +81,18 @@ def get_jobs(keyword, num_jobs, path, slp_time):
             print(e, "e2")
             pass
 
-        try:
-            job_links_locator = (By.CSS_SELECTOR, "a.jobLink")
-            job_buttons = wait.until(EC.presence_of_all_elements_located(job_links_locator))
-            print("Job link OK")
-        except Exception as e:
-            return f"An exception occurred: {str(e)}"
+        list_elements = WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'ul.hover li.react-job-listing'))
+        )
 
-        for i, job_button in enumerate(job_buttons):
+        # try:
+        #     job_links_locator = (By.CSS_SELECTOR, "a.jobLink")
+        #     job_buttons = wait.until(EC.presence_of_all_elements_located(job_links_locator))
+        #     print("Job link OK")
+        # except Exception as e:
+        #     return f"An exception occurred: {str(e)}"
+
+        for i, element in enumerate(list_elements):
 
             if len(jobs) >= num_jobs or len(jobs) >= int(num_of_total_jobs):  # Check if the number of jobs that collected is below the number we want or below the number of the total jobs
                 print(f"Progress stop because the number of jobs in the website is over :)"
@@ -94,8 +101,15 @@ def get_jobs(keyword, num_jobs, path, slp_time):
 
             if num_of_job_in_page == 30:  # here we will stop and move to the next page
                 break
+            try:
+                div_element = element.find_element(By.TAG_NAME, 'div')
+                job_button = div_element.find_element(By.TAG_NAME, 'a')
+                job_button.click()
+            except Exception as e:
+                print(e, 'e2.1')
+                break
 
-            if i % 3 == 0:  # because each post has 3 links
+            if i % 1 == 0:  # because each post has 3 links
                 now = datetime.now()  # for testing
                 is_remote = False
                 num_of_job_in_page += 1  # 1/30
@@ -132,7 +146,7 @@ def get_jobs(keyword, num_jobs, path, slp_time):
                         years_of_experience = et.extract_years_of_experience(text)
                         education = et.extract_education(text)
 
-                        doc = False
+                        doc = True
                         if doc:
                             with open(f"raw text/row_text_{keyword}{j}.txt",
                                       'w') as f:  # for testing the 'extract' functions
