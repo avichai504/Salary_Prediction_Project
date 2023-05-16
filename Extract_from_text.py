@@ -25,7 +25,9 @@ def extract_years_of_experience(job_description):
         return int(-1)
 
 
-def extract_education(job_description):  #  { 0:bachelor, 1:master, 2:doctor}
+def extract_education(job_description):  #  { 0:high school, 1:bachelor, 2:m_degree, 3:doctor}
+
+    keywords_high_school = ["high school, highschool, high-school "]
 
     keywords_bachelor = ["bachelor", "bachelor's", "bs", "b.s.", "b.sc.", "b.sc", "b sc", "bachelor of science",
                          "baccalaureate", "computer science"]
@@ -40,12 +42,15 @@ def extract_education(job_description):  #  { 0:bachelor, 1:master, 2:doctor}
                        "d.n.p.", "dnp", "doctor of nursing practice", "d.p.t.", "dpt", "doctor of physical therapy",
                        "psy.d", "psyd", "doctor of psychology"]
 
-    if any(word in job_description.lower() for word in keywords_bachelor):
+
+    if any(word in job_description.lower() for word in keywords_high_school):
         return int(0)
-    if any(word in job_description.lower() for word in keywords_master):
+    if any(word in job_description.lower() for word in keywords_bachelor):
         return int(1)
-    if any(word in job_description.lower() for word in keywords_doctor):
+    if any(word in job_description.lower() for word in keywords_master):
         return int(2)
+    if any(word in job_description.lower() for word in keywords_doctor):
+        return int(3)
     return int(-1)
 
 

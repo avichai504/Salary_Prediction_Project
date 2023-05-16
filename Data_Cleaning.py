@@ -142,8 +142,9 @@ def data_cleaning(df1):
     except Exception as e:
         print(e, "e11")
 
+    # rearrange the indexes in the dataframe
     df = df.reindex(
-        columns=['Job Title', 'Annual Salary', 'Experience', 'Education', 'Position', 'Location',
+        columns=['Job Title', 'Annual Salary', 'Experience', 'Education', 'Location',
                  'Is Remote', 'Company Size', 'Company Size Scale', 'Founded', 'Company Old', 'Industry', 'Sector',
                  'Revenue', 'Revenue Scale', 'Type of Ownership', 'Rating', 'Career Opportunities', 'Comp & Benefits',
                  'Culture & Values', 'Senior Management', 'Work Life Balance', 'Company Name', 'Time of Scrape'])
@@ -165,14 +166,14 @@ def final_clean(df):
         df.drop("Company Size", inplace=True, axis=1)
     if "Founded" in my_list:
         df.drop("Founded", inplace=True, axis=1)
-    if "Industry" in my_list:
-        df.drop("Industry", inplace=True, axis=1)
-    if "Sector" in my_list:
-        df.drop("Sector", inplace=True, axis=1)
+    # if "Industry" in my_list:
+    #     df.drop("Industry", inplace=True, axis=1)
+    # if "Sector" in my_list:
+    #     df.drop("Sector", inplace=True, axis=1)
     if "Revenue" in my_list:
         df.drop("Revenue", inplace=True, axis=1)
-    if "Type of Ownership" in my_list:
-        df.drop("Type of Ownership", inplace=True, axis=1)
+    # if "Type of Ownership" in my_list:
+    #     df.drop("Type of Ownership", inplace=True, axis=1)
     if "Time of Scrape" in my_list:
         df.drop("Time of Scrape", inplace=True, axis=1)
 
@@ -181,7 +182,6 @@ def final_clean(df):
 
     df_copy = df_copy[df_copy['Education'] != -1]
     df_copy = df_copy[df_copy['Experience'] != -1]
-    df_copy = df_copy[df_copy['Position'] != -1]
 
 
 

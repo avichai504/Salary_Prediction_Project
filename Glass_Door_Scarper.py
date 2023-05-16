@@ -116,6 +116,8 @@ def get_jobs(keyword, num_jobs, path, slp_time):
                     else:
                         pass
 
+
+
                 try:
                     show_more_button_locator = (By.XPATH, '//*[@id="JobDescriptionContainer"]/div[2]')
                     show_more_button = wait.until(EC.element_to_be_clickable(show_more_button_locator))
@@ -132,7 +134,7 @@ def get_jobs(keyword, num_jobs, path, slp_time):
 
                         doc = False
                         if doc:
-                            with open(f"row text/row_text_{keyword}{j}.txt",
+                            with open(f"raw text/row_text_{keyword}{j}.txt",
                                       'w') as f:  # for testing the 'extract' functions
                                 j += 1
                                 f.write(text)
@@ -144,7 +146,7 @@ def get_jobs(keyword, num_jobs, path, slp_time):
                                     f"\n Time of Scrape: {now}")
 
                     except Exception as e:
-                        years_of_experience = education  = int(-1)
+                        years_of_experience = education = int(-1)
                         print(f"Attempting to scrape the text did not worked  {str(e)} ")
 
 
