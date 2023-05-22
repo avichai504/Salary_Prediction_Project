@@ -1,0 +1,305 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time Unit
+0,$52.50 /hr (est.),109200.0,QA Test Engineer,0,1,-1,Kanini,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+1,$55.00 /hr (est.),114400.0,UAT Tester,8,1,-1,"Cloud and Things Inc
+4.6",Remote,4.6,1,-1,-1,-1,-1,-1,-1,-1,4.3,4.0,4.8,4.8,4.5,hr
+2,$75.00 /hr (est.),156000.0,Senior Manual QA Tester,-1,-1,-1,Match Made Tech,"Irvine, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+3,"$112,168 /yr (est.)",112168.0,Specialist QA (Remote),10,1,0,"Amgen
+4.2","Thousand Oaks, CA",4.2,0,43,10000+ Employees,1980,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.7,4.0,4.0,3.6,3.9,yr
+4,"$98,320 /yr (est.)",98320.0,Software QA Test & Release Engineer,4,1,-1,"Synaty Tech
+5.0","Colorado Springs, CO",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,yr
+5,$60.00 /hr (est.),124800.0,QA-SDET,1,2,-1,INA solution,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+6,$60.00 /hr (est.),124800.0,ETL QA Tester,5,2,-1,"Info Origin, Inc.
+3.0",Remote,3.0,1,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,2.9,2.8,2.8,hr
+7,$41.63 /hr (est.),86590.4,QA Manual Tester,3,1,-1,"SCIGON Solution
+5.0","Ann Arbor, MI",5.0,0,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,4.8,4.7,5.0,4.7,hr
+8,$35.00 /hr (est.),72800.0,Android QA Tester,2,2,-1,"ReachMobi
+4.4","Bonita Springs, FL",4.4,0,7,51 to 200 Employees,2016,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,4.3,4.7,4.3,3.9,4.1,hr
+9,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9","Seattle, WA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,yr
+10,$40.00 /hr (est.),83200.0,QA Engineer,3,2,1,Hire IT People Inc,"El Segundo, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+11,$40.00 /hr (est.),83200.0,QA Analyst,3,1,-1,"ASB Infotech
+4.0","Whippany, NJ",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+12,"$66,206 /yr (est.)",66206.0,QA Manual Tester,0,1,1,"Medtelligent
+4.9","Chicago, IL",4.9,0,18,1 to 50 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.5,4.5,4.9,4.9,4.8,yr
+13,"$65,000 /yr (est.)",65000.0,QA Engineer,2,2,1,Invictech Inc,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+14,$29.00 /hr (est.),60320.0,Tosca QA Automation Engineer,5,2,1,"Infologitech
+4.3","Raleigh, NC",4.3,0,-1,-1,-1,-1,-1,-1,-1,4.1,4.1,4.3,4.3,4.1,hr
+15,$31.00 /hr (est.),64480.0,QA Tester,1,2,1,Nanda Technologies,"Durham, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+16,$25.18 /hr (est.),52374.4,QA with Capital,1,2,-1,1st-Recruit,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+17,"$79,406 /yr (est.)",79406.0,QA Engineer,0,2,-1,"Convene Technologies
+3.6","San Antonio, TX",3.6,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.1,2.9,3.1,2.9,3.1,yr
+18,$48.00 /hr (est.),99840.0,Automation QA Engineer,5,2,1,"IT Engagements,Inc.",Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+19,$52.50 /hr (est.),109200.0,SDET/QA,4,1,1,"Fuge Technologies Inc
+4.7",Remote,4.7,1,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,hr
+20,"$81,850 /yr (est.)",81850.0,Software Quality Assurance Analyst - 100% Remote,3,1,1,"Radian
+4.2",Pennsylvania,4.2,0,46,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $5 billion (USD),3.8,4.1,4.3,3.8,4.4,yr
+21,"$105,000 /yr (est.)",105000.0,Software Tester,0,1,1,"Nationwide IT Services, Inc
+3.8",Remote,3.8,1,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.4,3.6,3.7,3.7,3.8,yr
+22,$15.00 /hr (est.),31200.0,Software Tester,0,2,0,"ApplicantPro
+4.7",Remote,4.7,1,17,51 to 200 Employees,2006,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),4.5,4.2,4.7,4.5,4.6,hr
+23,$45.00 /hr (est.),93600.0,Tosca Automation developer,1,2,-1,"Devcare Solutions
+3.7",Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+24,$21.82 /hr (est.),45385.6,Junior Test Engineer,1,1,1,Entech,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+25,"$116,350 /yr (est.)",116350.0,QA Engineer,3,1,1,"Peloton
+3.5","New York, NY",3.5,0,11,1001 to 5000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.1,4.0,3.6,2.9,3.6,yr
+26,"$60,988 /yr (est.)",60988.0,Trainee - QA,1,2,0,"LeewayHertz
+3.7","San Francisco, CA",3.7,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.6,3.7,3.6,3.6,yr
+27,$27.39 /hr (est.),56971.2,UAT Tester,6,1,-1,Sthavirsoft Inc,"Nashville, TN",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+28,"$101,748 /yr (est.)",101748.0,Quality Assurance Engineer,2,1,-1,Wevision LLC,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+29,"$93,948 /yr (est.)",93948.0,Automation Tester - Remote,3,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,yr
+30,"$94,836 /yr (est.)",94836.0,Quality Assurance Engineer,0,1,-1,"Doctor Evidence
+3.0","Santa Monica, CA",3.0,0,19,1 to 50 Employees,2004,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),2.9,3.0,3.2,2.7,3.3,yr
+31,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7","Columbus, OH",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+32,"$75,000 /yr (est.)",75000.0,Manual QA Tester,0,2,-1,"Xactus
+2.5","Broomall, PA",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.2,2.4,3.0,yr
+33,"$77,244 /yr (est.)",77244.0,Software Quality Assurance Engineer,0,1,-1,"ColdTrack
+4.6",Remote,4.6,1,8,501 to 1000 Employees,2015,Company - Private,Shipping & Trucking,Transportation & Logistics,$25 to $100 million (USD),4.4,4.4,3.8,4.1,3.5,yr
+34,"$131,890 /yr (est.)",131890.0,QA Analyst,5,1,0,"Citi
+3.9","Jersey City, NJ",3.9,0,211,10000+ Employees,1812,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),3.9,3.8,3.8,3.5,3.5,yr
+35,"$97,000 /yr (est.)",97000.0,QA Engineer,0,1,1,"Financial Times
+4.2","New York, NY",4.2,0,135,1001 to 5000 Employees,1888,Subsidiary or Business Segment,Publishing,Media & Communication,Unknown / Non-Applicable,3.7,3.8,4.4,3.9,4.3,yr
+36,$45.47 /hr (est.),94577.6,QA Automation Engineer,6,2,-1,"N9 it solutions
+4.6",Remote,4.6,1,7,51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.6,4.5,4.3,4.4,4.4,hr
+37,"$57,500 /yr (est.)",57500.0,Web Quality Assurance Engineer - Remote,3,1,-1,Provision IAM,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+38,$52.50 /hr (est.),109200.0,Quality Test Engineer,1,1,-1,MPower Staffing & Consulting,"Chicago, IL",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+39,$45.00 /hr (est.),93600.0,Tosca Automation developer,-1,-1,-1,"Devcare Solutions
+3.7",Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+40,$64.00 /hr (est.),133120.0,Locals Only : SDET/QA Automation Engineer : Missouri,0,2,1,"FiSec Global Inc
+3.5","Aurora, MO",3.5,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.8,3.5,3.3,3.5,hr
+41,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen,"Aurora, MO",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+42,"$95,000 /yr (est.)",95000.0,QA Engineer,5,2,-1,Pharmacy Quality Solutions,"Raleigh, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+43,"$75,209 /yr (est.)",75209.0,QA Tester,0,-1,-1,"ActiveViam
+4.0","New York, NY",4.0,0,18,51 to 200 Employees,2005,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),3.9,4.0,4.1,3.8,4.3,yr
+44,"$73,500 /yr (est.)",73500.0,Full Stack QA Analyst/Engineer,-1,-1,-1,"eDist - A Division Of A.I. Smarter World, Inc.
+2.1",Remote,2.1,1,50,51 to 200 Employees,1973,Company - Private,Wholesale,Retail & Wholesale,Unknown / Non-Applicable,2.2,2.8,2.0,2.0,2.8,yr
+46,"$57,985 /yr (est.)",57985.0,QA Manual Tester,3,1,1,"Wovenware US
+3.7","San Juan, PR",3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,4.0,3.5,3.5,yr
+50,"$54,382 /yr (est.)",54382.0,QA Tester,0,1,-1,"National Real Estate Insurance Group
+2.7","Kansas City, MO",2.7,0,-1,-1,-1,-1,-1,-1,-1,2.7,3.5,2.8,2.6,3.5,yr
+51,"$62,500 /yr (est.)",62500.0,QA Engineer,5,1,1,"XOJET Aviation
+3.5","Fort Lauderdale, FL",3.5,0,17,201 to 500 Employees,2006,Company - Private,"Airlines, Airports & Air Transportation",Transportation & Logistics,$100 to $500 million (USD),3.6,3.5,3.6,3.3,3.4,yr
+52,"$71,833 /yr (est.)",71833.0,QA Tester ETL/Database,5,2,-1,"Mitchell Martin
+4.4","Charlotte, NC",4.4,0,39,501 to 1000 Employees,1984,Private Practice / Firm,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),4.3,4.3,4.4,4.4,4.5,yr
+53,$16.00 /hr (est.),33280.0,Quality Assurance Representative,2,2,-1,"Alleviate Financial Solutions
+3.6",Remote,3.6,1,5,1 to 50 Employees,2018,Company - Private,Debt Relief,Financial Services,Unknown / Non-Applicable,3.4,3.7,3.4,3.3,3.8,hr
+56,"$72,000 /yr (est.)",72000.0,Software Quality Assurance Analyst,3,1,-1,"Suncoast Credit Union
+4.0","Tampa, FL",4.0,0,89,1001 to 5000 Employees,1934,Nonprofit Organization,Banking & Lending,Financial Services,$100 to $500 million (USD),4.0,3.9,4.0,3.6,3.7,yr
+57,"$70,834 /yr (est.)",70834.0,QA Engineer,10,2,-1,"CEDENT
+5.0","Colorado Springs, CO",5.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+60,"$75,000 /yr (est.)",75000.0,Jr. QA Engineer,1,1,0,Repisodic,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+61,"$62,500 /yr (est.)",62500.0,QA Engineer,5,1,1,"XO
+4.2","Fort Lauderdale, FL",4.2,0,-1,-1,-1,-1,-1,-1,-1,3.6,4.2,4.3,4.0,3.3,yr
+62,"$75,000 /yr (est.)",75000.0,Intermediate QA Engineer,3,1,-1,"NuBinary Inc
+3.4",Remote,3.4,1,6,1 to 50 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.1,3.7,3.0,3.7,2.7,yr
+64,"$47,795 /yr (est.)",47795.0,QA Automated Tester,0,1,0,"INVID
+4.8","San Juan, PR",4.8,0,20,1 to 50 Employees,2003,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.7,4.2,4.6,yr
+66,"$55,002 /yr (est.)",55002.0,Quality Assurance Analyst,5,1,-1,"Andor Health
+4.5","Orlando, FL",4.5,0,5,51 to 200 Employees,2018,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,4.9,4.4,4.4,4.4,4.0,yr
+67,"$75,000 /yr (est.)",75000.0,Software QA Analyst,5,2,-1,EPIC Engineering,"Winter Springs, FL",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+68,"$58,421 /yr (est.)",58421.0,Quality Consultant,1,1,-1,"Quality Consulting Group, LLC
+5.0","Carolina, PR",5.0,0,12,51 to 200 Employees,2011,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 million (USD),5.0,4.8,5.0,5.0,5.0,yr
+70,$56.00 /hr (est.),116480.0,Senior Software Test Engineer,4,1,1,Kanini,"Decatur, GA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+72,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC,"Durham, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+73,"$60,356 /yr (est.)",60356.0,QA TESTER,0,1,-1,Buildable,"McMinnville, OR",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+74,"$70,941 /yr (est.)",70941.0,QA Manual Tester (Banking),3,1,-1,"RD Solutions
+4.4","Las Vegas, NV",4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,yr
+77,"$96,413 /yr (est.)",96413.0,Senior Test Automation Engineer,5,1,1,"Artemis Consulting, Inc.
+4.2","Atlanta, GA",4.2,0,24,51 to 200 Employees,1999,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.0,4.1,4.1,yr
+78,"$71,623 /yr (est.)",71623.0,IT QA/QC Analyst,2,1,-1,"Skanska USA
+4.2","Charlotte, NC",4.2,0,36,10000+ Employees,1987,Company - Public,Construction,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.9,3.9,4.2,3.8,3.9,yr
+79,$57.50 /hr (est.),119600.0,QA Engineer –Remote,0,2,-1,"Aries Solutions
+4.3",Remote,4.3,1,-1,-1,-1,-1,-1,-1,-1,4.3,4.0,4.3,4.3,4.3,hr
+80,"$83,899 /yr (est.)",83899.0,QA Engineer,0,1,-1,"I5 TECH
+3.3","Edison, NJ",3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,2.9,3.1,3.3,2.8,yr
+81,$28.00 /hr (est.),58240.0,CONTRACT - Technical Tester (Manual/Web QA),0,1,-1,"Nintendo
+4.5","Redmond, WA",4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.1,4.3,4.0,3.9,hr
+82,$60.00 /hr (est.),124800.0,QA Automation Engineer/SDET,0,1,-1,"Tekfortune Inc
+4.6","Haigler, NE",4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.2,4.4,4.3,4.6,hr
+83,$29.29 /hr (est.),60923.2,QA Analyst,2,2,1,IT Heroes,"Florida, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+88,$46.00 /hr (est.),95680.0,QA Tester Tosca,10,2,1,"Devcare Solutions
+3.7","Durham, NC",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+93,"$87,500 /yr (est.)",87500.0,Test Engineer,5,1,-1,"Valley Services Electronics (VSE)
+5.0","San Jose, CA",5.0,0,42,51 to 200 Employees,1981,Company - Private,Electronics Manufacturing,Manufacturing,$25 to $100 million (USD),-1.0,-1.0,-1.0,-1.0,-1.0,yr
+94,"$86,669 /yr (est.)",86669.0,QA Tester,0,2,-1,"OPULENTSOFT
+5.0","San Jose, CA",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,yr
+95,"$96,493 /yr (est.)",96493.0,QA Engineer,1,2,1,"Trood
+5.0","New York, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.4,5.0,4.4,5.0,yr
+97,"$80,000 /yr (est.)",80000.0,-1,-1,-1,-1,-1,"Farmington, CT",3.4,0,28,201 to 500 Employees,1995,Company - Private,Machinery Manufacturing,Manufacturing,$100 to $500 million (USD),2.7,3.1,3.2,3.5,3.3,yr
+98,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2","Los Angeles, CA",4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,hr
+102,$42.50 /hr (est.),88400.0,QA Tester(Remote),3,1,-1,"Lakarya LLC
+5.0",Remote,5.0,1,8,1 to 50 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,5.0,5.0,5.0,4.7,hr
+104,"$69,191 /yr (est.)",69191.0,QA Analyst,2,1,-1,"Scandinavian Tobacco Group
+3.9","Bethlehem, PA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.5,4.0,3.6,3.4,3.9,yr
+106,"$54,723 /yr (est.)",54723.0,Jr. Software Tester,1,2,1,"Error-Free
+2.0","Solana Beach, CA",2.0,0,-1,-1,-1,-1,-1,-1,-1,3.0,3.0,4.0,3.0,4.0,yr
+107,"$67,500 /yr (est.)",67500.0,Entry Level Software Test Engineer,1,1,-1,"BeaconFire Solution
+3.8","East Windsor, NJ",3.8,0,6,1 to 50 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,2.9,3.5,3.5,3.5,yr
+108,$63.50 /hr (est.),132080.0,QA Test Manager,8,2,0,Gerbera technologies INC,"Dallas, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+113,"$87,250 /yr (est.)",87250.0,ETL Test Analyst,0,2,1,"AppTad
+4.4","Westlake, TX",4.4,0,10,201 to 500 Employees,2013,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.4,4.1,4.2,4.4,4.2,yr
+117,"$78,231 /yr (est.)",78231.0,QA Engineers,0,1,-1,"Leothundra
+4.0","La Palma, CA",4.0,0,11,1 to 50 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),3.5,2.7,2.2,4.0,4.0,yr
+121,"$73,712 /yr (est.)",73712.0,Quality Assurance Engineer (Remote),5,1,1,"Arlluk Technology Solutions
+4.1","Chantilly, VA",4.1,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.2,4.3,4.0,4.2,yr
+123,"$75,000 /yr (est.)",75000.0,QA Engineer,0,1,-1,"Josh.ai
+4.3","Denver, CO",4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.3,4.2,4.2,3.8,yr
+124,"$74,830 /yr (est.)",74830.0,ENTRY / JUNIOR LEVEL SQA ENGINEER,2,1,0,"embedUR systems
+4.2","Fremont, CA",4.2,0,19,201 to 500 Employees,2004,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $25 million (USD),3.8,3.3,3.4,3.3,2.8,yr
+126,"$80,000 /yr (est.)",80000.0,Test Engineer,2,1,-1,"ebm-papst, Inc
+3.4","Farmington, CT",3.4,0,28,201 to 500 Employees,1995,Company - Private,Machinery Manufacturing,Manufacturing,$100 to $500 million (USD),2.7,3.1,3.2,3.5,3.3,yr
+127,$52.50 /hr (est.),109200.0,"Engineer, Software Quality - 30623",5,1,-1,"Infinite Computing Systems
+3.5","Burlington, MA",3.5,0,24,1001 to 5000 Employees,1999,Company - Public,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.5,3.2,3.4,3.2,3.4,hr
+128,$27.00 /hr (est.),56160.0,Junior Business & Technology Analyst - Quality Assurance,1,1,1,"Axos Bank
+3.6","San Diego, CA",3.6,0,23,1001 to 5000 Employees,2000,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.6,3.1,3.4,3.4,3.5,hr
+130,"$115,000 /yr (est.)",115000.0,Senior QA Automation Engineer (remote),6,1,1,"CIBERSQL,LLC
+4.8",Remote,4.8,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.5,4.5,4.3,4.3,4.5,yr
+132,"$55,000 /yr (est.)",55000.0,QA Automation Engineer,2,1,-1,"Rational Enterprise
+3.3","Albany, NY",3.3,0,17,51 to 200 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.2,3.0,2.9,3.6,yr
+172,$15.00 /hr (est.),31200.0,Software Tester,-1,-1,-1,"ApplicantPro
+4.7",Remote,4.7,1,17,51 to 200 Employees,2006,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),4.5,4.2,4.7,4.5,4.6,hr
+198,$40.00 /hr (est.),83200.0,QA Engineer,-1,-1,-1,Hire IT People Inc,"El Segundo, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+209,"$79,393 /yr (est.)",79393.0,QA Engineer,0,2,-1,"Convene Technologies
+3.6","San Antonio, TX",3.6,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.1,2.9,3.1,2.9,3.1,yr
+222,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech,"Las Vegas, NV",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+227,"$94,734 /yr (est.)",94734.0,QA Engineer,0,1,-1,2Dream,"Pleasanton, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+229,"$110,000 /yr (est.)",110000.0,QA Engineer,-1,-1,-1,"MagicCube, Inc.","Santa Clara, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+231,$57.50 /hr (est.),119600.0,QA Test Lead,10,2,1,Arktek IT solutions,"Buffalo, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+233,"$90,689 /yr (est.)",90689.0,QA Analysts,0,2,1,Indus Group,"Herndon, VA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+236,$62.50 /hr (est.),130000.0,ATE Test Engineer,2,2,-1,"Tessolve
+4.1","San Diego, CA",4.1,0,19,1001 to 5000 Employees,2004,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$500 million to $1 billion (USD),4.2,3.7,4.1,3.9,3.8,hr
+246,$52.50 /hr (est.),109200.0,QA Test Engineer,-1,-1,-1,Kanini,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+250,"$110,000 /yr (est.)",110000.0,QA Engineer,2,2,-1,"MagicCube, Inc.","Santa Clara, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+264,"$70,730 /yr (est.)",70730.0,QA Engineer,5,1,-1,"KR Elixir
+4.6","Alpharetta, GA",4.6,0,17,201 to 500 Employees,2006,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.8,4.5,4.6,4.6,4.5,yr
+278,"$96,413 /yr (est.)",96413.0,Senior Test Automation Engineer,-1,-1,-1,"Artemis Consulting, Inc.
+4.2","Atlanta, GA",4.2,0,24,51 to 200 Employees,1999,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.0,4.1,4.1,yr
+286,$59.53 /hr (est.),123822.4,Performance test engineer,11,2,1,"Cloudious
+3.3","Hicksville, NY",3.3,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.4,3.0,3.0,3.5,hr
+290,"$80,000 /yr (est.)",80000.0,Software QA Engineer - Hybrid - Aegis Premier Technologies,3,1,-1,"Aegis Premier Technologies
+4.1","Westminster, CO",4.1,0,6,51 to 200 Employees,2017,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,3.7,4.0,3.8,4.3,yr
+291,$52.50 /hr (est.),109200.0,"Engineer, Software Quality - 30623",-1,-1,-1,"Infinite Computing Systems
+3.5","Burlington, MA",3.5,0,24,1001 to 5000 Employees,1999,Company - Public,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.5,3.2,3.4,3.2,3.4,hr
+304,$57.50 /hr (est.),119600.0,Salesforce QA,-1,-1,-1,Sansutek,"Germantown, MD",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+314,$46.00 /hr (est.),95680.0,QA Tester Tosca,-1,-1,-1,"Devcare Solutions
+3.7","Durham, NC",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+316,"$70,834 /yr (est.)",70834.0,QA Engineer,-1,-1,-1,"CEDENT
+5.0","Colorado Springs, CO",5.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+320,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,-1,-1,-1,Sripen,"Aurora, MO",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+321,"$95,000 /yr (est.)",95000.0,QA Engineer,-1,-1,-1,Pharmacy Quality Solutions,"Raleigh, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+322,$47.50 /hr (est.),98800.0,"QA Manual Engineer - Hybrid Onsite - Raleigh, NC",-1,-1,-1,"OPENMIND TECHNOLOGIES INC
+4.2","Raleigh, NC",4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.5,4.4,4.1,hr
+323,"$58,421 /yr (est.)",58421.0,Quality Consultant,-1,-1,-1,"Quality Consulting Group, LLC
+5.0","Carolina, PR",5.0,0,12,51 to 200 Employees,2011,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 million (USD),5.0,4.8,5.0,5.0,5.0,yr
+328,$31.00 /hr (est.),64480.0,QA Tester,-1,-1,-1,Nanda Technologies,"Durham, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+336,"$75,000 /yr (est.)",75000.0,Software QA Analyst,-1,-1,-1,EPIC Engineering,"Winter Springs, FL",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+339,"$103,134 /yr (est.)",103134.0,Tosca QA Automation Engineer,-1,-1,-1,Pacific Consulting,"Durham, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+342,"$132,186 /yr (est.)",132186.0,Sr Software QA Contractor,-1,-1,-1,"PlayStation Global
+4.0","Aliso Viejo, CA",4.0,0,29,5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$10+ billion (USD),3.5,3.8,4.0,3.5,3.8,yr
+345,$55.00 /hr (est.),114400.0,UAT Tester,-1,-1,-1,"Cloud and Things Inc
+4.6",Remote,4.6,1,-1,-1,-1,-1,-1,-1,-1,4.3,4.0,4.8,4.8,4.5,hr
+358,$63.50 /hr (est.),132080.0,QA Test Manager,-1,-1,-1,Gerbera technologies INC,"Dallas, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+368,"$84,759 /yr (est.)",84759.0,QA Analyst,-1,-1,-1,"InfoQuest Consulting Group Inc.
+4.5","Cambridge, MA",4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,yr
+370,$20.00 /hr (est.),41600.0,QA Tester,2,2,-1,Wayne Reaves Computer Systems INC,"Macon, GA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+381,$64.00 /hr (est.),133120.0,Locals Only : SDET/QA Automation Engineer : Missouri,-1,-1,-1,"FiSec Global Inc
+3.5","Aurora, MO",3.5,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.8,3.5,3.3,3.5,hr
+383,"$87,500 /yr (est.)",87500.0,Test Engineer,-1,-1,-1,"Valley Services Electronics (VSE)
+5.0","San Jose, CA",5.0,0,42,51 to 200 Employees,1981,Company - Private,Electronics Manufacturing,Manufacturing,$25 to $100 million (USD),-1.0,-1.0,-1.0,-1.0,-1.0,yr
+388,"$47,795 /yr (est.)",47795.0,QA Automated Tester,-1,-1,-1,"INVID
+4.8","San Juan, PR",4.8,0,20,1 to 50 Employees,2003,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.7,4.2,4.6,yr
+393,$35.00 /hr (est.),72800.0,Business Analyst/Quality Assurance,-1,-1,-1,Nexo Advisors,"Phoenix, AZ",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+394,$52.50 /hr (est.),109200.0,QA Manual Tester,-1,-1,-1,ExpressTech,"Las Vegas, NV",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+395,$27.00 /hr (est.),56160.0,Software QA Analyst,0,1,-1,"Bernard Health
+2.6","Nashville, TN",2.6,0,17,51 to 200 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,2.5,2.5,2.7,2.5,2.6,hr
+397,"$87,000 /yr (est.)",87000.0,QUALITY ASSURANCE ANALYST,-1,-1,-1,"Continental General
+5.0","Austin, TX",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,yr
+398,"$65,000 /yr (est.)",65000.0,QA Engineer,-1,-1,-1,Invictech Inc,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+403,$62.50 /hr (est.),130000.0,ATE Test Engineer,-1,-1,-1,"Tessolve
+4.1","San Diego, CA",4.1,0,19,1001 to 5000 Employees,2004,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$500 million to $1 billion (USD),4.2,3.7,4.1,3.9,3.8,hr
+407,$27.39 /hr (est.),56971.2,UAT Tester,-1,-1,-1,Sthavirsoft Inc,"Nashville, TN",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+412,"$60,356 /yr (est.)",60356.0,QA TESTER,-1,-1,-1,Buildable,"McMinnville, OR",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+420,"$75,000 /yr (est.)",75000.0,QA Engineer,-1,-1,-1,"Josh.ai
+4.3","Denver, CO",4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.3,4.2,4.2,3.8,yr
+421,"$135,000 /yr (est.)",135000.0,Quality Assurance Manager,-1,-1,-1,"Penn Life Sciences
+2.5","Langhorne, PA",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.1,2.0,2.4,2.4,2.4,yr
+422,"$75,000 /yr (est.)",75000.0,QA Automation Engineer,-1,-1,-1,"CuraPatient Inc.
+1.0","Irvine, CA",1.0,0,-1,-1,-1,-1,-1,-1,-1,1.0,1.0,1.0,1.0,1.0,yr
+425,"$94,734 /yr (est.)",94734.0,QA Engineer,-1,-1,-1,2Dream,"Pleasanton, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+426,"$87,250 /yr (est.)",87250.0,ETL Test Analyst,-1,-1,-1,"AppTad
+4.4","Westlake, TX",4.4,0,10,201 to 500 Employees,2013,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.4,4.1,4.2,4.4,4.2,yr
+431,"$55,000 /yr (est.)",55000.0,QA Automation Engineer,-1,-1,-1,"Rational Enterprise
+3.3","Albany, NY",3.3,0,17,51 to 200 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.2,3.0,2.9,3.6,yr
+433,"$160,000 /yr (est.)",160000.0,Software/Application (QA) Tester,0,2,-1,"Twinn Intelligence Group
+5.0","McLean, VA",5.0,0,6,1 to 50 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),5.0,5.0,5.0,5.0,5.0,yr
+445,"$135,000 /yr (est.)",135000.0,Quality Assurance Manager,0,1,1,"Penn Life Sciences
+2.5","Langhorne, PA",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.1,2.0,2.4,2.4,2.4,yr
+447,"$78,231 /yr (est.)",78231.0,QA Engineers,-1,-1,-1,"Leothundra
+4.0","La Palma, CA",4.0,0,11,1 to 50 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,Less than $1 million (USD),3.5,2.7,2.2,4.0,4.0,yr
+449,"$94,836 /yr (est.)",94836.0,Quality Assurance Engineer,-1,-1,-1,"Doctor Evidence
+3.0","Santa Monica, CA",3.0,0,19,1 to 50 Employees,2004,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),2.9,3.0,3.2,2.7,3.3,yr
+452,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,-1,-1,-1,"Vetro Tech Inc
+3.9","Seattle, WA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,yr
+462,$52.50 /hr (est.),109200.0,Quality Test Engineer,-1,-1,-1,MPower Staffing & Consulting,"Chicago, IL",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+469,$56.00 /hr (est.),116480.0,Senior Software Test Engineer,-1,-1,-1,Kanini,"Decatur, GA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+471,"$66,206 /yr (est.)",66206.0,QA Manual Tester,-1,-1,-1,"Medtelligent
+4.9","Chicago, IL",4.9,0,18,1 to 50 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.5,4.5,4.9,4.9,4.8,yr
+472,"$94,808 /yr (est.)",94808.0,SDET,-1,-1,-1,Enhops Solutions,"Cary, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+474,"$79,059 /yr (est.)",79059.0,DEA/QA Associate,3,1,-1,"Sunrise Pharmaceutical, Inc.","Rahway, NJ",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+481,"$116,350 /yr (est.)",116350.0,QA Engineer,-1,-1,-1,"Peloton
+3.5","New York, NY",3.5,0,11,1001 to 5000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.1,4.0,3.6,2.9,3.6,yr
+487,"$94,836 /yr (est.)",94836.0,-1,-1,-1,-1,-1,-1,-1.0,0,19,1 to 50 Employees,2004,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),-1.0,-1.0,-1.0,-1.0,-1.0,yr
+527,"$94,808 /yr (est.)",94808.0,SDET,5,2,1,Enhops Solutions,"Cary, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+530,"$80,405 /yr (est.)",80405.0,QA Automation Testers,0,2,-1,"NucleusTeq
+4.7","Phoenix, AZ",4.7,0,5,201 to 500 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,4.7,4.9,4.9,4.8,yr
+557,$70.00 /hr (est.),145600.0,Sr. QA Test Analyst,10,1,-1,"DiamondPick
+4.5","Concord, CA",4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.2,4.5,4.3,4.3,hr
+558,"$104,573 /yr (est.)",104573.0,QA Engineer,0,1,-1,"Knightscope, Inc
+3.7","Mountain View, CA",3.7,0,10,51 to 200 Employees,2013,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),3.5,3.4,3.5,3.2,3.2,yr
+613,"$104,163 /yr (est.)",104163.0,QA Test Automation Engineer - Hybrid,7,2,-1,"Ariel Partners
+4.3","Brooklyn, NY",4.3,0,23,1 to 50 Employees,2000,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.0,3.7,3.7,3.7,3.0,yr
+626,"$84,759 /yr (est.)",84759.0,QA Analyst,0,1,-1,"InfoQuest Consulting Group Inc.
+4.5","Cambridge, MA",4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,yr
+629,"$89,309 /yr (est.)",89309.0,QA Engineer (Hybrid),3,1,0,"ampliFI Loyalty Solutions
+4.1","Naperville, IL",4.1,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.7,4.2,3.5,4.1,yr
+640,$47.50 /hr (est.),98800.0,"QA Manual Engineer - Hybrid Onsite - Raleigh, NC",5,2,1,"OPENMIND TECHNOLOGIES INC
+4.2","Raleigh, NC",4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.5,4.4,4.1,hr
+662,"$97,500 /yr (est.)",97500.0,QA Engineer,0,1,-1,Ramsey Theory Group,"Fort Lee, NJ",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+678,"$75,000 /yr (est.)",75000.0,QA Automation Engineer,2,1,-1,"CuraPatient Inc.
+1.0","Irvine, CA",1.0,0,-1,-1,-1,-1,-1,-1,-1,1.0,1.0,1.0,1.0,1.0,yr
+689,"$132,186 /yr (est.)",132186.0,Sr Software QA Contractor,5,1,1,"PlayStation Global
+4.0","Aliso Viejo, CA",4.0,0,29,5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$10+ billion (USD),3.5,3.8,4.0,3.5,3.8,yr
+713,$46.09 /hr (est.),95867.2,Sr. ETL QA Tester,10,1,1,3Core Systems Inc.,"Westlake, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+759,$35.00 /hr (est.),72800.0,Business Analyst/Quality Assurance,4,1,1,Nexo Advisors,"Phoenix, AZ",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+808,"$104,573 /yr (est.)",104573.0,QA Engineer,-1,-1,-1,"Knightscope, Inc
+3.7","Mountain View, CA",3.7,0,10,51 to 200 Employees,2013,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),3.5,3.4,3.5,3.2,3.2,yr
+809,"$79,393 /yr (est.)",79393.0,QA Engineer,-1,-1,-1,"Convene Technologies
+3.6","San Antonio, TX",3.6,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.1,2.9,3.1,2.9,3.1,yr
+812,"$66,498 /yr (est.)",66498.0,QA Tester,5,1,-1,CANDA SOLUTIONS,"Columbia, MD",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+863,"$72,208 /yr (est.)",72208.0,QA Engineer,-1,-1,-1,"EnergySolutions
+3.6","Kewaunee, WI",3.6,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.6,3.5,3.3,3.4,yr
+886,"$104,163 /yr (est.)",104163.0,QA Test Automation Engineer - Hybrid,-1,-1,-1,"Ariel Partners
+4.3","Brooklyn, NY",4.3,0,23,1 to 50 Employees,2000,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.0,3.7,3.7,3.7,3.0,yr
+894,"$103,134 /yr (est.)",103134.0,Tosca QA Automation Engineer,5,1,-1,Pacific Consulting,"Durham, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+911,"$83,899 /yr (est.)",83899.0,QA Engineer,-1,-1,-1,"I5 TECH
+3.3","Edison, NJ",3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,2.9,3.1,3.3,2.8,yr
+919,$29.00 /hr (est.),60320.0,Tosca QA Automation Engineer,-1,-1,-1,"Infologitech
+4.3","Raleigh, NC",4.3,0,-1,-1,-1,-1,-1,-1,-1,4.1,4.1,4.3,4.3,4.1,hr
+931,$40.00 /hr (est.),83200.0,QA Analyst,-1,-1,-1,"ASB Infotech
+4.0","Whippany, NJ",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+938,"$62,500 /yr (est.)",62500.0,QA Engineer,-1,-1,-1,"XOJET Aviation
+3.5","Fort Lauderdale, FL",3.5,0,17,201 to 500 Employees,2006,Company - Private,"Airlines, Airports & Air Transportation",Transportation & Logistics,$100 to $500 million (USD),3.6,3.5,3.6,3.3,3.4,yr
+940,$57.50 /hr (est.),119600.0,Salesforce QA,6,1,-1,Sansutek,"Germantown, MD",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+954,"$80,000 /yr (est.)",80000.0,Test Engineer,-1,-1,-1,"ebm-papst, Inc
+3.4","Farmington, CT",3.4,0,28,201 to 500 Employees,1995,Company - Private,Machinery Manufacturing,Manufacturing,$100 to $500 million (USD),2.7,3.1,3.2,3.5,3.3,yr
+968,"$70,941 /yr (est.)",70941.0,QA Manual Tester (Banking),-1,-1,-1,"RD Solutions
+4.4","Las Vegas, NV",4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,yr
+1002,"$54,861 /yr (est.)",54861.0,Specialist QA,10,1,0,"PACIV
+3.3","San Juan, PR",3.3,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.5,3.1,2.6,3.1,yr
+1138,"$72,225 /yr (est.)",72225.0,Quality Assurance Analyst (QA Analyst),0,2,-1,Essani International,"South Elgin, IL",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+1210,"$77,640 /yr (est.)",77640.0,QA Analyst,0,1,-1,Mayura,"Woodbridge, NJ",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+1211,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,1,"Baldwin Risk Partners
+3.8","New York, NY",3.8,0,-1,-1,-1,-1,-1,-1,-1,3.7,3.8,3.8,3.4,4.1,yr
+1269,$55.00 /hr (est.),114400.0,QA Mobile Analyst,5,2,1,"IT Engagements,Inc.","Denver, CO",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr

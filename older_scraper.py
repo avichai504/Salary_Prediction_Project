@@ -334,6 +334,3 @@ def get_jobs(keyword, num_jobs, path, slp_time):
 
     df = pd.DataFrame(jobs)
     return df
-
-
-

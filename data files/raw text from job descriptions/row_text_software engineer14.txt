@@ -1,0 +1,57 @@
+KEY REQUIREMENTS:
+Must have all 3:
+C# Experience
+Appium
+Worked on Mobile Apps
+The experience he needs: This person has tested mobile apps against C#. Can test and complete Mobile UI Design Projects. Can work with others on a team. Ambitious, thrive in fast-pace work environment. Will be okay with very little training - can hit the ground running!
+What he doesn't want to see: Candidates that have more web-based experience or backend server exp.
+Duties and Responsibilities:
+Review functional and design specifications to ensure full understanding of individual deliverables.
+Provide estimates for creating test cases, test plans and testing specific features.
+Develop, document, and maintain functional test cases and other test artifacts like the test data and data validation.
+Execute and evaluate test cases and report test results.
+Enter defects/enhancements that are accurate, clearly stated and submitted in a timely fashion.
+Learn and adhere to testing processes and policies.
+Report clearly on assigned tasks and recognize and alert management of potential problems/issues in advance. Facilitate test plan/case reviews with cross-functional team members.
+Identify any potential quality issues per defined process and escalate potential quality issues immediately to other project teams.
+Design and develop advanced test suites using object-oriented methodologies.
+Implement and execute test strategies on all supported platforms and languages to help improve overall quality and test code coverage.
+Design and develop integration, regression, and stress tests using industry standard tools.
+Collaborate with Shareholders to understand requirements and translate them into test cases.
+Good knowledge of mobile application testing, API Testing and Database testing.
+Define, implement, and maintain test plans, test specifications and test suites.
+Lead discussions on issues and propose options and solutions.
+Mentor team members
+Basic Requirements:
+BS in Computer Science/Computer Engineering or equivalent
+Must have hands on experience with C#.
+5+ years of experience in a full-time software automation quality role.
+Have a solid understanding of QA testing techniques and best practices.
+Ability to create test cases, define testing strategies, and identify high-risk areas.
+Knowledge/Understanding of methodologies (Waterfall, Agile)
+Preferred Requirements:
+Ability to work well independently or in a team environment.
+Clear written and Oral communication skills.
+Job Type: Contract
+Salary: Up to $55.00 per hour
+Schedule:
+8 hour shift
+Day shift
+Education:
+Bachelor's (Required)
+Experience:
+C#: 1 year (Required)
+Appium: 1 year (Required)
+mobile application testing: 1 year (Required)
+Software Automation Quality role: 4 years (Required)
+Work Location: Remote
+Speak with the employer
++91 9088087019
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: 1
+ Time of Scrape: 2023-05-17 14:42:07.855151

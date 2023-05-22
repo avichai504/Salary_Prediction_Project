@@ -1,0 +1,42 @@
+
+Are you interested in building products used by more than 3 billion people? Do you like shipping code at a rapid pace? Facebook is seeking an experienced Front End Engineer that is passionate about building mobile and desktop web applications. This position is full-time.
+
+
+Software Engineer, Front End Responsibilities:
+Implement the features and user interfaces of Facebook products like News Feed
+Architect efficient and reusable front-end systems that drive complex web applications
+Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
+Identify and resolve performance and scalability issues
+
+
+
+Minimum Qualifications:
+6+ years of JavaScript experience, including concepts like asynchronous programming, closures, types, and ES6
+6+ years of HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility, and accessibility
+6+ years experience with browser APIs and optimizing front end performance
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+
+
+
+Preferred Qualifications:
+Experience with React
+BS/MS in Computer Science or a related technical field
+
+
+
+
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice here. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view Meta's Pay Transparency Policy, Equal Employment Opportunity is the Law notice, and Notice to Applicants for Employment and Employees by clicking on their corresponding links. Additionally, Meta participates in the E-Verify program in certain locations, as required by law
+To apply to this job, click Apply Now
+Show Less
+Report
+Software Engineer I
+<selenium.webdriver.remote.webelement.WebElement (session="42367e7b23a1ca09f3153a3d90b5ac1c", element="c1ea229a-c421-460a-bb2b-b4cf195ddc67")>
+Healthcare
+
+
+Testing regine:
+Experience: 6
+Education: 1
+Position Level: -1
+ Time of Scrape: 2023-05-17 22:52:47.834075

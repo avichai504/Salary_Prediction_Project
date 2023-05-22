@@ -1,0 +1,34 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,$55.00 /hr (est.),114400.0,UAT Tester,8,1,-1,Cloud and Things Inc,Remote,4.6,1,-1,-1,-1,-1,-1,-1,-1,4.3,4.0,4.8,4.8,4.5,2023-05-20 13:13:48.675052,hr
+1,$52.50 /hr (est.),109200.0,QA Test Engineer,0,1,-1,Kanini,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:13:55.328459,hr
+2,$31.00 /hr (est.),64480.0,QA Tester,1,2,1,Nanda Technologies,"Durham, NC",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:14:03.617237,hr
+4,$40.00 /hr (est.),83200.0,QA Engineer,3,2,1,Hire IT People Inc,"El Segundo, CA",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:14:17.892164,hr
+5,$48.00 /hr (est.),99840.0,Automation QA Engineer,5,2,1,"IT Engagements,Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:14:26.726710,hr
+6,$75.00 /hr (est.),156000.0,Senior Manual QA Tester,-1,-1,-1,Match Made Tech,"Irvine, CA",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:14:36.223587,hr
+7,$41.63 /hr (est.),86590.4,QA Manual Tester,3,1,-1,SCIGON Solution,"Ann Arbor, MI",5.0,0,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,4.8,4.7,5.0,4.7,2023-05-20 13:14:45.232031,hr
+8,$60.00 /hr (est.),124800.0,ETL QA Tester,5,2,-1,"Info Origin, Inc.",Remote,3.0,1,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,2.9,2.8,2.8,2023-05-20 13:14:49.807247,hr
+9,$60.00 /hr (est.),124800.0,QA-SDET,1,2,-1,INA solution,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:14:55.648947,hr
+11,"$98,320 /yr (est.)",98320.0,Software QA Test & Release Engineer,4,1,-1,Synaty Tech,"Colorado Springs, CO",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-20 13:15:11.445333,yr
+12,$47.50 /hr (est.),98800.0,QA Test Lead,11,2,1,ERPMark Inc,Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,4.0,4.0,4.0,3.0,2023-05-20 13:15:17.311282,hr
+16,"$112,168 /yr (est.)",112168.0,Specialist QA (Remote),10,1,0,Amgen,"Thousand Oaks, CA",4.2,0,43,10000+ Employees,1980,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.7,4.0,4.0,3.6,3.9,2023-05-20 13:15:46.256565,yr
+17,$40.00 /hr (est.),83200.0,QA Analyst,3,1,-1,ASB Infotech,"Whippany, NJ",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:15:51.465208,hr
+19,$45.00 /hr (est.),93600.0,Tosca Automation developer,1,2,-1,Devcare Solutions,Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-20 13:16:07.428029,hr
+21,$25.18 /hr (est.),52374.4,QA with Capital,1,2,-1,1st-Recruit,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:16:23.100351,hr
+22,$52.50 /hr (est.),109200.0,SDET/QA,4,1,1,Fuge Technologies Inc,Remote,4.7,1,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-20 13:16:32.208268,hr
+24,$45.50 /hr (est.),94640.0,QA with Tosca,0,2,1,Cloud Shift Technologies LLC,Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.5,4.5,5.0,5.0,5.0,2023-05-20 13:16:46.840797,hr
+25,$27.39 /hr (est.),56971.2,UAT Tester,6,1,-1,Sthavirsoft Inc,"Nashville, TN",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:16:53.469320,hr
+26,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,Vetro Tech Inc,"Seattle, WA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-20 13:17:02.725013,yr
+27,"$103,134 /yr (est.)",103134.0,Tosca QA Automation Engineer,5,1,-1,Pacific Consulting,"Durham, NC",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:17:09.048850,yr
+28,"$66,206 /yr (est.)",66206.0,QA Manual Tester,0,1,1,Medtelligent,"Chicago, IL",4.9,0,18,1 to 50 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.5,4.5,4.9,4.9,4.8,2023-05-20 13:17:18.279538,yr
+31,$45.00 /hr (est.),93600.0,Tosca Automation developer,1,2,-1,Devcare Solutions,Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-20 13:17:47.470725,hr
+33,"$81,850 /yr (est.)",81850.0,Software Quality Assurance Analyst - 100% Remote,3,1,1,Radian,Pennsylvania,4.2,0,46,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $5 billion (USD),3.8,4.1,4.3,3.8,4.4,2023-05-20 13:18:00.335715,yr
+36,"$60,988 /yr (est.)",60988.0,Trainee - QA,1,2,0,LeewayHertz,"San Francisco, CA",3.7,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.6,3.7,3.6,3.6,2023-05-20 13:18:24.202312,yr
+37,"$101,748 /yr (est.)",101748.0,Quality Assurance Engineer,2,1,-1,Wevision LLC,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:18:30.928142,yr
+39,"$94,836 /yr (est.)",94836.0,Quality Assurance Engineer,0,1,-1,Doctor Evidence,"Santa Monica, CA",3.0,0,19,1 to 50 Employees,2004,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),2.9,3.0,3.2,2.7,3.3,2023-05-20 13:18:49.569376,yr
+40,$15.00 /hr (est.),31200.0,Software Tester,0,2,0,ApplicantPro,Remote,4.7,1,17,51 to 200 Employees,2006,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),4.5,4.2,4.7,4.5,4.6,2023-05-20 13:18:54.974824,hr
+41,$21.82 /hr (est.),45385.6,Junior Test Engineer,1,1,1,Entech,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-20 13:18:58.936419,hr
+42,"$75,000 /yr (est.)",75000.0,Manual QA Tester,0,2,-1,Xactus,"Broomall, PA",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.2,2.4,3.0,2023-05-20 13:19:08.205668,yr
+43,"$93,948 /yr (est.)",93948.0,Automation Tester - Remote,3,1,-1,"Cognosante, LLC",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-20 13:19:14.828182,yr
+46,"$105,000 /yr (est.)",105000.0,Software Tester,0,1,1,"Nationwide IT Services, Inc",Remote,3.8,1,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.4,3.6,3.7,3.7,3.8,2023-05-20 13:19:34.005170,yr
+47,"$105,318 /yr (est.)",105318.0,QA Engineer (Remote),3,1,-1,Primary.Health,"San Francisco, CA",3.9,0,3,51 to 200 Employees,2020,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.1,4.2,4.2,4.1,4.3,2023-05-20 13:19:39.059447,yr
+49,$50.00 /hr (est.),104000.0,Manual Tester,-1,-1,-1,Devcare Solutions,"Columbus, OH",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-20 13:19:51.270438,hr

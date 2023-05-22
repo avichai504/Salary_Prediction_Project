@@ -1,0 +1,46 @@
+Job Type: Officer of Administration
+Bargaining Unit:
+Regular/Temporary: Regular
+End Date if Temporary:
+Hours Per Week: 35
+Salary Range: 58,500-84,400
+The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.
+
+Position Summary
+Statistician and investigator for the Center for Innovation and Outcomes Research. Will work with researchers through the Department of Surgery to develop and execute the most appropriate statistical modeling and analysis for each project. Additionally, will have the opportunity to initiate and projects of interest.
+
+Responsibilities
+Ad hoc epidemiologic design consult
+Management of multiple databases related to ongoing and previous data collection.
+Integration of clinical and research data bases.
+Coordinating data backup and transfers between research studies
+Managing clinical and research databases.
+Coordinating data backup and transfers between research studies
+Oversee data quality assurance and control.
+Data analysis
+Manuscript development.
+Assisting in the development and implementation of research proposals and data collection protocols (particularly collection of gut and oral biological samples).
+Preparation and presentation of findings at conferences and meetings.
+Write programs and develop algorithms for analyzing clinical data.
+Interpret analytical output and provide appropriate summaries of the results for investigator review.
+Create presentations of results and supporting material for grant applications, scholarly papers and proposals.
+Contribute to the identification and development of new methods for analyzing and summarizing data.
+Perform other related duties as assigned.
+Minimum Qualifications
+Bachelor's degree or equivalent in education and experience.
+Preferred Qualifications
+Prefer an education in epidemiology and some experience working with high performance computing clusters is preferable.
+Other Requirements
+The successful candidate must possess computer proficiency with excellent data management and data analysis skills, including extensive knowledge of SAS and Excel, and a working knowledge of R statistical software packages.
+Familiarity with epidemiological design and statistical analysis is essential.
+Excellent written and verbal communications skills are essential.
+Equal Opportunity Employer / Disability / Veteran
+Columbia University is committed to the hiring of qualified local residents.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:05.152715

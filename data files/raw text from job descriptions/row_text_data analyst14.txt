@@ -1,0 +1,47 @@
+REMOTE
+Engineering
+Engineering
+
+About Us
+Chess.com is one of the largest gaming sites in the world and the #1 platform for playing, learning, and enjoying chess.
+We are a team of 650+ fully remote people in 60+ countries working hard to serve the global chess community. We are here to support 125M+ chess players worldwide with the best possible product, content, and tools to serve the community!
+We are a tech company. A gaming company. A content company. And we do it all with passion and commitment to the game. Above all we prize our mission-driven, flat, life-celebrating, no-corporate culture, and we look forward to meeting you and learning more about what you can bring to the team.
+
+About You
+You love data and shaping it to produce business insight. And you have deep experience with the types of data questions relevant to a software/gaming business (retention, engagement, monetization, cohort analysis etc.).
+Moreover, you love what data tells you, and you are eager to get your hands on the treasure trove of Chess.com data to see what you can learn about the game, the players, and the business.
+You’re looking to use your skills to work at a company that you actually care about (and that actually cares about you!). You are a seasoned analyst with intuitive strategic, communication and technical skills.
+
+What You’ll Do
+Dive into our data to discover insights on player behavior across different cohorts, segments, and stages of the user lifecycle, and communicate collect feedback on your findings from peers, and business/product partners
+Work with business, product, and engineering teams to [plan design ship evaluate] experiments, and communicate their results/impact with the company.
+Collaborate with analysts/data-scientists in building scalable, and reproducible analyses and datasets
+Develop tools and best practices to ensure high data quality and identify and prevent errors before they reach production datasets
+Contribute to comprehensive documentation of tools and datasets
+
+Preferred Skills
+3+ years of experience in data analytics & data visualization
+Strong SQL skills (we use BigQuery and some MySQL)
+Some experience with a Python/Jupyter Notebook + Git setup
+Experience working with data in a cloud environment e.g. Google Cloud, AWS, or Azure
+Knowledge of, and experience in the online advertising and/or CRM domains
+Strong collaboration and communication skills working in a fully distributed team
+Puts value building strong relationships with colleagues and partners, enjoys mentoring and guiding others and you have the ability to explain complex topics in simple terms
+
+About the Opportunity
+This is a full-time position
+We are 100% remote (work from anywhere!)
+This role is open to applicants who can work in the North American (EST) or European timezones.
+You can learn more about us here:
+https://www.chess.com/article/view/how-chess-com-virtual-team-works-together
+https://www.chess.com/about
+
+We look forward to meeting you!
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: 2
+ Time of Scrape: 2023-05-17 14:10:49.346756

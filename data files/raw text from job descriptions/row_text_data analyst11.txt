@@ -1,0 +1,41 @@
+Job Type: Officer of Administration
+Bargaining Unit:
+Regular/Temporary: Regular
+End Date if Temporary:
+Hours Per Week: 35
+Salary Range: $59,000 -$62,000
+The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.
+
+Position Summary
+Reporting to the Data Manager, the Junior Data Analyst will provide analytic support in the areas of data management, documentation, and analysis for research studies examining care transitions and infection prevention and control in post-acute care settings (nursing homes, home healthcare) prior to and during the COVID-19 pandemic. The Junior Data Analyst will work with a team of researchers at the Center for Health Policy at Columbia University School of Nursing
+Responsibilities
+Responsibilities will include:
+Assist in the merging, cleaning, documenting, and managing large administrative datasets (e.g., Medicare files).
+Assist in the writing and executing statistical programs for the creation of new variables, analytical datasets, tables, statistical summaries, figures, charts and tables.
+Assist in performing statistical analyses in collaboration with study team and communicating results.
+Preparing data documentation including data dictionaries, codebooks, and data use manuals.
+Assisting with conference presentations and posters, grants and manuscripts for publication:
+Formatting according to conference instructions, author and grant guidelines.
+Inputting data into tables and generating graphs.
+Attending all research related meetings.
+Performing other related duties, as assigned. This role is expected to be funded up to one (1) year, but ongoing employment is contingent upon continued grant funding.
+Minimum Qualifications
+Requires a Bachelor’s degree and at least 2 years of related experience, or equivalent in education, training and experience.
+Excellent organizational and oral/written communication skills required.
+Ability to work well in a team and independently.
+Preferred Qualifications
+Master’s Degree in Epidemiology, Statistics, Biostatistics (or related discipline).
+Experience and proficiency with statistical methods/data analysis and data management utilizing STATA or SAS. Demonstrated experience (minimum 1 year) with STATA or SAS statistical programming outside of the classroom environment.
+STATA experience preferred.
+Knowledge of Medicare data and survey analyses.
+Previous health research experience is highly desired.
+Equal Opportunity Employer / Disability / Veteran
+Columbia University is committed to the hiring of qualified local residents.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:42.445865

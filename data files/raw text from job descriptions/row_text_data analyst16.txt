@@ -1,0 +1,41 @@
+Data Analyst
+Summary
+Apex Health Solutions is leading a healthcare transformation through our partnerships with physicians and healthcare insurers. Through our unique models, Apex empowers physicians to truly manage a patient’s health, delivering high quality, affordable care in a modern, patient focused approach.
+The Data Analyst is responsible for data extraction, data mining, data profiling, and data source to target mapping activities using SQL. The Data Analyst will work closely with business subject matter experts and engineers to operationalize business processes using data, in support of data integrations and warehousing projects. In this role, the Data Analyst will play a critical role in connecting our partners and enabling our critical solutions through Apex’s use of actionable data and empowering processes through harmonized data across the entire spectrum from care provision, claim payment and process visibility. Join our fast-paced, experienced team of healthcare leaders and re-shape healthcare!
+Essential Functions
+Write SQL scripts to analyze, validate, or correct data according to requirements, which may include complex stored procedures, views, and functions.
+Perform data extraction, data mining, and data profiling activities.
+Profile data sets for completeness and validity, and build automated SQL scripts to assess completeness, validity, and other data metrics.
+Analyze and pull data as well as measure, monitor, review, analyze, and troubleshoot data quality issues using SQL.
+Work with business subject matter experts, business analysts, data modelers, and engineers to complete source to target data mappings with detailed transformations to be used by engineers in writing code for implementation of data integrations and warehousing projects.
+Convert existing datasets from a diverse array of file formats, including Excel, Access, SQL, ASCII, text files, etc., into analytic datasets.
+Communicate with business units to obtain data requirements and perform data analysis on data provided.
+Work with engineers to support the development of new and/or modification of existing database, data warehouse, data mart and business intelligence solutions to meet business and system requirements.
+Work closely with the business units to gain in-depth understanding of business strategies and processes in order to operationalize and measure using data.
+Works with Apex stakeholders to analyze operational processes and trends and identify issues.
+Resolves complex issues, optimizes performance, and provides timely follow-up on identified issues.
+Utilize technical expertise to ensure data is accurate and high-quality.
+Performs other duties as assigned.
+Education
+A bachelor’s degree in computer science or a closely related field preferred.
+Skills & Experience
+5+ years of relevant work experience in a role with SQL, Excel, relational databases (MS SQL, Azure SQL) and database mapping techniques.
+Demonstrated advanced data analytics, data mining, data profiling, and data validation skills.
+Strong data quality understanding of data quality concepts and familiarity with data quality tools and methods.
+Strong understanding of health data, including managed care, population health, or health insurance operations.
+Experience working in an environment using Agile/SCRUM methodologies and principles.
+Familiarity with data visualization tools, such as PowerBI, a plus.
+Ability to communicate and make recommendations to management.
+Demonstrated advanced interpersonal/verbal and written communication skills.
+Demonstrated analytical and problem-solving skills.
+Ability to work as part of a team.
+Self-starter, with a strong work ethic and attention to detail.
+Familiarity with working in a regulated industry.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:56.737016

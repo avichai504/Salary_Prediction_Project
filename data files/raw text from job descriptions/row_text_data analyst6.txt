@@ -1,0 +1,19 @@
+Position Overview: We are looking for a talented Data Analyst Engineer with strong Python programming skills to join our team. As a Data Analyst Engineer, you will be responsible for designing, developing, and maintaining data analysis systems and processes. You will collaborate with various stakeholders, including data scientists, business analysts, and software engineers, to extract, transform, and analyze large and complex datasets. Your expertise in Python and data manipulation techniques will be crucial in uncovering insights and providing actionable recommendations to drive business decisions.
+Job Type: Contract
+Salary: $18.03 - $58.23 per hour
+Schedule:
+8 hour shift
+Experience:
+Data Analyst: 5 years (Preferred)
+R.Python: 3 years (Preferred)
+Data mining: 2 years (Preferred)
+Data visualization: 3 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: 2
+ Time of Scrape: 2023-05-17 14:10:18.781077

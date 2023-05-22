@@ -1,0 +1,12 @@
+Internet & Web Services
+-1,HR Consulting,Information Technology Support Services,Municipal Agencies,Machinery Manufacturing
+Architectural & Engineering Services,Enterprise Software & Network Solutions,Home Furniture & Housewares Stores,Advertising & Public Relations,Construction
+Car & Truck Rental,Computer Hardware Development,Financial Transaction Processing,Banking & Lending,Biotech & Pharmaceuticals
+Business Consulting,Airlines, Airports & Air Transportation,Transportation Equipment Manufacturing,Software Development,Stock Exchanges
+Aerospace & Defense,Video Game Publishing,Insurance Carriers,Taxi & Car Services,Health Care Services & Hospitals
+Energy & Utilities,Electronics Manufacturing,Film Production,Shipping & Trucking,Telecommunications Services
+Accounting & Tax,Consumer Product Manufacturing,Staffing & Subcontracting,Real Estate,Education & Training Services
+Investment & Asset Management,Grantmaking & Charitable Foundations,Animal Production,Colleges & Universities,Food & Beverage Stores
+Insurance Agencies & Brokerages,State & Regional Agencies,Beauty & Wellness,
+
+The number of unique values s 44

@@ -1,0 +1,56 @@
+
+This position is eligible for a $10,000 Sign On Bonus!
+What are important things that YOU need to know about this role?
+This position is eligible to be fully remote
+C# experience is required and after fully trained this person will be a full-stack developer
+What will YOU be doing for us? To author and maintain software applications of varying complexities and on varying tech stacks - in the healthcare space.
+What will YOU be working on every day?
+Assist level 4 and lead engineers to develop, modify and maintain software applications for internal and external client use. Provide first level support on common operational concerns
+Work collaboratively with internal resources to assess and understand technical specifications and business requirements for new systems.
+Maintain current modules, applications or processes in production.
+Actively participate on an Agile scrum team, sizing work efforts and decomposing functionality and iteratively delivering value.
+Unit test development
+Follow directives from project mentor (senior engineer, project architect, etc.).
+Triage production issues and affect solutions
+Code spelunking
+Perform software design and coding according to SKYGEN and accepted secure coding patterns
+Work collaboratively with internal team members on investigating and fixing defects
+Act as the first level of operational triage support as necessary.
+What qualifications do YOU need to have to be GOOD candidate?
+Associates Degree or equivalent years of experience or equivalent certification. Bachelor’s degree in Computer Science or other related field highly preferred.
+Typically 1-2 years of experience in software development or prior experience as a software development intern.
+Knowledge of software design and development techniques
+Ability to effectively communicate technical concepts to others
+Ability to work effectively with a variety of individuals and communication styles
+Knowledge and proficiency in various technical areas:
+Object Oriented Design
+ASP.NET Web Form Development
+ASP.NET MVC Development
+C#
+JavaScript
+Secure coding patterns
+Visual Studio 2019
+SQL Server 2014 or any Relational DB
+What qualifications do YOU need to have to be a GREAT candidate?
+Programming languages (C#)
+Knowledge of Agile methodologies
+Knowledge and proficiency in:
+HTML5
+CSS
+Bootstrap
+Typescript
+Angular JS
+Angular 7+
+Agile Development Methodology
+Show Less
+Report
+Frontend Software Engineer
+<selenium.webdriver.remote.webelement.WebElement (session="42367e7b23a1ca09f3153a3d90b5ac1c", element="64669674-fc41-4f67-bd8a-44f8f3b48912")>
+Real Estate
+
+
+Testing regine:
+Experience: 2
+Education: 1
+Position Level: 1
+ Time of Scrape: 2023-05-17 22:52:44.565619

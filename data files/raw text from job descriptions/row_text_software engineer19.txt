@@ -1,0 +1,35 @@
+Description:
+QuesTek Innovations LLC, located in Evanston, IL, is seeking a talented and experienced Software Engineer for frontend development to join our team. As a frontend developer, you will be responsible for designing, developing, and maintaining our web-based SaaS platform, ensuring they are visually appealing, user-friendly, and highly functional. You will collaborate with our cross-functional teams, including backend developers and scientific software developers, to deliver exceptional user experiences and drive innovation.
+Requirements:
+Responsibilities:
+Develop high-quality, responsive web applications using modern frontend technologies, including ReactJS and TypeScript.
+Collaborate with scientific software developers to translate UI/UX wireframes and mockups into fully functional web applications.
+Implement and maintain frontend architectures, ensuring scalability and performance optimization.
+Write clean, well-documented, and maintainable code.
+Conduct thorough testing and debugging to ensure the highest level of quality and usability.
+Stay up-to-date with the latest frontend trends, technologies, and best practices.
+Collaborate with cross-functional teams to define project requirements and deliverables.
+Participate in code reviews to maintain code quality and provide constructive feedback.
+Requirements:
+Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
+Proven experience as a frontend developer or similar role, with a strong portfolio of web development projects.
+Proficient in HTML, CSS, JavaScript/TypeScript, and related frontend frameworks (e.g., React, Angular, Vue.js).
+Experience with version control systems (e.g., Git) and frontend build tools (e.g., Vite).
+Knowledge of web accessibility standards and best practices.
+Familiarity with backend technologies and APIs.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration abilities.
+Bonus Skills:
+Experience with serverless architecture and cloud platforms (e.g., AWS, Azure).
+Familiarity with UI/UX design principles.
+Experience with testing frameworks (e.g., Jest, Enzyme).
+Understanding of Agile/Scrum methodologies.
+Compensation will be commensurate with experience and will include competitive benefits such as health insurance and a 401(k). QuesTek will only employ those who are legally authorized to work in the United States. Interested candidates shall submit their resumes and a cover letter summarizing how their experience would allow them to excel in this position via the Careers page of https://www.questek.com/
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: 1
+ Time of Scrape: 2023-05-17 14:42:22.712797

@@ -1,30 +1,33 @@
 import pandas
-import older_scraper2 as gs
+import Glass_Door_Scarper as gs
 import Data_Cleaning as dc
 import Extract_from_text as et
 import older_scraper as old
-import Glass_Door_Scraper_var0 as Sahar
 
 
 def main_scraper():
     path = "C:/Users/avich/chromedriver"
-    keyword = "software engineer Web development"
+    # keyword = "software engineer"
     # keyword = "data analyst"
     # keyword = "cyber"
-    # keyword = 'QA'
-    num_jobs = 900
+    keyword = 'QA'
+    num_jobs = 40
     max_sleep_time = 1
-    list_keywords = [
-        'Cloud computing', 'Artificial Intelligence', 'Machine Learning engineer',
-        'Data engineering'
-        'DevOps', 'Cybersecurity', 'Data science and analytics', 'Augmented Reality', 'Robotics', 'Web development',
-        'Internet of Things', 'Financial technology', 'HealthTech', 'E-commerce',
-        'Enterprise software', 'Education technology', 'Social media and networking engineer',
-        'Mobile app development', 'Desktop software development', 'Game development']
-    for i, keyword in enumerate(list_keywords):
-        df = Sahar.get_jobs(keyword, num_jobs, path, max_sleep_time, 0)  # call to scraper
-        df_clean = dc.data_cleaning(df)
-        df_clean.to_csv(f"{i}_{keyword}.csv")
+    i = '3'
+
+    df = old.get_jobs(keyword, num_jobs, path, max_sleep_time)  # call to scraper
+    # df.to_csv(f"{i}0_{keyword} raw data {num_jobs}.csv")
+    df_clean = dc.data_cleaning(df)
+    df_clean.to_csv(f"{i}1_{keyword} clean data {num_jobs}.csv")
+    # df_final_clean = dc.final_clean(df_clean)
+    # df_final_clean.to_csv(f"{i}2_{keyword} final data {num_jobs}.csv")  # DataBase!!!!!
+    # df_scaling = dc.preprocess_scaling(df_clean)
+    # df_scaling.to_csv(f"{i}2_{keyword} scaling data {num_jobs}.csv")
+
+    # column_names = ['Sector', 'Industry', 'Job Title', 'Type of Ownership', 'Revenue', 'Time Unit']
+    # df_one_hot_encoding = dc.one_hot_encoding(df_clean, column_names)
+    # df_one_hot_encoding.to_csv(f"{i}4_{keyword}_one_hot_encoding {num_jobs}.csv")
+
 
 
 def unique_values():
@@ -51,7 +54,11 @@ def main_check_extract_from_text():
         print(result)
 
 
+
+
 # unique_values()
 main_scraper()
 # scale_check()
 # main_check_extract_from_text()
+
+

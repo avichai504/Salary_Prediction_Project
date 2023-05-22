@@ -1,0 +1,53 @@
+Description:
+Are you data curious? Do you enjoy finding the nuggets of truth in complicated datasets that reveal the hidden stories to produce actionable insights? Do you have the skills and drive to help build and maintain automated reporting and SQL Pipelines? If this is you, IMM has a position of Junior Data Analyst that will both challenge you and propel your career path in data analytics.
+IMM - Ideas Made Measurable, is a solutions-focused marketing agency that believes your data today drives your strategy for tomorrow.
+A Day in the Life
+This role is responsible for supporting the customer facing wing of our agency’s Data Analytics & Decision Sciences team. You work side-by-side with a talented group of people tasked with turning data into actionable insights & recommendations, as well as telling the story of what happened. The ideal candidate will have experience with Excel, SQL, Tableau, and would be have some interest or experience in digital marketing. This candidate will play a significant role in generating and maintaining solid and accurate automated reporting processes, polished and professional-looking reports, and contribute to the development of data products that can be sold across all of IMM’s clients. This position is designed for a person interested in, and familiar with the world of digital advertising and has significant opportunities for growth and expanded responsibility within IMM’s analytics practice.
+Here are some specifics on exactly what your days might look like:
+Create and edit SQL scripts and stored procedures that extract and curate data from multiple sources with an eye towards accuracy and consistency
+Problem solve and work with multiple departments to resolve outstanding issues and innovate to drive client relationships forward
+Generate clear and concise data visualizations in Tableau
+Develop successful relationships based upon trust and value-creation within the company and with clients
+Craft stories based on data that intertwine all facets of the client’s and IMM’s business ecosystem
+Make recommendations on process improvement and operational execution on delivery of data and assets to support internal process
+Requirements:
+Here's what you need to get our attention:
+Bachelor’s degree or equivalent work experience
+1+ years of experience with Tableau or a similar reporting software
+1+ years of experience in a data-gathering role, conducting analysis, and generating reports
+1 + years of SQL experience
+Internships count!
+Though this is a remote role, currently we are only considering Colorado candidates
+Here's what will make us call you for sure:
+Understanding of relational databases
+Aptitude to learn new technologies quickly and efficiently
+Understanding of the digital marketing environment and metrics or willingness to learn
+Talent for analytic and quantitative skills
+Information Systems, Statistics, Math, Econ or relevant educational background
+Ability to apply sound judgment in problem solving situations
+Well-developed organizational skills, attention to detail
+Strong personal time-management skills with the ability to handle multiple priorities simultaneously
+Excellent written and verbal communication skills
+Desire to operate in a fast-paced, entrepreneurial and fun environment
+Not required, but will definitely give you an edge:
+Experience with Digital Marketing
+Experience or interest in Python Programing
+And if we haven't convinced you yet, here is why you'll want to be part of our team:
+Inspiring, collaborative & SAFE office option in beautiful Boulder, CO where dogs are welcome!
+Hybrid/remote options available for most positions
+Time off is as important as hard work! Salaried employees are on a flex/unlimited PTO plan and hourly employees receive a standard 15 days of PTO, with increasing accruals the longer they stay with us
+Generous holidays including a reduced schedule between Christmas and New Years
+We make sure our team is well cared for with strong health plans and generous health premium coverage plus free dental and vision for employees.
+Generous supplemental FMLA/Parental leave: self-care and family first!
+401k match vested day one plus employer-sponsored life insurance
+In-person and virtual connection points for culture building and team members who have your back!
+Base Salary: $50k-$65k DOE
+COME AS YOU ARE: your gender, your gods, your sex life, your skin color or your big shot uncle don't make a difference here. IMM LLC is a progressive and open-minded meritocracy. If you're smart and good at what you do, come as you are.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 1
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:35.371315

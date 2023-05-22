@@ -1,0 +1,13 @@
+Financial Transaction Processing
+-1,Internet & Web Services,Primary & Secondary Schools,Civic & Social Services,Information Technology Support Services
+Health Care Services & Hospitals,Enterprise Software & Network Solutions,Staffing & Subcontracting,Biotech & Pharmaceuticals,Advertising & Public Relations
+Banking & Lending,Insurance Carriers,Business Consulting,Restaurants & Cafes,Home Furniture & Housewares Stores
+Other Retail Stores,Software Development,Ticket Sales,Computer Hardware Development,Education & Training Services
+General Merchandise & Superstores,Rail Transportation,Investment & Asset Management,HR Consulting,Municipal Agencies
+Machinery Manufacturing,Architectural & Engineering Services,Real Estate,Construction,Electronics Manufacturing
+Transportation Equipment Manufacturing,Airlines, Airports & Air Transportation,Video Game Publishing,Taxi & Car Services,Film Production
+Energy & Utilities,Stock Exchanges,Consumer Product Manufacturing,Grantmaking & Charitable Foundations,Colleges & Universities
+Gift, Novelty & Souvenir Stores,Hotels & Resorts,Membership Organizations,Car & Truck Rental,General Repair & Maintenance
+Sporting Goods Stores,Security & Protective,Aerospace & Defense,National Agencies,
+
+The number of unique values is 50

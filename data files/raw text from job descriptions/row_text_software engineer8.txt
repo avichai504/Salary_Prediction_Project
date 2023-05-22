@@ -1,0 +1,40 @@
+
+Peterson Technologies is seeking a Junior Software Engineer to support our Maryland customer in the Ft. Meade area.
+This position requires an active DoD Security Clearance
+Job Description:
+The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Works individually or as part of a team. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.
+Software Engineer L0 Supporting the CHANNELMARKER Team
+Requirements
+Experience with the following:
+Java
+Spring
+Maven
+MapReduce
+Location: Mega Center
+Telework: None
+CCAs not accepted.
+Requirements:
+No demonstrated experience is required. Bachelor's degree in computer science or related discipline from an accredited college or university is required.
+Four (4) years of SWE experience on projects with similar software processes may be substituted for a bachelor's degree.
+Qualifications
+Analyze user requirements to derive software design and performance requirements
+Design and code new software or modify existing software to add new features
+Debug existing software and correct defects
+Integrate existing software into new or modified systems or operating environments
+Develop simple data queries for existing or proposed databases or data repositories
+Provide recommendations for improving documentation and software development process standards
+Peterson Technologies will provide reasonable accommodations to applicants who are unable to utilize our online application system due to a disability.
+Please send your request to HR at jobs@ptech-llc.com.
+Peterson Technologies is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+Show Less
+Report
+Software Engineer - Frontend
+<selenium.webdriver.remote.webelement.WebElement (session="42367e7b23a1ca09f3153a3d90b5ac1c", element="55b9b97f-d6f2-4cb7-badf-04cb6c26692d")>
+-1
+
+
+Testing regine:
+Experience: -1
+Education: 1
+Position Level: 0
+ Time of Scrape: 2023-05-17 22:53:00.555090

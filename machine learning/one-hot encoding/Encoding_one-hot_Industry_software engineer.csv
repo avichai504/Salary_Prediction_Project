@@ -1,0 +1,362 @@
+,Unnamed: 0,Job Title,Experience,Education,Company Name,Salary Estimate,Location,Rating,Is Remote,Company Size,Founded,Type of Ownership,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Industry_-1,Industry_Accounting & Tax,Industry_Advertising & Public Relations,Industry_Aerospace & Defense,"Industry_Airlines, Airports & Air Transportation",Industry_Architectural & Engineering Services,Industry_Banking & Lending,Industry_Biotech & Pharmaceuticals,Industry_Business Consulting,Industry_Car & Truck Rental,Industry_Computer Hardware Development,Industry_Construction,Industry_Consumer Product Manufacturing,Industry_Electronics Manufacturing,Industry_Energy & Utilities,Industry_Enterprise Software & Network Solutions,Industry_Film Production,Industry_Financial Transaction Processing,Industry_HR Consulting,Industry_Health Care Services & Hospitals,Industry_Home Furniture & Housewares Stores,Industry_Information Technology Support Services,Industry_Insurance Carriers,Industry_Internet & Web Services,Industry_Machinery Manufacturing,Industry_Municipal Agencies,Industry_Shipping & Trucking,Industry_Software Development,Industry_Staffing & Subcontracting,Industry_Stock Exchanges,Industry_Taxi & Car Services,Industry_Telecommunications Services,Industry_Transportation Equipment Manufacturing,Industry_Video Game Publishing
+0,0,Frontend Engineer,1,1,"SportsRecruits
+4.3","$125,000 /yr (est.)",Remote,4.3,True,1 to 50 Employees,2009,Company - Private,Information Technology,Unknown / Non-Applicable,3.8,3.5,4.4,4.0,4.0,2023-05-15 09:16:48.833335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1,1,-1,-1,-1,-1,-1,-1,-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:16:50.609985,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,Java Software Engineer,5,1,Intelon Optics,$50.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:16:51.825581,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,3,Frontend Engineer,5,2,"Ryzen Solutions
+4.2",$74.50 /hr (est.),"Foster City, CA",4.2,False,51 to 200 Employees,1999,Company - Private,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.0,2023-05-15 09:16:53.280168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,4,DevOps Engineer,1,2,Seamless Migration,"$142,500 /yr (est.)",Remote,-1.0,True,Unknown,-1,Company - Public,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:16:54.995675,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,5,-1,-1,-1,-1,-1,-1,-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:16:56.535916,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,6,"Sr Fullstack Engineer - Nodejs, AWS",10,-1,"chenoa inc
+3.6",$57.02 /hr (est.),Remote,3.6,True,201 to 500 Employees,1998,Company - Private,Information Technology,$5 to $25 million (USD),3.5,3.2,3.4,3.2,3.4,2023-05-15 09:16:57.738191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,7,Software Engineer,-1,1,Redvest App,"$105,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:16:59.524243,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,8,Software Engineer,-1,1,Emergeflow Technologies,"$500,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:00.994410,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,9,DevOps Engineer - AWS CDK,3,1,"ComTec
+2.4",-1,Remote,2.4,True,51 to 200 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,1.4,1.8,1.8,1.8,1.5,2023-05-15 09:17:02.474630,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,10,Full Stack Software Engineer,1,1,"SportsRecruits
+4.3","$125,000 /yr (est.)",Remote,4.3,True,1 to 50 Employees,2009,Company - Private,Information Technology,Unknown / Non-Applicable,3.8,3.5,4.4,4.0,4.0,2023-05-15 09:17:04.196074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+11,11,Backend engineer,-1,-1,"Fuge Technologies Inc
+4.7",$52.50 /hr (est.),Remote,4.7,True,1 to 50 Employees,-1,Contract,-1,Unknown / Non-Applicable,4.7,4.5,4.7,4.3,4.5,2023-05-15 09:17:05.929829,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,12,Software Engineer,2,1,"Polco
+4.8","$115,000 /yr (est.)",Remote,4.8,True,51 to 200 Employees,-1,Company - Private,Government & Public Administration,Unknown / Non-Applicable,4.4,4.4,4.7,4.7,5.0,2023-05-15 09:17:07.553419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13,13,Software Engineer,5,1,"MW Industries, Inc.
+3.4","$105,000 /yr (est.)",Remote,3.4,True,1001 to 5000 Employees,-1,Company - Private,Manufacturing,$500 million to $1 billion (USD),3.6,3.6,3.1,3.2,3.2,2023-05-15 09:17:09.210867,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,14,DevOps/Release Engineer,5,1,"binary tech corp
+3.7",$57.74 /hr (est.),"Irving, TX",3.7,False,1 to 50 Employees,-1,Unknown,-1,$1 to $5 million (USD),2.5,2.0,2.5,1.5,2.5,2023-05-15 09:17:10.914953,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,15,Junior Level Cloud Engineer,1,2,"element technologies
+3.9",$42.50 /hr (est.),Remote,3.9,True,51 to 200 Employees,2000,Company - Private,Information Technology,Unknown / Non-Applicable,3.5,3.4,3.6,3.7,3.5,2023-05-15 09:17:12.646146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,16,Kubernetes Engineer,1,3,"Purple Drive Technologies
+4.2",$55.00 /hr (est.),"Deerfield, IL",4.2,False,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.9,3.7,4.0,4.0,4.2,2023-05-15 09:17:14.376223,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,17,Frontend engineer,1,2,Arvist,"$50,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:16.033719,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,18,Cloud Engineer,10,1,"Radcube LLC
+3.6","$122,650 /yr (est.)",Remote,3.6,True,51 to 200 Employees,-1,Company - Private,Information Technology,Unknown / Non-Applicable,3.6,3.2,3.6,3.4,3.6,2023-05-15 09:17:17.560713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,19,Software Engineer,10,-1,slesha inc,$60.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:19.270619,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,20,Software Engineer - GIS,2,1,"LJA Engineering
+4.1","$88,847 /yr (est.)","Katy, TX",4.1,False,1001 to 5000 Employees,1997,Private Practice / Firm,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.2,4.1,4.3,4.2,3.9,2023-05-15 09:17:20.767495,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,21,Full Stack Java,1,3,"Fuge Technologies Inc
+4.7",$57.50 /hr (est.),Remote,4.7,True,1 to 50 Employees,-1,Contract,-1,Unknown / Non-Applicable,4.7,4.5,4.7,4.3,4.5,2023-05-15 09:17:22.479561,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,22,Associate Software Engineer - Entry Level,3,1,"Network Innovations U.S. Government
+3.4","$90,000 /yr (est.)","Frederick, MD",3.4,False,1 to 50 Employees,-1,Company - Public,-1,$5 to $25 million (USD),2.6,2.7,3.3,2.8,3.0,2023-05-15 09:17:24.151401,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,23,DevOps Engineer,2,2,"Capillary Technologies
+4.0","$107,500 /yr (est.)",Remote,4.0,True,501 to 1000 Employees,2008,Company - Private,Information Technology,Unknown / Non-Applicable,4.0,3.6,4.2,3.8,3.6,2023-05-15 09:17:25.868434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,24,DevOps Engineer,2,2,"Acklen Avenue Software
+4.0",-1,Remote,4.0,True,51 to 200 Employees,2011,Company - Private,Information Technology,$1 to $5 million (USD),3.9,3.3,4.3,3.8,4.4,2023-05-15 09:17:27.583056,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,25,Software Engineer,7,1,"Intone Networks
+4.5",$67.50 /hr (est.),"Foster City, CA",4.5,False,201 to 500 Employees,-1,Company - Private,Information Technology,$5 to $25 million (USD),4.4,4.2,4.4,3.8,4.4,2023-05-15 09:17:29.334004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,26,Innovation Software Test Engineer,5,1,PVD,$55.00 /hr (est.),Remote,-1.0,True,Unknown,-1,Company - Public,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:31.073475,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,27,DevOps engineer,-1,2,GS SOLUTIONS,$65.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:32.699950,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,28,Software Development Engineer,7,2,"Intellibus
+4.5",$70.00 /hr (est.),Remote,4.5,True,Unknown,2015,Unknown,Information Technology,Unknown / Non-Applicable,4.1,4.8,4.4,4.3,4.4,2023-05-15 09:17:34.130146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+29,29,Junior Software Engineer,1,1,DataBP,"$85,000 /yr (est.)","New York, NY",-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:35.969511,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,30,Software Engineer,10,-1,slesha inc,$60.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:46.180682,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,31,-1,-1,-1,-1,-1,-1,-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:47.627710,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,32,Kubernetes Engineer,1,3,"Purple Drive Technologies
+4.2",$55.00 /hr (est.),"Deerfield, IL",4.2,False,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.9,3.7,4.0,4.0,4.2,2023-05-15 09:17:48.908266,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,33,Frontend engineer,1,2,Arvist,"$50,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:50.555748,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,34,DevOps Engineer,1,2,Seamless Migration,"$142,500 /yr (est.)",Remote,-1.0,True,Unknown,-1,Company - Public,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:52.035219,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,35,Software Engineer – Frontend,2,1,"ClimateAI
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.7,3.3,5.0,4.7,4.7,2023-05-15 09:17:53.646516,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,36,Software Engineer - Frontend (Remote),-1,1,"Home Depot / THD
+3.8","$130,000 /yr (est.)","Atlanta, GA",3.8,False,10000+ Employees,1978,Company - Public,Retail & Wholesale,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-15 09:17:55.444358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,37,Frontend Engineer,3,1,"Trellis
+4.4",-1,Remote,4.4,True,51 to 200 Employees,2012,Company - Private,Media & Communication,$5 to $25 million (USD),4.3,4.2,4.3,4.3,4.2,2023-05-15 09:17:57.209603,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,38,Software Engineer,2,1,Aiden Technology,"$100,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:17:58.952732,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,39,Full Stack Java,1,3,"Fuge Technologies Inc
+4.7",$57.50 /hr (est.),Remote,4.7,True,1 to 50 Employees,-1,Contract,-1,Unknown / Non-Applicable,4.7,4.5,4.7,4.3,4.5,2023-05-15 09:18:00.394554,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,40,-1,-1,-1,-1,-1,-1,-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:02.074428,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,41,Cloud Engineer,10,1,"Radcube LLC
+3.6","$122,650 /yr (est.)",Remote,3.6,True,51 to 200 Employees,-1,Company - Private,Information Technology,Unknown / Non-Applicable,3.6,3.2,3.6,3.4,3.6,2023-05-15 09:18:03.295812,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+42,42,Software Development Engineer,7,2,"Intellibus
+4.5",$70.00 /hr (est.),Remote,4.5,True,Unknown,2015,Unknown,Information Technology,Unknown / Non-Applicable,4.1,4.8,4.4,4.3,4.4,2023-05-15 09:18:05.086328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+43,43,Software Engineer,7,1,"Intone Networks
+4.5",$67.50 /hr (est.),"Foster City, CA",4.5,False,201 to 500 Employees,-1,Company - Private,Information Technology,$5 to $25 million (USD),4.4,4.2,4.4,3.8,4.4,2023-05-15 09:18:06.838354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+44,44,Junior Level Cloud Engineer,1,2,"element technologies
+3.9",$42.50 /hr (est.),Remote,3.9,True,51 to 200 Employees,2000,Company - Private,Information Technology,Unknown / Non-Applicable,3.5,3.4,3.6,3.7,3.5,2023-05-15 09:18:08.602035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+45,45,Frontend Engineer,5,2,"FAAZ Consulting
+2.4",$62.50 /hr (est.),"Cerritos, CA",2.4,False,Unknown,-1,Company - Private,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.3,3.7,2.3,2.7,3.3,2023-05-15 09:18:10.512414,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,46,Fullstack Engineer,-1,2,"Holdings
+3.6",-1,Remote,3.6,True,10000+ Employees,1957,Company - Private,Transportation & Logistics,$10+ billion (USD),3.9,3.6,3.7,3.5,2.9,2023-05-15 09:18:12.244134,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,47,Software Engineer,-1,1,"Jumpseller
+4.2",$40.00 /hr (est.),Remote,4.2,True,1 to 50 Employees,2013,Company - Private,Information Technology,Less than $1 million (USD),3.8,3.9,4.5,4.0,4.5,2023-05-15 09:18:14.151591,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,48,Frontend Engineer,11,2,"Virtualitics
+4.2",-1,Remote,4.2,True,51 to 200 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,4.2,4.2,4.2,4.1,4.2,2023-05-15 09:18:16.021474,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,49,Software Engineer I,-1,1,"Global Payments
+3.4","$82,680 /yr (est.)","Alpharetta, GA",3.4,False,10000+ Employees,1967,Company - Public,Financial Services,$5 to $10 billion (USD),3.3,3.3,3.4,3.1,3.4,2023-05-15 09:18:17.809928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,50,Frontend Software Engineer,-1,1,"TikTok
+3.6","$161,975 /yr (est.)","Seattle, WA",3.6,False,1001 to 5000 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,3.5,3.6,3.5,3.1,3.0,2023-05-15 09:18:19.578071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51,51,Junior Software Developer,2,1,Springbrook Creek Statement Composition LLC,$31.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:21.339281,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,52,DevOps engineer,-1,2,GS SOLUTIONS,$65.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:22.868645,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,53,Jr Frontend Developer,20,1,"QuinStreet
+4.1","$70,000 /yr (est.)","Austin, TX",4.1,False,501 to 1000 Employees,1999,Company - Public,Media & Communication,$500 million to $1 billion (USD),4.0,3.8,4.0,3.7,4.1,2023-05-15 09:18:24.290837,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,54,Frontend Engineer,-1,1,"CRED Investments
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-15 09:18:26.092174,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,55,Sr. Software Engineer (Mobile / Web),4,1,Pulsar Informatics Inc,"$125,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:27.869507,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,56,Java Software Engineer,-1,2,"Ampcus Incorporated
+3.7","$101,033 /yr (est.)","Chantilly, VA",3.7,False,501 to 1000 Employees,2004,Company - Private,Information Technology,$25 to $100 million (USD),3.3,3.0,3.3,3.1,3.2,2023-05-15 09:18:29.347778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+57,57,"QC "" Software"" Engineer",5,1,Celink,"$97,500 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:31.163284,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,58,Frontend Engineer,4,2,"OpenPhone Technologies
+5.0",-1,Remote,5.0,True,51 to 200 Employees,2018,Company - Private,Information Technology,$5 to $25 million (USD),4.8,5.0,4.9,5.0,4.9,2023-05-15 09:18:32.780080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,59,Software Engineer,-1,1,"PHNTM
+5.0","$125,000 /yr (est.)",Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.0,5.0,5.0,5.0,5.0,2023-05-15 09:18:34.607814,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,60,Software Engineer - Frontend (Remote),-1,1,"Home Depot / THD
+3.8","$130,000 /yr (est.)","Atlanta, GA",3.8,False,10000+ Employees,1978,Company - Public,Retail & Wholesale,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-15 09:18:45.338073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,61,-1,-1,-1,-1,-1,-1,-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:47.124931,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,62,-1,-1,-1,-1,-1,-1,-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:48.380268,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,63,Frontend Engineer,3,1,"Trellis
+4.4",-1,Remote,4.4,True,51 to 200 Employees,2012,Company - Private,Media & Communication,$5 to $25 million (USD),4.3,4.2,4.3,4.3,4.2,2023-05-15 09:18:49.678429,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,64,Software Engineer - Frontend,4,1,"Kikoff
+4.3",-1,Remote,4.3,True,1 to 50 Employees,2019,Company - Private,Financial Services,Unknown / Non-Applicable,4.2,4.6,4.2,4.1,4.2,2023-05-15 09:18:51.547683,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,65,Frontend Software Engineer,-1,1,"TikTok
+3.6","$161,975 /yr (est.)","Seattle, WA",3.6,False,1001 to 5000 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,3.5,3.6,3.5,3.1,3.0,2023-05-15 09:18:53.380517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+66,66,Associate Software Engineer,2,1,"Pfizer
+4.1","$83,681 /yr (est.)","Pearl River, NY",4.1,False,10000+ Employees,1849,Company - Public,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.0,4.0,3.6,3.9,2023-05-15 09:18:55.171081,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,67,Associate Software Engineer - Entry Level,3,1,"Network Innovations U.S. Government
+3.4",$106.00 /hr (est.),"Frederick, MD",3.4,False,51 to 200 Employees,2018,Company - Private,Management & Consulting,$5 to $25 million (USD),-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:18:57.021841,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,68,Frontend Engineer,4,2,"OpenPhone Technologies
+5.0",-1,Remote,5.0,True,51 to 200 Employees,2018,Company - Private,Information Technology,$5 to $25 million (USD),4.8,5.0,4.9,5.0,4.9,2023-05-15 09:18:59.205085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,69,Software Engineer,-1,-1,"Southwest Airlines
+4.1","$112,950 /yr (est.)","Dallas, TX",4.1,False,10000+ Employees,1967,Company - Public,Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-15 09:19:01.016594,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,70,Software Engineer - Angular,3,1,"Encore Technologies
+4.4",$77.00 /hr (est.),"Cincinnati, OH",4.4,False,201 to 500 Employees,2014,Company - Private,Information Technology,$100 to $500 million (USD),4.2,4.1,4.3,4.1,4.3,2023-05-15 09:19:02.904750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+71,71,Sr. Software Engineer (Mobile / Web),4,1,Pulsar Informatics Inc,"$125,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:19:04.807455,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,72,Software Engineer (L4) - TV User Interface,-1,1,"Netflix
+4.3",-1,Remote,4.3,True,5001 to 10000 Employees,1997,Company - Public,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,2023-05-15 09:19:06.267986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+73,73,Python Software Engineer,1,1,Rackera Inc,$75.63 /hr (est.),"Boston, MA",-1.0,False,Unknown,-1,Company - Public,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:19:08.119634,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,74,Frontend Engineer,-1,-1,"Drivetrain AI
+3.6",-1,Remote,3.6,True,10000+ Employees,1949,Company - Public,Manufacturing,$10+ billion (USD),3.5,3.5,3.4,3.1,3.1,2023-05-15 09:19:09.838229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+75,75,C# Software Engineer,5,2,"Intellibus
+4.5",$70.00 /hr (est.),Remote,4.5,True,Unknown,2015,Unknown,Information Technology,Unknown / Non-Applicable,4.1,4.8,4.4,4.3,4.4,2023-05-15 09:19:11.675295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+76,76,Frontend Engineer (ReactJS),5,2,"Scalio
+4.6",-1,Remote,4.6,True,1 to 50 Employees,2011,Company - Private,Information Technology,$1 to $5 million (USD),4.5,4.6,4.7,4.6,4.6,2023-05-15 09:19:13.530763,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+77,77,Frontend Engineer,5,2,"FAAZ Consulting
+2.4",$62.50 /hr (est.),"Cerritos, CA",2.4,False,Unknown,-1,Company - Private,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.3,3.7,2.3,2.7,3.3,2023-05-15 09:19:15.379464,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,78,Software Engineer,-1,1,"PHNTM
+5.0","$125,000 /yr (est.)",Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.0,5.0,5.0,5.0,5.0,2023-05-15 09:19:17.406025,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,79,Frontend Engineer,-1,1,"CRED Investments
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-15 09:19:19.237387,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,80,Software Engineer,-1,2,"LSEG (London Stock Exchange Group)
+3.9","$156,800 /yr (est.)","New York, NY",3.9,False,10000+ Employees,1698,Company - Public,Financial Services,$1 to $5 billion (USD),3.7,3.6,3.9,3.5,3.9,2023-05-15 09:19:21.025338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+81,81,Software Engineer,-1,-1,Occam Edge Technologies,$65.00 /hr (est.),"Raleigh, NC",-1.0,False,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:19:22.871032,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,82,Software Engineer - New Graduate,4,1,"Thales Avionics, Inc. (IFE)
+3.7","$110,500 /yr (est.)","Irvine, CA",3.7,False,1001 to 5000 Employees,2000,Company - Public,Aerospace & Defense,$1 to $5 billion (USD),3.5,3.9,3.6,3.2,3.7,2023-05-15 09:19:24.353439,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,83,Software Engineer (JavaScript),3,2,"SoftIron
+3.9","$100,000 /yr (est.)","San Diego, CA",3.9,False,51 to 200 Employees,2012,Company - Private,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.1,4.1,2023-05-15 09:19:26.269942,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,84,Software Engineer,6,2,"January Technologies
+5.0","$135,000 /yr (est.)","San Francisco, CA",5.0,False,51 to 200 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,4.9,4.4,5.0,5.0,4.9,2023-05-15 09:19:28.163683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,85,Software Engineer I (NST),-1,-1,"Nintendo
+4.5","$96,997 /yr (est.)","Redmond, WA",4.5,False,5001 to 10000 Employees,-1,Company - Public,Media & Communication,$10+ billion (USD),3.9,4.1,4.3,4.0,3.9,2023-05-15 09:19:30.110921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+86,86,Fullstack Engineer,-1,2,"Holdings
+3.6",-1,Remote,3.6,True,10000+ Employees,1957,Company - Private,Transportation & Logistics,$10+ billion (USD),3.9,3.6,3.7,3.5,2.9,2023-05-15 09:19:32.134376,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,87,Junior Software Engineer,-1,1,"SoundThinking
+3.5",-1,Remote,3.5,True,201 to 500 Employees,1996,Company - Public,Information Technology,$25 to $100 million (USD),3.2,3.4,3.4,3.4,3.5,2023-05-15 09:19:33.993729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+88,88,"Software Engineer, Docs + Wiki",-1,1,"Notion
+4.9","$190,000 /yr (est.)","San Francisco, CA",4.9,False,201 to 500 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,4.9,4.8,4.9,4.8,4.6,2023-05-15 09:19:35.854188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,89,Junior Software Engineer,-1,1,"Simply Business
+4.2","$75,746 /yr (est.)","Atlanta, GA",4.2,False,51 to 200 Employees,2005,Company - Public,Insurance,$25 to $100 million (USD),3.9,4.2,4.2,3.9,4.4,2023-05-15 09:19:37.809798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+90,90,Software Engineer – Frontend,2,1,"ClimateAI
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.7,3.3,5.0,4.7,4.7,2023-05-15 09:19:48.593626,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,91,Associate Software Engineer,2,1,"Pfizer
+4.1","$83,681 /yr (est.)","Pearl River, NY",4.1,False,10000+ Employees,1849,Company - Public,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.0,4.0,3.6,3.9,2023-05-15 09:19:50.383199,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,92,Software Engineer - Frontend,4,1,"Kikoff
+4.3",-1,Remote,4.3,True,1 to 50 Employees,2019,Company - Private,Financial Services,Unknown / Non-Applicable,4.2,4.6,4.2,4.1,4.2,2023-05-15 09:19:52.333423,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,93,Associate Software Engineer,2,1,"Ancestry
+3.7","$88,500 /yr (est.)",Remote,3.7,True,1001 to 5000 Employees,1983,Company - Private,Information Technology,$1 to $5 billion (USD),3.2,3.5,3.8,3.2,4.1,2023-05-15 09:19:54.247570,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+94,94,Software Engineer I (NST),-1,1,"Nintendo
+4.5","$96,997 /yr (est.)","Redmond, WA",4.5,False,5001 to 10000 Employees,-1,Company - Public,Media & Communication,$10+ billion (USD),3.9,4.1,4.3,4.0,3.9,2023-05-15 09:19:56.198392,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+95,95,Software Engineer - Remote,1,2,"iboss
+2.9","$79,074 /yr (est.)","Green Bay, WI",2.9,False,51 to 200 Employees,-1,Company - Public,Information Technology,Unknown / Non-Applicable,2.9,3.1,2.9,2.9,3.2,2023-05-15 09:19:58.085124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,96,Frontend Engineer (Remote),2,1,"Leaf Logistics
+4.0","$80,000 /yr (est.)",Remote,4.0,True,1 to 50 Employees,2017,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,3.9,4.2,3.9,3.8,4.5,2023-05-15 09:19:59.991959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+97,97,Mobile Application Software Engineer I,0,1,"Bread Financial
+4.4",-1,Remote,4.4,True,5001 to 10000 Employees,1996,Company - Public,Financial Services,$1 to $5 million (USD),4.1,4.6,4.5,4.3,4.1,2023-05-15 09:20:01.930436,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,98,Software Engineer,-1,-1,"Southwest Airlines
+4.1","$112,950 /yr (est.)","Dallas, TX",4.1,False,10000+ Employees,1967,Company - Public,Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-15 09:20:03.858643,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,99,Software Engineer I,2,1,"Apollo Medical Holdings
+3.9","$85,000 /yr (est.)",Remote,3.9,True,1 to 50 Employees,-1,Company - Private,Healthcare,Less than $1 million (USD),3.5,2.9,3.9,2.9,3.5,2023-05-15 09:20:05.802322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,100,Software Engineer,3,1,Vindhya Data Science,"$105,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:20:08.001440,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,101,Software Engineer (L4) - TV User Interface,-1,1,"Netflix
+4.3",-1,Remote,4.3,True,5001 to 10000 Employees,1997,Company - Public,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,2023-05-15 09:20:09.527487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+102,102,Software Engineer I,-1,1,"Clinical Architecture
+4.5","$78,856 /yr (est.)","Carmel, IN",4.5,False,51 to 200 Employees,2007,Company - Private,Information Technology,Unknown / Non-Applicable,3.8,3.6,4.7,4.2,4.6,2023-05-15 09:20:11.408198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,103,"Software Engineer, Docs + Wiki",-1,1,"Notion
+4.9","$190,000 /yr (est.)","San Francisco, CA",4.9,False,201 to 500 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,4.9,4.8,4.9,4.8,4.6,2023-05-15 09:20:13.326201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,104,Entry level software engineer,-1,2,TEKBasic,"$84,317 /yr (est.)","Monmouth Junction, NJ",-1.0,False,1 to 50 Employees,-1,Company - Public,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:20:15.259352,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,105,Junior React Developer,2,1,"NCube
+4.3",-1,Remote,4.3,True,201 to 500 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.2,4.2,4.2,4.2,4.0,2023-05-15 09:20:16.940849,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,106,Frontend Engineer,1,1,"Hive
+3.8","$150,000 /yr (est.)","Seattle, WA",3.8,False,10000+ Employees,-1,Company - Public,"Energy, Mining & Utilities",Unknown / Non-Applicable,3.3,3.6,3.7,3.0,4.1,2023-05-15 09:20:18.764745,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,107,Frontend Engineer,-1,-1,"Drivetrain AI
+3.6",-1,Remote,3.6,True,10000+ Employees,1949,Company - Public,Manufacturing,$10+ billion (USD),3.5,3.5,3.4,3.1,3.1,2023-05-15 09:20:20.698478,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+108,108,Frontend Engineer,4,2,"OpenPhone Technologies
+5.0",-1,Remote,5.0,True,51 to 200 Employees,2018,Company - Private,Information Technology,$5 to $25 million (USD),4.8,5.0,4.9,5.0,4.9,2023-05-15 09:20:22.573468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,109,Software Engineer (JavaScript),3,2,"SoftIron
+3.9","$100,000 /yr (est.)","San Diego, CA",3.9,False,51 to 200 Employees,2012,Company - Private,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.1,4.1,2023-05-15 09:20:24.483068,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,110,Software Engineer II- Remote,3,1,"Home Depot / THD
+3.8","$120,000 /yr (est.)","Atlanta, GA",3.8,False,10000+ Employees,1978,Company - Public,Retail & Wholesale,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-15 09:20:26.432262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,111,Frontend Engineer,-1,-1,"Rubicon
+3.6",-1,Remote,3.6,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.6,4.0,3.0,4.0,3.6,2023-05-15 09:20:28.428593,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,112,Frontend Engineer,6,1,"MagicLinks
+3.7","$135,000 /yr (est.)",Remote,3.7,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.8,3.8,3.8,3.6,4.1,2023-05-15 09:20:30.227499,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,113,Software Engineer,6,2,"January Technologies
+5.0","$135,000 /yr (est.)","San Francisco, CA",5.0,False,51 to 200 Employees,2016,Company - Private,Information Technology,Unknown / Non-Applicable,4.9,4.4,5.0,5.0,4.9,2023-05-15 09:20:32.153679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,114,Frontend Software Engineer,1,1,"Confluent
+4.0",-1,United States,4.0,False,1001 to 5000 Employees,2014,Company - Public,Information Technology,Unknown / Non-Applicable,3.7,4.1,3.8,3.6,3.8,2023-05-15 09:20:34.131219,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,115,Software Engineer,-1,1,"Jumpseller
+4.2",$40.00 /hr (est.),Remote,4.2,True,1 to 50 Employees,2013,Company - Private,Information Technology,Less than $1 million (USD),3.8,3.9,4.5,4.0,4.5,2023-05-15 09:20:36.104298,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,116,"Software Engineer, Associate",-1,1,"Infor
+4.0",-1,Remote,4.0,True,10000+ Employees,2002,Company - Private,Information Technology,$1 to $5 billion (USD),3.7,3.7,4.0,3.7,4.1,2023-05-15 09:20:38.063450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,117,Software Engineer,-1,-1,"Raisely
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Public,-1,Unknown / Non-Applicable,4.0,5.0,5.0,5.0,5.0,2023-05-15 09:20:40.032838,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,118,Software Engineer,-1,1,"PHNTM
+5.0","$125,000 /yr (est.)",Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.0,5.0,5.0,5.0,5.0,2023-05-15 09:20:41.895632,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,119,"Software Engineer, Frontend",-1,1,"Evertz Microsystems Limited
+3.2",-1,Remote,3.2,True,1001 to 5000 Employees,-1,Company - Public,Manufacturing,$25 to $100 million (USD),3.2,2.6,2.9,3.0,3.3,2023-05-15 09:20:43.821958,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,120,Software Engineer – Frontend,2,1,"ClimateAI
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.7,3.3,5.0,4.7,4.7,2023-05-15 09:20:54.550385,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,121,Associate Software Engineer,2,1,"Ancestry
+3.7","$88,500 /yr (est.)",Remote,3.7,True,1001 to 5000 Employees,1983,Company - Private,Information Technology,$1 to $5 billion (USD),3.2,3.5,3.8,3.2,4.1,2023-05-15 09:20:56.420301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+122,122,Associate Software Engineer,2,1,"Pfizer
+4.1","$83,681 /yr (est.)","Pearl River, NY",4.1,False,10000+ Employees,1849,Company - Public,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.0,4.0,3.6,3.9,2023-05-15 09:20:58.431639,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,123,Frontend Engineer (Remote),2,1,"Leaf Logistics
+4.0","$80,000 /yr (est.)",Remote,4.0,True,1 to 50 Employees,2017,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,3.9,4.2,3.9,3.8,4.5,2023-05-15 09:21:00.475073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+124,124,Software Engineer I (NST),-1,1,"Nintendo
+4.5","$96,997 /yr (est.)","Redmond, WA",4.5,False,5001 to 10000 Employees,-1,Company - Public,Media & Communication,$10+ billion (USD),3.9,4.1,4.3,4.0,3.9,2023-05-15 09:21:02.508125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+125,125,Software Engineer - Frontend,4,1,"Kikoff
+4.3",-1,Remote,4.3,True,1 to 50 Employees,2019,Company - Private,Financial Services,Unknown / Non-Applicable,4.2,4.6,4.2,4.1,4.2,2023-05-15 09:21:04.481532,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,126,Software Engineer I,2,1,"Apollo Medical Holdings
+3.9","$85,000 /yr (est.)",Remote,3.9,True,1 to 50 Employees,-1,Company - Private,Healthcare,Less than $1 million (USD),3.5,2.9,3.9,2.9,3.5,2023-05-15 09:21:06.456372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,127,Software Engineer - Remote,1,2,"iboss
+2.9","$79,074 /yr (est.)","Green Bay, WI",2.9,False,51 to 200 Employees,-1,Company - Public,Information Technology,Unknown / Non-Applicable,2.9,3.1,2.9,2.9,3.2,2023-05-15 09:21:08.435623,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,128,Software Engineer (L4) - TV User Interface,-1,1,"Netflix
+4.3",-1,Remote,4.3,True,5001 to 10000 Employees,1997,Company - Public,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,2023-05-15 09:21:10.459592,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+129,129,Junior Software Engineer,-1,1,Binary Logic IT LLC,"$77,500 /yr (est.)","Sterling, VA",-1.0,False,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:21:12.440911,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,130,Software Engineer,3,1,Vindhya Data Science,"$105,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:21:14.189553,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,131,Mobile Application Software Engineer I,0,1,"Bread Financial
+4.4",-1,Remote,4.4,True,5001 to 10000 Employees,1996,Company - Public,Financial Services,$1 to $5 million (USD),4.1,4.6,4.5,4.3,4.1,2023-05-15 09:21:15.774796,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,132,Software Engineer,-1,-1,"Southwest Airlines
+4.1","$112,950 /yr (est.)","Dallas, TX",4.1,False,10000+ Employees,1967,Company - Public,Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-15 09:21:17.740210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,133,Software Engineer,-1,2,"Mosaic Learning, Inc.
+3.4","$82,000 /yr (est.)",Remote,3.4,True,51 to 200 Employees,2005,Company - Private,Information Technology,$5 to $25 million (USD),3.0,3.5,3.4,3.0,3.8,2023-05-15 09:21:19.726495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,134,Software Engineer,-1,1,"Jumpseller
+4.2",$40.00 /hr (est.),Remote,4.2,True,1 to 50 Employees,2013,Company - Private,Information Technology,Less than $1 million (USD),3.8,3.9,4.5,4.0,4.5,2023-05-15 09:21:21.795097,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,135,Frontend Engineer,-1,-1,"Rubicon
+3.6",-1,Remote,3.6,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.6,4.0,3.0,4.0,3.6,2023-05-15 09:21:23.805671,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,136,Entry level software engineer,-1,2,TEKBasic,"$84,317 /yr (est.)","Monmouth Junction, NJ",-1.0,False,1 to 50 Employees,-1,Company - Public,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:21:25.756314,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,137,Mid-Level Software Engineer,4,2,"RevaComm
+3.9",-1,Remote,3.9,True,51 to 200 Employees,1990,Company - Private,Information Technology,$25 to $100 million (USD),4.2,3.5,4.5,3.9,4.4,2023-05-15 09:21:27.544516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,138,"Software Engineer, Associate",-1,1,"Infor
+4.0",-1,Remote,4.0,True,10000+ Employees,2002,Company - Private,Information Technology,$1 to $5 billion (USD),3.7,3.7,4.0,3.7,4.1,2023-05-15 09:21:29.548775,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,139,Frontend Engineer,-1,-1,"Drivetrain AI
+3.6",-1,Remote,3.6,True,10000+ Employees,1949,Company - Public,Manufacturing,$10+ billion (USD),3.5,3.5,3.4,3.1,3.1,2023-05-15 09:21:31.571488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+140,140,Software Development Engineer I,-1,1,"Yardi Systems, Inc.
+4.1",-1,Remote,4.1,True,5001 to 10000 Employees,1982,Company - Private,Information Technology,$1 to $5 million (USD),3.7,3.9,4.2,3.8,4.2,2023-05-15 09:21:33.582191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+141,141,Junior Software Engineer,-1,1,"Simply Business
+4.2","$75,746 /yr (est.)","Atlanta, GA",4.2,False,51 to 200 Employees,2005,Company - Public,Insurance,$25 to $100 million (USD),3.9,4.2,4.2,3.9,4.4,2023-05-15 09:21:35.647201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+142,142,Software Engineer (Python),2,2,"Wellfound
+3.5","$90,000 /yr (est.)",Remote,3.5,True,51 to 200 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.1,4.1,3.3,3.1,4.3,2023-05-15 09:21:37.757642,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,143,"Associate Software Engineer, Client",-1,2,"Warner Bros. Discovery
+3.8","$85,484 /yr (est.)","Needham, MA",3.8,False,10000+ Employees,2003,Company - Public,Media & Communication,$10+ billion (USD),3.3,3.6,3.7,3.3,3.7,2023-05-15 09:21:39.785650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,144,"Software Engineer, Frontend",-1,1,"Evertz Microsystems Limited
+3.2",-1,Remote,3.2,True,1001 to 5000 Employees,-1,Company - Public,Manufacturing,$25 to $100 million (USD),3.2,2.6,2.9,3.0,3.3,2023-05-15 09:21:43.256376,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,145,Frontend Engineer (ReactJS),5,2,"Scalio
+4.6",-1,Remote,4.6,True,1 to 50 Employees,2011,Company - Private,Information Technology,$1 to $5 million (USD),4.5,4.6,4.7,4.6,4.6,2023-05-15 09:21:45.510222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+146,146,Frontend Engineer,4,2,"OpenPhone Technologies
+5.0",-1,Remote,5.0,True,51 to 200 Employees,2018,Company - Private,Information Technology,$5 to $25 million (USD),4.8,5.0,4.9,5.0,4.9,2023-05-15 09:21:47.656567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,147,"Software Developer, Frontend",-1,1,"DISQO
+4.5","$120,000 /yr (est.)",Remote,4.5,True,201 to 500 Employees,2015,Company - Private,Information Technology,Unknown / Non-Applicable,4.1,4.3,4.2,4.1,4.2,2023-05-15 09:21:49.743822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+148,148,Software Engineer (Web) - Remote,-1,1,"TWO MEN AND A TRUCK®
+3.4",-1,Remote,3.4,True,5001 to 10000 Employees,1985,Company - Private,Transportation & Logistics,$500 million to $1 billion (USD),3.0,3.0,3.4,3.2,3.0,2023-05-15 09:21:51.978567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+149,149,Software Engineer,2,1,"Motorola Solutions
+4.0","$96,347 /yr (est.)","Chicago, IL",4.0,False,10000+ Employees,1928,Company - Public,Telecommunications,$5 to $10 billion (USD),3.8,3.6,4.0,3.6,4.0,2023-05-15 09:21:54.040679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+150,150,Entry Level Python Developer - 482020,-1,1,"I28 Technologies Corporation
+4.3","$47,500 /yr (est.)",Remote,4.3,True,1 to 50 Employees,-1,Company - Private,Financial Services,Less than $1 million (USD),4.0,3.9,4.1,4.0,3.8,2023-05-15 09:22:04.997784,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,151,Software Engineer – Frontend,2,1,"ClimateAI
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.7,3.3,5.0,4.7,4.7,2023-05-15 09:22:06.995778,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,152,Software Engineer (L4) - TV User Interface,-1,1,"Netflix
+4.3",-1,Remote,4.3,True,5001 to 10000 Employees,1997,Company - Public,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,2023-05-15 09:22:08.974634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+153,153,Software Engineer I (NST),-1,1,"Nintendo
+4.5","$96,997 /yr (est.)","Redmond, WA",4.5,False,5001 to 10000 Employees,-1,Company - Public,Media & Communication,$10+ billion (USD),3.9,4.1,4.3,4.0,3.9,2023-05-15 09:22:11.042845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+154,154,Frontend Engineer (Remote),2,1,"Leaf Logistics
+4.0","$80,000 /yr (est.)",Remote,4.0,True,1 to 50 Employees,2017,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,3.9,4.2,3.9,3.8,4.5,2023-05-15 09:22:13.160702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+155,155,Associate Software Engineer,2,1,"Pfizer
+4.1","$83,681 /yr (est.)","Pearl River, NY",4.1,False,10000+ Employees,1849,Company - Public,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.0,4.0,3.6,3.9,2023-05-15 09:22:15.288573,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,156,Associate Software Engineer,2,1,"Ancestry
+3.7","$88,500 /yr (est.)",Remote,3.7,True,1001 to 5000 Employees,1983,Company - Private,Information Technology,$1 to $5 billion (USD),3.2,3.5,3.8,3.2,4.1,2023-05-15 09:22:17.429588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+157,157,Software Engineer (Python),2,2,"Wellfound
+3.5","$90,000 /yr (est.)",Remote,3.5,True,51 to 200 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.1,4.1,3.3,3.1,4.3,2023-05-15 09:22:19.557967,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,158,Software Engineer I,2,1,"Apollo Medical Holdings
+3.9","$85,000 /yr (est.)",Remote,3.9,True,1 to 50 Employees,-1,Company - Private,Healthcare,Less than $1 million (USD),3.5,2.9,3.9,2.9,3.5,2023-05-15 09:22:21.592363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,159,Mobile Application Software Engineer I,0,1,"Bread Financial
+4.4",-1,Remote,4.4,True,5001 to 10000 Employees,1996,Company - Public,Financial Services,$1 to $5 million (USD),4.1,4.6,4.5,4.3,4.1,2023-05-15 09:22:23.682522,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,160,Frontend Engineer (ReactJS),5,2,"Scalio
+4.6",-1,Remote,4.6,True,1 to 50 Employees,2011,Company - Private,Information Technology,$1 to $5 million (USD),4.5,4.6,4.7,4.6,4.6,2023-05-15 09:22:25.788537,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+161,161,Software Engineer,-1,1,"Jumpseller
+4.2",$40.00 /hr (est.),Remote,4.2,True,1 to 50 Employees,2013,Company - Private,Information Technology,Less than $1 million (USD),3.8,3.9,4.5,4.0,4.5,2023-05-15 09:22:27.897767,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,162,Software Engineer - Frontend,4,1,"Kikoff
+4.3",-1,Remote,4.3,True,1 to 50 Employees,2019,Company - Private,Financial Services,Unknown / Non-Applicable,4.2,4.6,4.2,4.1,4.2,2023-05-15 09:22:30.039288,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,163,Junior Software Engineer,-1,1,Binary Logic IT LLC,"$77,500 /yr (est.)","Sterling, VA",-1.0,False,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:22:32.200706,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,164,Software Development Engineer I,-1,1,"Yardi Systems, Inc.
+4.1",-1,Remote,4.1,True,5001 to 10000 Employees,1982,Company - Private,Information Technology,$1 to $5 million (USD),3.7,3.9,4.2,3.8,4.2,2023-05-15 09:22:34.033828,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+165,165,Software Developer,2,1,"Sonus Software Solutions
+2.5","$81,000 /yr (est.)","Orem, UT",2.5,False,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,3.1,2.2,3.4,3.4,2.5,2023-05-15 09:22:36.168199,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,166,"Software Developer, Frontend",-1,1,"DISQO
+4.5","$120,000 /yr (est.)",Remote,4.5,True,201 to 500 Employees,2015,Company - Private,Information Technology,Unknown / Non-Applicable,4.1,4.3,4.2,4.1,4.2,2023-05-15 09:22:38.204673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+167,167,Software Engineer,3,1,Vindhya Data Science,"$105,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:22:40.427733,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,168,Junior Software Developer,-1,1,"Peraton
+3.6","$86,000 /yr (est.)","Melbourne, FL",3.6,False,10000+ Employees,2017,Company - Private,Information Technology,$5 to $10 billion (USD),3.5,3.6,3.5,3.4,3.8,2023-05-15 09:22:42.039839,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+169,169,DevOps Engineer (Entry Level) (Remote),4,1,"Client Network Services Llc
+4.0","$72,325 /yr (est.)","McLean, VA",4.0,False,1001 to 5000 Employees,1994,Company - Private,Information Technology,$100 to $500 million (USD),3.8,3.6,4.0,3.6,3.9,2023-05-15 09:22:44.604572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+170,170,Jr Frontend Developer,10,1,"Modernize Home Services
+4.1","$70,000 /yr (est.)","Austin, TX",4.1,False,51 to 200 Employees,2005,Company - Private,Information Technology,Unknown / Non-Applicable,4.1,4.0,4.3,4.1,4.2,2023-05-15 09:22:46.774878,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+171,171,Software Engineer - Remote,1,2,"iboss
+2.9","$79,074 /yr (est.)","Green Bay, WI",2.9,False,51 to 200 Employees,-1,Company - Public,Information Technology,Unknown / Non-Applicable,2.9,3.1,2.9,2.9,3.2,2023-05-15 09:22:48.951525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,172,Junior Developer,1,1,"Silverback Strategies
+4.5",-1,Remote,4.5,True,1 to 50 Employees,2007,Company - Private,Media & Communication,$5 to $25 million (USD),4.2,4.3,4.6,4.3,4.1,2023-05-15 09:22:51.117780,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,173,Front End Software Engineer,-1,1,"HP
+4.2","$93,309 /yr (est.)","Spring, TX",4.2,False,10000+ Employees,1939,Company - Public,Information Technology,Unknown / Non-Applicable,3.8,3.7,4.3,3.8,4.2,2023-05-15 09:22:53.314246,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,174,Associate Software Engineer I,1,1,"BlueCross BlueShield of Tennessee
+3.8","$71,934 /yr (est.)","Chattanooga, TN",3.8,False,5001 to 10000 Employees,1945,Nonprofit Organization,Insurance,$5 to $10 billion (USD),3.5,3.8,3.9,3.4,3.6,2023-05-15 09:22:55.514119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+175,175,Junior Application Developer - Remote,1,1,"IPG Corporate
+3.8","$78,382 /yr (est.)","Atlanta, GA",3.8,False,5001 to 10000 Employees,1932,Company - Public,Manufacturing,Unknown / Non-Applicable,3.7,3.7,3.8,3.7,3.5,2023-05-15 09:22:57.711172,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,176,"Software Engineer, Associate",-1,1,"Infor
+4.0",-1,Remote,4.0,True,10000+ Employees,2002,Company - Private,Information Technology,$1 to $5 billion (USD),3.7,3.7,4.0,3.7,4.1,2023-05-15 09:23:00.223616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,177,Software Development Engineer,3,2,"Workday
+4.2","$137,847 /yr (est.)","Pleasanton, CA",4.2,False,10000+ Employees,2005,Company - Public,Information Technology,$1 to $5 billion (USD),3.9,4.2,4.3,3.8,4.3,2023-05-15 09:23:04.173410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,178,Entry Level Software Developer,-1,1,"Property Matrix
+4.3","$62,500 /yr (est.)","Culver City, CA",4.3,False,1 to 50 Employees,2008,Company - Private,Information Technology,Unknown / Non-Applicable,4.2,4.0,4.2,4.2,4.4,2023-05-15 09:23:06.800019,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,179,Junior Frontend Developer,30,2,"ECi Software Solutions
+4.0",-1,Remote,4.0,True,1001 to 5000 Employees,1999,Company - Private,Information Technology,Unknown / Non-Applicable,3.9,3.8,4.0,3.9,4.0,2023-05-15 09:23:09.429322,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,180,Frontend Software Engineer (React),4,1,"PracticeGenius LLC
+5.0",-1,Remote,5.0,True,51 to 200 Employees,-1,Company - Private,Information Technology,$5 to $25 million (USD),4.0,4.0,5.0,5.0,4.0,2023-05-15 09:23:24.034534,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,181,Software Engineer,-1,-1,FAM ENTERPRISES,"$137,500 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:23:26.094726,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,182,Frontend engineer,1,2,Arvist,"$50,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:23:27.791299,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,183,Software Engineer,5,1,"MW Industries, Inc.
+3.4","$105,000 /yr (est.)",Remote,3.4,True,1001 to 5000 Employees,-1,Company - Private,Manufacturing,$500 million to $1 billion (USD),3.6,3.6,3.1,3.2,3.2,2023-05-15 09:23:29.375226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+184,184,Software Engineer,2,1,"Polco
+4.8","$115,000 /yr (est.)",Remote,4.8,True,51 to 200 Employees,-1,Company - Private,Government & Public Administration,Unknown / Non-Applicable,4.4,4.4,4.7,4.7,5.0,2023-05-15 09:23:31.534904,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+185,185,Junior Software Developer,2,1,Springbrook Creek Statement Composition LLC,$31.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:23:33.711061,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,186,Frontend Engineer,1,1,"SportsRecruits
+4.3","$125,000 /yr (est.)",Remote,4.3,True,1 to 50 Employees,2009,Company - Private,Information Technology,Unknown / Non-Applicable,3.8,3.5,4.4,4.0,4.0,2023-05-15 09:23:35.333359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+187,187,Jr Frontend Developer,20,1,"QuinStreet
+4.1","$70,000 /yr (est.)","Austin, TX",4.1,False,501 to 1000 Employees,1999,Company - Public,Media & Communication,$500 million to $1 billion (USD),4.0,3.8,4.0,3.7,4.1,2023-05-15 09:23:37.546500,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,188,Associate Software Engineer,2,1,"Pfizer
+4.1","$83,681 /yr (est.)","Pearl River, NY",4.1,False,10000+ Employees,1849,Company - Public,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.0,4.0,3.6,3.9,2023-05-15 09:23:39.979736,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,189,Software Engineer,-1,1,Redvest App,"$105,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:23:42.260409,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,190,Frontend Engineer,3,1,"Trellis
+4.4",-1,Remote,4.4,True,51 to 200 Employees,2012,Company - Private,Media & Communication,$5 to $25 million (USD),4.3,4.2,4.3,4.3,4.2,2023-05-15 09:23:43.896287,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,191,Java Software Engineer,5,1,Intelon Optics,$50.00 /hr (est.),Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:23:46.000643,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,192,Software Engineer – Frontend,2,1,"ClimateAI
+5.0",-1,Remote,5.0,True,1 to 50 Employees,-1,Company - Private,-1,Unknown / Non-Applicable,4.7,3.3,5.0,4.7,4.7,2023-05-15 09:23:47.573519,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,193,Frontend Engineer (Remote),2,1,"Leaf Logistics
+4.0","$80,000 /yr (est.)",Remote,4.0,True,1 to 50 Employees,2017,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,3.9,4.2,3.9,3.8,4.5,2023-05-15 09:23:49.613215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+194,194,Software Engineer,2,1,Aiden Technology,"$100,000 /yr (est.)",Remote,-1.0,True,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,2023-05-15 09:23:51.760494,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,195,Software Engineer - Frontend,4,1,"Kikoff
+4.3",-1,Remote,4.3,True,1 to 50 Employees,2019,Company - Private,Financial Services,Unknown / Non-Applicable,4.2,4.6,4.2,4.1,4.2,2023-05-15 09:23:53.390015,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,196,Associate Software Engineer - Entry Level,3,1,"Network Innovations U.S. Government
+3.4","$90,000 /yr (est.)","Frederick, MD",3.4,False,1 to 50 Employees,-1,Company - Public,-1,$5 to $25 million (USD),2.6,2.7,3.3,2.8,3.0,2023-05-15 09:23:55.570977,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,197,Front End Web Developer,-1,1,"Beavercreek Marketing
+3.5","$45,000 /yr (est.)",Remote,3.5,True,1 to 50 Employees,-1,Company - Public,Media & Communication,Unknown / Non-Applicable,2.0,3.0,2.0,3.0,4.0,2023-05-15 09:23:57.678122,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,198,Junior Software Engineer,-1,1,"Simply Business
+4.2","$75,746 /yr (est.)","Atlanta, GA",4.2,False,51 to 200 Employees,2005,Company - Public,Insurance,$25 to $100 million (USD),3.9,4.2,4.2,3.9,4.4,2023-05-15 09:23:59.808997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+199,199,Software Engineer 1,-1,1,"Service Core
+4.5","$80,000 /yr (est.)","Denver, CO",4.5,False,Unknown,-1,Company - Private,Human Resources & Staffing,Unknown / Non-Applicable,4.3,3.9,4.4,4.6,4.3,2023-05-15 09:24:01.991364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

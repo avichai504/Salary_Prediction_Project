@@ -1,6 +1,5 @@
 import re
-
-
+import spacy
 def extract_years_of_experience(job_description):
     pattern = r"\b(at least )?(?!.*years\s+old.*)([0-9]+\+?|(one|two|three|four|five|six|seven|eight|nine|ten))\s+(year|years|years'|ye|ya|Y)\s?(?!old)(\s+of\s+)?\b"
 
@@ -18,8 +17,8 @@ def extract_years_of_experience(job_description):
                                "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
 
             years_of_experience = words_to_digits[years_of_experience_str]
-
-        return years_of_experience
+        if years_of_experience_str < 12:
+            return years_of_experience
     else:
         # If no match is found, return -1
         return int(-1)
@@ -67,3 +66,51 @@ def extract_position_level(job_description):  #{junior: 0, senior:1}
         return int(1)
     else:
         return int(-1)
+
+
+
+
+def nlp_for_years_of_experience(job_description):
+    # number = -1
+
+    nlp = spacy.load("en_core_web_sm")
+
+    text = job_description
+    # perform NER on the text
+    doc = nlp(text)
+    experience = 0
+    # look for entities that might indicate years of experience
+    for ent in doc.ents:
+        text = ent.text.lower()
+        if "year" in text or "yr" in text:
+            # see if the entity text contains numbers and/or years of experience patterns
+            if any(char.isdigit() for char in text) or "experience" in text or "exp" in text:
+                # print(ent.text)
+                try:
+                    number = ent.text.split()
+                    number = number[0]
+                    if int(number) > 12:
+                        continue
+                except:
+                    pass
+
+                try:
+                    number = ent.text.split("-")
+                    number = number[-1]
+                except:
+                    pass
+
+                try:
+                    number = int(''.join(filter(str.isdigit, number)))
+                except Exception as e:
+                    pass
+
+                if 12 > int(number) > experience:
+                    experience = number
+    return experience
+
+
+
+
+
+

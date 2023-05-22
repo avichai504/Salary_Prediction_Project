@@ -1,0 +1,48 @@
+
+We're seeking an experienced frontend, react engineer to join our engineering team!
+You'll be joining our team of 3 engineers as our specialist in React UI.
+We think a lot about our craft as engineers. We involve everyone deeply in the product & design cycles, so you have input into what we build and why we're building it.
+We talk to our customers, a lot. Everyone on the team spends time in our public Slack talking to our customers and understanding what they want. We believe in building intuition about our customers, vs. relying only on our own.
+As an engineering team, we are deeply ambitious. We've built our own ML models, plug-and-play architectures for both cloud and on-prem, use various streams/IoT/interfaces to build experiences for users.
+You'll have deep institutional support: our executive team has two industry experts,, and we know what it takes to make a great engineering team and product. We care deeply about mentoring our engineers and finding opportunities for you to grow, and work on what you have the most energy and enthusiasm for.
+Skills
+Next.js (React) with static export
+Implementing established API’s (OpenAPI) for a frontend.
+Typescript
+DOM styling (CSS, font+icon libraries, css frameworks like tailwind or bootstrap)
+Working with team in Git and Github
+Bonuses: Deployment workflows for cloud (S3, and Caddy reverse proxy), web canvas
+Ideal candidate
+Skilled in React & frontend engineering. We're looking for someone who's built and shipped projects in React, because we want to make sure you can land on your feet.
+Enjoys thinking from the user perspective and excited about learning as much about them as possible. You're interested in the idea of sharing early drafts with users and after shipping the feature, following the metrics to see if it landed.
+Good at communicating, both on the technical and personal level. Great team members are skilled and a pleasure to work with.
+Anywhere in a timezone between PST-EST. We've found that large timezone differences can be tough in a small team. You do not need to be in the US.
+Even if you're worried you don't meet all these qualifications, please reach out! We'd love to hear from you. We value experience of all kinds and you don't have to have a conventional software engineering education or background to succeed here!
+Job Type: Full-time
+Pay: $40,000.00 - $60,000.00 per year
+Benefits:
+Flexible schedule
+Compensation package:
+Bonus pay
+Performance bonus
+Stock options
+Yearly pay
+Experience level:
+1 year
+Schedule:
+Monday to Friday
+Experience:
+Front-end development: 1 year (Preferred)
+Work Location: Remote
+Show Less
+Report
+-1
+<selenium.webdriver.remote.webelement.WebElement (session="42367e7b23a1ca09f3153a3d90b5ac1c", element="f7f7575d-f6fd-4ba9-9652-06b6bc801542")>
+-1
+
+
+Testing regine:
+Experience: 1
+Education: 2
+Position Level: 1
+ Time of Scrape: 2023-05-17 22:52:37.935401

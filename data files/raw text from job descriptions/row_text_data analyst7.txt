@@ -1,0 +1,48 @@
+Description:
+Our Company
+Impact Genome (IG), and our sector-first Impact Genome Registry (IGR), standardizes and verifies the annual impact of nonprofits, NGOs, government programs, and social enterprises. We seek to address a primary challenge in the social sector – the lack of consistent data or modern tools for decision-makers to maximize the impact of every dollar spent on social change. For nonprofits, we democratize evaluation, level the playing field, and reduce burden by making impact reporting consistent and reusable. We offer blue-chip clients like Fortune 500 companies, leading philanthropies, and governments a way to shift from “giving away money” to “investing in social outcomes.” We have pioneered the invention of social outcome “credits,” which like carbon credits in the environmental market can make social impact a saleable asset for nonprofits, creating a sustainable and equitable social outcomes market for all.
+Role Description
+Impact Genome is seeking a full-time client-facing Data Analyst & Dashboard Developer to support our Advisory Services and Product teams. This role will analyze large datasets in the nonprofit sector, providing valuable insights to help funders enhance their investments. This role will also interface with external clients to develop innovative solutions.
+In supporting our Advisory Services team, this individual will work directly with corporate and government clients to understand their needs for impact data and design custom dashboards that provide them the insight to manage their portfolio of grant investments year to year. They will also conduct ad hoc data pulls and analysis to answer real-time customer questions.
+As part of the Product team, this person will think holistically across our dozens of clients to design universal dashboards that enhance our SaaS subscription product, the Impact Genome Terminal. Through all of this work, this individual will be helping customers increase their ability to help more people around the world achieve positive social outcomes.
+This hands-on role requires critical thinking, strong technical skills, and the ability to execute and deliver. A successful candidate will have a strong ability to analyze, model, and interpret data, as well as demonstrated success delivering robust and innovative reporting solutions to end users. This is a client-facing services role that requires client interaction and relationship building in addition to technical skills.
+This role is mostly remote, and candidates must be located near one of our hub cities: Chicago, NYC, Washington DC, or Toronto, ON.
+
+Roles & Responsibilities
+Advisory Services Support (50%)
+Interface directly with corporate and government clients to understand their needs for impact data
+Maintain and continue the build out of a custom data dashboard (currently in PowerBI) for major national and multinational clients by creating new pages, updating visualizations, and answering client data questions
+Oversee the process for transferring data from survey platform(s) into a PowerBI dashboard
+Manage the internal database for these dashboards, updating macros as needed, and running data updates
+Troubleshoot technical issues that may arise with the survey platform, dashboards, or data
+Collaborate on additional data activities, including large data set analysis and data cleaning, with a focus on making each client wildly successful
+Impact Genome Product Support (50%)
+Learn key modules of our industry-leading SaaS platform offerings for nonprofits and funders
+Identify opportunities to improve the dashboards and data visualizations within the platform (leveraging PowerBI or other technologies) to enhance the ability of our users to achieve their goals
+Fully design, develop, and launch product enhancements
+Build/enhance nonprofit front-end software offerings
+Update the funder portfolio, including adding new pages and developing internal processes for generation and distribution
+Create a robust funder analysis trending page to look at portfolio performance over time
+Troubleshoot technical issues with analytics dashboards and data that may arise
+Requirements:
+Proficient with PowerBI; experience with other data visualization software a plus (e.g., Tableau)
+Demonstrated experience collaborating with external clients
+Ability to individually design, develop, and successfully deploy databases and dashboards from end-to-end
+Comfortable leading customer interviews to get design requirements, and soliciting user feedback
+Able to independently structure and execute data analyses to meet ad hoc customer requests
+Strong presentation skills for diverse audiences at all levels, with cultural awareness and inclusion (preferred)
+Understanding of survey reporting management systems (Qualtrics preferred)
+Excellent problem-solving skills, organization, communication skills, and attention to detail
+Willingness to work as a team, as well as take the initiative to work independently
+Salary and Benefits
+The salary range for this position is $80,000 - 90,000. Benefits include healthcare coverage, flexible vacation policy, 401K plan, and a collaborative work culture.
+Visa sponsorship is not available for this position. Candidates must be legally authorized for employment in the United States or Canada. We encourage you to learn more about Impact Genome by visiting our website: impactgenome.org.
+We are an equal opportunity employer. We value diversity and inclusion and do not make employment decisions based on an individual’s race, color, religion, gender, gender identity, national origin, citizenship, age, disability, sexual orientation, marital status, pregnancy, genetic information, or any other legally protected status. We comply with all laws concerning non-discriminatory employment practices. We are committed to providing reasonable accommodations for associates and job applicants with disabilities.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:27.268176

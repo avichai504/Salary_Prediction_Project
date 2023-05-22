@@ -1,0 +1,30 @@
+Imagen Technologies is a high growth healthcare startup enabling patients to be diagnosed, treated, and managed at their primary care appointment (vs. having to refer out to hospitals, imaging centers and other slow and expensive options). Today, we've built an AI-enabled platform that enables patients to receive immediate diagnostic tests, immediate results, and immediate next steps – all in a single Primary Care appointment. For example: through our platform, women across the U.S. are now receiving comprehensive breast imaging, results, and specialist-driven next steps at their local Primary Care office, condensing a multi-month diagnostic journey into 60 minutes.
+With over $135m in funding from Google Ventures and some of the largest clinical networks in the country, we are rapidly expanding this platform across the U.S. - from 7 states and 50,000 patients in 2022, to 16 states and 500,000 patients in 2023. By 2026, we will be delivering care across 35 states and to more than 5m patients per year.
+We are looking for a Data Analyst to become a key member of the Core Data Team to work with Imagen's rapidly growing real-world datasets. The Data Analyst will use their technical experience to evaluate the effectiveness of Imagen's diagnostics as a service offering and will help drive Imagen's operational performance to improve care delivery. This role will collaborate with our Product and Engineering Teams to develop tools to scale Imagen's operations. Our ideal candidate is adept at communicating quantitative results to both technical and non-technical stakeholders. This is an excellent opportunity for an individual with a strong work ethic who is intellectually curious and eager to learn.
+Responsibilities:
+Create dashboards and reports to drive efficient delivery of high quality care for Imagen's diagnostics as a service offering.
+Lead exploratory analysis of complex clinical, financial, and operational real-world data.
+Design and implement complex data transformations to enable report automation.
+Collaborate with product owners and business users to refine and implement data product requirements and incorporate feedback on an ongoing basis.
+Communicate results to internal stakeholders and collaborate closely with cross-disciplinary teams.
+Qualifications:
+BS in a quantitative field with prior industry experience.
+Experience analyzing and developing visualizations for business intelligence (e.g., creating Tableau dashboards).
+Proficient in SQL, Python (pandas), and Git.
+Experience managing multiple work streams and able to shift priorities seamlessly.
+Clear and confident communicator who can translate data analyses to technical and non-technical stakeholders.
+Bonus Qualifications:
+Experience with dbt
+Experience working with clinical data.
+Our headquarters are based in New York, NY and this job is conducted remotely.
+Imagen is committed to the principle of equal employment opportunity for all employees and applicants for employment and prohibits discrimination and harassment of any kind without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Imagen will not tolerate discrimination or harassment based on any of these characteristics. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+The base salary for the position is between $60,000 - $80,000 plus equity, commission and benefits. Please note that the base salary range is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location.
+Imagen Technologies maintains a Substance Abuse and Testing policy. Being under the influence of alcohol or controlled substances while on the job or while conducting business on Imagen's behalf is prohibited. Imagen reserves the right to test any applicant or employee for alcohol and/or drug use, subject to compliance with any applicable state and/or federal laws.
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:14.934826

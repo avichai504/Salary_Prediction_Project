@@ -1,0 +1,873 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:02:30.941240,hr
+1,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:02:33.778750,hr
+2,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:02:38.942153,hr
+5,$71.50 /hr (est.),148720.0,Cloud Architect,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:02:53.831729,hr
+6,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:02:59.274520,hr
+7,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:03:02.350088,hr
+9,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:03:12.903464,hr
+10,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:03:16.054355,hr
+13,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:03:29.247461,yr
+15,"$215,257 /yr (est.)",215257.0,Cloud Computing Evangelist - Remote,0,1,1,"Akamai
+4.5",United States,4.5,0,25,5001 to 10000 Employees,1998,Company - Public,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),4.2,4.2,4.5,4.1,4.6,2023-05-22 08:03:36.922033,yr
+18,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:03:47.292541,hr
+20,"$229,000 /yr (est.)",229000.0,"Director, Cloud Computing",0,1,1,"UST
+3.9","Aliso Viejo, CA",3.9,0,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,4.0,2023-05-22 08:03:55.794801,yr
+21,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:03:58.280235,yr
+22,"$250,100 /yr (est.)",250100.0,Team Amazon | Cloud Solutions Architect,0,1,1,"INTEL
+4.2","Santa Clara, CA",4.2,0,55,10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,4.0,4.2,3.7,4.1,2023-05-22 08:04:02.052666,yr
+23,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:04:05.649779,yr
+25,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:04:12.697189,yr
+26,"$56,437 /yr (est.)",56437.0,Associate End User Computing Support Analyst,0,2,0,"PAYLOCITY CORPORATION
+4.0","Lake Mary, FL",4.0,0,26,1001 to 5000 Employees,1997,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),4.0,4.0,4.2,3.9,4.0,2023-05-22 08:04:17.048339,yr
+27,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:04:20.571738,hr
+28,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:04:24.209041,yr
+29,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:04:37.387306,yr
+30,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:04:40.949669,yr
+31,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:04:44.733027,hr
+32,$60.00 /hr (est.),124800.0,DevOps Engineer,-1,-1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:04:50.813793,hr
+34,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:04:58.247901,yr
+35,"$250,100 /yr (est.)",250100.0,Team Amazon | Cloud Solutions Architect,0,1,1,"INTEL
+4.2","Santa Clara, CA",4.2,0,55,10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,4.0,4.2,3.7,4.1,2023-05-22 08:05:01.964820,yr
+36,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:05:05.741387,yr
+37,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:05:08.613067,hr
+38,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:05:11.911552,hr
+40,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:05:20.744470,yr
+41,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:05:24.380768,yr
+45,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:05:44.177995,hr
+46,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),4,1,-1,"Doran Jones
+3.9","New York, NY",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,2023-05-22 08:05:47.840092,yr
+48,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:05:55.531769,yr
+50,$66.00 /hr (est.),137280.0,Azure Cloud Architect,10,2,1,"Triveni IT
+4.6",Remote,4.6,1,-1,-1,-1,-1,-1,-1,-1,4.9,4.5,4.6,4.6,4.7,2023-05-22 08:06:04.430963,hr
+53,"$140,500 /yr (est.)",140500.0,IBM Cloud Architect,10,1,1,"IBM
+4.0","Austin, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:06:16.427781,yr
+54,"$98,500 /yr (est.)",98500.0,Cloud Engineer,3,2,-1,"E-Logic, Inc.
+4.4","Sacramento, CA",4.4,0,16,1 to 50 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.4,2.3,5.0,4.6,4.6,2023-05-22 08:06:20.241687,yr
+55,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,-1,-1,-1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:06:23.393387,yr
+58,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:06:44.907090,hr
+59,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:06:47.660913,hr
+60,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:06:51.552705,yr
+61,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:06:55.858611,hr
+63,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:07:05.599971,yr
+66,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:07:18.713847,yr
+67,"$109,873 /yr (est.)",109873.0,Frontend Engineer (UI),2,1,0,"Tessell, Inc.
+5.0","San Francisco, CA",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:07:21.680031,yr
+68,$66.43 /hr (est.),138174.4,DevOps Engineer,0,2,-1,Software concept LLC,"Sturgis, MI",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:07:26.365794,hr
+69,"$140,500 /yr (est.)",140500.0,IBM Cloud Architect,10,1,1,"IBM
+4.0","Austin, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:07:31.867536,yr
+72,$43.89 /hr (est.),91291.2,Operations Support/Cloud Engineer - ITS4,1,1,0,"State of Minnesota
+3.9","Saint Paul, MN",3.9,0,56,10000+ Employees,1967,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.4,4.0,3.5,3.2,3.9,2023-05-22 08:07:45.302566,hr
+73,"$147,500 /yr (est.)",147500.0,Cloud Engineer,5,1,-1,"State Street
+3.5","Boston, MA",3.5,0,231,10000+ Employees,1792,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),3.5,3.2,3.5,3.2,3.4,2023-05-22 08:07:48.298186,yr
+75,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:07:56.413537,yr
+76,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:08:00.049429,yr
+77,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),4,1,-1,"Doran Jones
+3.9","New York, NY",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,2023-05-22 08:08:04.584702,yr
+80,"$101,725 /yr (est.)",101725.0,Hybrid Cloud Engineer,5,1,-1,"Anne Arundel Community College
+4.3","Arnold, MD",4.3,0,56,501 to 1000 Employees,1967,College / University,Colleges & Universities,Education,$100 to $500 million (USD),3.3,3.4,4.0,3.8,4.3,2023-05-22 08:08:17.864843,yr
+82,"$75,000 /yr (est.)",75000.0,Junior DevOps Engineer,1,1,0,"University of Texas at Austin
+4.2","Austin, TX",4.2,0,140,10000+ Employees,1883,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),3.9,3.5,4.0,3.8,4.0,2023-05-22 08:08:26.881676,yr
+84,"$96,625 /yr (est.)",96625.0,Junior Cloud Infrastructure Engineer,6,1,-1,"Applied Insight
+3.5","Laurel, MD",3.5,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.9,3.6,3.2,4.0,2023-05-22 08:08:38.250579,yr
+86,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:08:45.992893,yr
+87,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:08:59.075717,yr
+89,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:09:08.162820,yr
+90,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:09:12.499482,yr
+92,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:09:22.252817,yr
+93,"$140,500 /yr (est.)",140500.0,IBM Cloud Architect,10,1,1,"IBM
+4.0","Austin, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:09:26.060331,yr
+94,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:09:30.050427,hr
+95,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:09:36.084703,hr
+96,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:09:40.470727,yr
+100,$43.89 /hr (est.),91291.2,Operations Support/Cloud Engineer - ITS4,1,1,0,"State of Minnesota
+3.9","Saint Paul, MN",3.9,0,56,10000+ Employees,1967,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.4,4.0,3.5,3.2,3.9,2023-05-22 08:09:58.860257,hr
+101,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:10:02.625809,yr
+102,$45.00 /hr (est.),93600.0,Cloud Big-Data Engineer,5,2,1,"PhasorSoft Group
+4.0","Starkville, MS",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:10:06.030481,hr
+104,"$111,977 /yr (est.)",111977.0,AWS Cloud Data Engineer,3,1,-1,"SEFCU
+3.4","Albany, NY",3.4,0,70,201 to 500 Employees,1953,Nonprofit Organization,Banking & Lending,Financial Services,Unknown / Non-Applicable,2.8,3.9,3.5,3.1,3.6,2023-05-22 08:10:16.259458,yr
+108,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),4,1,-1,"Doran Jones
+3.9","New York, NY",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,2023-05-22 08:10:33.255982,yr
+109,$66.43 /hr (est.),138174.4,DevOps Engineer,0,2,-1,Software concept LLC,"Sturgis, MI",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:10:36.759788,hr
+111,"$117,500 /yr (est.)",117500.0,Cloud Consultant - AWS,5,1,-1,"Sourced Group, an Amdocs Company","Denver, CO",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:10:47.201195,yr
+112,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:10:53.020913,yr
+115,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:11:08.262813,yr
+117,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:11:26.474879,yr
+118,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:11:31.243183,yr
+119,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:11:34.400238,yr
+120,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:11:38.573249,yr
+121,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:11:42.155558,yr
+122,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:11:48.552793,yr
+123,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:11:52.065792,hr
+126,$43.89 /hr (est.),91291.2,Operations Support/Cloud Engineer - ITS4,1,1,0,"State of Minnesota
+3.9","Saint Paul, MN",3.9,0,56,10000+ Employees,1967,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.4,4.0,3.5,3.2,3.9,2023-05-22 08:12:07.580951,hr
+127,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:12:10.699483,yr
+128,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:12:14.630237,hr
+129,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:12:21.108177,yr
+130,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:12:24.960431,hr
+131,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:12:28.488049,yr
+132,"$170,500 /yr (est.)",170500.0,Security Analyst,4,2,1,"IBM
+4.0","Dallas, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:12:32.071369,yr
+133,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,2023-05-22 08:12:36.236535,yr
+134,$45.00 /hr (est.),93600.0,Cloud Big-Data Engineer,5,2,1,"PhasorSoft Group
+4.0","Starkville, MS",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:12:40.856356,hr
+137,"$147,500 /yr (est.)",147500.0,Cloud Engineer,5,1,-1,"State Street
+3.5","Boston, MA",3.5,0,231,10000+ Employees,1792,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),3.5,3.2,3.5,3.2,3.4,2023-05-22 08:12:55.453368,yr
+139,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:13:02.640919,yr
+141,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:13:12.341758,yr
+142,"$109,873 /yr (est.)",109873.0,Frontend Engineer (UI),2,1,0,"Tessell, Inc.
+5.0","San Francisco, CA",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:13:16.292442,yr
+144,"$105,049 /yr (est.)",105049.0,Data Engineer,0,2,1,"Intertech, Inc
+4.4","Minnetonka, MN",4.4,0,32,51 to 200 Employees,1991,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,4.2,4.6,4.5,4.5,2023-05-22 08:13:25.743910,yr
+145,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:13:39.229088,yr
+146,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:13:45.645604,yr
+147,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:13:50.468055,yr
+148,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:13:54.657544,hr
+149,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:13:59.033875,yr
+150,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:14:02.996918,yr
+152,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:14:12.210939,yr
+154,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:14:22.614438,yr
+155,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:14:27.642606,yr
+156,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:14:31.360932,hr
+157,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:14:35.762840,yr
+158,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,2023-05-22 08:14:39.733100,yr
+160,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:14:49.911126,yr
+162,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:14:59.215260,yr
+164,$43.89 /hr (est.),91291.2,Operations Support/Cloud Engineer - ITS4,1,1,0,"State of Minnesota
+3.9","Saint Paul, MN",3.9,0,56,10000+ Employees,1967,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.4,4.0,3.5,3.2,3.9,2023-05-22 08:15:10.499541,hr
+166,"$111,977 /yr (est.)",111977.0,AWS Cloud Data Engineer,3,1,-1,"SEFCU
+3.4","Albany, NY",3.4,0,70,201 to 500 Employees,1953,Nonprofit Organization,Banking & Lending,Financial Services,Unknown / Non-Applicable,2.8,3.9,3.5,3.1,3.6,2023-05-22 08:15:19.427786,yr
+167,$45.00 /hr (est.),93600.0,Cloud Big-Data Engineer,5,2,1,"PhasorSoft Group
+4.0","Starkville, MS",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:15:23.525433,hr
+168,"$90,000 /yr (est.)",90000.0,Senior Data Engineer,10,1,-1,"spar information systems
+3.5",Remote,3.5,1,11,201 to 500 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.6,3.5,3.4,3.6,3.6,2023-05-22 08:15:28.441890,yr
+170,"$170,500 /yr (est.)",170500.0,Security Analyst,4,2,1,"IBM
+4.0","Dallas, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:15:36.923670,yr
+172,"$101,725 /yr (est.)",101725.0,Hybrid Cloud Engineer,5,1,-1,"Anne Arundel Community College
+4.3","Arnold, MD",4.3,0,56,501 to 1000 Employees,1967,College / University,Colleges & Universities,Education,$100 to $500 million (USD),3.3,3.4,4.0,3.8,4.3,2023-05-22 08:15:46.872835,yr
+173,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:15:50.567706,hr
+174,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:16:06.404568,hr
+175,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:16:12.229141,yr
+177,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:16:21.158554,yr
+179,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:16:33.059757,yr
+180,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:16:37.455289,yr
+181,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:16:41.815696,hr
+182,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:16:45.952624,hr
+185,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:17:01.531262,yr
+187,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:17:10.884614,hr
+188,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:17:15.029925,yr
+189,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:17:18.804625,yr
+190,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:17:23.099310,hr
+191,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:17:27.259206,hr
+192,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:17:32.145188,yr
+193,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:17:36.288611,yr
+194,"$250,100 /yr (est.)",250100.0,Team Amazon | Cloud Solutions Architect,0,1,1,"INTEL
+4.2","Santa Clara, CA",4.2,0,55,10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,4.0,4.2,3.7,4.1,2023-05-22 08:17:39.914771,yr
+195,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:17:44.125212,hr
+196,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:17:48.783428,yr
+198,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:17:57.765185,hr
+199,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:18:02.582813,hr
+203,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:18:31.704754,hr
+204,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:18:37.519861,yr
+205,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:18:41.709316,yr
+207,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:18:52.970689,yr
+209,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:19:03.756071,hr
+212,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:19:20.642852,hr
+213,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:19:25.538820,yr
+214,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:19:29.671270,yr
+216,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:19:39.753075,yr
+218,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:19:48.367004,yr
+219,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:19:52.236500,hr
+220,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:19:56.355822,hr
+221,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:20:01.182958,hr
+222,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:20:05.920007,yr
+223,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:20:10.047685,hr
+225,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:20:20.898594,yr
+226,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:20:25.876926,hr
+227,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:20:32.865724,yr
+228,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:20:37.086434,yr
+230,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,2023-05-22 08:20:50.230365,yr
+232,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:21:09.151578,hr
+233,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:21:15.718718,yr
+235,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:21:25.029857,yr
+236,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:21:30.163065,yr
+239,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:21:47.814340,hr
+240,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:21:51.813751,yr
+242,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:22:02.059959,yr
+243,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:22:06.327995,yr
+245,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:22:16.387163,hr
+246,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:22:21.414579,yr
+248,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:22:30.365445,yr
+249,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:22:34.248255,hr
+250,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:22:39.251579,hr
+251,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:22:44.148700,yr
+252,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:22:47.851656,hr
+253,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:22:52.145505,hr
+254,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:22:56.426877,hr
+255,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:23:01.605358,hr
+258,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:23:17.167035,yr
+259,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:23:23.837167,yr
+260,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:23:28.228890,yr
+261,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:23:42.545531,hr
+262,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:23:49.373800,yr
+263,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:23:54.178900,yr
+266,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:24:09.995381,yr
+267,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:24:15.428412,yr
+269,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:24:26.429837,hr
+271,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:24:38.220274,yr
+273,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:24:47.320901,yr
+275,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:24:57.805374,hr
+276,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:25:02.700447,hr
+277,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:25:07.407932,yr
+278,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:25:11.679290,hr
+279,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:25:16.737805,hr
+280,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:25:21.203761,yr
+282,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:25:31.797827,hr
+283,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:25:36.151873,yr
+284,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:25:39.891449,yr
+285,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:25:45.046472,yr
+286,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:25:49.255886,yr
+287,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:25:55.461066,hr
+288,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:26:01.026268,hr
+290,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:26:20.658269,hr
+291,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:26:25.873555,hr
+295,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:26:52.204631,yr
+297,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:27:02.757118,yr
+298,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:27:08.094523,yr
+299,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:27:14.416231,hr
+300,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:27:19.186347,hr
+301,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:27:24.174747,hr
+303,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:27:35.519698,hr
+304,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:27:42.476420,yr
+305,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:27:46.729447,hr
+306,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:27:50.914803,yr
+307,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:27:55.315898,yr
+308,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,2023-05-22 08:27:59.617567,yr
+309,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:28:04.905039,hr
+310,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,-1,-1,-1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:28:10.238411,hr
+311,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:28:15.467651,hr
+313,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:28:25.457659,yr
+314,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:28:32.257421,yr
+316,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:28:41.551667,hr
+317,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:28:46.025126,yr
+318,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:28:51.265438,yr
+319,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:29:05.697851,hr
+320,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:29:10.761414,hr
+323,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:29:29.716154,hr
+325,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:29:42.260742,hr
+327,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:29:53.210285,hr
+328,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:29:58.072840,yr
+329,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:30:02.409977,yr
+330,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:30:07.767723,yr
+332,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:30:18.802282,yr
+333,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:30:23.107894,hr
+334,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:30:27.347482,hr
+335,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:30:32.211604,yr
+336,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:30:37.010322,hr
+337,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:30:43.976407,yr
+338,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:30:48.134547,hr
+340,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:30:58.064359,yr
+341,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:31:02.163921,yr
+342,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:31:06.053908,yr
+343,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:31:12.952333,yr
+344,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:31:18.672888,hr
+345,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,2023-05-22 08:31:23.993197,yr
+346,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:31:29.381893,hr
+348,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:31:50.107200,hr
+349,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:31:55.119095,hr
+351,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:32:07.797934,hr
+354,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:32:27.085746,hr
+355,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:32:31.855044,yr
+356,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:32:36.298244,yr
+358,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:32:48.407193,yr
+359,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:32:52.736637,hr
+360,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:32:57.643186,hr
+361,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:33:04.807217,yr
+362,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:33:09.723687,hr
+363,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:33:14.470869,hr
+364,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:33:19.409602,hr
+365,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:33:24.056667,yr
+368,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:33:40.895506,yr
+369,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:33:45.329311,yr
+370,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:33:49.552836,yr
+371,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:33:53.465820,hr
+373,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:34:04.384246,hr
+375,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:34:16.268838,yr
+376,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,2023-05-22 08:34:21.504854,yr
+377,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:34:37.386665,hr
+378,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:34:42.853261,hr
+381,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:35:01.931227,hr
+382,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:35:06.719433,hr
+384,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:35:19.878386,hr
+386,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:35:31.780895,yr
+387,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:35:36.644643,yr
+388,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:35:41.059636,yr
+389,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:35:46.482453,hr
+390,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:35:53.715387,yr
+391,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:35:58.540522,hr
+392,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:36:03.516746,hr
+393,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:36:08.599822,hr
+394,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,-1,-1,-1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:36:13.214408,hr
+397,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:36:28.832971,yr
+398,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:36:33.009475,yr
+399,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:36:38.716050,hr
+400,$71.50 /hr (est.),148720.0,Cloud Architect,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:36:45.060585,hr
+401,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:36:52.319734,hr
+403,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:37:05.465505,yr
+405,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:37:16.393274,yr
+407,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:37:35.933336,hr
+408,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:37:43.133580,hr
+409,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:37:48.130030,hr
+411,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:38:01.580982,hr
+412,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:38:07.966736,hr
+415,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:38:25.945114,yr
+416,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:38:30.622180,hr
+417,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:38:35.250699,yr
+418,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:38:40.089918,yr
+419,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:38:46.605806,hr
+420,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:38:52.249291,yr
+421,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:38:56.537938,yr
+422,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:39:02.004883,yr
+423,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:39:06.185779,hr
+425,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:39:20.009937,hr
+427,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:39:31.153632,hr
+428,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:39:37.828317,yr
+429,"$57,500 /yr (est.)",57500.0,Data Center Specialist,-1,-1,-1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:39:43.930092,yr
+430,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:39:48.758379,yr
+431,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:39:55.044155,yr
+432,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:40:05.774630,yr
+433,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:40:13.453083,hr
+434,"$88,750 /yr (est.)",88750.0,-1,-1,-1,-1,-1,"Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:40:19.655181,yr
+435,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:40:36.816159,hr
+437,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:40:50.767145,hr
+438,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:40:56.315419,hr
+439,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:41:03.792027,hr
+441,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:41:20.520624,yr
+442,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:41:25.853635,hr
+444,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:41:39.327831,hr
+445,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:41:44.102944,hr
+447,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:41:55.596776,yr
+448,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:42:01.257653,yr
+449,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:42:06.243516,yr
+450,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:42:10.633030,yr
+451,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:42:14.983320,hr
+452,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:42:20.005559,yr
+454,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:42:31.949212,hr
+455,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:42:36.842118,yr
+457,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:42:47.456279,yr
+459,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:42:58.712850,yr
+460,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:43:04.200618,yr
+461,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:43:10.277465,hr
+462,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,2023-05-22 08:43:16.068753,yr
+463,$45.00 /hr (est.),93600.0,Cloud Big-Data Engineer,5,2,1,"PhasorSoft Group
+4.0","Starkville, MS",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:43:20.993475,hr
+464,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:43:36.569871,hr
+465,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:43:43.507409,hr
+466,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:43:49.539062,hr
+467,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:43:54.489245,hr
+469,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:44:06.605313,hr
+470,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:44:12.499777,hr
+471,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:44:20.118148,yr
+473,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,-1,-1,-1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:44:34.488196,hr
+475,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:44:46.951923,yr
+476,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:44:53.140656,yr
+477,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:44:58.909348,hr
+478,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:45:04.164550,hr
+479,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:45:10.173770,yr
+480,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:45:15.707508,yr
+483,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:45:32.242848,yr
+484,$71.50 /hr (est.),148720.0,Cloud Architect,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:45:36.918897,hr
+487,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:45:55.668451,yr
+488,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:46:00.259108,yr
+489,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:46:04.658049,hr
+491,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:46:15.256883,yr
+492,"$250,100 /yr (est.)",250100.0,Team Amazon | Cloud Solutions Architect,0,1,1,"INTEL
+4.2","Santa Clara, CA",4.2,0,55,10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,4.0,4.2,3.7,4.1,2023-05-22 08:46:20.279653,yr
+493,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:46:34.241058,hr
+494,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:46:40.875464,hr
+496,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:46:57.237100,yr
+497,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:47:01.477225,hr
+498,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:47:07.126313,hr
+500,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:47:19.130642,yr
+501,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:47:25.258728,hr
+503,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:47:36.113012,hr
+504,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:47:40.104477,hr
+505,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:47:44.653160,yr
+506,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:47:50.142287,yr
+507,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:47:54.810238,hr
+508,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:47:59.727316,yr
+510,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-22 08:48:11.348760,yr
+512,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:48:23.497875,yr
+514,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:48:33.602517,hr
+515,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:48:38.778248,yr
+516,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:48:44.352404,yr
+517,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:48:49.485642,yr
+518,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,-1,-1,-1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:48:55.620541,hr
+520,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:49:06.491290,yr
+521,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:49:13.180059,yr
+522,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:49:27.380426,yr
+523,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:49:33.146856,hr
+524,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:49:39.920181,yr
+525,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:49:44.845863,hr
+527,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:49:58.592842,hr
+528,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:50:03.573552,hr
+531,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:50:23.860195,hr
+532,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:50:28.895703,yr
+533,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:50:34.170366,hr
+534,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:50:39.868169,hr
+535,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:50:44.690781,yr
+537,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:50:55.940692,hr
+538,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:51:00.711788,yr
+539,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:51:05.356702,yr
+541,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:51:18.819980,hr
+543,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:51:29.456233,hr
+544,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,2023-05-22 08:51:35.568202,yr
+546,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:51:45.686903,yr
+548,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:51:57.197595,yr
+549,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:52:02.901767,yr
+551,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:52:24.264862,hr
+552,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:52:31.620449,hr
+553,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:52:37.342044,yr
+554,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:52:42.361962,yr
+555,$50.00 /hr (est.),104000.0,Remote - SQL Developer,-1,-1,-1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:52:50.116997,hr
+558,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:53:15.130224,yr
+560,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:53:28.607042,hr
+561,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,-1,-1,-1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:53:33.707642,hr
+562,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:53:43.548706,hr
+564,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:53:56.398072,hr
+565,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:54:01.337437,yr
+566,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:54:06.446633,yr
+567,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:54:11.461578,yr
+568,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:54:16.125953,yr
+570,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,-1,-1,-1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:54:30.422420,hr
+571,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:54:33.841376,hr
+572,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:54:39.520325,yr
+574,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:54:52.822927,hr
+575,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:54:58.607967,hr
+576,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:55:03.416296,yr
+577,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:55:10.501944,yr
+578,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:55:15.234302,yr
+579,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:55:19.936018,yr
+580,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:55:34.657923,hr
+581,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:55:40.560948,hr
+582,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:55:47.521185,yr
+584,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:55:59.433879,yr
+586,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:56:13.732998,hr
+588,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:56:25.107939,hr
+589,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:56:30.483694,hr
+592,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:56:50.906383,hr
+594,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 08:57:09.895146,yr
+595,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 08:57:15.385912,yr
+596,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:57:20.736156,hr
+597,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 08:57:25.649387,yr
+598,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 08:57:30.241841,hr
+599,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 08:57:36.773055,yr
+600,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,-1,-1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:57:42.340777,hr
+601,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),4,1,-1,"Doran Jones
+3.9","New York, NY",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,2023-05-22 08:57:49.606521,yr
+602,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 08:57:55.018335,yr
+603,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:57:59.984751,hr
+604,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 08:58:06.834044,yr
+605,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 08:58:12.739614,hr
+606,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 08:58:18.886226,yr
+607,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 08:58:23.659826,hr
+608,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 08:58:29.123779,yr
+609,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 08:58:44.767413,hr
+610,$67.50 /hr (est.),140400.0,Cloud Engineer,-1,-1,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 08:58:50.802434,hr
+611,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 08:58:57.061752,yr
+613,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 08:59:11.968172,yr
+615,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,2023-05-22 08:59:25.836561,hr
+617,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-22 08:59:38.019378,hr
+618,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,2023-05-22 08:59:43.191304,hr
+621,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 09:00:02.125692,hr
+622,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,2023-05-22 09:00:08.941407,yr
+624,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,2023-05-22 09:00:22.375668,yr
+625,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-22 09:00:29.017768,yr
+626,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 09:00:33.498653,hr
+627,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,2023-05-22 09:00:38.442904,hr
+628,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,2023-05-22 09:00:43.504849,yr
+629,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 09:00:48.841577,hr
+630,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),4,1,-1,"Doran Jones
+3.9","New York, NY",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,2023-05-22 09:00:55.554787,yr
+631,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,2023-05-22 09:01:00.948816,yr
+632,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,2023-05-22 09:01:06.587698,yr
+633,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 09:01:11.643191,hr
+634,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1,-1,-1,-1,-1,2023-05-22 09:01:17.210989,hr
+635,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,2023-05-22 09:01:24.011681,yr
+636,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-22 09:01:28.708230,hr
+637,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,2023-05-22 09:01:34.328327,yr
+638,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-22 09:01:50.138667,hr
+639,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,2023-05-22 09:01:56.816699,yr
+640,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,2023-05-22 09:02:01.829353,hr
+641,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-22 09:02:07.738087,yr

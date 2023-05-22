@@ -1,0 +1,46 @@
+Provider and payer organizations across the healthcare industry face an uphill climb.
+As payment reforms reshape healthcare, care teams are tasked with new challenges: engaging patients from a distance, working across disciplines, sharing information, making handoffs, tracking the impact of care management on costs and outcomes. The list goes on and on.
+As more is demanded of care teams, the software tools they've relied upon come up short and fail. Inflexible software leads to frustrated teams. Frustration affects performance, which increases costs and threatens organizational objectives.
+RoundingWell believes there’s a better way.
+Each organization has unique needs. Each team has unique needs. We’re on mission to engineer a platform of flexible building blocks that supports care management teams and their workflows. The challenge is in architecting a platform that is highly configurable while ensuring a high-quality user experience and that allows us to be highly responsive to our customers’ needs.
+Because of our extreme focus on customer satisfaction, RoundingWell is going up against some of the largest health IT vendors and winning. Now we’re on the hunt to add amazing, talented people to our team.
+This is where you come in...
+Our team is looking to add a Data Analyst to help make our customers' dreams a care team operations reality. You would be part of the customer success team and aid in developing valuable dashboards to help our customers realize the true return on their investment.
+Required Skills
+Experience with RDBMS systems like PostgreSQL or MySQL.
+Experience using graphing and dashboard systems like AWS QuickSight or Tableau.
+Ability to guide customers through the process of defining their dashboards then quickly prototype and iterate on them.
+Capacity to excel on both individual and team-based projects.
+Nice to have skills
+Database query analysis/optimization.
+Familiarity with provider and payer economics.
+Understanding of pop health metrics.
+Experience quantifying proof of impact in healthcare settings.
+Experience with large datasets.
+Experience with AWS.
+Job Types: Full-time, Contract
+Pay: $73,684.00 - $79,990.00 per year
+Benefits:
+Dental insurance
+Flexible schedule
+Health insurance
+Unlimited paid time off
+Vision insurance
+Work from home
+Compensation package:
+Yearly pay
+Experience level:
+4 years
+Schedule:
+Monday to Friday
+Experience:
+SQL: 3 years (Required)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: 2
+ Time of Scrape: 2023-05-17 14:10:38.767444

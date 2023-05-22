@@ -1,0 +1,41 @@
+Description:
+Are you excited about a career in SaaS that has a direct effect on the hospitality industry? This might be the perfect opportunity for you!
+In this role, you will:
+A Software Support Engineer at Actabl provides technical support for users of company products, including current and prospective clients, resellers, and professional product testing organizations. Researches replicate, diagnoses, troubleshoots, and identifies solutions to resolve technical company product and system issues. Installs, configures and fine-tunes the company's product. Provides detailed documentation of all technical issues within the call tracking database. Collaborates with quality assurance and development teams on an understanding of issues and steps needed to resolve them.
+Typical Functions:
+Respond to and resolve client support tickets
+Create and update process documentation
+Collaborate with the POs and Dev teams when diagnosing difficult issues or building new features
+Continuous education - both product-focused and improving technical skills
+Writing user stories
+Signoff/QA on changes to client financial reporting
+Assist ~30% of the time on client calls for data collection setup and support tickets
+Other duties or functions may be assigned
+Requirements:
+Proficiency in written and verbal communication skills
+A Bachelor’s degree in Computer Science, Engineering, or related degree and 1-2 years experience with C#, SQL, and APIs
+Interpersonal skills leading to success - cooperative, courteous, flexible, and good-natured
+Ability to successfully organize and prioritize workload
+Capability to speak directly with clients and provide great customer service
+Reliable team player that is on time, engaged, and contributing
+Excellent problem-solving skills are paramount
+Capacity to work independently and within a team environment
+Employees at Actabl are eligible for the following benefits:
+Competitive Pay
+100% paid for benefits: health, dental, and vision insurance
+Traditional & Roth 401(k) plans with employer match
+Discretionary time off
+Flexible work arrangements
+Robust company holiday list and winter closure
+Leadership development
+Sound like you? Please click on the "apply" button.
+Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.
+You will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 2
+Education: 1
+ Time of Scrape: 2023-05-17 14:42:16.499832

@@ -1,0 +1,36 @@
+Title : Data Analyst
+Location : NC, TX, MA.
+Note : Kindly do not apply for C2C as it is the w2 requirement. We are able to sponsor H1 so if you are looking for the transfer you can apply for this role.
+MUST HAVE: This is more of a Data Analyst with SQL/ETL/Requirement Gathering. Update from the manager:
+Core systems analysis work – I am a little wary of business analysts since the work they do is completely different.
+They should have done requirement gathering and documented that
+Looking for ETL/data based exposure
+Looking for them having come up with mapping documents that kind of depicts the data flow where applicable
+SQL is really needed
+Worked directly with the business users / tech teams / QAs etc.
+DO NOT need someone who has created dashboards etc. – doesn’t really help much in our line of work
+Job Type: Full-time
+Salary: $65.00 - $70.00 per hour
+Benefits:
+Green card sponsorship
+Visa sponsorship
+Compensation package:
+Performance bonus
+Yearly pay
+Experience level:
+10 years
+Schedule:
+8 hour shift
+Experience:
+SQL: 10 years (Required)
+ETL: 8 years (Preferred)
+Systems analysis: 8 years (Preferred)
+Work Location: Remote
+Show Less
+Report
+
+
+Testing regine:
+Experience: 10
+Education: 2
+ Time of Scrape: 2023-05-17 14:11:04.304899

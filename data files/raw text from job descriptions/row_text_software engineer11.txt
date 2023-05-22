@@ -1,0 +1,38 @@
+Software Engineer 1
+
+ServiceCore is a rapidly-growing field-service SaaS platform for the portable sanitation and roll-off industries. The customers we serve have been completely overlooked by software, making us the leading player in a huge industry with little competition. Our software helps our customers save dozens of hours and hundreds to thousands of dollars each week, improving their bottom line and quality of life.
+
+We are looking for a Software Engineer I with experience in Javascript, React, non-relational and relational database concepts to join our growing development team. You will enjoy ongoing training, advancement potential, and the opportunity to be apart of an awesome team. This role will be focused on developing our fastest growing product - Docket (www.yourdocket.com) - our specialized solution for the Roll-off and Junk removal industries. This is a remote role.
+Come join a fast-growing B2B SaaS platform that’s helping to transform an industry and the way our customers manage their businesses.
+
+Responsibilities:
+Work with the development team to design, develop, and maintain software features related to billing, scheduling, driver management, and timekeeping using Javascript, React and non-relational and relational database concepts
+Assist in troubleshooting and debugging of software issues related to these areas, interfacing with our support staff to resolve customer inquiries
+Participate in code reviews and contribute to the improvement of software development best practices
+Collaborate with other teams to understand customer needs and requirements
+Continuously learn and stay current with new technologies and programming languages
+
+Qualifications:
+Bachelor's degree in Computer Science or related field
+Strong understanding of programming concepts and experience with Javascript, React, non-relational and relational database concepts
+Excellent problem-solving and analytical skills
+Strong communication skills and ability to work in a team environment
+Passion for software development and technology
+Strong desire to learn and grow as a professional
+
+Salary & Benefits:
+Base Salary: $70K - $90K (Flexible and variable DOE)
+10 Company Holidays in addition to Unlimited PTO
+Healthcare, dental and vision insurance
+401K w/ match
+Equity Appreciation Plan (units granted upon hire)
+Regular lunches and a fully-stocked kitchen (if in Denver)
+Company-provided hardware of your choice/configuration
+Show Less
+Report
+
+
+Testing regine:
+Experience: -1
+Education: 1
+ Time of Scrape: 2023-05-17 14:42:01.014335

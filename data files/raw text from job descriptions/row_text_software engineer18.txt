@@ -34,6 +34,5 @@ Report
 
 Testing regine:
 Experience: 2
-Education: BACHELOR
-Position Level: JUNIOR
- Time of Scrape: 2023-05-10 12:40:34.174024
+Education: 1
+ Time of Scrape: 2023-05-17 14:42:19.030158

@@ -1,0 +1,48 @@
+
+About the team
+As a Zillow Group platform, ShowingTime operates as an independent, open platform for existing and new clients — many of whom already use other industry offerings from Zillow Group. Launched in 1999, ShowingTime is the market leader in the scheduling, automation and management of residential property showings across the US and Canada. Each month, we automate over 4,000,000 showings and partner with nearly 1 million real estate agents who rely on our platform. This provides both convenience to the home buyer and an unprecedented level of visibility to the seller.
+
+ShowingTime’s API Engineer is a role for the rare hybrid mind that wants to engage in troubleshooting engineering challenges, can break down that complexity for non-technical stakeholders, and still enjoys working with the customer directly. This role's focus is to be the escalation point for API related projects and overall support of the customer service team for technical issues and to determine the nature of customer problems for correction or further escalation as it relates to API. Do you enjoy working directly with the customer, but also love being hands-on in solving technical issues? Awesome, this is the role for you!
+About the role
+Help our clients integrate with our application program interface (API)
+Work with Developers and Product Managers to create and improve customer facing documentation
+Resolve and triage tickets escalated from customers and support teams
+Effectively communicate with internal and external customers
+Be able to discuss API features, functionality, and integration with various people within an organization (from developers to CEOs)
+Investigate, diagnose, and solve system issues via research and testing
+Be comfortable using coding samples and snippets of code to communicate with developer clients
+Learn the API product in depth to be able to answer product knowledge on the fly
+This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice which must be identified to the Company. Employees may live in any of the 50 US States, with limited exceptions. In certain cases, an employee in a remote-designated job may need to live in a specific region or time zone to support customers or clients as part of their role.
+In California, Colorado, Connecticut, Nevada, New York City and Washington the standard base pay range for this role is $108,600.00 - $173,400.00 Annually. This base pay range is specific to California, Colorado, Connecticut, Nevada, New York City and Washington and may not be applicable to other locations.
+In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location.
+Who you are
+Ability to master our API's functionality
+Bachelor's degree - technical discipline preferred; OR equivalent experience
+Knowledge of or experience with technologies such as REST, Javascript, Java, etc.
+Effective interpersonal skills (written and oral) and the ability to communicate effectively with a variety of staff levels
+Ability to prioritize and work well under pressure
+Creatively apply our API functionality to solve the use case
+
+Preferred Skills:
+Experience supporting API
+Experience working tickets and managing priorities within issue tracking systems (Salesforce, Jira, etc.)
+Ability to manage your time wisely. At ShowingTime, we believe in working hard and working smart.
+Get to know us
+Zillow is reimagining real estate to make home a reality for more and more people.
+As the most-visited real estate website in the United States, Zillow® and its affiliates help movers find and win their home through digital solutions, first class partners, and easier buying, selling, financing and renting experiences. Millions of people visit Zillow Group sites every month to start their home search, and now they can rely on Zillow to help make it easier to move. The work we do helps people get home and no matter what job you're in, you will play a critical role in making home a reality for more and more people.
+Our efforts to streamline the real estate transaction are supported by a deep-rooted culture of innovation, our passion to redefine the employee experience, a fundamental commitment to Equity and Belonging, and world-class benefits. These benefits include comprehensive medical, dental, vision, life, and disability coverages as well as parental leave, family benefits, retirement contributions, and paid time off. We’re also setting the standard for work experiences of the future, where our employees are supported in doing their best work and living a flexible, well-balanced life. But don’t just take our word for it. Read recent reviews on Glassdoor and recent recognition from multiple organizations, including: the 100 Best Companies to Work For, Glassdoor Employees’ Choice Award, Bloomberg Gender-Equality Index, Human Rights Campaign (HRC) Corporate Equity Index, and TIME 100 Most Influential Companies list.
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact us at RecruitingAccessibility@zillowgroup.com.
+Applicants who receive job offers from Zillow Group will be asked to sign a Proprietary Rights Agreement which includes confidentiality, intellectual property assignment, customer and employee non-solicitation, and non-competition provisions. If you are contacted for a role at Zillow Group and wish to review a copy of the Proprietary Rights Agreement prior to receiving an offer, you may request a copy from your Recruiter.
+To apply to this job, click Apply Now
+Show Less
+Report
+Software Engineer, Front End
+<selenium.webdriver.remote.webelement.WebElement (session="42367e7b23a1ca09f3153a3d90b5ac1c", element="371b5315-ea99-4754-97bf-3cd6ac02939f")>
+Information Technology
+
+
+Testing regine:
+Experience: -1
+Education: 1
+Position Level: -1
+ Time of Scrape: 2023-05-17 22:52:50.238307

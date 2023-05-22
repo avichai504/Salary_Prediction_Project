@@ -1,65 +1,71 @@
 import pandas as pd
-
 from sklearn.preprocessing import StandardScaler
-
-
-def hourly_to_annual(salary):
-    return round(float(salary * 2080), 2)  # assuming 40 hours/week and 52 weeks/year
-
-
-def monthly_to_annual(salary):
-    return round(float(salary * 12), 2)
-
-
-def company_size_scale(company_size):
-    if company_size == "Unknown" or company_size == -1:
-        return -1
-    elif company_size == "1 to 50 Employees":
-        return 1
-    elif company_size == "51 to 200 Employees":
-        return 2
-    elif company_size == "201 to 500 Employees":
-        return 3
-    elif company_size == "501 to 1000 Employees":
-        return 4
-    elif company_size == "1001 to 5000 Employees":
-        return 5
-    elif company_size == "5001 to 10000 Employees":
-        return 6
-    elif company_size == "10000+ Employees":
-        return 7
-    else:
-        return -1  # return -1 for any other unknown values
-
-
-def revenue_scale(revenue):
-    if revenue == "Unknown / Non-Applicable" or revenue == -1:
-        return -1
-    elif revenue == "Less than $1 million (USD)":
-        return 1
-    elif revenue == "$1 to $5 million (USD)":
-        return 2
-    elif revenue == "$5 to $25 million (USD)":
-        return 3
-    elif revenue == "$25 to $50 million (USD)" or revenue == '$25 to $100 million (USD)':
-        return 4
-    elif revenue == "$50 to $100 million (USD)":
-        return 5
-    elif revenue == "$100 to $500 million (USD)":
-        return 6
-    elif revenue == "$500 million to $1 billion (USD)" or revenue == "$1 to $2 billion (USD)" or revenue == '$1 to $5 billion (USD)':
-        return 7
-    elif revenue == "$2 to $5 billion (USD)" or revenue == "$5 to $10 billion (USD)":
-        return 8
-    elif revenue == "$10+ billion (USD)":
-        return 9
-    else:
-        return -1  # return -1 for any other unknown values
 
 
 def data_cleaning(df1):
     df = df1.copy()
-    df = df[df['Salary Estimate'] != -1].copy()
+
+    # if 'Salary Estimate' in list(df):
+    #     df = df[df['Salary Estimate'] != -1]
+    # elif 'Annual Salary' in list(df):
+    #     df = df[df['Annual Salary'] != -1]
+    # else:
+    #     return None
+
+    def hourly_to_annual(salary):
+        return round(float(salary * 2080), 2)  # assuming 40 hours/week and 52 weeks/year
+
+    def monthly_to_annual(salary):
+        return round(float(salary * 12), 2)
+
+    def company_size_scale(company_size):
+        if company_size == "Unknown" or company_size == -1:
+            return -1
+        elif company_size == "1 to 50 Employees":
+            return 1
+        elif company_size == "51 to 200 Employees":
+            return 2
+        elif company_size == "201 to 500 Employees":
+            return 3
+        elif company_size == "501 to 1000 Employees":
+            return 4
+        elif company_size == "1001 to 5000 Employees":
+            return 5
+        elif company_size == "5001 to 10000 Employees":
+            return 6
+        elif company_size == "10000+ Employees":
+            return 7
+        else:
+            return -1  # return -1 for any other unknown values
+
+    def revenue_scale(revenue):
+        if revenue == "Unknown / Non-Applicable" or revenue == -1:
+            return -1
+        elif revenue == "Less than $1 million (USD)":
+            return 1
+        elif revenue == "$1 to $5 million (USD)":
+            return 2
+        elif revenue == "$5 to $25 million (USD)":
+            return 3
+        elif revenue == "$25 to $50 million (USD)" or revenue == '$25 to $100 million (USD)':
+            return 4
+        elif revenue == "$50 to $100 million (USD)":
+            return 5
+        elif revenue == "$100 to $500 million (USD)":
+            return 6
+        elif revenue == "$500 million to $1 billion (USD)" or revenue == "$1 to $2 billion (USD)" or revenue == '$1 to $5 billion (USD)':
+            return 7
+        elif revenue == "$2 to $5 billion (USD)" or revenue == "$5 to $10 billion (USD)":
+            return 8
+        elif revenue == "$10+ billion (USD)":
+            return 9
+        else:
+            return -1  # return -1 for any other unknown values
+
+    df["Revenue Scale"] = df["Revenue"].apply(revenue_scale)
+    df["Company Size Scale"] = df["Company Size"].apply(company_size_scale)
+
+
 
     # Remove (est.)
     try:
@@ -75,59 +81,58 @@ def data_cleaning(df1):
 
     # Split the "Salary Estimate" column by the '/' separator and extract the first element
     try:
-        df["Annual Salary"] = df["Salary Estimate"].apply(lambda x: (x.split('/')[0]))
+        df["Salary Estimate"] = df["Salary Estimate"].apply(lambda x: (x.split('/')[0]))
     except Exception as e:
         print(e, "e3")
 
     # Remove the dollar sign ($) from the "Salary Estimate" column
     try:
-        df["Annual Salary"] = df["Annual Salary"].apply(lambda x: x.split('$')[1])
+        df["Salary Estimate"] = df["Salary Estimate"].apply(lambda x: x.split('$')[1])
     except Exception as e:
         print(e, "e4")
 
     # Remove any commas from the "Salary Estimate" column
     try:
-        df["Annual Salary"] = df["Annual Salary"].apply(lambda x: x.replace(',', ''))
+        df["Salary Estimate"] = df["Salary Estimate"].apply(lambda x: x.replace(',', ''))
     except Exception as e:
         print(e, "e5")
 
     # Convert the "Salary Estimate" column to a float data type
     try:
-        df["Annual Salary"] = df["Annual Salary"].apply(lambda x: float(x))
+        df["Salary Estimate"] = df["Salary Estimate"].apply(lambda x: float(x))
     except Exception as e:
         print(e, "e6")
 
     # Convert hourly salaries to annual salaries
     try:
-        df.loc[df['Time Unit'] == 'hr', 'Annual Salary'] = df.loc[df['Time Unit'] == 'hr', 'Annual Salary'].apply(
+        df.loc[df['Time Unit'] == 'hr', 'Salary Estimate'] = df.loc[df['Time Unit'] == 'hr', 'Salary Estimate'].apply(
             hourly_to_annual)
     except Exception as e:
         print(e, "e7")
 
     # Convert monthly salaries to annual salaries
     try:
-        df.loc[df['Time Unit'] == 'mo', 'Annual Salary'] = df.loc[df['Time Unit'] == 'mo', 'Annual Salary'].apply(
+        df.loc[df['Time Unit'] == 'mo', 'Salary Estimate'] = df.loc[df['Time Unit'] == 'mo', 'Salary Estimate'].apply(
             monthly_to_annual)
     except Exception as e:
         print(e, "e8")
 
-    # try:
-    # df.drop('Time Unit', axis=1, inplace=True)
-    # df.rename(columns={"Salary Estimate": "Annual Salary"}, inplace=True)
-    # except Exception as e:
-    #     print(e, "e8")
-
-    # Drop the rating from the company name
     try:
-        df['Company Name'] = df['Company Name'].apply(lambda x: x.split('\n')[0])
+        df.drop('Time Unit', axis=1, inplace=True)
+        df.rename(columns={"Salary Estimate": "Annual Salary"}, inplace=True)
     except Exception as e:
-        print(e, "e9")
+        print(e, "e8")
+
+    # # Drop the rating from the company name
+    # try:
+    #     df['Company Name'] = df['Company Name'].apply(lambda x: x.split('\n')[0])
+    # except Exception as e:
+    #     print(e, "e9")
 
     # Convert the 'Founded' to 'Company Old'
     try:
         df['Founded'] = df['Founded'].apply(lambda x: -1 if x == -1 else int(x))
         df['Company Old'] = df['Founded'].apply(lambda x: x if x == -1 else 2023 - x)
-        df.insert(9, 'Company Old', df.pop('Company Old'))  # insert it into a specific index
     except Exception as e:
         print(e, "e10")
 
@@ -137,15 +142,12 @@ def data_cleaning(df1):
     except Exception as e:
         print(e, "e11")
 
-    desired_columns = ['Salary Estimate', 'Annual Salary']
-    df = df.reindex(columns=desired_columns + [col for col in df.columns if col not in desired_columns])
-
     # rearrange the indexes in the dataframe
-    # df = df.reindex(
-    #     columns=['Job Title', 'Annual Salary', 'Experience', 'Education', 'Location',
-    #              'Is Remote', 'Company Size', 'Company Size Scale', 'Founded', 'Company Old', 'Industry', 'Sector',
-    #              'Revenue', 'Revenue Scale', 'Type of Ownership', 'Rating', 'Career Opportunities', 'Comp & Benefits',
-    #              'Culture & Values', 'Senior Management', 'Work Life Balance', 'Company Name', 'Time of Scrape'])
+    df = df.reindex(
+        columns=['Job Title', 'Annual Salary', 'Experience', 'Education', 'Location',
+                 'Is Remote', 'Company Size', 'Company Size Scale', 'Founded', 'Company Old', 'Industry', 'Sector',
+                 'Revenue', 'Revenue Scale', 'Type of Ownership', 'Rating', 'Career Opportunities', 'Comp & Benefits',
+                 'Culture & Values', 'Senior Management', 'Work Life Balance', 'Company Name', 'Time of Scrape'])
 
     df = pd.DataFrame(df)
     return df
@@ -178,6 +180,7 @@ def final_clean(df):
 
 
 def preprocess_scaling(df):
+
     # Preprocess the 'Type of Ownership' column
     ownership_mapping = {
         'Company - Private': int(1),
@@ -192,7 +195,6 @@ def preprocess_scaling(df):
 
     # Preprocess the 'Sector' column
     sector_mapping = {
-        "Unknown / Non-Applicable / -1": None,
         'Information Technology': 1,
         'Media & Communication': 2,
         'Financial Services': 3,
@@ -214,14 +216,13 @@ def preprocess_scaling(df):
         'Real Estate': 19,
         'Nonprofit & NGO': 20,
         'Government & Public Administration': 21,
-
+        '-1': None
     }
     df['Sector Scale'] = df['Sector'].map(sector_mapping)
 
     # Preprocess the 'Company Size' column
     company_size_mapping = {
-        "Unknown / Non-Applicable": None,
-        "-1": None,
+        "Unknown": None,
         "1 to 50 Employees": int(1),
         "51 to 200 Employees": int(2),
         "201 to 500 Employees": int(3),
@@ -234,7 +235,7 @@ def preprocess_scaling(df):
 
     # Preprocess the 'Revenue' column
     revenue_mapping = {
-        "Unknown / Non-Applicable / -1": None,
+        "Unknown / Non-Applicable": None,
         "Less than $1 million (USD)": 1,
         "$1 to $5 million (USD)": 2,
         "$5 to $25 million (USD)": 3,
@@ -251,7 +252,7 @@ def preprocess_scaling(df):
     df["Revenue Scale"] = df["Revenue"].map(revenue_mapping)
 
     industry_mapping = {
-        "Unknown / Non-Applicable / -1": None,
+        '-1': None,
         'Internet & Web Services': 1,
         'HR Consulting': 2,
         'Information Technology Support Services': 3,
@@ -298,10 +299,9 @@ def preprocess_scaling(df):
     }
     df["Industry Sector"] = df["Industry"].map(industry_mapping)
 
-    # df["Revenue Scale"] = df["Revenue"].apply(revenue_scale)
-    # df["Company Size Scale"] = df["Company Size"].apply(company_size_scale)
-
     return df
+
+
 
 
 def column_unique_values(df1, df2, df3, df4, df5, column_name, keyword):
@@ -317,12 +317,15 @@ def column_unique_values(df1, df2, df3, df4, df5, column_name, keyword):
         else:
             str_unique += ','
 
+
+
     with open(f"unique_values_'{column_name}'_in_'{keyword}'.txt", 'w') as f:
         f.write(str_unique)
         f.write(f"\n\nThe number of unique values is {len(unique_values)}")
 
 
-def one_hot_encoding(df, column_names):
-    df_encoded = pd.get_dummies(df, columns=column_names)
-    # df_encoded.to_csv(f"Encoding_one-hot_for_{keyword}.csv")
-    return df_encoded
+
+
+    # Perform one-hot encoding on the 'column_name'
+    data_encoded = pd.get_dummies(df1, columns=[column_name])
+    data_encoded.to_csv(f"Encoding_one-hot_{column_name}_{keyword}.csv")

@@ -1,0 +1,56 @@
+*Temp Role Fully Remote*
+Emerging Technologies/DNI is seeking a Data Analyst to assist with data quality, analysis, and reporting for large national surveillance and immunization reporting systems involving survey and data collection activities. Position will prepare, clean, analyze and report data, and develop and document software associated with a surveillance system. The Data Analyst will be responsible for programming, complex merging, sub-setting and manipulating the data sets using specific criteria and procedures and will perform analyses and prepare reports as requested.
+Responsibilities
+Analyze and pull data using SQL against Data Bricks tables. Troubleshoot data quality issues utilizing SQL queries.
+Analyze data using statistical packages (e.g., SAS, SAS Viya, R) as well as data management software packages (e.g., R, Python).
+Perform analysis using frequencies and percentages, longitudinal data analysis, and univariate and multivariable regressions. Prepare summary tables and descriptive analyses of results on a regular basis.
+Convert existing datasets from a diverse array of file formats (e.g., Microsoft Excel, Access, SQL, and ASCII files) into analytic datasets.
+Manage, manipulate, and transform data stored in a variety of file formats such as SAS datasets, Microsoft Access, Microsoft Excel, SQL, and ASCII files.
+Provide data cleaning and management support for surveillance and surveillance and research analyses. Contribute to production of study summaries or manuscripts for publication.
+Ensure the security and confidentiality of analytical data files and provide data file documentation describing the scientific data source.
+Perform data quality assurance activities, including identifying and resolving any inconsistencies in data flow, data outside legitimate ranges, and illogical data responses by developing data quality reports and investigation and resolution of data anomalies or errors by using a combination of software packages including SAS or R, MS Access and Excel, and other software (e.g., REDCap) as warranted. Track completeness and quality of data over time.
+Compile and merge individual-level data submitted from multiple external partners in diverse data formats
+Explore the use of data visualization platforms (e.g., R, Power BI, mapping software) to quickly summarize study findings. Support data visualization activities (both for hypothesis generation and to share data with the response).
+Develop communication materials such as slide sets and summary reports.
+Perform daily/weekly data runs and create daily/weekly reports. Troubleshoot issues with daily/weekly data runs. Work on ongoing basis to improve and automate code. Conduct weekly data cleaning and generate weekly error reports.
+Determine sampling methodologies to implement if case counts exceed certain thresholds, characterize surveillance back-fill to help with real-time interpretation of data Gather study team requirements and translate them into technical specifications for SAS programs
+Program SAS data validation checks and listings to identify data discrepancies
+Program SAS checks to integrate and reconcile data from US states and US Territories
+Edit data sets as required to prepare for analysis
+Produce prevalence estimates and placing the estimates in tables, via SQL and EXCEL
+Develop and/or modify software to perform data analysis and prepare both routine and ad hoc reports
+Document and troubleshoot software
+Qualifications
+Bachelor degree in a science, public health or statistical-related field and 5 years experience in public health data analysis OR a Masters degree in an Information Technology- related field and 3-5 years experience in public health, epidemiology, or statistical analysis
+Expertise with SQL and complex algorithms
+Experience with advanced statistical software packages, Macros, STAT, ODS, GRAPH
+SAS (9.3 or higher) or SAS Viya experience is required with focus on Data Management Skills; SUDAAN, SPSS and R experiences are desirable, but not required. Base SAS Certification is desired
+Experience with PC/LAN versions of SAS is essential
+Familiarity with established statistical methodologies in the health sciences, particularly those related to chronic disease, behavioral based, and immunization surveillance and data analysis
+Knowledge of efficient strategies for analysis of large data sets, including techniques for merging datasets from diverse sources is required and knowledge of weighting of data is desirable
+Ability to communicate effectively with public health scientists and program staff on mathematical and statistical topics is required
+Experience with Microsoft Office products such as Word, Excel, Outlook, PowerBI, etc.
+Statistical analysis tools including STATA, SPSS, SUDAN, Databricks, and other software packages as needed for statistical analysis and graphing
+Applied SAS output delivery system (ODS) for generating summary reports, enhancing output to non-SAS data files, and generating HTML web for outputs
+Excellent data visualization, written, and oral presentation skills
+Ability to juggle multiple projects at one time and prioritize work to customer satisfaction.
+Must be a US Citizen
+Job Type: Temporary
+Pay: $80,000.00 - $110,000.00 per year
+Schedule:
+8 hour shift
+Monday to Friday
+Education:
+Bachelor's (Required)
+Experience:
+SQL: 2 years (Required)
+Microsoft Excel: 2 years (Required)
+Work Location: Hybrid remote in Atlanta, GA 30329
+Show Less
+Report
+
+
+Testing regine:
+Experience: 5
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:53.047831

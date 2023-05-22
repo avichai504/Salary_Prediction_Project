@@ -1,0 +1,100 @@
+Posting Details
+Posting Details
+Position Number:
+128330
+
+Title:
+IT Engineer
+
+Functional Title:
+Software Engineer
+
+Category Status:
+35-Exempt Contingent Category 2
+
+Applicant Search Category:
+Staff
+
+University Authorized FTE:
+1.00
+
+Unit:
+DIT-EE-Software Engineering
+
+Campus/College Information:
+Founded in 1856, University of Maryland, College Park is the state’s flagship institution. Our 1,250-acre College Park campus is just minutes away from Washington, D.C., and the nexus of the nation’s legislative, executive, and judicial centers of power. This unique proximity to business and technology leaders, federal departments and agencies, and a myriad of research entities, embassies, think tanks, cultural centers, and non-profit organizations is simply unparalleled. Synergistic opportunities for our faculty and students abound and are virtually limitless in the nation’s capital and surrounding areas. The University is committed to attracting and retaining outstanding and diverse faculty and staff that will enhance our stature of preeminence in our three missions of teaching, scholarship, and full engagement in our community, the state of Maryland, and in the world.
+
+Background Checks
+Offers of employment are contingent on completion of a background check. Information reported by the background check will not automatically disqualify you from employment.
+
+
+Position Summary/Purpose of Position:
+The Software Engineer maintains, implements, and integrates both on premise and hosted systems using primarily Java and web-based technologies. The position is hands-on, agile, team-based development.
+The Software Engineer is responsible for:
+Implementing software applications within a development team.
+Following a formal development methodology and working within scheduled timelines.
+Participating in peer code reviews, documentation, and formal testing.
+
+Minimum Qualifications:
+Required Education:
+Bachelor’s Degree, preferably in computer science or related field, or equivalent combination of education and work experience.
+
+Required Experience:
+0-4 years experience.
+Experience with Java as a language and platform.
+
+
+Required Knowledge, Skills, and Abilities:
+Knowledge of object oriented principles; software design; use of design patterns.
+Understanding of established software engineering standards and methodologies including some or all of the following: creation and use of Use Cases, UML modeling, source control, documentation, and unit testing.
+Excellent written and verbal communication skills, paired with ability to express complex technical concepts effectively.
+
+Preferences:
+Preferences:
+Experience working productively in a software engineering team in the design, development, and implementation of a software module/component.
+Familiarity with java web application environments (Servlets, JSP, HTML, CSS).
+Familiarity with Spring frameworks, databases (preferably Oracle), and data binding tools (ORM, XML).
+
+Additional Certifications:
+
+Additional Information:
+Benefits Included:
+Medical, dental, and vision coverage designed to help you and your family live a healthy lifestyle.
+Flexible work opportunities
+UMCP Tuition Remission for employees, and their dependents to grow and achieve greatness.
+Generous paid time off package to address work/life balance and maintain well-being.
+Retirement Benefits created to aid employees in reaching future retirement goals.
+And many more…
+
+
+Salary range low $70,000s- low $90,000s
+
+**This position does not provide sponsorship for Visas.
+
+Job Risks
+Not Applicable to This Position
+
+Physical Demands
+Sedentary work. Employee will need to be able to sit for long periods of time to work on a computer, as well as travel occasionally to meet with clients and customers on and off campus.
+
+Posting Date:
+05/16/2023
+
+Closing Date:
+
+Open Until Filled
+Yes
+
+Best Consideration Date
+06/06/2023
+
+Diversity Statement:
+The University of Maryland, College Park, an equal opportunity/affirmative action employer, complies with all applicable federal and state laws and regulations regarding nondiscrimination and affirmative action; all qualified applicants will receive consideration for employment. The University is committed to a policy of equal opportunity for all persons and does not discriminate on the basis of race, color, religion, sex, national origin, physical or mental disability, protected veteran status, age, gender identity or expression, sexual orientation, creed, marital status, political affiliation, personal appearance, or on the basis of rights secured by the First Amendment, in all aspects of employment, educational programs and activities, and admissions.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 4
+Education: 1
+ Time of Scrape: 2023-05-17 14:42:12.510604

@@ -1,0 +1,54 @@
+
+Position:
+Software Engineer I
+Job Description:
+SUMMARY
+Designs, builds, and maintains full stack Java and Angular applications for the organization. Our Java Software Engineers develop applications in an Agile SDLC. Responsible for the development of Java enterprise applications.
+
+RESPONSIBILITIES
+Provides full stack Java design and development of projects involving application development, migrations, and additions to existing applications
+Develops front end applications utilizing Angular in close accord with a UX team and ensures the responsiveness of those applications
+Designs and develops APIs necessary to affect front end functionality and/or be consumed by other partners
+Designs and creates data models for applications and databases to persist them
+Participates in software design meetings and analyzes user needs to determine technical requirements
+Writes technical specifications based on conceptual design and stated business requirements
+Develops and/or reviews development of test protocols for testing application before user acceptance with an emphasis on automated Unit Tests, Component Tests, and Scenario Tests
+Completes documentation and procedures for installation and maintenance
+May mentor or guide work of less experienced software development staff
+Remains current on industry standards in web development
+Performs additional related duties as assigned
+MINIMUM REQUIREMENTS
+Bachelor’s Degree or the equivalent combination of education, training, or work experience
+Requires 0 – 2 years of software engineering work experience
+PREFERRED QUALFICATIONS
+Experience working with Java and/or J2EE development technologies
+Experience with server side frameworks such as Spring or Spring Boot
+Experience using the Java JVM and with applications running on JBoss, WebSphere application server, Tomcat, Apache web server and/or OpenShift
+Experience with modern JavaScript frameworks such as Angular and React
+Experience with RESTful service development and working with microservices applications
+Experience working with applications in the cloud such as AWS or Azure
+Familiarity with Continuous Integration and Continuous Delivery (CI/CD) pipelines
+Familiarity with source code management tools such as Azure DevOps, TFS, Jira or Git
+Proficiency with development technique such as Test Driven Development, Unit Tests, Component Tests and/or Scenario Tests
+Familiarity working in a Software Development Life Cycle (SDLC) leveraging Agile principles
+Excellent analytical, decision-making, and problem-solving skills
+Any cloud certification a plus (e.g., AWS, Azure, OCP)
+Black Knight carefully considers multiple factors to determine compensation, including a candidate’s education, training, specialty, experience, and work location. The base salary (exempt) or hourly rate (non-exempt) is just one component of the total rewards package offered to our employees, including potential bonus or commission eligibility, insurance (medical/dental/vision/life/disability), matching 401(k) plan and matching employee stock purchase plan
+EEO Statement:
+Black Knight is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, and protected veteran or military family status. Our employees’ diversity is our strength, and when we embrace our differences, it makes us better and brighter. Black Knight’s commitment to inclusion is at the core of who we are, and motivates us in how we do business each and every day.
+Location:
+Mequon, WI
+Time Type:
+Full time
+Show Less
+Report
+Senior Software Engineer
+<selenium.webdriver.remote.webelement.WebElement (session="4034b0e4a9158099d81c42f817aa17f0", element="193466af-5a98-4104-aca8-af4f6e085801")>
+Real Estate
+
+
+Testing regine:
+Experience: -1
+Education: BACHELOR
+Position Level: SENIOR
+ Time of Scrape: 2023-05-17 22:45:26.673586

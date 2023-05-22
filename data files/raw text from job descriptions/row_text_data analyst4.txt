@@ -1,0 +1,58 @@
+This position is part of a growing team at GPFS which focuses on providing comprehensive data and reporting solutions for Private Market clients. In this role you will focus on the ingestion, normalization, and enhancement of data (i.e., accounting, financial, regulatory) from multiple sources to support / maintain reporting needs for various organizational stakeholders.
+
+
+Essential Duties:
+Support the cleansing, preparation, and enhancement of large / complex datasets for clients and internal teams.
+Carry out exploratory data analysis.
+Support reporting environment by maintaining and updating reports and records as needed.
+Reconcile reporting output to source documents.
+Identify areas for process improvement or automation.
+Demonstrate attention to detail and accuracy.
+Strong multi-tasking and organizational skills in a project-based environment.
+Ability to research and resolve issues with various degrees of complexity.
+Strong written and verbal communication skills
+Ability to work as a strong team member as well as an independent contributor.
+Flexibility to work hours needed to complete client deliverables.
+Qualifications
+Bachelor Degree in Computer Science with master's preferred
+0-3 years of experience in Data Analytics
+Additional Eligibility Qualifications
+Excel / VBA
+SQL / SSRS
+R / Python
+Business Intelligence / visualization software
+Finance or Economics background a plus
+Competencies
+Intellectual curiosity - researching methods or ideas that could benefit the group or project.
+Self-motivating - ability to work independently.
+Analytical skills – understanding relationships within the data and disseminating information accurately.
+Organized
+Highly flexible - adapting to new formats, tools, and sometimes ambiguous work environment.
+Results Driven - working through multiple iterations to achieve success.
+Collaborative – working with multiple groups both within and outside the organization.
+Detailed Orientated
+Ethical
+
+
+Work Environment
+This role operates in a modern professional office environment and routinely uses standard office equipment such as computers, phones, and photocopiers.
+Physical Demands
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+Position Type/Expected Hours of Work
+This position may require long hours from time to time and very occasional weekend work.
+*****
+GPFS Vision
+Our purpose is to create enduring relationships with our employees and clients by consistently delivering exceptional opportunities and service.
+GPFS Values
+Diversity is respected.
+Balance is essential.
+Learning is ongoing.
+Accountability is achievement.
+Show Less
+Report
+
+
+Testing regine:
+Experience: 3
+Education: 1
+ Time of Scrape: 2023-05-17 14:10:11.189174
