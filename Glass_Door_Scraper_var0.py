@@ -82,12 +82,13 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
         next_page_locator = (By.CSS_SELECTOR, '[alt="next-icon"]')
         next_page_element = wait.until(EC.element_to_be_clickable(next_page_locator))
         next_page_element.click()
-        print("Next page!")
+        # print("Next page!")
     except NoSuchElementException:
         df = pd.DataFrame(jobs)
         return df
     except Exception as e:
-        print("An exception occurred while clicking the next page button:", str(e))
+        pass
+        # print("An exception occurred while clicking the next page button:", str(e))
 
 
     while num_jobs > len(jobs):
@@ -98,13 +99,13 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
         try:
             driver.find_element_by_class_name("selected").click()
         except ElementClickInterceptedException as e:
-            print(e, "e2")
+            # print(e, "e2")
             pass
 
         time.sleep(3)
         list_elements = WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'ul.hover li.react-job-listing')))
-        print(list_elements)
+        # print(list_elements)
 
 
         for i, element in enumerate(list_elements):
@@ -122,9 +123,10 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
                 div_element = element.find_element(By.TAG_NAME, 'div')
                 job_button = div_element.find_element(By.TAG_NAME, 'a')
                 job_button.click()
-                print("##job click##")
+                # print("##job click##")
             except Exception as e:
-                print(e, 'e2.1')
+                pass
+                # print(e, 'e2.1')
 
 
             if i % 1 == 0:  # because each post has 3 links
@@ -137,12 +139,12 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
 
                 try:
                     job_button.click()  # Click on the next post in the list
-                    print("--job click--")
+                    # print("--job click--")
                 except Exception as e:
                     counter_break += 1
-                    print(f"counter_break = {counter_break}\n"
-                          f"ERROR = {e}"
-                          f"ERROR number = e3")
+                    # print(f"counter_break = {counter_break}\n"
+                    #       f"ERROR = {e}"
+                    #       f"ERROR number = e3")
                     if counter_break == 50:
                         print(f"Process stop before reaching the target of jobs {len(jobs)}/{num_jobs}")
                         df = pd.DataFrame(jobs)
@@ -183,14 +185,14 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
                         years_of_experience = -1
                         education = -1
                         position = -1
-                        print(f"e4 , Attempting to scrape the text did not worked  {str(e)} ")
+                        # print(f"e4 , Attempting to scrape the text did not worked  {str(e)} ")
 
 
                 except Exception as e:
                     years_of_experience = -1
                     education = -1
                     position = -1
-                    print(f"e5!{str(e)}")
+                    # print(f"e5!{str(e)}")
 
 
 
@@ -229,7 +231,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
                     job_rating_element = wait.until(EC.visibility_of_element_located(job_rating_locator))
                     job_rating = job_rating_element.text
                 except:
-                    print("Failed to collect job Rating!")
+                    # print("Failed to collect job Rating!")
                     job_rating = int(-1)
 
                 try:
@@ -244,7 +246,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
 
                 except Exception as e:
                     career_opportunities = comp_and_benefits = culture_and_values = senior_management = work_life_balance = int(-1)
-                    print(e, "e6")
+                    # print(e, "e6")
 
 
                 try:
@@ -252,7 +254,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
                     salaries_element = wait.until(EC.visibility_of_element_located(salaries_locator))
                     salaries = salaries_element.text
                 except TimeoutException:
-                    print("Failed to collect Salary Estimate!")
+                    # print("Failed to collect Salary Estimate!")
                     salaries = int(-1)
                     pass
 
@@ -361,7 +363,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
             else:
                 print("Failed to move to the next page")
 
-            print(curr_page)
+            # print(curr_page)
             currentPage += 1
             num_of_job_in_page = 0
             time.sleep(3)
@@ -369,25 +371,12 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
             df = pd.DataFrame(jobs)
             return df
         except Exception as e:
-            print("An exception occurred while clicking the next page button:", str(e))
+            pass
+            # print("An exception occurred while clicking the next page button:", str(e))
 
 
 
 
-    # try:
-    #     print(curr_page)
-    #     time.sleep(3)
-    #     next_page_locator = (By.CSS_SELECTOR, '[alt="next-icon"]')
-    #     next_page_element = wait.until(EC.element_to_be_clickable(next_page_locator))
-    #     next_page_element.click()
-    #     time.sleep(3)
-    #     print("Next page!")
-    # except NoSuchElementException:
-    #     df = pd.DataFrame(jobs)
-    #     return df
-    # except Exception as e:
-    #     print("An exception occurred while clicking the next page button:", str(e))
-    #
 
     df = pd.DataFrame(jobs)
     return df
