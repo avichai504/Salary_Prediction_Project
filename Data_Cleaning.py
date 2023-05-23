@@ -65,63 +65,65 @@ def data_cleaning(df1):
     try:
         df["Time Unit"] = df["Salary Estimate"].apply(lambda x: x.split(' ')[1])
     except Exception as e:
-        print(e, "e1")
+        pass
+        # print(e, "e1")
 
     # Add more columns to calculate the salary
     try:
         df["Time Unit"] = df["Time Unit"].apply(lambda x: x.split('/')[1])
     except Exception as e:
-        print(e, "e2")
+        pass
+        # print(e, "e2")
 
     # Split the "Salary Estimate" column by the '/' separator and extract the first element
     try:
         df["Annual Salary"] = df["Salary Estimate"].apply(lambda x: (x.split('/')[0]))
     except Exception as e:
-        print(e, "e3")
+        pass
+        # print(e, "e3")
 
     # Remove the dollar sign ($) from the "Salary Estimate" column
     try:
         df["Annual Salary"] = df["Annual Salary"].apply(lambda x: x.split('$')[1])
     except Exception as e:
-        print(e, "e4")
+        pass
+        # print(e, "e4")
 
     # Remove any commas from the "Salary Estimate" column
     try:
         df["Annual Salary"] = df["Annual Salary"].apply(lambda x: x.replace(',', ''))
     except Exception as e:
-        print(e, "e5")
+        pass
+        # print(e, "e5")
 
     # Convert the "Salary Estimate" column to a float data type
     try:
         df["Annual Salary"] = df["Annual Salary"].apply(lambda x: float(x))
     except Exception as e:
-        print(e, "e6")
+        pass
+        # print(e, "e6")
 
     # Convert hourly salaries to annual salaries
     try:
         df.loc[df['Time Unit'] == 'hr', 'Annual Salary'] = df.loc[df['Time Unit'] == 'hr', 'Annual Salary'].apply(
             hourly_to_annual)
     except Exception as e:
-        print(e, "e7")
+        pass
+        # print(e, "e7")
 
     # Convert monthly salaries to annual salaries
     try:
         df.loc[df['Time Unit'] == 'mo', 'Annual Salary'] = df.loc[df['Time Unit'] == 'mo', 'Annual Salary'].apply(
             monthly_to_annual)
     except Exception as e:
-        print(e, "e8")
+        pass
+        # print(e, "e8")
 
-    # try:
-    # df.drop('Time Unit', axis=1, inplace=True)
-    # df.rename(columns={"Salary Estimate": "Annual Salary"}, inplace=True)
-    # except Exception as e:
-    #     print(e, "e8")
-
-    # Drop the rating from the company name
     try:
         df['Company Name'] = df['Company Name'].apply(lambda x: x.split('\n')[0])
     except Exception as e:
-        print(e, "e9")
+        pass
+        # print(e, "e9")
 
     # Convert the 'Founded' to 'Company Old'
     try:
@@ -129,55 +131,32 @@ def data_cleaning(df1):
         df['Company Old'] = df['Founded'].apply(lambda x: x if x == -1 else 2023 - x)
         df.insert(9, 'Company Old', df.pop('Company Old'))  # insert it into a specific index
     except Exception as e:
-        print(e, "e10")
+        pass
+        # print(e, "e10")
 
     # Convert 'Is Remote' to 0/1
     try:
         df['Is Remote'] = df['Is Remote'].astype(int)
     except Exception as e:
-        print(e, "e11")
+        pass
+        # print(e, "e11")
 
     desired_columns = ['Salary Estimate', 'Annual Salary']
     df = df.reindex(columns=desired_columns + [col for col in df.columns if col not in desired_columns])
 
-    # rearrange the indexes in the dataframe
-    # df = df.reindex(
-    #     columns=['Job Title', 'Annual Salary', 'Experience', 'Education', 'Location',
-    #              'Is Remote', 'Company Size', 'Company Size Scale', 'Founded', 'Company Old', 'Industry', 'Sector',
-    #              'Revenue', 'Revenue Scale', 'Type of Ownership', 'Rating', 'Career Opportunities', 'Comp & Benefits',
-    #              'Culture & Values', 'Senior Management', 'Work Life Balance', 'Company Name', 'Time of Scrape'])
+    # make location only two characters or Remote
+    try:
+        # print(df.dtypes)
+        df['Location'] = df['Location'].fillna('')
+        df['Location'] = df['Location'].apply(lambda x: x.split(',')[-1])
+    except Exception as e:
+        print(e, 'e location')
 
     df = pd.DataFrame(df)
     return df
 
 
-def final_clean(df):
-    print("Entering Final Clean")
-    my_list = list(df)
-    df = pd.DataFrame(df)
-    if "Company Name" in my_list:
-        df.drop("Company Name", inplace=True, axis=1)
-    # if "Location" in my_list:
-    #     df.drop("Location", inplace=True, axis=1)
-    if "Company Size" in my_list:
-        df.drop("Company Size", inplace=True, axis=1)
-    if "Founded" in my_list:
-        df.drop("Founded", inplace=True, axis=1)
-    # if "Industry" in my_list:
-    #     df.drop("Industry", inplace=True, axis=1)
-    # if "Sector" in my_list:
-    #     df.drop("Sector", inplace=True, axis=1)
-    if "Revenue" in my_list:
-        df.drop("Revenue", inplace=True, axis=1)
-    # if "Type of Ownership" in my_list:
-    #     df.drop("Type of Ownership", inplace=True, axis=1)
-    if "Time of Scrape" in my_list:
-        df.drop("Time of Scrape", inplace=True, axis=1)
-
-    return df
-
-
-def preprocess_scaling(df):
+def preprocess_scaling(df):  # Not fit for the ML model!!!
     # Preprocess the 'Type of Ownership' column
     ownership_mapping = {
         'Company - Private': int(1),
@@ -324,5 +303,54 @@ def column_unique_values(df1, df2, df3, df4, df5, column_name, keyword):
 
 def one_hot_encoding(df, column_names):
     df_encoded = pd.get_dummies(df, columns=column_names)
-    # df_encoded.to_csv(f"Encoding_one-hot_for_{keyword}.csv")
+    # df_encoded.to_csv(f"one_hot_encoding{0}.csv")
     return df_encoded
+
+
+def final_clean(df):  # call this function after one-hot encoding!
+    columns = list(df)
+
+    if 'Salary Estimate' in columns:
+        df.drop('Salary Estimate', axis=1, inplace=True)
+    if 'Company Name' in columns:
+        df.drop('Company Name', axis=1, inplace=True)
+    if '<null>' in columns:
+        df.drop('<null>', axis=1, inplace=True)
+    if 'null' in columns:
+        df.drop('null', axis=1, inplace=True)
+    if 'Company Size' in columns:
+        df.drop('Company Size', axis=1, inplace=True)
+    if 'Revenue' in columns:
+        df.drop('Revenue', axis=1, inplace=True)
+    if 'Time Unit' in columns:
+        df.drop('Time Unit', axis=1, inplace=True)
+    if 'Industry' in columns:
+        df.drop('Industry', axis=1, inplace=True)
+    if 'Sector' in columns:
+        df.drop('Sector', axis=1, inplace=True)
+    if 'Type of Ownership' in columns:
+        df.drop('Type of Ownership', axis=1, inplace=True)
+    if 'Time of Scrape' in columns:
+        df.drop('Time of Scrape', axis=1, inplace=True)
+    if 'Location' in columns:
+        df.drop('Location', axis=1, inplace=True)
+    if 'Unnamed: 0' in columns:
+        df.drop('Unnamed: 0', axis=1, inplace=True)
+    if 'Unnamed: 0.1' in columns:
+        df.drop('Unnamed: 0.1', axis=1, inplace=True)
+    if 'Founded' in columns:
+        df.drop('Founded', axis=1, inplace=True)
+    if 'Job Title' in columns:
+        df.drop('Job Title', axis=1, inplace=True)
+    if 'anonymous' in columns:
+        df.drop('anonymous', axis=1, inplace=True)
+    # df = df.loc[:, ~df.columns.str.contains('^anonymous')]
+
+    print(f"The number of Duplicated = {df.duplicated().sum()}")
+    df.drop_duplicates(keep='first', inplace=True)
+    print(f"The final files = {df.shape} ")
+
+
+    df = pd.DataFrame(df)
+    return df
+
