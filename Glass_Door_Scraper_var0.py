@@ -62,6 +62,9 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
     try:
         total_jobs_locator = (By.XPATH, '//*[@id="MainCol"]/div[1]/div[1]/div/div/h1')
         num_of_total_jobs = wait.until(EC.visibility_of_element_located(total_jobs_locator)).text.replace(f" {keyword.lower()} Jobs", "")
+        JOBS = int(num_of_total_jobs)
+        if JOBS < num_jobs:
+            num_jobs = JOBS
         print(f'Num of total jobs: {num_of_total_jobs}')
     except WebDriverException as e:
         print(e, "e1")
@@ -103,7 +106,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
             pass
 
         time.sleep(3)
-        list_elements = WebDriverWait(driver, 10).until(
+        list_elements = WebDriverWait(driver, 5).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'ul.hover li.react-job-listing')))
         # print(list_elements)
 
@@ -111,12 +114,12 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
         for i, element in enumerate(list_elements):
 
             # Check if the number of jobs that collected is below the number we want or below the number of the total jobs
-            if len(jobs) >= num_jobs or len(jobs) >= int(num_of_total_jobs):
+            if len(jobs) >= num_jobs:
                 print(f"Progress stop because the number of jobs in the website is over :)"
                       f"\nNumber of jobs in the website:{num_of_total_jobs} Number of jobs scraped:{len(jobs)}")
                 break
 
-            if num_of_job_in_page == 29:  # here we will stop and move to the next page
+            if num_of_job_in_page == 30:  # here we will stop and move to the next page
                 break
 
             try:
@@ -359,14 +362,16 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
             # Check the new page URL
             new_url = driver.current_url
             if new_url != current_url:
-                print("Next page!")
+                pass
+                # print("Next page!")
             else:
-                print("Failed to move to the next page")
+                pass
+                # print("Failed to move to the next page")
 
             # print(curr_page)
             currentPage += 1
             num_of_job_in_page = 0
-            time.sleep(3)
+            time.sleep(1)
         except NoSuchElementException:
             df = pd.DataFrame(jobs)
             return df
