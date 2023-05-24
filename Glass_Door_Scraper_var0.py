@@ -93,10 +93,13 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
         pass
         # print("An exception occurred while clicking the next page button:", str(e))
 
-
+    page_counter = 0
     while num_jobs > len(jobs):
         print("Entering page number:", currentPage + 1)
-
+        page_counter += 1
+        if page_counter == 34:
+            df = pd.DataFrame(jobs)
+            return df
 
         # Test for the "Sign Up" prompt and get rid of it.
         try:
