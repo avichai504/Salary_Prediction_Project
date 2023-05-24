@@ -1,0 +1,8 @@
+Information Technology
+-1,Human Resources & Staffing,Government & Public Administration,Transportation & Logistics,Financial Services
+Education,Manufacturing,Management & Consulting,Insurance,Construction, Repair & Maintenance Services
+Media & Communication,Retail & Wholesale,Pharmaceutical & Biotechnology,Restaurants & Food Service,Nonprofit & NGO
+Real Estate,Aerospace & Defense,Healthcare,Telecommunications,Hotels & Travel Accommodation
+Energy, Mining & Utilities,Legal,Arts, Entertainment & Recreation,
+
+The number of unique values is 24

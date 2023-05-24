@@ -1,0 +1,829 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+3,"$105,000 /yr (est.)",105000.0,Infrastructure Automation Engineer,1,3,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:54:35.476605,yr
+6,$38.50 /hr (est.),80080.0,Jr. Automation Engineer (Python/C#/Selenium) - (Only USC/NO C2C),3,1,-1,Infosoft, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:54:52.793974,hr
+8,$21.82 /hr (est.),45385.6,Junior Test Engineer,1,1,1,Entech,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:55:02.601160,hr
+10,"$98,679 /yr (est.)",98679.0,Test Automation Engineer,7,2,-1,"Intone Networks
+4.3", NJ,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 10:55:15.349452,yr
+11,$70.00 /hr (est.),145600.0,SDET Rest Assured API Automation in Java,0,1,1,"Khayainfotech LLC
+5.0", MO,5.0,0,2,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 10:55:19.492620,hr
+12,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:55:21.971832,hr
+14,"$40,000 /yr (est.)",40000.0,Junior Test Engineer (BID),8,1,0,"Le Fant LLC
+4.5",Remote,4.5,1,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,4.5,4.5,4.5,2023-05-24 10:55:30.639409,yr
+15,"$94,322 /yr (est.)",94322.0,Test Engineer(W2),5,1,1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:55:33.975302,yr
+19,"$80,733 /yr (est.)",80733.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", NC,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 10:55:49.247215,yr
+20,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:55:52.735204,hr
+22,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),0,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 10:56:01.526051,yr
+25,$45.00 /hr (est.),93600.0,Test Automation Engineer,5,1,-1,"SCIGON Solution
+5.0",Remote,5.0,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,4.8,4.7,5.0,4.7,2023-05-24 10:56:15.195317,hr
+27,"$98,596 /yr (est.)",98596.0,Test Automation Engineer,-1,-1,-1,"Five 9 Group, Inc.
+4.7", VA,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.4,3.6,4.5,4.4,4.4,2023-05-24 10:56:22.279084,yr
+28,$55.00 /hr (est.),114400.0,Looking for Test Automation Engineer with 6+ years experience,8,2,-1,Lethyagroupinc, MI,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:56:26.507661,hr
+29,"$270,850 /yr (est.)",270850.0,Infrastructure and Automation Engineer,5,1,1,"Snowflake
+4.1", CA,4.1,0,11,1001 to 5000 Employees,2012,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),4.1,4.2,4.0,3.9,3.7,2023-05-24 10:56:31.943539,yr
+30,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 10:56:41.997593,hr
+31,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 10:56:45.578063,yr
+32,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 10:56:49.029075,yr
+33,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 10:56:51.477952,yr
+34,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 10:56:53.901360,yr
+35,"$105,000 /yr (est.)",105000.0,Test Engineer,2,1,-1,"Ascend Analytics, LLC
+3.8", CO,3.8,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.0,3.9,3.8,3.6,3.7,2023-05-24 10:56:57.508354,yr
+37,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 10:57:05.024732,yr
+38,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:57:08.122618,yr
+40,"$93,771 /yr (est.)",93771.0,QA Automation Engineer,0,1,-1,"Wise Equation Solutions
+4.9", NJ,4.9,0,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.9,4.3,5.0,4.9,4.8,2023-05-24 10:57:17.824062,yr
+41,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 10:57:20.089214,yr
+44,"$67,500 /yr (est.)",67500.0,Entry Level Software Test Engineer,1,1,-1,"BeaconFire Solution
+3.9", NJ,3.9,0,6,1 to 50 Employees,2017,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.1,3.7,3.7,3.6,2023-05-24 10:57:30.496786,yr
+46,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:57:38.234909,yr
+49,$68.00 /hr (est.),141440.0,Automation Test Engineer,0,1,-1,"Stefanini, Inc
+3.8", CA,3.8,0,36,10000+ Employees,1987,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),3.5,3.3,3.7,3.5,3.7,2023-05-24 10:57:50.980262,hr
+54,$75.48 /hr (est.),156998.4,Test Automation Engineer - (Test Complete),6,2,-1,"Devcare Solutions
+3.7", MI,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 10:58:09.010288,hr
+55,"$78,047 /yr (est.)",78047.0,Automation Engineer,0,1,-1,"Zenith Technologies
+3.7", MD,3.7,0,25,501 to 1000 Employees,1998,Company - Public,Computer Hardware Development,Information Technology,$25 to $100 million (USD),3.7,3.5,3.8,3.5,4.0,2023-05-24 10:58:12.173919,yr
+56,$50.00 /hr (est.),104000.0,Software Test Engineer,5,2,1,"Surya Systems
+3.9", IL,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.0,3.3,3.7,2023-05-24 10:58:14.557190,hr
+59,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 10:58:25.156041,yr
+60,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 10:58:35.203551,hr
+61,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 10:58:39.307005,yr
+63,"$105,000 /yr (est.)",105000.0,Test Engineer,2,1,-1,"Ascend Analytics, LLC
+3.8", CO,3.8,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.0,3.9,3.8,3.6,3.7,2023-05-24 10:58:45.960538,yr
+64,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 10:58:48.520205,yr
+65,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 10:58:50.993426,yr
+67,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 10:59:01.878764,yr
+69,"$97,500 /yr (est.)",97500.0,LabView/ Python Test Engineer,1,2,-1,"Vita Tech
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,4.8,5.0,5.0,2023-05-24 10:59:08.911492,yr
+70,$56.00 /hr (est.),116480.0,Senior Software Test Engineer,4,1,1,Kanini, GA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:59:12.571498,hr
+71,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 10:59:18.301627,yr
+72,"$62,500 /yr (est.)",62500.0,Entry Level Automation/Commissioning Engineer,1,1,1,"Groe Advisors
+4.4", MA,4.4,0,16,1 to 50 Employees,2007,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.1,4.1,4.3,4.2,2023-05-24 10:59:20.963462,yr
+74,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 10:59:27.443998,yr
+78,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 10:59:43.222111,yr
+79,"$150,000 /yr (est.)",150000.0,Senior Automation Test Engineer,7,1,1,"FreeWire Technologies
+3.5", CA,3.5,0,9,1 to 50 Employees,2014,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",Less than $1 million (USD),3.5,3.5,3.6,3.3,3.6,2023-05-24 10:59:48.489018,yr
+80,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 10:59:51.334329,yr
+82,"$80,164 /yr (est.)",80164.0,Automation Engineer,1,2,-1,"Helm
+4.0", NM,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,3.6,3.2,3.0,3.9,2023-05-24 10:59:59.009094,yr
+84,"$97,537 /yr (est.)",97537.0,Test Automation Engineer II,0,2,1,"Genoa Employment Solutions Inc
+4.7", MO,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.7,4.7,4.7,4.7,2023-05-24 11:00:07.181424,yr
+85,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:00:10.930566,yr
+86,"$97,802 /yr (est.)",97802.0,Test Automation Engineer,0,1,-1,"Orbion Space Technology
+3.0", MI,3.0,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.1,3.3,2.8,3.0,2023-05-24 11:00:16.103317,yr
+88,"$130,000 /yr (est.)",130000.0,Senior Test Automation Engineer,5,1,1,"Billtrust US Careers
+3.2", CO,3.2,0,22,501 to 1000 Employees,2001,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.1,3.1,3.3,2.9,3.5,2023-05-24 11:00:23.712069,yr
+89,"$82,826 /yr (est.)",82826.0,QA Automation Engineer,10,2,-1,"Emonics LLC
+3.5", IL,3.5,0,7,1001 to 5000 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),3.4,3.4,3.3,3.4,3.4,2023-05-24 11:00:27.006072,yr
+90,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:00:37.727586,hr
+92,"$97,802 /yr (est.)",97802.0,Test Automation Engineer,0,1,-1,"Orbion Space Technology
+3.0", MI,3.0,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.1,3.3,2.8,3.0,2023-05-24 11:00:45.762746,yr
+94,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:00:54.490486,yr
+97,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:01:07.467045,yr
+98,"$93,771 /yr (est.)",93771.0,QA Automation Engineer,0,1,-1,"Wise Equation Solutions
+4.9", NJ,4.9,0,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.9,4.3,5.0,4.9,4.8,2023-05-24 11:01:11.951782,yr
+99,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:01:15.354310,yr
+102,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:01:26.162610,yr
+104,"$62,500 /yr (est.)",62500.0,Entry Level Automation/Commissioning Engineer,1,1,1,"Groe Advisors
+4.4", MA,4.4,0,16,1 to 50 Employees,2007,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.1,4.1,4.3,4.2,2023-05-24 11:01:33.766355,yr
+106,$68.00 /hr (est.),141440.0,Automation Test Engineer,0,1,-1,"Stefanini, Inc
+3.8", CA,3.8,0,36,10000+ Employees,1987,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),3.5,3.3,3.7,3.5,3.7,2023-05-24 11:01:41.696747,hr
+108,"$68,491 /yr (est.)",68491.0,Software Test Engineer,-1,-1,-1,"Xylem
+3.7", NC,3.7,0,12,10000+ Employees,2011,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.2,3.5,3.5,3.1,3.5,2023-05-24 11:01:48.173450,yr
+112,"$97,537 /yr (est.)",97537.0,Test Automation Engineer II,0,2,1,"Genoa Employment Solutions Inc
+4.7", MO,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.7,4.7,4.7,4.7,2023-05-24 11:02:05.173729,yr
+113,"$102,814 /yr (est.)",102814.0,cybersecurity automation engineer,2,1,1,"Starbucks
+3.7", WA,3.7,0,52,10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.5,3.8,3.7,3.1,3.4,2023-05-24 11:02:08.871782,yr
+114,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 11:02:11.593609,yr
+115,"$90,729 /yr (est.)",90729.0,Test Automation Engineer,5,1,1,"Accenture Federal Services
+4.0", DC,4.0,0,34,10000+ Employees,1989,Company - Public,Business Consulting,Management & Consulting,$10+ billion (USD),4.0,3.9,4.0,3.7,3.7,2023-05-24 11:02:14.401807,yr
+119,"$108,263 /yr (est.)",108263.0,C++/Python Test Automation Engineer,0,2,-1,"LT Technology Services
+3.4", WA,3.4,0,9,10000+ Employees,2014,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),3.4,2.9,3.4,3.1,3.3,2023-05-24 11:02:32.933648,yr
+120,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:02:42.959905,hr
+121,$65.00 /hr (est.),135200.0,Test Automation Lead,9,2,1,Brillius, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:02:46.876666,hr
+123,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:02:59.575187,yr
+124,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,-1,-1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 11:03:04.992413,yr
+125,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 11:03:07.665715,yr
+126,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:03:11.273652,yr
+128,$70.00 /hr (est.),145600.0,Automation Engineer,2,1,0,Xcel Life Sciences LLC, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:03:19.238655,hr
+129,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:03:25.738153,yr
+130,"$105,000 /yr (est.)",105000.0,Test Engineer,2,1,-1,"Ascend Analytics, LLC
+3.8", CO,3.8,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.0,3.9,3.8,3.6,3.7,2023-05-24 11:03:28.968441,yr
+131,$60.00 /hr (est.),124800.0,Build Automation Engineer,-1,-1,-1,"RiseIT Solutions
+3.7",United States,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.9,3.9,3.8,4.2,2023-05-24 11:03:31.739326,hr
+132,"$95,000 /yr (est.)",95000.0,Performance Test Engineer,10,1,-1,"Okaya infocom
+4.0", CO,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-24 11:03:35.848095,yr
+133,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:03:39.549514,yr
+136,"$95,421 /yr (est.)",95421.0,Automation Engineer,0,2,-1,BXGI, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:03:52.578979,yr
+137,"$78,047 /yr (est.)",78047.0,Automation Engineer,0,1,-1,"Zenith Technologies
+3.7", MD,3.7,0,25,501 to 1000 Employees,1998,Company - Public,Computer Hardware Development,Information Technology,$25 to $100 million (USD),3.7,3.5,3.8,3.5,4.0,2023-05-24 11:03:58.031201,yr
+138,$60.00 /hr (est.),124800.0,QA Automation Engineer/SDET,0,1,-1,"Tekfortune Inc
+4.6", NE,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.2,4.4,4.3,4.6,2023-05-24 11:04:00.848703,hr
+140,"$130,000 /yr (est.)",130000.0,Senior Test Automation Engineer,5,1,1,"Billtrust US Careers
+3.2", CO,3.2,0,22,501 to 1000 Employees,2001,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.1,3.1,3.3,2.9,3.5,2023-05-24 11:04:10.014701,yr
+141,"$97,500 /yr (est.)",97500.0,Software Test Engineer,8,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:04:14.151782,yr
+142,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:04:17.924193,yr
+144,"$62,500 /yr (est.)",62500.0,Entry Level Automation/Commissioning Engineer,1,1,1,"Groe Advisors
+4.4", MA,4.4,0,16,1 to 50 Employees,2007,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.1,4.1,4.3,4.2,2023-05-24 11:04:26.020548,yr
+146,"$97,537 /yr (est.)",97537.0,Test Automation Engineer II,0,2,1,"Genoa Employment Solutions Inc
+4.7", MO,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.7,4.7,4.7,4.7,2023-05-24 11:04:33.807483,yr
+147,"$68,491 /yr (est.)",68491.0,Software Test Engineer,-1,-1,-1,"Xylem
+3.7", NC,3.7,0,12,10000+ Employees,2011,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.2,3.5,3.5,3.1,3.5,2023-05-24 11:04:38.333103,yr
+148,"$80,164 /yr (est.)",80164.0,Automation Engineer,1,2,-1,"Helm
+4.0", NM,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,3.6,3.2,3.0,3.9,2023-05-24 11:04:42.001047,yr
+150,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:04:57.882404,yr
+152,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:05:04.311411,yr
+153,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:05:07.095198,yr
+156,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),0,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 11:05:20.849278,yr
+158,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:05:30.262397,hr
+160,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:05:42.489550,yr
+161,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 11:05:46.423101,yr
+163,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:05:54.086888,hr
+164,"$40,000 /yr (est.)",40000.0,Junior Test Engineer (BID),8,1,0,"Le Fant LLC
+4.5",Remote,4.5,1,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,4.5,4.5,4.5,2023-05-24 11:05:58.800203,yr
+166,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:06:07.685855,yr
+169,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:06:20.315556,yr
+172,"$97,500 /yr (est.)",97500.0,LabView/ Python Test Engineer,1,2,-1,"Vita Tech
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,4.8,5.0,5.0,2023-05-24 11:06:34.956253,yr
+173,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:06:38.909818,yr
+175,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:06:48.866094,hr
+176,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:06:54.504574,hr
+177,$51.24 /hr (est.),106579.2,Python Test Automation Engineer,10,2,-1,"Denken Solutions Inc
+4.2", CA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.2,4.1,4.1,4.1,4.3,2023-05-24 11:06:58.240331,hr
+179,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:07:06.072847,yr
+180,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:07:17.179777,yr
+181,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:07:22.340285,yr
+182,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:07:25.969729,hr
+183,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:07:30.568781,hr
+184,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:07:36.507718,yr
+186,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:07:46.294873,yr
+188,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:07:53.057523,hr
+189,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:07:57.756433,hr
+190,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:08:01.744698,yr
+192,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:08:09.610027,yr
+193,"$105,000 /yr (est.)",105000.0,Test Engineer,2,1,-1,"Ascend Analytics, LLC
+3.8", CO,3.8,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.0,3.9,3.8,3.6,3.7,2023-05-24 11:08:15.648050,yr
+196,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:08:26.841633,yr
+197,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:08:29.670583,yr
+198,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:08:33.046320,yr
+201,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:08:47.055707,yr
+205,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:09:10.612877,yr
+207,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:09:18.424662,hr
+208,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 11:09:21.933330,yr
+209,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 11:09:26.099828,hr
+210,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:09:37.693122,yr
+211,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:09:40.420624,yr
+212,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:09:43.481141,hr
+214,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:09:53.202949,hr
+221,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:10:27.386405,yr
+222,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:10:30.327688,hr
+223,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:10:35.078838,hr
+224,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:10:40.006338,yr
+225,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:10:45.684533,yr
+226,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:10:49.350168,yr
+227,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:10:53.367591,yr
+230,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:11:06.172890,yr
+231,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:11:09.413903,yr
+232,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:11:13.321258,yr
+233,"$40,000 /yr (est.)",40000.0,Junior Test Engineer (BID),8,1,0,"Le Fant LLC
+4.5",Remote,4.5,1,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,4.5,4.5,4.5,2023-05-24 11:11:16.940493,yr
+234,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:11:21.715924,yr
+237,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:11:35.231029,yr
+238,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:11:39.986902,yr
+240,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:11:55.239225,yr
+241,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:11:58.138166,yr
+242,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:12:01.944936,hr
+243,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:12:08.372870,hr
+246,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:12:22.349809,yr
+249,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:12:38.406778,hr
+251,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:12:48.798682,yr
+254,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:13:03.254592,yr
+255,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:13:07.093337,yr
+258,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:13:18.612550,yr
+260,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:13:27.701364,yr
+262,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:13:37.499467,hr
+263,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:13:42.969385,yr
+264,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:13:46.127851,yr
+266,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:13:54.098742,yr
+267,"$40,000 /yr (est.)",40000.0,Junior Test Engineer (BID),8,1,0,"Le Fant LLC
+4.5",Remote,4.5,1,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,4.5,4.5,4.5,2023-05-24 11:13:58.773628,yr
+269,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:14:08.950144,yr
+270,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:14:22.629520,yr
+271,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:14:25.858851,yr
+272,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:14:29.844659,hr
+273,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:14:35.572761,yr
+274,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:14:41.310108,hr
+276,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:14:49.552021,hr
+278,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:15:00.160685,yr
+279,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:15:04.326567,yr
+280,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,-1,-1,-1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:15:08.330491,yr
+284,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:15:26.754699,yr
+286,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:15:36.251032,yr
+289,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:15:51.483718,yr
+290,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:15:56.900564,yr
+291,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:16:01.751778,hr
+293,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:16:13.665367,yr
+294,"$125,000 /yr (est.)",125000.0,Automation Test Engineer,10,2,-1,"Kani Solutions Inc.
+4.7", NY,4.7,0,14,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.3,4.6,4.4,4.5,2023-05-24 11:16:18.263069,yr
+295,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:16:22.506095,yr
+298,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:16:35.040058,hr
+299,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:16:39.232715,yr
+300,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:16:51.680461,yr
+301,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:16:55.536626,hr
+302,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:17:02.472805,yr
+303,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:17:06.479322,hr
+304,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:17:10.757313,yr
+307,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:17:25.644692,yr
+308,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:17:29.568159,hr
+310,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:17:41.635187,hr
+311,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:17:46.759881,yr
+314,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:17:59.600560,yr
+316,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:18:09.119169,yr
+318,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:18:18.476832,yr
+319,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:18:22.471462,yr
+320,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:18:25.532362,yr
+321,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:18:30.547439,yr
+323,$56.00 /hr (est.),116480.0,Senior Software Test Engineer,4,1,1,Kanini, GA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:18:41.003955,hr
+325,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:18:53.273339,yr
+326,"$83,118 /yr (est.)",83118.0,Automation Engineer,0,1,-1,Saini Tech Services, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:18:58.491309,yr
+328,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:19:10.513699,yr
+329,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:19:15.546574,hr
+330,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:19:27.234590,yr
+331,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:19:30.540432,hr
+332,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:19:36.382340,yr
+333,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:19:40.074394,hr
+334,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:19:45.365550,yr
+336,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:19:57.215634,hr
+339,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:20:11.522886,hr
+340,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:20:17.637378,yr
+342,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:20:28.932759,hr
+343,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:20:32.465329,yr
+345,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:20:41.447885,yr
+348,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:20:56.213966,yr
+349,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:21:01.120557,yr
+351,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:21:10.894055,yr
+353,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:21:18.424632,yr
+356,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:21:33.900659,yr
+357,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:21:38.378009,yr
+358,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:21:43.449185,yr
+360,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:22:00.196851,yr
+364,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:22:19.243637,hr
+366,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 11:22:32.257629,hr
+367,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:22:37.446553,hr
+368,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:22:43.537854,yr
+369,"$97,500 /yr (est.)",97500.0,LabView/ Python Test Engineer,1,2,-1,"Vita Tech
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,4.8,5.0,5.0,2023-05-24 11:22:47.074193,yr
+370,$62.50 /hr (est.),130000.0,QA Test Automation Engineer,9,2,-1,Tuwa SOLUTIONS, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:22:52.341072,hr
+371,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:22:59.692010,yr
+372,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:23:06.714759,hr
+373,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:23:11.230461,yr
+374,$56.00 /hr (est.),116480.0,Senior Software Test Engineer,4,1,1,Kanini, GA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:23:15.525315,hr
+375,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:23:22.691702,yr
+376,"$97,537 /yr (est.)",97537.0,Test Automation Engineer II,0,2,1,"Genoa Employment Solutions Inc
+4.7", MO,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.7,4.7,4.7,4.7,2023-05-24 11:23:28.021266,yr
+377,"$150,000 /yr (est.)",150000.0,Senior Automation Test Engineer,7,1,1,"FreeWire Technologies
+3.5", CA,3.5,0,9,1 to 50 Employees,2014,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",Less than $1 million (USD),3.5,3.5,3.6,3.3,3.6,2023-05-24 11:23:33.227363,yr
+378,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:23:36.912445,yr
+380,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),0,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 11:23:47.477328,yr
+381,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:23:52.203826,yr
+382,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:23:56.949387,hr
+383,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:24:02.341911,yr
+384,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:24:06.379375,yr
+385,"$40,000 /yr (est.)",40000.0,Junior Test Engineer (BID),8,1,0,"Le Fant LLC
+4.5",Remote,4.5,1,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,4.5,4.5,4.5,2023-05-24 11:24:11.350056,yr
+389,"$90,288 /yr (est.)",90288.0,Software Test Automation Engineer,5,1,-1,"Alma Technologies
+3.2", OR,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.0,2.5,2.0,2.5,2.5,2023-05-24 11:24:30.562990,yr
+390,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:24:42.554500,yr
+391,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:24:46.584666,hr
+392,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:24:52.578573,yr
+393,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:24:56.353023,hr
+395,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:25:06.610936,yr
+398,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:25:23.604448,yr
+399,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:25:28.292178,yr
+401,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:25:39.218237,yr
+402,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:25:44.722660,hr
+403,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:25:50.543436,yr
+404,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:25:55.482423,yr
+405,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:26:00.122341,yr
+409,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:26:20.032253,yr
+410,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:26:23.486895,yr
+411,$65.00 /hr (est.),135200.0,Test Automation Lead,9,2,1,Brillius, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:26:27.573594,hr
+412,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:26:34.191074,yr
+413,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:26:39.476977,hr
+414,"$80,820 /yr (est.)",80820.0,Workplace Automation Engineer,3,1,1,"Abcam
+3.9", MA,3.9,0,25,1001 to 5000 Employees,1998,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.8,3.8,4.3,3.8,4.0,2023-05-24 11:26:44.152886,yr
+415,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 11:26:48.806124,hr
+417,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:27:00.760442,yr
+418,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:27:04.142723,hr
+420,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:27:20.536970,hr
+421,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:27:27.400276,yr
+423,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:27:36.697640,yr
+425,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:27:44.930229,yr
+426,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:27:50.203214,yr
+427,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:27:54.716551,hr
+428,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:28:00.130102,hr
+430,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:28:09.861085,yr
+431,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:28:15.269841,yr
+434,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:28:30.789838,yr
+437,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:28:45.206147,yr
+439,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:28:53.544868,yr
+440,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:28:57.879924,yr
+441,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:29:01.693490,yr
+442,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:29:06.577942,yr
+446,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:29:30.909289,hr
+448,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,-1,-1,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:29:42.357993,yr
+449,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:29:49.178023,yr
+450,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:30:00.782720,yr
+451,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:30:04.184022,hr
+453,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:30:16.749186,yr
+454,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:30:21.586163,hr
+456,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:30:33.578072,yr
+457,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:30:37.103259,yr
+460,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:30:50.909986,yr
+462,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:31:01.246329,yr
+463,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:31:04.951185,hr
+464,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:31:10.548195,yr
+465,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:31:16.797833,yr
+467,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:31:27.893820,yr
+469,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:31:37.148554,yr
+472,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:31:51.579672,yr
+473,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:31:57.133556,hr
+474,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,-1,-1,-1,-1,Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:32:02.691172,yr
+475,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 11:32:08.466182,hr
+476,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:32:13.087047,yr
+477,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:32:18.346915,hr
+478,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:32:24.780586,yr
+480,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:32:44.333006,yr
+481,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:32:48.785319,hr
+483,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:33:01.047308,yr
+484,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:33:04.810560,hr
+486,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:33:14.977530,yr
+488,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:33:26.599297,yr
+489,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:33:30.538985,hr
+491,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:33:41.239434,yr
+492,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:33:47.308567,yr
+493,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:33:52.007362,yr
+494,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:33:55.653138,yr
+497,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:34:10.287694,hr
+500,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:34:25.924966,yr
+504,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:34:45.369789,yr
+505,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:34:51.434683,yr
+506,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:34:54.956240,yr
+507,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:34:59.835382,hr
+508,"$97,500 /yr (est.)",97500.0,LabView/ Python Test Engineer,1,2,-1,"Vita Tech
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,4.8,5.0,5.0,2023-05-24 11:35:05.263241,yr
+509,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),0,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 11:35:10.416624,yr
+510,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:35:21.887959,yr
+511,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:35:25.274198,hr
+512,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:35:31.661570,yr
+513,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:35:36.516729,yr
+515,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:35:47.006025,yr
+517,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:35:55.555426,hr
+521,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:36:15.170715,yr
+522,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:36:20.529721,hr
+524,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:36:32.486150,yr
+525,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:36:39.197385,yr
+526,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:36:42.862916,yr
+529,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:36:57.989188,yr
+530,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:37:03.504665,hr
+531,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:37:09.240999,yr
+532,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:37:12.857159,yr
+533,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:37:17.288878,hr
+535,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:37:26.875064,yr
+538,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:37:45.735711,yr
+539,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:37:50.212545,yr
+540,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:38:02.880495,yr
+541,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:38:06.769982,hr
+542,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:38:13.252804,yr
+544,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:38:21.830636,yr
+545,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:38:26.802842,hr
+546,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:38:32.054553,yr
+551,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:38:57.254802,yr
+552,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:39:01.239090,yr
+553,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:39:06.163897,yr
+554,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:39:10.851556,yr
+556,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:39:22.106527,yr
+557,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:39:25.854653,yr
+559,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:39:35.962604,hr
+560,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 11:39:41.746232,hr
+561,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:39:46.493619,hr
+565,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:40:09.592520,hr
+566,"$79,208 /yr (est.)",79208.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:40:16.073489,yr
+567,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:40:21.797568,hr
+569,"$70,958 /yr (est.)",70958.0,Automation Engineer- Remote,3,1,-1,"Valvoline
+3.5", KY,3.5,0,157,5001 to 10000 Employees,1866,Company - Public,Vehicle Repair & Maintenance,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.5,3.6,3.2,3.2,2023-05-24 11:40:33.840061,yr
+570,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:40:46.058862,yr
+571,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:40:49.573329,hr
+574,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:41:06.450631,yr
+575,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:41:10.851384,yr
+577,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:41:20.646299,yr
+578,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:41:24.936705,hr
+583,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:41:53.981661,yr
+584,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:41:58.022052,yr
+587,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,-1,-1,-1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:42:15.226911,yr
+588,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:42:18.196171,hr
+590,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,-1,-1,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:42:29.413046,yr
+591,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:42:34.396367,yr
+595,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:42:57.016991,hr
+596,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:43:03.277009,yr
+597,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),0,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 11:43:08.773257,yr
+598,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:43:13.757495,yr
+600,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:43:30.619962,yr
+601,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:43:34.348592,hr
+603,"$81,518 /yr (est.)",81518.0,Test Automation Engineer (Journeyman),5,1,0,"ATTAINX INC
+4.6", GA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.4,4.5,4.4,4.3,2023-05-24 11:43:45.564638,yr
+605,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:43:57.250642,yr
+606,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:44:01.560972,yr
+607,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:44:05.421571,hr
+608,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:44:10.118301,yr
+615,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:44:48.175429,yr
+617,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:44:57.308251,yr
+618,"$75,827 /yr (est.)",75827.0,Automation Engineer (Locating Systems) = US Remote with Travel,5,1,1,"Siemens
+4.1", GA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 11:45:00.963310,yr
+619,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:45:05.311209,yr
+620,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:45:09.425086,yr
+621,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:45:14.236348,yr
+623,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:45:25.385372,hr
+624,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:45:30.941753,hr
+625,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:45:39.218711,yr
+627,"$82,826 /yr (est.)",82826.0,QA Automation Engineer,10,2,-1,"Emonics LLC
+3.5", IL,3.5,0,7,1001 to 5000 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),3.4,3.4,3.3,3.4,3.4,2023-05-24 11:45:50.233326,yr
+628,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:45:56.440755,yr
+630,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:46:14.378065,yr
+631,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:46:17.986510,hr
+632,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:46:24.170795,yr
+634,"$81,518 /yr (est.)",81518.0,Test Automation Engineer (Journeyman),5,1,0,"ATTAINX INC
+4.6", GA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.4,4.5,4.4,4.3,2023-05-24 11:46:34.918394,yr
+635,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:46:40.244423,yr
+636,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:46:44.235549,hr
+637,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:46:49.061953,yr
+639,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:46:59.247942,hr
+642,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:47:18.384041,yr
+644,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:47:29.182248,yr
+645,$62.50 /hr (est.),130000.0,QA Test Automation Engineer,9,2,-1,Tuwa SOLUTIONS, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:47:34.463898,hr
+646,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:47:41.568684,hr
+647,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:47:47.864610,yr
+649,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 11:47:56.958656,hr
+650,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:48:02.577912,yr
+651,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:48:07.148896,yr
+652,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:48:12.096270,yr
+655,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:48:26.555550,hr
+656,"$90,288 /yr (est.)",90288.0,Software Test Automation Engineer,5,1,-1,"Alma Technologies
+3.2", OR,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.0,2.5,2.0,2.5,2.5,2023-05-24 11:48:31.199433,yr
+658,"$82,826 /yr (est.)",82826.0,QA Automation Engineer,10,2,-1,"Emonics LLC
+3.5", IL,3.5,0,7,1001 to 5000 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),3.4,3.4,3.3,3.4,3.4,2023-05-24 11:48:41.774604,yr
+659,"$97,500 /yr (est.)",97500.0,LabView/ Python Test Engineer,1,2,-1,"Vita Tech
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,4.8,5.0,5.0,2023-05-24 11:48:45.697325,yr
+660,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:48:58.244714,yr
+661,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:49:02.199888,hr
+663,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:49:14.564861,yr
+664,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:49:19.438627,hr
+665,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:49:24.740663,yr
+667,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:49:33.492638,yr
+671,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:49:58.384070,hr
+674,$36.50 /hr (est.),75920.0,Test Automation Engineer,0,1,-1,"Pinnacle Technical Resources
+3.2", NJ,3.2,0,-1,-1,-1,-1,-1,-1,-1,2.3,3.0,3.7,3.7,4.3,2023-05-24 11:50:15.417012,hr
+676,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:50:25.424722,yr
+677,"$82,826 /yr (est.)",82826.0,QA Automation Engineer,10,2,-1,"Emonics LLC
+3.5", IL,3.5,0,7,1001 to 5000 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),3.4,3.4,3.3,3.4,3.4,2023-05-24 11:50:30.463163,yr
+678,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:50:34.473552,yr
+681,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:50:50.301661,yr
+682,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:50:54.872724,hr
+684,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:51:06.018787,yr
+686,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:51:17.602366,hr
+687,"$85,000 /yr (est.)",85000.0,Automation Engineer,0,2,-1,Ciro Manufacturing, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:51:21.563507,yr
+688,"$48,498 /yr (est.)",48498.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),0,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 11:51:27.945055,yr
+689,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:51:31.748213,yr
+690,"$92,500 /yr (est.)",92500.0,Software QA/Test Engineer,5,1,1,"Travel Zap Inc.
+4.6",Remote,4.6,1,11,51 to 200 Employees,2012,Company - Private,Travel Agencies,Hotels & Travel Accommodation,Unknown / Non-Applicable,4.3,4.1,4.7,4.5,4.5,2023-05-24 11:51:43.787079,yr
+691,$67.50 /hr (est.),140400.0,Test Automation Architect,10,2,-1,JoulestoWatts Business Solutions Pvt Ltd, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:51:47.519351,hr
+692,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:51:57.111287,yr
+693,"$81,518 /yr (est.)",81518.0,Test Automation Engineer (Journeyman),5,1,0,"ATTAINX INC
+4.6", GA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.4,4.5,4.4,4.3,2023-05-24 11:52:01.341369,yr
+694,"$87,647 /yr (est.)",87647.0,Test Engineer,1,2,-1,"Numentica LLC
+4.4",Remote,4.4,1,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.1,4.4,4.3,2023-05-24 11:52:06.370176,yr
+695,$56.50 /hr (est.),117520.0,Automation SDET,11,2,-1,"Swift Technologies Inc
+3.7", TX,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.1,3.5,3.3,2.9,2.5,2023-05-24 11:52:10.440622,hr
+697,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 11:52:22.406592,yr
+700,"$96,295 /yr (est.)",96295.0,Selenium Automation Engineer,3,2,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-24 11:52:37.497118,yr
+701,$55.00 /hr (est.),114400.0,Automation Engineer,8,2,-1,"Codinix Technologies
+5.0", NJ,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:52:41.732588,hr
+702,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:52:47.698470,hr
+703,$60.00 /hr (est.),124800.0,Automation Engineer - Biopharm,5,1,1,"NES Fircroft
+4.2", NJ,4.2,0,45,1001 to 5000 Employees,1978,Company - Private,HR Consulting,Human Resources & Staffing,$500 million to $1 billion (USD),4.0,3.9,4.1,4.0,3.9,2023-05-24 11:52:54.669213,hr
+706,"$175,000 /yr (est.)",175000.0,Software Test Automation Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 11:53:13.701396,yr
+707,"$97,500 /yr (est.)",97500.0,QA Automation Engineer,1,1,-1,"Vetro Tech Inc
+3.9", WA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-24 11:53:19.282180,yr
+708,"$72,443 /yr (est.)",72443.0,Quality Assurance Automation Engineer - Remote,10,1,1,"Be The Match
+4.5", MN,4.5,0,36,501 to 1000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),4.1,4.4,4.5,4.3,4.1,2023-05-24 11:53:24.030677,yr
+709,"$70,000 /yr (est.)",70000.0,Automation Test Engineer,5,1,1,ELWOOD CORP | High Performance Motors Group, WI,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:53:28.035197,yr
+710,"$102,500 /yr (est.)",102500.0,Test Automation Engineer - Snr,5,1,-1,"Brown Brothers Harriman
+3.6", NJ,3.6,0,205,1001 to 5000 Employees,1818,Company - Private,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.4,3.2,3.8,3.3,3.6,2023-05-24 11:53:34.437117,yr
+712,"$95,263 /yr (est.)",95263.0,QA Test Automation Engineer,10,2,-1,"Right Talents
+3.0", NY,3.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 11:53:43.747702,yr
+713,"$100,000 /yr (est.)",100000.0,Software Test Engineer,5,1,-1,"United Business Solutions INC
+2.7", NJ,2.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.3,2.6,3.1,2.3,2023-05-24 11:53:49.998652,yr
+714,"$75,501 /yr (est.)",75501.0,Test Automation Engineer I,2,2,1,"Atlantic Casualty Insurance Company
+3.7", GA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,4.0,3.8,3.6,2023-05-24 11:53:54.926496,yr

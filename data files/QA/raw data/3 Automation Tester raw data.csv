@@ -1,0 +1,796 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,$52.50 /hr (est.),109200.0,QA Automation Tester,10,2,1,Ehub global solution,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:53:09.630711,hr
+1,$48.50 /hr (est.),100880.0,Sr. QA Tester,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7", MI,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 02:53:15.037769,hr
+3,"$83,279 /yr (est.)",83279.0,QA Automation Tester,0,1,1,"The Evolvers Group
+3.8", NC,3.8,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.9,3.2,3.2,3.2,2023-05-24 02:53:24.613936,yr
+4,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 02:53:27.914877,hr
+5,"$80,434 /yr (est.)",80434.0,Automation QA Tester,0,1,-1,"Zenith Services
+4.3", NJ,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.2,4.1,4.2,4.2,2023-05-24 02:53:30.307444,yr
+6,$36.50 /hr (est.),75920.0,IT -Manual and Automation Tester (IA75),5,2,-1,Resource Management Associates LLC.,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:53:33.396298,hr
+7,$42.50 /hr (est.),88400.0,QA Tester(Remote),3,1,-1,"Lakarya LLC
+5.0",Remote,5.0,1,8,1 to 50 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,5.0,5.0,5.0,4.7,2023-05-24 02:53:38.768825,hr
+8,$70.00 /hr (est.),145600.0,UI Automation Cypress in JavaScript,9,1,-1,"Khayainfotech LLC
+5.0", MO,5.0,0,2,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 02:53:41.219729,hr
+10,$37.50 /hr (est.),78000.0,JUNIOR AUTOMATION TESTER,6,2,0,Ehub Global, CO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:53:47.041590,hr
+12,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 02:53:58.479311,hr
+14,"$85,498 /yr (est.)",85498.0,Selenium Automation Tester,0,2,-1,CapB InfoteK, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:54:06.903015,yr
+15,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 02:54:12.296092,yr
+17,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 02:54:19.754084,yr
+18,$62.50 /hr (est.),130000.0,Scrum Tester - Telecom,3,1,-1,NLB Technology Services, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:54:22.889571,hr
+19,"$92,773 /yr (est.)",92773.0,ETL tester,0,2,-1,"Intone Networks
+4.3", VA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 02:54:28.279213,yr
+20,"$74,100 /yr (est.)",74100.0,Automation Tester,3,1,1,"COMPETENT SYSTEMS, INC
+3.7", GA,3.7,0,20,201 to 500 Employees,2003,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $25 million (USD),3.7,3.4,3.7,3.6,3.6,2023-05-24 02:54:31.383190,yr
+21,$57.50 /hr (est.),119600.0,ETL Tester,8,2,-1,Sana Pivot Inc,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:54:33.608413,hr
+23,"$110,000 /yr (est.)",110000.0,.Net Automation tester,5,2,-1,"Purple Drive Technologies
+4.2", WA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 02:54:42.463934,yr
+24,"$95,280 /yr (est.)",95280.0,QA Automation Tester,0,3,-1,"CJC Technologies
+2.7", NY,2.7,0,19,1 to 50 Employees,2004,Company - Private,Banking & Lending,Financial Services,$1 to $5 million (USD),2.1,2.6,2.7,2.7,4.0,2023-05-24 02:54:45.719035,yr
+26,"$74,402 /yr (est.)",74402.0,QA Tester,4,1,1,"Alpha Omega Integration
+4.1", VA,4.1,0,7,201 to 500 Employees,2016,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),3.9,3.7,4.1,4.2,3.9,2023-05-24 02:54:54.761567,yr
+28,$55.00 /hr (est.),114400.0,UAT Tester,8,1,-1,"Cloud and Things Inc
+4.6",Remote,4.6,1,-1,-1,-1,-1,-1,-1,-1,4.3,4.0,4.8,4.8,4.5,2023-05-24 02:55:01.063282,hr
+29,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 02:55:04.913587,yr
+30,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 02:55:14.556088,yr
+31,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:55:17.249963,yr
+32,"$82,402 /yr (est.)",82402.0,Automation Tester/SDET,0,1,1,"Cognizant Technology Solutions
+3.8", NJ,3.8,0,29,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.7,3.4,3.7,3.4,3.5,2023-05-24 02:55:22.527337,yr
+33,"$110,000 /yr (est.)",110000.0,Performance Tester,11,1,-1,"Kani Solutions INC
+4.7", CO,4.7,0,14,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.3,4.6,4.4,4.5,2023-05-24 02:55:24.781006,yr
+35,$42.50 /hr (est.),88400.0,QA Tester,5,2,-1,"Maven Workforce Pvt. Ltd.
+4.1", MI,4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.3,3.9,4.2,4.3,4.2,2023-05-24 02:55:32.536208,hr
+36,"$84,738 /yr (est.)",84738.0,Automation Tester,3,1,-1,"IntelliBridge LLC
+3.8", VA,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.2,3.8,4.0,2023-05-24 02:55:35.022287,yr
+37,"$51,161 /yr (est.)",51161.0,QA Tester (Journeyman),5,1,-1,"ATTAINX INC
+4.6", GA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.4,4.5,4.4,4.3,2023-05-24 02:55:38.400651,yr
+38,"$70,446 /yr (est.)",70446.0,Quality Assurance Tester,0,1,-1,"IntelliBridge LLC
+3.8", DC,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.2,3.8,4.0,2023-05-24 02:55:41.738029,yr
+41,$47.50 /hr (est.),98800.0,QA Tester,10,1,1,"MARVEL TECHNOLOGIES INC
+3.7", IL,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 02:55:52.374623,hr
+42,"$85,325 /yr (est.)",85325.0,Automation Tester,0,2,-1,AiVTAR, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:55:55.798668,yr
+43,$28.00 /hr (est.),58240.0,CONTRACT - Technical Tester (Manual/Web QA),0,1,-1,"Nintendo
+4.6", WA,4.6,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.1,4.3,4.0,3.9,2023-05-24 02:56:00.935167,hr
+44,"$81,055 /yr (est.)",81055.0,QA Automation Tester,0,2,-1,Copper Digital, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:56:04.378048,yr
+47,$22.50 /hr (est.),46800.0,Junior Software Tester,1,2,0,DataGenix Corporation, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:56:20.257449,hr
+48,"$95,000 /yr (est.)",95000.0,Software Quality Assurance Analyst,5,1,1,"CEDENT
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:56:25.488332,yr
+49,"$90,000 /yr (est.)",90000.0,ETL Tester,5,1,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 02:56:30.380179,yr
+50,$36.25 /hr (est.),75400.0,Hiring for QA Automation Tester Roles,1,1,-1,Staff IT SOL INC, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:56:32.995383,hr
+51,"$92,706 /yr (est.)",92706.0,Automation Tester,-1,-1,-1,"Octo
+4.1", VA,4.1,0,17,1001 to 5000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.9,3.8,4.1,2023-05-24 02:56:38.258389,yr
+52,"$84,078 /yr (est.)",84078.0,ETL Tester,6,1,-1,"Rxadvance Corporation
+3.3", MA,3.3,0,10,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Healthcare,$1 to $5 million (USD),3.1,3.5,3.1,2.7,3.0,2023-05-24 02:56:40.880307,yr
+53,"$94,318 /yr (est.)",94318.0,Automation Tester,0,1,-1,"NTrust Infotech
+4.0", CA,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.4,3.8,3.6,3.6,2023-05-24 02:56:44.560007,yr
+54,"$51,429 /yr (est.)",51429.0,Quality Assurance Tester,3,1,-1,"MAD MOBILE, INC.
+3.4", FL,3.4,0,13,201 to 500 Employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3.3,3.7,3.4,2.9,3.5,2023-05-24 02:56:47.828169,yr
+55,"$52,231 /yr (est.)",52231.0,QA Tester,0,1,1,"BASYS Processing
+4.4", KS,4.4,0,21,51 to 200 Employees,2002,Company - Private,Financial Transaction Processing,Financial Services,$1 to $5 million (USD),4.4,4.1,4.5,4.4,4.6,2023-05-24 02:56:50.441028,yr
+56,"$48,500 /yr (est.)",48500.0,Software Tester,2,1,-1,"ThriveSoft
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 02:56:53.800080,yr
+57,"$61,023 /yr (est.)",61023.0,Quality Assurance Tester,0,2,0,JoinSoftCorp, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:56:57.187089,yr
+59,"$83,739 /yr (est.)",83739.0,Automation Tester,8,2,0,"Realign LLC
+4.5", OH,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,3.0,2023-05-24 02:57:08.350126,yr
+60,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 02:57:19.036920,yr
+61,"$110,000 /yr (est.)",110000.0,Performance Tester,11,1,-1,"Kani Solutions INC
+4.7", CO,4.7,0,14,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.3,4.6,4.4,4.5,2023-05-24 02:57:21.786319,yr
+63,"$82,402 /yr (est.)",82402.0,Automation Tester/SDET,0,1,1,"Cognizant Technology Solutions
+3.8", NJ,3.8,0,29,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.7,3.4,3.7,3.4,3.5,2023-05-24 02:57:28.725154,yr
+64,"$51,161 /yr (est.)",51161.0,QA Tester (Journeyman),5,1,-1,"ATTAINX INC
+4.6", GA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.4,4.5,4.4,4.3,2023-05-24 02:57:31.227694,yr
+65,$28.00 /hr (est.),58240.0,CONTRACT - Technical Tester (Manual/Web QA),0,1,-1,"Nintendo
+4.6", WA,4.6,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.1,4.3,4.0,3.9,2023-05-24 02:57:34.875740,hr
+66,"$70,446 /yr (est.)",70446.0,Quality Assurance Tester,0,1,-1,"IntelliBridge LLC
+3.8", DC,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.2,3.8,4.0,2023-05-24 02:57:38.994882,yr
+67,$55.00 /hr (est.),114400.0,IT Quality Assurance Analyst,10,1,1,"Strategic Systems
+4.7", AZ,4.7,0,19,201 to 500 Employees,2004,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.1,4.5,4.5,4.4,2023-05-24 02:57:42.819688,hr
+68,"$95,000 /yr (est.)",95000.0,Software Quality Assurance Analyst,5,1,1,"CEDENT
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:57:46.282056,yr
+69,$22.50 /hr (est.),46800.0,Junior Software Tester,1,2,0,DataGenix Corporation, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:57:51.120379,hr
+70,"$70,165 /yr (est.)",70165.0,QA Automation Tester (TestComplete),6,2,-1,ITResonance, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:57:56.933442,yr
+71,"$83,739 /yr (est.)",83739.0,Automation Tester,8,2,0,"Realign LLC
+4.5", OH,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,3.0,2023-05-24 02:58:02.119427,yr
+72,"$61,023 /yr (est.)",61023.0,Quality Assurance Tester,0,2,0,JoinSoftCorp, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:58:05.520054,yr
+73,"$54,806 /yr (est.)",54806.0,Quality Assurance Tester,0,1,-1,"Vensit
+3.4", NJ,3.4,0,-1,-1,-1,-1,-1,-1,-1,3.0,2.0,1.4,3.0,3.0,2023-05-24 02:58:10.796881,yr
+74,"$84,078 /yr (est.)",84078.0,ETL Tester,6,1,-1,"Rxadvance Corporation
+3.3", MA,3.3,0,10,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Healthcare,$1 to $5 million (USD),3.1,3.5,3.1,2.7,3.0,2023-05-24 02:58:14.229886,yr
+75,"$50,676 /yr (est.)",50676.0,Quality Assurance Software Tester,0,2,1,TRA'BIAN ENTERPRISES, OH,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:58:17.071737,yr
+77,"$64,845 /yr (est.)",64845.0,IT- Quality Assurance Tester,3,1,-1,"ABC Stores
+4.0", HI,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.1,4.1,3.9,3.9,3.7,2023-05-24 02:58:25.818906,yr
+78,"$92,706 /yr (est.)",92706.0,Automation Tester,-1,-1,-1,"Octo
+4.1", VA,4.1,0,17,1001 to 5000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.9,3.8,4.1,2023-05-24 02:58:29.103139,yr
+79,"$74,293 /yr (est.)",74293.0,QA Engineers,0,2,-1,"NucleusTeq
+4.7",Berkley Heights,4.7,0,5,201 to 500 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,4.7,4.9,4.9,4.8,2023-05-24 02:58:31.710859,yr
+80,"$65,000 /yr (est.)",65000.0,Selenium Tester,3,1,1,Cyber Tech Group, WA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:58:34.360309,yr
+81,$27.39 /hr (est.),56971.2,UAT Tester,6,1,-1,Sthavirsoft Inc, TN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:58:39.856682,hr
+82,$58.50 /hr (est.),121680.0,QA Tester,10,2,1,"Cloud Shift Technologies LLC
+5.0", NC,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.5,5.0,5.0,5.0,2023-05-24 02:58:45.513137,hr
+83,$57.50 /hr (est.),119600.0,Sr. UAT Tester,10,2,-1,RV Soft, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:58:49.208226,hr
+86,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:59:03.809415,hr
+87,"$68,175 /yr (est.)",68175.0,QA Analyst/Tester,5,1,-1,"M.M. Hayes
+3.7", NY,3.7,0,52,51 to 200 Employees,1971,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.4,4.2,3.6,3.5,3.1,2023-05-24 02:59:09.003396,yr
+89,"$95,331 /yr (est.)",95331.0,Automation Tester / Selenium Tester,5,2,-1,"Plaxonic Technologies Inc.
+4.6", MN,4.6,0,10,51 to 200 Employees,2013,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.4,4.2,4.7,4.4,4.4,2023-05-24 02:59:15.433994,yr
+91,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 02:59:29.036250,yr
+92,"$110,000 /yr (est.)",110000.0,Performance Tester,11,1,-1,"Kani Solutions INC
+4.7", CO,4.7,0,14,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.3,4.6,4.4,4.5,2023-05-24 02:59:31.947197,yr
+94,"$82,402 /yr (est.)",82402.0,Automation Tester/SDET,0,1,1,"Cognizant Technology Solutions
+3.8", NJ,3.8,0,29,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.7,3.4,3.7,3.4,3.5,2023-05-24 02:59:39.305225,yr
+95,$55.00 /hr (est.),114400.0,IT Quality Assurance Analyst,10,1,1,"Strategic Systems
+4.7", AZ,4.7,0,19,201 to 500 Employees,2004,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.1,4.5,4.5,4.4,2023-05-24 02:59:41.797617,hr
+96,"$95,000 /yr (est.)",95000.0,Software Quality Assurance Analyst,5,1,1,"CEDENT
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:59:44.641808,yr
+97,$22.50 /hr (est.),46800.0,Junior Software Tester,1,2,0,DataGenix Corporation, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:59:49.180918,hr
+98,"$83,739 /yr (est.)",83739.0,Automation Tester,8,2,0,"Realign LLC
+4.5", OH,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,3.0,2023-05-24 02:59:55.193013,yr
+99,"$61,023 /yr (est.)",61023.0,Quality Assurance Tester,0,2,0,JoinSoftCorp, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:59:59.144614,yr
+100,"$54,806 /yr (est.)",54806.0,Quality Assurance Tester,0,1,-1,"Vensit
+3.4", NJ,3.4,0,-1,-1,-1,-1,-1,-1,-1,3.0,2.0,1.4,3.0,3.0,2023-05-24 03:00:04.421361,yr
+101,"$50,676 /yr (est.)",50676.0,Quality Assurance Software Tester,0,2,1,TRA'BIAN ENTERPRISES, OH,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:00:08.002576,yr
+103,"$64,845 /yr (est.)",64845.0,IT- Quality Assurance Tester,3,1,-1,"ABC Stores
+4.0", HI,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.1,4.1,3.9,3.9,3.7,2023-05-24 03:00:16.469959,yr
+104,"$65,000 /yr (est.)",65000.0,Selenium Tester,3,1,1,Cyber Tech Group, WA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:00:19.807847,yr
+107,$62.50 /hr (est.),130000.0,QA Automation Test Engineer,10,2,-1,Sripen, MO,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:00:33.395561,hr
+108,"$68,175 /yr (est.)",68175.0,QA Analyst/Tester,5,1,-1,"M.M. Hayes
+3.7", NY,3.7,0,52,51 to 200 Employees,1971,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.4,4.2,3.6,3.5,3.1,2023-05-24 03:00:38.595324,yr
+110,"$95,331 /yr (est.)",95331.0,Automation Tester / Selenium Tester,5,2,-1,"Plaxonic Technologies Inc.
+4.6", MN,4.6,0,10,51 to 200 Employees,2013,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.4,4.2,4.7,4.4,4.4,2023-05-24 03:00:45.028457,yr
+113,$41.63 /hr (est.),86590.4,QA Manual Tester,3,1,-1,"SCIGON Solution
+5.0", MI,5.0,0,15,51 to 200 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.8,4.8,4.7,5.0,4.7,2023-05-24 03:00:58.811132,hr
+114,"$60,356 /yr (est.)",60356.0,QA TESTER,0,1,-1,Buildable, OR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:01:01.741500,yr
+116,"$70,000 /yr (est.)",70000.0,Master Data Analyst,5,1,1,"Charles River Laboratories
+3.4",United States,3.4,0,76,10000+ Employees,1947,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 billion (USD),3.5,3.3,3.4,3.1,3.2,2023-05-24 03:01:11.289820,yr
+117,"$66,416 /yr (est.)",66416.0,Manual - Quality Analyst,0,1,-1,"Photon
+3.9", NV,3.9,0,16,5001 to 10000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.8,3.7,3.7,3.7,2023-05-24 03:01:13.946289,yr
+118,"$71,980 /yr (est.)",71980.0,Quality Assurance Tester,4,1,-1,"Steampunk
+4.5", VA,4.5,0,20,201 to 500 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.5,4.2,4.5,4.3,4.4,2023-05-24 03:01:16.492129,yr
+119,"$82,958 /yr (est.)",82958.0,Senior Manual QA Tester,-1,-1,-1,"LogiSolve, LLC
+4.6", MN,4.6,0,22,51 to 200 Employees,2001,Private Practice / Firm,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.7,4.7,4.8,4.8,4.8,2023-05-24 03:01:19.159983,yr
+123,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:01:41.901996,yr
+124,"$82,402 /yr (est.)",82402.0,Automation Tester/SDET,0,1,1,"Cognizant Technology Solutions
+3.8", NJ,3.8,0,29,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.7,3.4,3.7,3.4,3.5,2023-05-24 03:01:44.548739,yr
+125,"$95,000 /yr (est.)",95000.0,Software Quality Assurance Analyst,5,1,1,"CEDENT
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:01:46.984140,yr
+126,$50.00 /hr (est.),104000.0,QA Manual Tester,8,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:01:52.132008,hr
+127,$55.00 /hr (est.),114400.0,IT Quality Assurance Analyst,10,1,1,"Strategic Systems
+4.7", AZ,4.7,0,19,201 to 500 Employees,2004,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.1,4.5,4.5,4.4,2023-05-24 03:01:54.928620,hr
+129,"$75,045 /yr (est.)",75045.0,"Manual Tester (Atlanta, Georgia)",3,1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 03:02:04.229585,yr
+130,"$57,923 /yr (est.)",57923.0,QA Manual Tester,3,1,1,"Wovenware US
+3.6", PR,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.2,4.0,3.4,3.4,2023-05-24 03:02:07.430084,yr
+131,"$50,676 /yr (est.)",50676.0,Quality Assurance Software Tester,0,2,1,TRA'BIAN ENTERPRISES, OH,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:02:11.531293,yr
+132,"$64,845 /yr (est.)",64845.0,IT- Quality Assurance Tester,3,1,-1,"ABC Stores
+4.0", HI,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.1,4.1,3.9,3.9,3.7,2023-05-24 03:02:17.181099,yr
+134,"$65,000 /yr (est.)",65000.0,Selenium Tester,3,1,1,Cyber Tech Group, WA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:02:24.542738,yr
+135,"$82,958 /yr (est.)",82958.0,Senior Manual QA Tester,-1,-1,-1,"LogiSolve, LLC
+4.6", MN,4.6,0,22,51 to 200 Employees,2001,Private Practice / Firm,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.7,4.7,4.8,4.8,4.8,2023-05-24 03:02:29.893137,yr
+140,"$85,900 /yr (est.)",85900.0,Sr.Automation Tester,6,1,1,"Cognizant Technology Solutions
+3.8", VA,3.8,0,29,10000+ Employees,1994,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.7,3.4,3.7,3.4,3.5,2023-05-24 03:02:54.799749,yr
+141,"$93,585 /yr (est.)",93585.0,QA- API Tester,4,2,-1,"IBaseIT
+4.2", VA,4.2,0,12,201 to 500 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,3.8,4.3,4.2,3.7,2023-05-24 03:02:58.549743,yr
+142,"$66,416 /yr (est.)",66416.0,Manual - Quality Analyst,0,1,-1,"Photon
+3.9", NV,3.9,0,16,5001 to 10000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.8,3.7,3.7,3.7,2023-05-24 03:03:01.230246,yr
+143,"$48,726 /yr (est.)",48726.0,QA/Tester,5,2,-1,Bring Corp, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:03:03.801854,yr
+145,"$81,570 /yr (est.)",81570.0,Performance / Automation Tester,0,2,-1,"Insight Systems Corporation
+3.2", VA,3.2,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.7,3.9,3.6,3.9,2023-05-24 03:03:16.094131,yr
+146,"$68,175 /yr (est.)",68175.0,QA Analyst/Tester,5,1,-1,"M.M. Hayes
+3.7", NY,3.7,0,52,51 to 200 Employees,1971,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.4,4.2,3.6,3.5,3.1,2023-05-24 03:03:19.555967,yr
+147,"$97,364 /yr (est.)",97364.0,Automation tester,10,2,-1,"Purple Drive Technologies
+4.2", WI,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:03:22.309211,yr
+148,"$56,450 /yr (est.)",56450.0,Quality Assurance Tester,-1,-1,-1,"JST
+5.0", TX,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,4.3,4.3,4.6,2023-05-24 03:03:26.245285,yr
+149,"$80,692 /yr (est.)",80692.0,Manual/Automated Tester,0,2,-1,"Perficient, Inc
+4.1", OH,4.1,0,25,5001 to 10000 Employees,1998,Company - Public,Information Technology Support Services,Information Technology,$500 million to $1 billion (USD),4.0,3.7,4.0,3.7,4.1,2023-05-24 03:03:29.412151,yr
+150,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:03:40.137585,hr
+151,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:03:45.536816,yr
+152,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:03:49.353147,yr
+153,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:03:53.320700,yr
+154,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:03:55.871016,yr
+155,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:03:58.918056,hr
+157,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:04:09.048392,hr
+159,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:04:19.568533,yr
+160,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:04:25.111365,yr
+164,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:04:43.594724,hr
+165,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:04:49.808174,hr
+166,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:04:53.670534,yr
+169,"$95,280 /yr (est.)",95280.0,QA Automation Tester,0,3,-1,"CJC Technologies
+2.7", NY,2.7,0,19,1 to 50 Employees,2004,Company - Private,Banking & Lending,Financial Services,$1 to $5 million (USD),2.1,2.6,2.7,2.7,4.0,2023-05-24 03:05:10.200206,yr
+171,"$70,446 /yr (est.)",70446.0,Quality Assurance Tester,0,1,-1,"IntelliBridge LLC
+3.8", DC,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.2,3.8,4.0,2023-05-24 03:05:19.464586,yr
+173,$52.50 /hr (est.),109200.0,QA Automation Tester,10,2,1,Ehub global solution,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:05:28.879091,hr
+175,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:05:39.726169,yr
+176,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:05:43.497114,yr
+177,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:05:46.110841,yr
+178,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:05:49.801441,hr
+179,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:05:53.980318,yr
+181,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:06:09.074498,yr
+182,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:06:12.806244,hr
+183,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:06:18.271423,yr
+184,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:06:20.988747,yr
+185,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:06:26.423844,hr
+186,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:06:32.500628,yr
+187,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:06:35.921764,yr
+189,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:06:43.340559,hr
+190,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:06:49.121408,hr
+192,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:06:59.729759,yr
+194,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:07:07.229179,yr
+196,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:07:17.104123,yr
+197,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:07:20.984050,hr
+199,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:07:30.799740,hr
+200,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:07:35.336799,hr
+201,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:07:39.020357,yr
+202,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:07:44.528417,hr
+203,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:07:48.262910,yr
+208,$52.50 /hr (est.),109200.0,QA Automation Tester,10,2,1,Ehub global solution,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:08:12.381447,hr
+209,"$95,280 /yr (est.)",95280.0,QA Automation Tester,0,3,-1,"CJC Technologies
+2.7", NY,2.7,0,19,1 to 50 Employees,2004,Company - Private,Banking & Lending,Financial Services,$1 to $5 million (USD),2.1,2.6,2.7,2.7,4.0,2023-05-24 03:08:18.332854,yr
+211,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:08:33.352186,hr
+212,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:08:39.160270,yr
+213,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:08:42.881567,yr
+214,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:08:45.564591,yr
+216,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:08:53.157779,yr
+217,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:08:57.210543,hr
+218,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:09:03.074086,hr
+219,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:09:09.255896,yr
+220,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:09:14.832205,yr
+221,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:09:18.236118,hr
+223,"$45,000 /yr (est.)",45000.0,QA Tester - Junior,2,1,1,"MSC Technology
+3.4",United States,3.4,0,3,501 to 1000 Employees,2020,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.4,3.8,3.4,2.9,3.8,2023-05-24 03:09:26.241258,yr
+225,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:09:34.115648,hr
+226,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,-1,-1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:09:40.037701,yr
+230,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:09:59.034160,hr
+232,"$92,201 /yr (est.)",92201.0,Automation Tester,0,1,1,"Baer Group
+3.6", MD,3.6,0,26,Unknown,1997,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.3,3.4,3.3,3.6,3.7,2023-05-24 03:10:06.806723,yr
+233,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:10:09.644599,hr
+234,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:10:13.011330,hr
+235,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,-1,-1,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:10:18.752447,hr
+236,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:10:22.332701,yr
+238,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:10:32.113697,yr
+239,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:10:37.659270,hr
+240,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:10:48.047743,hr
+242,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:10:57.915457,yr
+243,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:11:01.883696,hr
+244,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:11:08.653880,yr
+245,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:11:11.987655,yr
+246,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:11:14.738751,yr
+248,$55.00 /hr (est.),114400.0,Automation Tester,0,2,-1,"Intone Networks
+4.3", PA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 03:11:23.314571,hr
+249,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:11:26.954534,hr
+250,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:11:33.019310,yr
+251,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:11:38.775464,hr
+252,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:11:42.665256,yr
+254,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:11:53.570613,yr
+255,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:11:58.532377,hr
+256,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:12:04.405062,hr
+258,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:12:12.030288,hr
+259,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:12:16.161969,yr
+261,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:12:25.215467,hr
+262,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:12:29.104176,yr
+263,$42.50 /hr (est.),88400.0,QA Tester,5,2,-1,"Maven Workforce Pvt. Ltd.
+4.1", MI,4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.3,3.9,4.2,4.3,4.2,2023-05-24 03:12:32.408303,hr
+264,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:12:35.852140,hr
+266,$28.00 /hr (est.),58240.0,QA Tester,1,1,-1,Tresume, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:12:48.953594,hr
+267,"$75,240 /yr (est.)",75240.0,Remote Quality Assurance Tester,4,1,-1,"ALEUT FEDERAL LLC
+3.6", VA,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.5,3.7,4.1,2023-05-24 03:12:54.999408,yr
+268,$47.50 /hr (est.),98800.0,QA Tester,10,1,1,"MARVEL TECHNOLOGIES INC
+3.7", IL,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:12:59.189935,hr
+269,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:13:03.874739,yr
+271,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:13:19.226298,hr
+272,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:13:24.926072,yr
+273,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:13:29.086255,yr
+274,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:13:33.252423,yr
+276,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:13:40.621490,yr
+279,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:13:54.420467,yr
+280,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:13:59.997308,hr
+281,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:14:06.092094,yr
+283,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:14:16.227661,yr
+284,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:14:19.442521,hr
+285,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:14:25.556972,hr
+289,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:14:45.151959,hr
+292,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:15:00.812128,yr
+293,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:15:06.404292,hr
+294,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:15:09.616710,yr
+295,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:15:13.523884,hr
+296,$52.50 /hr (est.),109200.0,QA Automation Tester,10,2,1,Ehub global solution,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:15:19.362069,hr
+298,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,-1,-1,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:15:31.226446,hr
+300,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:15:50.158588,hr
+302,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:16:00.418792,yr
+303,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:16:04.932352,yr
+304,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:16:08.434223,yr
+306,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:16:15.799225,yr
+307,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:16:19.385894,yr
+308,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:16:25.140701,hr
+310,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:16:37.348279,hr
+313,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:16:52.540556,yr
+314,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:16:56.178665,hr
+317,$31.25 /hr (est.),65000.0,Manual Tester,-1,-1,-1,-1, CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:17:13.740117,hr
+318,$31.25 /hr (est.),65000.0,Manual Tester,-1,-1,-1,-1, CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:17:18.272528,hr
+319,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,-1,-1,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:17:22.969051,yr
+320,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,-1,-1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:17:28.792315,yr
+321,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:17:31.061826,yr
+322,"$97,772 /yr (est.)",97772.0,SAP Automation tester,0,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:17:34.968046,yr
+324,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:17:46.021751,hr
+325,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:17:52.521318,hr
+329,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:18:12.785996,yr
+331,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:18:29.187909,hr
+332,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:18:35.166863,yr
+333,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:18:38.936226,yr
+334,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:18:43.780045,yr
+337,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:18:56.631183,yr
+338,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:19:00.429107,yr
+340,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:19:11.270189,hr
+342,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:19:22.419608,yr
+343,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:19:25.801431,hr
+344,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:19:29.870853,hr
+346,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:19:41.692039,hr
+348,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:19:55.126543,hr
+350,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:20:08.064326,yr
+352,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:20:15.910601,yr
+353,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:20:21.845959,yr
+355,$52.50 /hr (est.),109200.0,QA Automation Tester,10,2,1,Ehub global solution,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:20:30.866556,hr
+357,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:20:42.275050,yr
+359,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:20:53.504411,hr
+361,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:21:09.832533,hr
+363,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:21:20.825492,yr
+364,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:21:24.466793,yr
+365,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:21:29.936607,hr
+366,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:21:34.410299,hr
+367,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:21:41.063177,yr
+369,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:21:50.217784,yr
+370,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:21:53.948931,yr
+372,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:22:04.635608,yr
+374,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:22:12.752365,hr
+375,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:22:18.691925,hr
+376,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:22:25.027559,hr
+379,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:22:41.086186,hr
+382,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:22:54.967821,yr
+383,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:22:59.469120,hr
+386,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:23:12.575909,yr
+387,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:23:16.550551,yr
+388,$48.50 /hr (est.),100880.0,Sr. QA Tester,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7", MI,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:23:22.565541,hr
+389,$57.50 /hr (est.),119600.0,ETL Tester,8,2,-1,Sana Pivot Inc,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:23:27.694956,hr
+391,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:23:45.821562,hr
+392,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:23:52.445143,yr
+394,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:24:01.383425,hr
+395,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:24:08.729853,yr
+396,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:24:12.735060,yr
+397,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:24:17.126263,hr
+399,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:24:26.606906,yr
+401,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:24:35.422606,yr
+402,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:24:41.289724,hr
+404,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:24:54.599232,yr
+406,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:25:05.174461,hr
+407,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:25:12.195271,hr
+408,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:25:16.815703,hr
+410,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:25:25.467203,hr
+412,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:25:34.046524,yr
+413,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:25:37.746733,yr
+416,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:25:53.292103,yr
+418,$57.50 /hr (est.),119600.0,ETL Tester,8,2,-1,Sana Pivot Inc,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:26:05.740124,hr
+419,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:26:12.103975,yr
+421,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:26:28.305186,hr
+422,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:26:34.483961,yr
+424,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:26:44.526886,hr
+425,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:26:51.278659,yr
+426,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:26:55.307130,yr
+427,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:27:00.658707,hr
+429,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:27:10.145340,yr
+431,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:27:18.437617,yr
+432,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:27:24.379220,hr
+434,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:27:35.942166,yr
+436,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:27:46.372892,hr
+437,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:27:53.024044,hr
+438,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:27:57.767389,hr
+440,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:28:07.111111,hr
+442,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:28:16.301486,yr
+443,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:28:20.139370,yr
+446,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:28:35.708968,yr
+448,$57.50 /hr (est.),119600.0,ETL Tester,8,2,-1,Sana Pivot Inc,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:28:48.736656,hr
+449,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:28:55.101069,yr
+450,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:29:06.733379,hr
+452,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:29:18.076442,yr
+454,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:29:27.793269,hr
+455,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:29:34.734429,hr
+456,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:29:39.605486,hr
+458,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:29:49.698409,yr
+459,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:29:55.410314,yr
+461,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:30:05.257136,yr
+462,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:30:08.683200,hr
+465,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:30:23.920657,hr
+466,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:30:30.890544,hr
+469,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:30:49.736371,hr
+470,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:30:54.010441,yr
+472,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,-1,-1,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:31:07.438186,yr
+473,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:31:14.262082,yr
+474,$57.50 /hr (est.),119600.0,ETL Tester,8,2,-1,Sana Pivot Inc,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:31:19.635910,hr
+476,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:31:34.116728,hr
+477,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:31:37.943477,yr
+480,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:32:00.319529,hr
+482,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:32:11.503782,yr
+483,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:32:15.564616,hr
+484,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:32:22.430549,yr
+485,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:32:27.052573,yr
+488,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:32:41.117807,yr
+489,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:32:45.373313,hr
+490,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:32:49.894302,hr
+492,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:33:00.848666,hr
+493,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:33:05.592048,yr
+496,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:33:21.130489,yr
+497,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:33:27.220924,hr
+498,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:33:31.025377,hr
+500,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:33:42.759816,yr
+504,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:34:03.218063,yr
+505,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:34:07.154320,hr
+506,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:34:13.443019,hr
+507,"$51,958 /yr (est.)",51958.0,QA Tester,1,1,1,"Dollar Tree
+3.0", VA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.4,2.8,2.7,2.8,2023-05-24 03:34:17.354409,yr
+509,"$92,201 /yr (est.)",92201.0,Automation Tester,0,1,1,"Baer Group
+3.6", MD,3.6,0,26,Unknown,1997,Company - Private,Business Consulting,Management & Consulting,Unknown / Non-Applicable,3.3,3.4,3.3,3.6,3.7,2023-05-24 03:34:26.637821,yr
+510,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:34:37.868187,hr
+512,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:34:49.047431,yr
+513,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:34:53.748270,hr
+514,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:35:00.702624,hr
+515,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:35:06.409767,yr
+516,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:35:11.228815,yr
+519,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:35:25.775036,yr
+520,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:35:29.286183,hr
+522,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:35:40.983228,hr
+525,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:35:56.834136,hr
+527,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:36:10.727652,hr
+530,$50.00 /hr (est.),104000.0,Manual Tester,1,1,0,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:36:26.462679,hr
+531,"$110,000 /yr (est.)",110000.0,Performance Tester,11,1,-1,"Kani Solutions INC
+4.7", CO,4.7,0,14,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.4,4.3,4.6,4.4,4.5,2023-05-24 03:36:30.402605,yr
+532,$48.50 /hr (est.),100880.0,Sr. QA Tester,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7", MI,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:36:34.294565,hr
+533,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:36:39.066964,yr
+534,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:36:45.340379,hr
+535,$55.00 /hr (est.),114400.0,Automation Tester,0,2,-1,"Intone Networks
+4.3", PA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 03:36:49.981707,hr
+536,$31.25 /hr (est.),65000.0,Manual Tester,10,2,1,"Purple Drive Technologies
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.0,4.0,4.2,2023-05-24 03:36:53.927097,hr
+537,$47.50 /hr (est.),98800.0,QA Tester,10,1,1,"MARVEL TECHNOLOGIES INC
+3.7", IL,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:36:58.626161,hr
+538,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:37:03.311809,hr
+539,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:37:10.427284,yr
+541,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:37:27.611389,hr
+542,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:37:33.901454,yr
+543,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:37:39.831495,yr
+545,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:37:49.948596,hr
+547,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:37:59.879588,hr
+548,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:38:06.882071,hr
+549,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:38:11.594964,yr
+550,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:38:15.047406,hr
+551,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:38:20.653501,hr
+552,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:38:24.478252,hr
+553,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:38:30.937652,yr
+554,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:38:35.168442,hr
+555,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:38:41.701584,hr
+557,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:38:53.703956,yr
+561,$46.09 /hr (est.),95867.2,Sr. ETL QA Tester,10,1,1,3Core Systems Inc., TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:39:16.595844,hr
+562,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:39:23.022638,yr
+566,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:39:44.791672,yr
+567,$55.00 /hr (est.),114400.0,Automation Tester,0,2,-1,"Intone Networks
+4.3", PA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 03:39:48.537888,hr
+568,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:39:52.718823,yr
+571,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:40:17.320643,hr
+572,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:40:23.619925,yr
+574,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:40:34.556512,hr
+575,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:40:39.634630,yr
+576,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:40:44.489893,hr
+577,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:40:49.211450,hr
+578,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:40:55.994949,yr
+580,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:41:04.422233,hr
+581,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:41:11.071834,hr
+583,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:41:23.234326,hr
+584,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:41:27.231692,yr
+585,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:41:31.518110,hr
+588,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:41:48.590280,yr
+590,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:42:02.223794,hr
+592,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:42:11.806261,yr
+593,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:42:17.184108,yr
+594,$46.09 /hr (est.),95867.2,Sr. ETL QA Tester,10,1,1,3Core Systems Inc., TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:42:22.734108,hr
+595,$55.00 /hr (est.),114400.0,Automation Tester,0,2,-1,"Intone Networks
+4.3", PA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 03:42:29.207235,hr
+596,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:42:33.337665,yr
+599,$36.50 /hr (est.),75920.0,IT -Manual and Automation Tester (IA75),5,2,-1,Resource Management Associates LLC.,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:42:48.631536,hr
+601,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:43:07.678420,hr
+602,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:43:14.144024,yr
+603,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:43:18.944340,yr
+604,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:43:24.232204,hr
+606,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:43:35.870628,yr
+608,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:43:44.099314,hr
+609,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:43:51.371833,hr
+610,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:43:57.697362,hr
+611,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:44:02.467757,hr
+612,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:44:09.675590,hr
+614,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:44:18.941821,yr
+615,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:44:23.134034,yr
+616,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:44:29.568670,hr
+619,$55.00 /hr (est.),114400.0,Automation Tester,0,2,-1,"Intone Networks
+4.3", PA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 03:44:44.723415,hr
+620,$48.50 /hr (est.),100880.0,Sr. QA Tester,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7", MI,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:44:49.092363,hr
+621,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:44:53.900473,yr
+622,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:44:58.878818,hr
+624,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:45:11.695968,yr
+628,"$103,115 /yr (est.)",103115.0,IT Quality Assurance Load & Performance Tester,6,1,-1,"DHL eCommerce
+3.9",Remote,3.9,1,54,10000+ Employees,1969,Company - Private,Shipping & Trucking,Transportation & Logistics,$10+ billion (USD),3.7,3.6,3.8,3.4,3.6,2023-05-24 03:45:32.885270,yr
+631,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:45:57.817361,hr
+632,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:46:04.213431,yr
+634,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:46:14.261093,yr
+635,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:46:19.126783,hr
+636,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:46:24.158665,yr
+637,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:46:28.430737,hr
+639,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:46:41.496137,hr
+641,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:46:51.974207,hr
+642,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:46:58.361180,hr
+643,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:47:02.540182,hr
+644,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:47:08.598177,yr
+645,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:47:12.883410,hr
+648,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:47:30.720986,yr
+650,$55.00 /hr (est.),114400.0,Automation Tester,0,2,-1,"Intone Networks
+4.3", PA,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.2,3.6,4.2,2023-05-24 03:47:45.044929,hr
+651,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:47:49.128120,hr
+652,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:47:53.473478,yr
+654,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:48:01.664599,yr
+655,$48.50 /hr (est.),100880.0,Sr. QA Tester,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7", MI,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:48:06.378691,hr
+656,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:48:11.103356,hr
+659,"$75,240 /yr (est.)",75240.0,Remote Quality Assurance Tester,4,1,-1,"ALEUT FEDERAL LLC
+3.6", VA,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.5,3.7,4.1,2023-05-24 03:48:31.353914,yr
+661,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:48:48.946917,hr
+662,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:48:55.437626,yr
+663,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:49:00.046896,yr
+665,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:49:09.309804,hr
+666,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:49:14.056865,yr
+667,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:49:17.624969,hr
+668,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:49:24.463912,hr
+670,$47.50 /hr (est.),98800.0,QA Automation Tester,5,1,-1,BUZZCLAN LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:49:36.851033,hr
+671,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:49:43.291981,hr
+672,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:49:47.158175,hr
+674,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:49:58.599090,yr
+676,$52.50 /hr (est.),109200.0,QA Manual Tester,10,1,-1,ExpressTech, NV,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:50:07.551912,hr
+678,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:50:19.474103,yr
+680,$60.00 /hr (est.),124800.0,QA Analyst,5,2,-1,"On Demand Agility Software Pvt Ltd
+3.9", NJ,3.9,0,17,501 to 1000 Employees,2006,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.9,3.9,3.9,3.9,4.0,2023-05-24 03:50:34.462849,hr
+681,"$93,948 /yr (est.)",93948.0,Automation Tester,5,1,-1,"Cognosante, LLC
+4.2",Remote,4.2,1,15,1001 to 5000 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.0,3.9,4.2,4.0,4.3,2023-05-24 03:50:38.511205,yr
+682,"$65,000 /yr (est.)",65000.0,QA Manual Tester,4,2,-1,"Element5
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.5,2.5,2.5,3.6,2023-05-24 03:50:42.209920,yr
+684,$48.50 /hr (est.),100880.0,Sr. QA Tester,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7", MI,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-24 03:50:53.084222,hr
+685,$52.50 /hr (est.),109200.0,Automation API Tester,11,2,1,Sansutek,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:50:57.766029,hr
+686,"$75,681 /yr (est.)",75681.0,Manual / Automation QA Tester,0,2,-1,Vadam Group, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:51:04.152685,yr
+688,"$97,772 /yr (est.)",97772.0,SAP Automation tester,1,2,-1,"Infinity Quest
+4.0", NJ,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-24 03:51:15.606953,yr
+691,$62.50 /hr (est.),130000.0,ETL Tester,9,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:51:40.996725,hr
+692,"$63,832 /yr (est.)",63832.0,QA Manual Tester,3,1,1,"RD Solutions Pvt. Ltd
+4.4", NV,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.2,3.2,4.2,3.2,4.6,2023-05-24 03:51:47.377931,yr
+693,"$65,000 /yr (est.)",65000.0,QA Analyst,0,1,-1,"Mobot
+4.4", NY,4.4,0,16,1 to 50 Employees,2007,Company - Private,Sporting Goods Stores,Retail & Wholesale,Unknown / Non-Applicable,3.2,2.7,3.3,3.7,3.0,2023-05-24 03:51:52.249421,yr
+694,$60.00 /hr (est.),124800.0,Mainframe Tester With Automation,0,2,-1,"Reveille Technologies
+3.3", NE,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.0,3.0,2.6,3.0,2023-05-24 03:51:56.312225,hr
+696,$21.56 /hr (est.),44844.8,Tester,5,2,1,Techadox, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:52:06.152597,hr
+697,"$62,500 /yr (est.)",62500.0,Jr. QA Tester,0,2,-1,"UST Xpanxion
+3.9",Remote,3.9,1,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,3.9,2023-05-24 03:52:13.089621,yr
+698,"$90,519 /yr (est.)",90519.0,Automation Tester,0,1,-1,"Econtenti Inc
+3.7", NJ,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.1,3.1,3.1,3.1,2023-05-24 03:52:16.639653,yr
+699,$46.50 /hr (est.),96720.0,ETL Automation Tester (W2),10,2,-1,"Telnet Inc
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.2,3.6,3.2,2023-05-24 03:52:21.044547,hr
+702,$98.50 /hr (est.),204880.0,Senior QA Analyst - Automation Tester,0,2,0,"CEDENT
+5.0", TN,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:52:37.872349,hr
+704,$55.00 /hr (est.),114400.0,QA Automation Tester,5,2,-1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 03:52:48.433842,hr
+705,"$75,040 /yr (est.)",75040.0,Automation Tester - JR,2,2,-1,Neevsys, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 03:52:53.163305,yr

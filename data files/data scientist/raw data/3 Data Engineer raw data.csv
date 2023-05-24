@@ -1,0 +1,813 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:54:03.553207,hr
+1,$62.50 /hr (est.),130000.0,AWS Data Engineer II | Contract to Hire,3,1,-1,"Spartan Technologies
+3.4", GA,3.4,0,16,1 to 50 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.0,3.0,2.5,3.7,4.7,2023-05-23 16:54:11.252876,hr
+3,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 16:54:20.653826,hr
+4,"$95,000 /yr (est.)",95000.0,Data Engineer,8,3,-1,"LatentView Analytics
+4.1", TX,4.1,0,17,1001 to 5000 Employees,2006,Company - Public,Business Consulting,Management & Consulting,$25 to $100 million (USD),4.1,3.6,4.1,3.8,3.8,2023-05-23 16:54:24.006665,yr
+5,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:54:26.864993,yr
+6,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 16:54:32.366166,yr
+7,"$95,870 /yr (est.)",95870.0,Data Engineer,3,1,1,"Trissential
+4.0", MN,4.0,0,20,201 to 500 Employees,2003,Subsidiary or Business Segment,Business Consulting,Management & Consulting,$25 to $100 million (USD),3.8,3.8,4.0,3.9,3.8,2023-05-23 16:54:36.311561,yr
+8,"$94,507 /yr (est.)",94507.0,AWS Data Engineer,-1,-1,-1,"Experient Group
+4.8", GA,4.8,0,22,51 to 200 Employees,2001,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.3,4.5,4.8,4.6,4.8,2023-05-23 16:54:39.410126,yr
+9,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:54:41.952388,hr
+10,"$92,849 /yr (est.)",92849.0,Data Integration Engineer,3,1,0,"CrossFirst Bank
+3.7", TX,3.7,0,16,201 to 500 Employees,2007,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.2,3.6,3.8,3.0,3.8,2023-05-23 16:54:47.298904,yr
+11,"$99,653 /yr (est.)",99653.0,AWS Data Engineer,3,1,1,"Infinitive Inc
+3.0", VA,3.0,0,20,51 to 200 Employees,2003,Company - Private,Business Consulting,Management & Consulting,$25 to $100 million (USD),3.1,3.5,3.6,2.9,3.5,2023-05-23 16:54:50.625319,yr
+12,$105.00 /hr (est.),218400.0,Sr Data Engineer,5,2,1,Riley Consulting LLC,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:54:53.840807,hr
+13,$65.00 /hr (est.),135200.0,DATA ENGINEER,8,2,-1,"infinity quest
+4.0", WA,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-23 16:54:59.375312,hr
+14,"$122,338 /yr (est.)",122338.0,Data Engineer,0,2,1,"Juniper Solutions, Inc.
+1.0", NY,1.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:55:01.931097,yr
+15,"$99,776 /yr (est.)",99776.0,BI Data Engineer I,3,1,-1,"The Boston Beer Company
+3.9", MA,3.9,0,39,1001 to 5000 Employees,1984,Company - Public,Food & Beverage Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.6,4.0,3.5,3.5,2023-05-23 16:55:05.550990,yr
+16,$51.90 /hr (est.),107952.0,Senior Data Engineer,5,2,-1,"Xiar tech inc
+3.3", TX,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.3,3.3,3.3,3.3,2023-05-23 16:55:08.326119,hr
+17,"$160,000 /yr (est.)",160000.0,Snowflake Data Engineer,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:55:11.913857,yr
+19,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 16:55:21.902193,yr
+20,$72.50 /hr (est.),150800.0,Data Warehouse Engineer,-1,-1,-1,"Devcare Solutions
+3.7", PA,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-23 16:55:26.134745,hr
+21,"$4,000 /mo (est.)",48000.0,Data Center Engineer,1,-1,-1,KNN IT, OR,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:55:29.100207,mo
+22,"$75,000 /yr (est.)",75000.0,Data Engineer,1,2,-1,Staff Bees Solutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:55:34.542630,yr
+23,$50.00 /hr (est.),104000.0,Data Logging Engineer,2,1,-1,"GTA (Global Technology Associates)
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.4,4.0,4.4,4.0,3.4,2023-05-23 16:55:39.940397,hr
+24,"$122,500 /yr (est.)",122500.0,Data Engineer,2,1,-1,"Garner Health
+3.5", TX,3.5,0,4,51 to 200 Employees,2019,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.3,3.2,3.3,2023-05-23 16:55:43.454599,yr
+25,"$112,500 /yr (est.)",112500.0,SQL Data Engineer,3,1,-1,"HealthComp
+3.2", TX,3.2,0,29,501 to 1000 Employees,1994,Company - Private,Health Care Services & Hospitals,Healthcare,$25 to $100 million (USD),2.9,2.7,2.8,2.3,2.8,2023-05-23 16:55:47.156804,yr
+26,$75.00 /hr (est.),156000.0,Data Engineer,8,2,-1,"RJT Compuquest
+3.7", MO,3.7,0,27,501 to 1000 Employees,1996,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.8,3.6,3.6,3.6,3.7,2023-05-23 16:55:49.962500,hr
+27,$45.16 /hr (est.),93932.8,Data Engineer,10,1,-1,"Binary Tech corp
+3.7", NC,3.7,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.0,2.5,1.5,2.5,2023-05-23 16:55:53.447556,hr
+28,$77.50 /hr (est.),161200.0,Snowflake Data Engineer,-1,-1,-1,"ASA
+3.6",Remote,3.6,1,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 16:55:56.997233,hr
+29,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,-1,-1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 16:56:09.222919,hr
+30,$50.00 /hr (est.),104000.0,ETL Data Engineer,8,1,1,narwal, MD,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:56:11.540443,hr
+31,$55.00 /hr (est.),114400.0,Data Engineer - Onsite,2,1,-1,"CTI Consulting
+4.6", FL,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.5,4.8,4.6,2023-05-23 16:56:17.197866,hr
+32,$60.50 /hr (est.),125840.0,Data Center Engineer,0,2,-1,"TechMatrix Inc
+3.4", NJ,3.4,0,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,3.1,2.4,2.9,2023-05-23 16:56:21.088540,hr
+33,$72.50 /hr (est.),150800.0,Azure Data Engineer,10,1,-1,"Denken Solutions Inc
+4.2", MO,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.2,4.1,4.1,4.1,4.3,2023-05-23 16:56:24.640830,hr
+34,"$106,478 /yr (est.)",106478.0,Data Engineer,5,2,-1,"Azurity Pharmaceuticals, Inc.
+3.1", OR,3.1,0,24,201 to 500 Employees,1999,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.2,3.1,3.0,3.0,3.3,2023-05-23 16:56:27.338013,yr
+35,$43.50 /hr (est.),90480.0,Data Engineer,10,1,-1,"Appsintegration INC
+4.5", KY,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,3.5,4.0,3.5,4.5,2023-05-23 16:56:30.726492,hr
+36,$50.00 /hr (est.),104000.0,Data Engineer,5,-1,-1,"Kastech Software Solutions Group
+4.0", TX,4.0,0,15,201 to 500 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.8,3.5,3.8,3.9,3.8,2023-05-23 16:56:34.284904,hr
+37,"$70,000 /yr (est.)",70000.0,Data Engineer (PAID BOOTCAMP),1,1,-1,"PCS GLOBAL TECH
+4.7", NY,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.5,4.6,4.6,4.2,2023-05-23 16:56:37.440803,yr
+38,$75.00 /hr (est.),156000.0,Data Engineer,10,2,-1,"Compunnel Inc.
+4.2",Remote,4.2,1,29,1001 to 5000 Employees,1994,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-23 16:56:41.550041,hr
+39,"$105,000 /yr (est.)",105000.0,Data Engineer,3,2,1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:56:44.050823,yr
+40,"$136,072 /yr (est.)",136072.0,Data Communications Engineer - III,0,1,1,"GTA (Global Technology Associates)
+4.6", CA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.4,4.0,4.4,4.0,3.4,2023-05-23 16:56:49.872684,yr
+41,"$130,500 /yr (est.)",130500.0,Big Data Engineer,0,1,-1,"Basis Technologies
+4.3", IL,4.3,0,22,501 to 1000 Employees,2001,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.1,4.3,4.3,4.0,4.3,2023-05-23 16:56:54.336742,yr
+42,$50.00 /hr (est.),104000.0,Data Visualization Engineer,3,2,1,"Vertex Group
+3.7", OH,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.0,3.8,3.7,3.5,3.9,2023-05-23 16:56:58.135229,hr
+43,$75.00 /hr (est.),156000.0,Senior Data Engineer,9,2,-1,"Stellar Inc.
+2.0", TX,2.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,2.0,3.0,2.0,1.0,2023-05-23 16:57:02.344200,hr
+44,"$75,804 /yr (est.)",75804.0,Data Engineer with Snowflake,0,2,1,"Kaizen Technologies
+4.0", NC,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.2,4.0,4.1,3.9,3.9,2023-05-23 16:57:06.350188,yr
+45,"$100,789 /yr (est.)",100789.0,Data Engineer,2,1,1,"Repstor
+4.3", NC,4.3,0,23,501 to 1000 Employees,2000,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),4.2,4.1,4.3,4.0,4.0,2023-05-23 16:57:09.825522,yr
+46,$75.00 /hr (est.),156000.0,Sr. Data Engineer (Hybrid),5,1,-1,"RelMap Consulting
+4.8", TX,4.8,0,13,1 to 50 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.6,4.8,4.9,5.0,4.8,2023-05-23 16:57:13.633214,hr
+47,"$125,000 /yr (est.)",125000.0,Data Engineer,4,1,-1,"Sanametrix
+3.8",Remote,3.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,3.7,3.4,3.0,4.2,2023-05-23 16:57:16.460041,yr
+48,"$126,970 /yr (est.)",126970.0,Data Engineer,4,1,-1,"Luminar
+3.7", CA,3.7,0,11,201 to 500 Employees,2012,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.9,4.1,3.4,3.1,3.4,2023-05-23 16:57:20.683934,yr
+49,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,2023-05-23 16:57:24.230199,hr
+50,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 16:57:28.062868,yr
+51,$57.50 /hr (est.),119600.0,DATA ENGINEER,10,2,-1,"MARVEL TECHNOLOGIES INC
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.9,3.6,3.9,3.8,3.6,2023-05-23 16:57:30.873249,hr
+52,"$105,802 /yr (est.)",105802.0,Data Engineer,0,1,-1,"Timescale
+5.0", FL,5.0,0,8,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.9,4.5,4.9,4.9,4.7,2023-05-23 16:57:34.839042,yr
+53,$52.23 /hr (est.),108638.4,Big Data Engineer,0,1,1,"TAA Solutions LLC
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 16:57:38.269089,hr
+54,"$97,389 /yr (est.)",97389.0,Data Engineer,3,1,-1,"Analytic Partners
+3.6", TX,3.6,0,23,201 to 500 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.3,3.3,3.6,3.7,3.2,2023-05-23 16:57:42.829152,yr
+55,$62.50 /hr (est.),130000.0,Data Engineer,1,2,-1,Mericaninc, GA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:57:46.403601,hr
+56,"$129,250 /yr (est.)",129250.0,Data Engineer,0,1,-1,"Peloton
+3.5", NY,3.5,0,11,1001 to 5000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.1,4.0,3.7,2.9,3.6,2023-05-23 16:57:51.823748,yr
+57,"$112,071 /yr (est.)",112071.0,Data Engineer,0,1,1,"McDonald's Corporation
+3.5", IL,3.5,0,68,10000+ Employees,1955,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.3,3.0,3.2,3.2,3.2,2023-05-23 16:57:56.140089,yr
+58,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 16:58:08.922983,hr
+60,"$90,913 /yr (est.)",90913.0,NextGen Data Engineer,2,1,-1,"BICP
+5.0", OR,5.0,0,14,1 to 50 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.7,4.8,4.9,5.0,4.9,2023-05-23 16:58:16.469535,yr
+61,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:58:18.944949,yr
+62,"$105,802 /yr (est.)",105802.0,Data Engineer,0,1,-1,"Timescale
+5.0", FL,5.0,0,8,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.9,4.5,4.9,4.9,4.7,2023-05-23 16:58:24.366624,yr
+64,"$106,478 /yr (est.)",106478.0,Data Engineer,5,2,-1,"Azurity Pharmaceuticals, Inc.
+3.1", OR,3.1,0,24,201 to 500 Employees,1999,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.2,3.1,3.0,3.0,3.3,2023-05-23 16:58:34.007127,yr
+65,"$93,810 /yr (est.)",93810.0,SQL Data Engineer,0,1,-1,"Codeworks, L.L.C.
+4.3", WI,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.9,4.0,4.0,3.8,2023-05-23 16:58:37.630276,yr
+66,"$100,000 /yr (est.)",100000.0,Data Engineer,2,1,1,"e-Business International Inc.,
+3.6", FL,3.6,0,31,51 to 200 Employees,1992,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.5,3.5,3.7,3.6,3.7,2023-05-23 16:58:41.180952,yr
+67,$62.00 /hr (est.),128960.0,Data Engineer,5,1,1,"Simplelogix
+3.5", IL,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,3.5,3.5,3.6,2023-05-23 16:58:44.556683,hr
+68,"$100,789 /yr (est.)",100789.0,Data Engineer,2,1,1,"Repstor
+4.3", NC,4.3,0,23,501 to 1000 Employees,2000,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),4.2,4.1,4.3,4.0,4.0,2023-05-23 16:58:48.386975,yr
+69,"$76,982 /yr (est.)",76982.0,Data Engineer- Process Improvement,1,1,1,Lincare, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:58:51.260235,yr
+70,"$100,579 /yr (est.)",100579.0,Data Engineer,5,1,1,"Sky Consulting Inc
+4.0", IL,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,2.0,2.0,3.0,3.0,2023-05-23 16:58:57.731603,yr
+72,"$70,000 /yr (est.)",70000.0,Data Engineer (PAID BOOTCAMP),1,1,-1,"PCS GLOBAL TECH
+4.7", NY,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.5,4.6,4.6,4.2,2023-05-23 16:59:07.815579,yr
+73,"$65,000 /yr (est.)",65000.0,Data Engineer I,2,1,1,"Wright State University
+3.8", OH,3.8,0,61,1001 to 5000 Employees,1962,College / University,Colleges & Universities,Education,$100 to $500 million (USD),3.1,3.0,3.6,3.0,3.6,2023-05-23 16:59:11.748721,yr
+74,"$105,000 /yr (est.)",105000.0,Data Engineer - Healthgrades,0,2,-1,"RVO Health
+3.2", CO,3.2,0,1,1001 to 5000 Employees,2022,Company - Private,Hospitals & Health Clinics,Healthcare,Unknown / Non-Applicable,3.2,3.4,3.2,3.2,3.8,2023-05-23 16:59:14.421117,yr
+75,"$127,500 /yr (est.)",127500.0,Data Science Engineer,1,2,1,"Garner Health
+3.5", NY,3.5,0,4,51 to 200 Employees,2019,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.3,3.2,3.3,2023-05-23 16:59:17.913516,yr
+76,"$80,007 /yr (est.)",80007.0,Data Engineer I,3,1,-1,"Freeport McMoRan
+4.1", AZ,4.1,0,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,3.7,3.3,3.5,2023-05-23 16:59:20.419789,yr
+77,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 16:59:24.728534,yr
+78,"$116,237 /yr (est.)",116237.0,Sr. Data Engineer,-1,-1,-1,"ConnectiveRx
+3.1", NJ,3.1,0,8,1001 to 5000 Employees,2015,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,3.0,3.2,3.0,2.5,2.9,2023-05-23 16:59:28.294147,yr
+79,"$85,000 /yr (est.)",85000.0,Data Engineer,4,1,1,"Massachusetts Office of the Inspector General
+3.8", MA,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.0,4.4,3.5,3.0,4.2,2023-05-23 16:59:30.615626,yr
+80,"$129,500 /yr (est.)",129500.0,Data Engineer (Linux),5,2,-1,"DT Professional Services
+4.7", MD,4.7,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 16:59:34.764320,yr
+82,"$94,374 /yr (est.)",94374.0,Data Engineer/DBA,0,1,-1,"Tygart Technology, Inc
+4.7", VA,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.2,4.5,4.8,4.7,4.9,2023-05-23 16:59:45.079371,yr
+83,"$94,416 /yr (est.)",94416.0,Data Engineer,5,1,-1,"Skyla Credit Union
+3.5", NC,3.5,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.8,3.5,3.0,3.1,2023-05-23 16:59:49.194402,yr
+84,$50.00 /hr (est.),104000.0,Data Engineer,5,-1,-1,"Kastech Software Solutions Group
+4.0", TX,4.0,0,15,201 to 500 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.8,3.5,3.8,3.9,3.8,2023-05-23 16:59:53.146228,hr
+85,"$111,650 /yr (est.)",111650.0,Data Engineer,0,2,-1,"FlexIT Inc
+4.0", OR,4.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,3.0,5.0,5.0,3.0,2023-05-23 16:59:56.639102,yr
+86,"$110,455 /yr (est.)",110455.0,Big Data Engineer,5,-1,1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-23 17:00:00.155632,yr
+87,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:00:12.863363,hr
+88,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:00:17.333417,yr
+89,"$130,613 /yr (est.)",130613.0,Senior Data Engineer (US Remote),-1,-1,-1,"Swyfft
+4.1", WA,4.1,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.8,3.3,4.4,2023-05-23 17:00:23.033817,yr
+91,"$150,000 /yr (est.)",150000.0,Senior Engineer Big Data,5,1,1,"Amex
+4.2", AZ,4.2,0,173,10000+ Employees,1850,Company - Public,Financial Transaction Processing,Financial Services,$10+ billion (USD),3.9,4.0,4.3,3.9,4.1,2023-05-23 17:00:30.129713,yr
+92,"$75,804 /yr (est.)",75804.0,Data Engineer with Snowflake,0,2,1,"Kaizen Technologies
+4.0", NC,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.2,4.0,4.1,3.9,3.9,2023-05-23 17:00:34.020910,yr
+93,"$94,963 /yr (est.)",94963.0,Senior Data Engineer (Remote),5,1,0,"CareFirst BlueCross BlueShield
+3.5", MD,3.5,0,81,5001 to 10000 Employees,1942,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),3.2,3.4,3.4,2.9,3.4,2023-05-23 17:00:37.400697,yr
+94,"$109,500 /yr (est.)",109500.0,Senior Vulnerability Management – Data Engineer (Remote Option*),5,1,1,"Nike
+4.2", OR,4.2,0,51,10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.9,4.1,3.6,3.8,2023-05-23 17:00:41.528667,yr
+95,"$100,789 /yr (est.)",100789.0,Data Engineer,2,1,1,"Repstor
+4.3", NC,4.3,0,23,501 to 1000 Employees,2000,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),4.2,4.1,4.3,4.0,4.0,2023-05-23 17:00:44.982924,yr
+97,"$70,000 /yr (est.)",70000.0,Data Engineer (PAID BOOTCAMP),1,1,-1,"PCS GLOBAL TECH
+4.7", NY,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.5,4.6,4.6,4.2,2023-05-23 17:00:55.172641,yr
+98,"$109,190 /yr (est.)",109190.0,Senior Data Engineer (Azure),7,1,1,"Momentum Consulting
+4.4", FL,4.4,0,29,51 to 200 Employees,1994,Private Practice / Firm,Business Consulting,Management & Consulting,$25 to $100 million (USD),3.7,3.8,4.3,4.1,4.1,2023-05-23 17:00:59.706686,yr
+99,$45.00 /hr (est.),93600.0,Cloud Big-Data Engineer,5,2,1,"PhasorSoft Group
+4.0", MS,4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:01:02.706252,hr
+101,"$94,374 /yr (est.)",94374.0,Data Engineer/DBA,0,1,-1,"Tygart Technology, Inc
+4.7", VA,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.2,4.5,4.8,4.7,4.9,2023-05-23 17:01:13.769289,yr
+102,"$113,557 /yr (est.)",113557.0,Data Infrastructure Engineer,0,1,-1,Tasktoday, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:01:18.422114,yr
+103,"$94,360 /yr (est.)",94360.0,Data Engineer,0,1,1,"RADcube
+3.6", OH,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,3.6,3.4,3.6,2023-05-23 17:01:24.451180,yr
+104,"$65,000 /yr (est.)",65000.0,Data Engineer I,2,1,1,"Wright State University
+3.8", OH,3.8,0,61,1001 to 5000 Employees,1962,College / University,Colleges & Universities,Education,$100 to $500 million (USD),3.1,3.0,3.6,3.0,3.6,2023-05-23 17:01:27.889237,yr
+105,"$87,386 /yr (est.)",87386.0,Snowflake Data Engineer,4,1,1,"Infosys
+3.3", TX,3.3,0,42,10000+ Employees,1981,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.3,2.8,3.3,2.9,3.3,2023-05-23 17:01:31.398415,yr
+106,"$143,734 /yr (est.)",143734.0,Senior Data Engineer,0,1,-1,"Citadel Securities
+4.1", FL,4.1,0,22,201 to 500 Employees,2001,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,4.0,4.5,3.6,3.8,2.8,2023-05-23 17:01:35.158321,yr
+107,"$76,982 /yr (est.)",76982.0,Data Engineer- Process Improvement,1,1,1,Lincare, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:01:37.797716,yr
+108,"$114,592 /yr (est.)",114592.0,Senior Software Engineer - Data Technologies,10,1,1,"PRGX Global, Inc
+3.7", GA,3.7,0,27,1001 to 5000 Employees,1996,Company - Public,Accounting & Tax,Financial Services,$25 to $100 million (USD),3.3,3.1,3.5,3.4,4.0,2023-05-23 17:01:43.528829,yr
+109,"$132,000 /yr (est.)",132000.0,IT Data BI Engineer,3,1,-1,"Mizuho Americas
+3.4", NY,3.4,0,21,10000+ Employees,2002,Company - Public,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.2,3.4,3.4,3.0,3.1,2023-05-23 17:01:46.448043,yr
+110,$65.00 /hr (est.),135200.0,Data Engineer lead,9,2,1,"princeton it services
+4.2", MA,4.2,0,15,1 to 50 Employees,2008,Private Practice / Firm,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.9,3.9,3.9,3.9,4.3,2023-05-23 17:01:49.895855,hr
+111,"$106,662 /yr (est.)",106662.0,Sr. Java/Big Data Software Engineers,0,2,-1,"Explicit Systems USA
+4.0", MN,4.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 17:01:52.834127,yr
+112,"$91,975 /yr (est.)",91975.0,Junior SAP Data Engineer,3,1,0,"Wilson Sporting Goods Co.
+3.8", IL,3.8,0,109,1001 to 5000 Employees,1914,Subsidiary or Business Segment,Consumer Product Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.5,3.8,3.3,3.7,2023-05-23 17:01:56.426819,yr
+113,"$103,584 /yr (est.)",103584.0,Data Infrastructure Engineer,3,1,-1,"YAVLI
+5.0", NY,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 17:01:59.605176,yr
+114,"$63,674 /yr (est.)",63674.0,DATA CENTER ENGINEER I Grade 19,0,1,1,"Fulton County, GA
+3.6",United States,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.5,3.3,3.0,3.4,2023-05-23 17:02:04.260013,yr
+115,$82.50 /hr (est.),171600.0,Data Cloud Engineer-Hybrid,0,2,1,"Aries Solutions
+4.3", NC,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.0,4.3,4.3,4.3,2023-05-23 17:02:07.839308,hr
+116,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", WA,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:02:21.761144,hr
+117,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:02:25.384388,yr
+118,"$112,071 /yr (est.)",112071.0,Data Engineer,0,1,1,"McDonald's Corporation
+3.5", IL,3.5,0,68,10000+ Employees,1955,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.3,3.0,3.2,3.2,3.2,2023-05-23 17:02:31.023176,yr
+120,"$113,557 /yr (est.)",113557.0,Data Infrastructure Engineer,0,1,-1,Tasktoday, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:02:41.253956,yr
+121,"$103,584 /yr (est.)",103584.0,Data Infrastructure Engineer,3,1,-1,"YAVLI
+5.0", NY,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 17:02:46.816530,yr
+122,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:02:50.581263,yr
+123,"$70,000 /yr (est.)",70000.0,Data Engineer (PAID BOOTCAMP),1,1,-1,"PCS GLOBAL TECH
+4.7", NY,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.5,4.6,4.6,4.2,2023-05-23 17:02:53.887732,yr
+124,$110.00 /hr (est.),228800.0,Contract Senior Data Integration BA/Engineer,10,1,1,"Trf Technologies
+3.6", NY,3.6,0,-1,-1,-1,-1,-1,-1,-1,2.9,2.9,2.9,2.9,2.9,2023-05-23 17:02:58.031163,hr
+125,"$140,000 /yr (est.)",140000.0,Senior Data Engineer,4,1,1,"Encore Technologies
+4.4", GA,4.4,0,9,201 to 500 Employees,2014,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),4.2,4.1,4.3,4.1,4.3,2023-05-23 17:03:01.900897,yr
+126,"$100,000 /yr (est.)",100000.0,Data Engineer,2,1,1,"e-Business International Inc.,
+3.6", FL,3.6,0,31,51 to 200 Employees,1992,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.5,3.5,3.7,3.6,3.7,2023-05-23 17:03:05.955040,yr
+127,"$155,000 /yr (est.)",155000.0,Data Engineer,5,1,-1,"Snakorpio Group, Inc.", NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:03:08.861580,yr
+128,"$65,000 /yr (est.)",65000.0,Data Engineer I,2,1,1,"Wright State University
+3.8", OH,3.8,0,61,1001 to 5000 Employees,1962,College / University,Colleges & Universities,Education,$100 to $500 million (USD),3.1,3.0,3.6,3.0,3.6,2023-05-23 17:03:14.890708,yr
+129,"$116,237 /yr (est.)",116237.0,Sr. Data Engineer,0,1,1,"ConnectiveRx
+3.1", NJ,3.1,0,8,1001 to 5000 Employees,2015,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,3.0,3.2,3.0,2.5,2.9,2023-05-23 17:03:18.223977,yr
+130,"$150,000 /yr (est.)",150000.0,Senior Engineer Big Data,5,1,1,"Amex
+4.2", AZ,4.2,0,173,10000+ Employees,1850,Company - Public,Financial Transaction Processing,Financial Services,$10+ billion (USD),3.9,4.0,4.3,3.9,4.1,2023-05-23 17:03:21.147578,yr
+131,"$120,862 /yr (est.)",120862.0,Senior Data Engineer,0,1,1,"AgentSync
+4.1", CO,4.1,0,5,201 to 500 Employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),4.2,4.4,4.0,3.9,3.8,2023-05-23 17:03:24.954152,yr
+133,"$133,798 /yr (est.)",133798.0,Senior Data Engineer,7,2,1,"Shutterfly
+3.3", SC,3.3,0,24,10000+ Employees,1999,Company - Private,Internet & Web Services,Information Technology,$1 to $5 billion (USD),3.0,3.1,3.3,2.8,3.5,2023-05-23 17:03:34.272030,yr
+134,$62.00 /hr (est.),128960.0,Data Engineer,5,1,1,"Simplelogix
+3.5", IL,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,3.5,3.5,3.6,2023-05-23 17:03:37.136693,hr
+135,"$143,734 /yr (est.)",143734.0,Senior Data Engineer,-1,-1,-1,"Citadel Securities
+4.1", FL,4.1,0,22,201 to 500 Employees,2001,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,4.0,4.5,3.6,3.8,2.8,2023-05-23 17:03:41.649240,yr
+136,"$88,469 /yr (est.)",88469.0,Data Engineer,3,1,-1,"MyCare Medical Group
+4.0", FL,4.0,0,5,501 to 1000 Employees,2018,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.9,4.0,4.0,3.9,3.9,2023-05-23 17:03:44.035775,yr
+137,"$110,000 /yr (est.)",110000.0,Data Integrations Engineer,5,1,1,"ShareThis, Inc
+3.9", CA,3.9,0,16,51 to 200 Employees,2007,Company - Private,Internet & Web Services,Information Technology,$25 to $100 million (USD),3.9,4.1,3.9,3.8,4.3,2023-05-23 17:03:47.886337,yr
+139,$70.00 /hr (est.),145600.0,Sr. Data Engineer,6,2,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:03:58.332452,hr
+140,"$76,982 /yr (est.)",76982.0,Data Engineer- Process Improvement,1,1,1,Lincare, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:04:04.183375,yr
+141,"$115,000 /yr (est.)",115000.0,Senior Data Engineer,10,1,0,"YSI
+3.7", VA,3.7,0,12,10000+ Employees,2011,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.2,3.5,3.5,3.1,3.5,2023-05-23 17:04:10.549162,yr
+142,"$113,929 /yr (est.)",113929.0,Senior Data Engineer,3,1,1,"GeniusRx
+2.9", FL,2.9,0,3,51 to 200 Employees,2020,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.1,3.2,3.1,2.9,3.3,2023-05-23 17:04:14.360503,yr
+144,"$106,478 /yr (est.)",106478.0,Data Engineer,5,2,-1,"Azurity Pharmaceuticals, Inc.
+3.1", OR,3.1,0,24,201 to 500 Employees,1999,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.2,3.1,3.0,3.0,3.3,2023-05-23 17:04:22.605112,yr
+145,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:04:35.155204,hr
+146,$75.00 /hr (est.),156000.0,Snowflake Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:04:39.126026,hr
+147,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:04:43.134289,hr
+148,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),-1,-1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:04:46.002484,hr
+149,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:04:50.526424,hr
+150,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:04:54.337648,yr
+151,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:04:58.497526,yr
+152,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:05:02.122909,yr
+153,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:05:06.045812,yr
+154,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:05:09.858308,yr
+155,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:05:15.701411,hr
+156,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:05:19.492592,yr
+158,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:05:32.465442,hr
+159,$75.00 /hr (est.),156000.0,Senior Data Engineer (Hybrid),5,1,-1,"RelMap Consulting
+4.8", TX,4.8,0,13,1 to 50 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),4.6,4.8,4.9,5.0,4.8,2023-05-23 17:05:37.155735,hr
+160,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:05:40.978196,yr
+161,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:05:47.006187,yr
+162,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:05:51.030708,hr
+163,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:05:57.475965,hr
+165,$75.00 /hr (est.),156000.0,Senior Data Engineer,9,2,-1,"Stellar Inc.
+2.0", TX,2.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,2.0,3.0,2.0,1.0,2023-05-23 17:06:09.500049,hr
+166,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:06:14.579033,yr
+167,"$101,648 /yr (est.)",101648.0,Data Engineer,5,-1,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-23 17:06:17.620041,yr
+168,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:06:21.966406,yr
+169,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:06:26.756161,hr
+171,"$150,000 /yr (est.)",150000.0,Senior Engineer Big Data,5,1,1,"Amex
+4.2", AZ,4.2,0,173,10000+ Employees,1850,Company - Public,Financial Transaction Processing,Financial Services,$10+ billion (USD),3.9,4.0,4.3,3.9,4.1,2023-05-23 17:06:39.984861,yr
+172,"$108,898 /yr (est.)",108898.0,Big Data Engineer,0,2,1,"Alt Shift USA
+4.0", TX,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.6,4.0,4.0,4.0,2023-05-23 17:06:43.151363,yr
+173,"$117,500 /yr (est.)",117500.0,Jr data engineer,-1,-1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:06:47.635640,yr
+174,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:07:02.288537,hr
+175,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:07:07.155246,hr
+176,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:07:10.987232,hr
+177,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:07:15.272131,yr
+178,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:07:18.628379,hr
+179,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:07:22.173674,yr
+180,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:07:28.223990,yr
+181,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:07:32.110898,yr
+182,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:07:35.429638,yr
+183,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:07:39.381598,yr
+184,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:07:43.580613,hr
+185,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:07:46.665293,hr
+186,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:07:50.556276,yr
+187,$75.00 /hr (est.),156000.0,Senior Data Engineer,9,2,-1,"Stellar Inc.
+2.0", TX,2.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,2.0,3.0,2.0,1.0,2023-05-23 17:07:54.818547,hr
+188,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:07:59.822613,yr
+189,"$85,000 /yr (est.)",85000.0,Data Engineer,-1,-1,-1,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:08:05.799028,yr
+190,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:08:11.221863,hr
+191,$60.00 /hr (est.),124800.0,Big Data Engineer,8,2,-1,keasis Inc, DE,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:08:17.204383,hr
+192,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:08:23.166934,yr
+193,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:08:29.483887,hr
+194,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:08:35.341994,hr
+197,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,-1,-1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:08:54.023063,yr
+198,"$70,000 /yr (est.)",70000.0,Data Engineer (PAID BOOTCAMP),1,1,-1,"PCS GLOBAL TECH
+4.7", NY,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.5,4.6,4.6,4.2,2023-05-23 17:08:56.513922,yr
+199,"$108,898 /yr (est.)",108898.0,Big Data Engineer,0,2,1,"Alt Shift USA
+4.0", TX,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.6,4.0,4.0,4.0,2023-05-23 17:09:00.452743,yr
+200,$72.50 /hr (est.),150800.0,Data Warehouse Engineer,-1,-1,-1,"Devcare Solutions
+3.7", PA,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-23 17:09:04.262876,hr
+201,"$150,000 /yr (est.)",150000.0,Senior Engineer Big Data,5,1,1,"Amex
+4.2", AZ,4.2,0,173,10000+ Employees,1850,Company - Public,Financial Transaction Processing,Financial Services,$10+ billion (USD),3.9,4.0,4.3,3.9,4.1,2023-05-23 17:09:08.087990,yr
+202,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:09:12.211082,yr
+203,$75.00 /hr (est.),156000.0,Databricks Data Engineer,7,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:09:26.519014,hr
+204,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:09:31.345781,hr
+205,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:09:34.532298,hr
+206,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:09:39.485401,yr
+207,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:09:42.766015,hr
+208,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:09:46.584297,yr
+209,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:09:50.483113,yr
+211,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:10:01.499975,yr
+212,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:10:07.210766,yr
+213,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:10:11.498239,hr
+214,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:10:15.565013,hr
+215,"$72,014 /yr (est.)",72014.0,Associate Data Engineer,3,1,1,"Benson Hill
+3.5", MO,3.5,0,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 million (USD),3.4,3.8,3.7,3.1,3.2,2023-05-23 17:10:21.366220,yr
+216,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:10:25.625473,yr
+217,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:10:29.140794,yr
+218,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:10:33.129801,yr
+219,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:10:40.043571,hr
+220,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:10:46.193022,yr
+222,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:11:00.292627,hr
+223,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:11:05.213703,yr
+224,"$112,500 /yr (est.)",112500.0,SQL Data Engineer,3,1,-1,"HealthComp
+3.2", TX,3.2,0,29,501 to 1000 Employees,1994,Company - Private,Health Care Services & Hospitals,Healthcare,$25 to $100 million (USD),2.9,2.7,2.8,2.3,2.8,2023-05-23 17:11:09.415412,yr
+225,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:11:12.239063,yr
+226,$60.00 /hr (est.),124800.0,Big Data Engineer,8,2,-1,keasis Inc, DE,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:11:17.122390,hr
+228,"$130,500 /yr (est.)",130500.0,Big Data Engineer,0,1,-1,"Basis Technologies
+4.3", IL,4.3,0,22,501 to 1000 Employees,2001,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.1,4.3,4.3,4.0,4.3,2023-05-23 17:11:29.168401,yr
+229,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:11:33.685968,hr
+230,"$105,802 /yr (est.)",105802.0,Data Engineer,0,1,-1,"Timescale
+5.0", FL,5.0,0,8,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.9,4.5,4.9,4.9,4.7,2023-05-23 17:11:40.571587,yr
+231,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:11:44.825742,yr
+232,$75.00 /hr (est.),156000.0,Snowflake Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:12:00.082912,hr
+233,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:12:04.095543,hr
+234,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:12:07.916141,hr
+235,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:12:12.802370,yr
+236,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:12:16.196895,yr
+237,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:12:20.181066,yr
+238,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:12:26.649020,yr
+239,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:12:30.865256,yr
+241,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:12:40.363209,yr
+243,$62.50 /hr (est.),130000.0,Data Engineer,-1,-1,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:12:52.378084,hr
+244,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:12:55.930127,yr
+245,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:13:02.616978,hr
+246,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:13:08.657750,hr
+247,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,17,1 to 50 Employees,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:13:14.412151,yr
+248,"$72,014 /yr (est.)",72014.0,Associate Data Engineer,3,1,1,"Benson Hill
+3.5", MO,3.5,0,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 million (USD),3.4,3.8,3.7,3.1,3.2,2023-05-23 17:13:19.954692,yr
+249,"$79,585 /yr (est.)",79585.0,Associate Data Engineer,0,1,0,"MedSpeed
+3.3", IL,3.3,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.4,3.1,3.5,2023-05-23 17:13:23.978756,yr
+250,"$112,500 /yr (est.)",112500.0,SQL Data Engineer,3,1,-1,"HealthComp
+3.2", TX,3.2,0,29,501 to 1000 Employees,1994,Company - Private,Health Care Services & Hospitals,Healthcare,$25 to $100 million (USD),2.9,2.7,2.8,2.3,2.8,2023-05-23 17:13:28.305375,yr
+251,$60.00 /hr (est.),124800.0,Big Data Engineer,8,2,-1,keasis Inc, DE,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:13:31.957169,hr
+252,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:13:37.561703,hr
+253,"$83,353 /yr (est.)",83353.0,Data Engineer [USA - Remote],1,1,0,"AURA TECHNOLOGIES LLC.
+4.8", NC,4.8,0,8,1 to 50 Employees,2015,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.7,3.5,4.8,4.8,5.0,2023-05-23 17:13:44.882740,yr
+254,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:13:49.106438,hr
+255,$72.50 /hr (est.),150800.0,Data Warehouse Engineer,-1,-1,-1,"Devcare Solutions
+3.7", PA,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-23 17:13:53.114246,hr
+256,"$130,500 /yr (est.)",130500.0,Big Data Engineer,0,1,-1,"Basis Technologies
+4.3", IL,4.3,0,22,501 to 1000 Employees,2001,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.1,4.3,4.3,4.0,4.3,2023-05-23 17:13:56.510272,yr
+257,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:14:00.700769,yr
+258,"$104,604 /yr (est.)",104604.0,Big Data Engineer,0,2,-1,"Sky Consulting Inc
+4.0", MN,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,2.0,2.0,3.0,3.0,2023-05-23 17:14:04.714113,yr
+259,$75.00 /hr (est.),156000.0,Data Engineer,8,2,-1,"RJT Compuquest
+3.7", MO,3.7,0,27,501 to 1000 Employees,1996,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.8,3.6,3.6,3.6,3.7,2023-05-23 17:14:09.218891,hr
+260,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:14:12.612079,hr
+261,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:14:26.131827,hr
+262,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:14:30.348075,hr
+263,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:14:34.390374,yr
+264,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:14:38.890390,yr
+265,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:14:43.188730,yr
+266,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:14:47.688257,yr
+268,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:15:00.116998,hr
+269,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:15:04.584348,yr
+270,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:15:08.648235,yr
+271,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:15:13.804854,yr
+272,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:15:18.861880,hr
+273,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:15:22.154568,yr
+274,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", WA,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:15:28.047685,hr
+275,"$79,585 /yr (est.)",79585.0,Associate Data Engineer,0,1,0,"MedSpeed
+3.3", IL,3.3,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.4,3.1,3.5,2023-05-23 17:15:31.228238,yr
+276,"$106,696 /yr (est.)",106696.0,Data Engineer,-1,-1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:15:35.605871,yr
+277,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:15:40.951241,yr
+278,"$83,353 /yr (est.)",83353.0,Data Engineer [USA - Remote],1,1,0,"AURA TECHNOLOGIES LLC.
+4.8", NC,4.8,0,8,1 to 50 Employees,2015,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.7,3.5,4.8,4.8,5.0,2023-05-23 17:15:45.454452,yr
+279,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:15:49.694233,yr
+281,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:16:00.642293,yr
+282,"$109,190 /yr (est.)",109190.0,Senior Data Engineer (Azure),7,1,1,"Momentum Consulting
+4.4", FL,4.4,0,29,51 to 200 Employees,1994,Private Practice / Firm,Business Consulting,Management & Consulting,$25 to $100 million (USD),3.7,3.8,4.3,4.1,4.1,2023-05-23 17:16:06.989328,yr
+284,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:16:18.810347,hr
+285,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:16:25.191549,yr
+286,$60.00 /hr (est.),124800.0,Big Data Engineer,8,2,-1,keasis Inc, DE,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:16:29.661420,hr
+288,"$103,232 /yr (est.)",103232.0,Big Data Engineer BDE21-1,0,1,-1,"Datasync Techonlogies Inc
+4.9", VA,4.9,0,20,1 to 50 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.9,2023-05-23 17:16:43.921615,yr
+289,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:16:47.527910,hr
+290,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:17:01.644459,hr
+291,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:17:07.135436,hr
+292,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:17:10.264546,yr
+293,$43.38 /hr (est.),90230.4,Data Engineer,3,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:17:14.669377,hr
+294,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:17:20.347440,yr
+295,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:17:24.858293,yr
+297,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:17:37.079665,hr
+298,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:17:42.001505,yr
+299,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:17:46.117247,yr
+300,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Less than $1 million (USD),3.7,3.8,3.9,3.5,3.8,2023-05-23 17:17:51.060706,hr
+301,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:17:56.085977,yr
+302,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", WA,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:18:02.679076,hr
+303,"$79,585 /yr (est.)",79585.0,Associate Data Engineer,0,1,0,"MedSpeed
+3.3", IL,3.3,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.4,3.1,3.5,2023-05-23 17:18:06.405143,yr
+304,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:18:12.092399,yr
+305,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:18:16.298032,yr
+306,"$83,353 /yr (est.)",83353.0,Data Engineer [USA - Remote],1,1,0,"AURA TECHNOLOGIES LLC.
+4.8", NC,4.8,0,8,1 to 50 Employees,2015,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.7,3.5,4.8,4.8,5.0,2023-05-23 17:18:20.662184,yr
+307,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:18:25.074178,yr
+308,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:18:29.357861,yr
+310,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:18:41.043342,yr
+312,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:18:55.591965,hr
+313,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:19:01.960235,yr
+314,$60.00 /hr (est.),124800.0,Big Data Engineer,8,2,-1,keasis Inc, DE,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:19:07.694157,hr
+316,"$103,232 /yr (est.)",103232.0,Big Data Engineer BDE21-1,0,1,-1,"Datasync Techonlogies Inc
+4.9", VA,4.9,0,20,1 to 50 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.9,2023-05-23 17:19:20.890393,yr
+317,$64.50 /hr (est.),134160.0,Data Engineer- Hadoop,7,2,-1,"Data Inc
+3.8", NC,3.8,0,40,501 to 1000 Employees,1983,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.8,3.8,3.6,3.5,3.8,2023-05-23 17:19:25.821667,hr
+318,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:19:30.503417,hr
+319,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:19:45.234020,hr
+320,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:19:50.424015,hr
+321,"$103,925 /yr (est.)",103925.0,Data Engineer,5,2,1,Techadox, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:19:54.866518,yr
+322,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:20:02.384627,yr
+323,"$96,680 /yr (est.)",96680.0,Data Engineer,-1,-1,-1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:20:06.806849,yr
+324,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),-1,-1,-1,-1, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:20:10.026143,yr
+327,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),-1,-1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:20:34.973759,hr
+328,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:20:38.949402,yr
+329,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", WA,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:20:43.162332,hr
+330,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:20:47.949632,hr
+331,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:20:52.396149,yr
+332,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:20:56.694930,yr
+333,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:21:01.655205,yr
+334,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:21:06.697811,yr
+335,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:21:13.808179,yr
+336,"$79,585 /yr (est.)",79585.0,Associate Data Engineer,0,1,0,"MedSpeed
+3.3", IL,3.3,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.4,3.1,3.5,2023-05-23 17:21:18.754805,yr
+337,"$83,353 /yr (est.)",83353.0,Data Engineer [USA - Remote],1,1,0,"AURA TECHNOLOGIES LLC.
+4.8", NC,4.8,0,8,1 to 50 Employees,2015,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.7,3.5,4.8,4.8,5.0,2023-05-23 17:21:24.018330,yr
+339,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:21:35.061530,yr
+340,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:21:38.775350,yr
+341,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:21:43.576137,yr
+343,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:21:55.909884,hr
+344,$61.87 /hr (est.),128689.6,Data Engineer,6,1,-1,DataPattern, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:22:01.001460,hr
+345,"$112,500 /yr (est.)",112500.0,SQL Data Engineer,3,1,-1,"HealthComp
+3.2", TX,3.2,0,29,501 to 1000 Employees,1994,Company - Private,Health Care Services & Hospitals,Healthcare,$25 to $100 million (USD),2.9,2.7,2.8,2.3,2.8,2023-05-23 17:22:07.929244,yr
+347,"$131,461 /yr (est.)",131461.0,"Co-op, Data Engineer",0,2,1,Exo Therapeutics, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:22:18.046379,yr
+348,$75.00 /hr (est.),156000.0,Snowflake Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:22:34.583214,hr
+349,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:22:39.874402,hr
+350,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:22:43.403698,yr
+351,"$103,925 /yr (est.)",103925.0,Data Engineer,5,2,1,Techadox, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:22:48.428651,yr
+352,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:22:55.098037,yr
+353,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),-1,-1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:23:02.071011,hr
+354,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:23:06.599671,yr
+355,"$117,500 /yr (est.)",117500.0,Jr data engineer,0,2,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:23:10.828117,yr
+356,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:23:17.709561,yr
+358,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:23:27.220717,yr
+360,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:23:38.098818,yr
+361,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:23:42.716126,hr
+362,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:23:47.070957,hr
+363,"$95,595 /yr (est.)",95595.0,Data Analytics Engineer - SOCOM,0,1,-1,"Barbaricum
+3.9", FL,3.9,0,15,51 to 200 Employees,2008,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),3.6,3.8,4.1,3.8,3.5,2023-05-23 17:23:51.496883,yr
+364,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:23:55.225812,yr
+365,"$151,777 /yr (est.)",151777.0,Sr. Big Data Engineer,3,1,1,"spar information systems
+3.5",Remote,3.5,1,11,201 to 500 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.6,3.5,3.4,3.6,3.6,2023-05-23 17:24:02.166865,yr
+366,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:24:06.018893,hr
+367,"$94,963 /yr (est.)",94963.0,Senior Data Engineer (Remote),5,1,0,"CareFirst BlueCross BlueShield
+3.5", MD,3.5,0,81,5001 to 10000 Employees,1942,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),3.2,3.4,3.4,2.9,3.4,2023-05-23 17:24:11.765923,yr
+368,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:24:16.809330,yr
+369,$62.50 /hr (est.),130000.0,SR. Data Engineer,10,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:24:22.044000,hr
+370,"$75,804 /yr (est.)",75804.0,Data Engineer with Snowflake,0,2,1,"Kaizen Technologies
+4.0", NC,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.2,4.0,4.1,3.9,3.9,2023-05-23 17:24:29.071443,yr
+371,"$79,585 /yr (est.)",79585.0,Associate Data Engineer,0,1,0,"MedSpeed
+3.3", IL,3.3,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.4,3.1,3.5,2023-05-23 17:24:34.861756,yr
+372,"$151,777 /yr (est.)",151777.0,Sr. Big Data Engineer,0,1,1,-1,Remote,3.5,1,11,201 to 500 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.6,3.5,3.4,3.6,3.6,2023-05-23 17:24:40.108795,yr
+373,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:24:47.396195,yr
+374,"$76,982 /yr (est.)",76982.0,Data Engineer- Process Improvement,1,1,1,Lincare, FL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:24:55.144344,yr
+375,"$112,500 /yr (est.)",112500.0,SQL Data Engineer,3,1,-1,"HealthComp
+3.2", TX,3.2,0,29,501 to 1000 Employees,1994,Company - Private,Health Care Services & Hospitals,Healthcare,$25 to $100 million (USD),2.9,2.7,2.8,2.3,2.8,2023-05-23 17:25:01.614990,yr
+376,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:25:04.868618,yr
+377,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:25:20.149584,hr
+378,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:25:25.400607,hr
+379,"$103,925 /yr (est.)",103925.0,Data Engineer,5,2,1,Techadox, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:25:29.977850,yr
+380,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:25:37.111800,yr
+381,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:25:41.859334,yr
+382,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:25:47.831089,hr
+383,"$101,648 /yr (est.)",101648.0,Data Engineer,5,-1,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-23 17:25:53.651105,yr
+384,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:25:58.362406,yr
+385,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:26:02.349107,yr
+386,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:26:09.273883,yr
+387,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:26:13.866666,yr
+388,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:26:18.546134,yr
+389,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:26:22.209144,hr
+390,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:26:26.824623,yr
+391,$64.00 /hr (est.),133120.0,Data Quality Engineer,1,2,-1,"Kairos Technologies
+4.6", TX,4.6,0,20,51 to 200 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,4.1,4.2,4.3,4.2,2023-05-23 17:26:32.748659,hr
+392,"$112,071 /yr (est.)",112071.0,Data Engineer,0,1,1,"McDonald's Corporation
+3.5", IL,3.5,0,68,10000+ Employees,1955,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.3,3.0,3.2,3.2,3.2,2023-05-23 17:26:37.357343,yr
+393,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:26:42.084735,hr
+395,$62.50 /hr (est.),130000.0,SR. Data Engineer,10,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:26:52.296966,hr
+396,"$122,500 /yr (est.)",122500.0,Data Engineer,2,1,-1,"Garner Health
+3.5", TX,3.5,0,4,51 to 200 Employees,2019,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.3,3.2,3.3,2023-05-23 17:26:59.405895,yr
+397,$64.50 /hr (est.),134160.0,Data Engineer,7,2,-1,"Garner Health
+3.5", TX,3.5,0,40,501 to 1000 Employees,1983,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),-1,-1,-1,-1,-1,2023-05-23 17:27:03.854236,hr
+398,$65.00 /hr (est.),135200.0,DATA ENGINEER,-1,-1,-1,"infinity quest
+4.0", WA,4.0,0,17,201 to 500 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,3.7,3.9,3.8,3.7,2023-05-23 17:27:10.024222,hr
+399,"$108,898 /yr (est.)",108898.0,Big Data Engineer,0,2,1,"Alt Shift USA
+4.0", TX,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.6,4.0,4.0,4.0,2023-05-23 17:27:14.894905,yr
+402,$65.00 /hr (est.),135200.0,Big Data Engineer,4,2,-1,"IT Engagements,Inc.", TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:27:34.305487,hr
+403,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:27:40.805162,yr
+404,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,-1,-1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:27:45.375846,hr
+405,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,6,1,1,"ASA
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.4,3.5,3.6,3.5,2023-05-23 17:27:48.344421,hr
+406,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:28:03.490475,hr
+407,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:28:09.868056,hr
+408,$43.38 /hr (est.),90230.4,Data Engineer,-1,-1,-1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:28:14.304051,hr
+409,"$119,000 /yr (est.)",119000.0,Data Engineer,-1,-1,-1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:28:18.427374,yr
+410,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:28:22.788289,hr
+411,"$101,648 /yr (est.)",101648.0,Data Engineer,5,-1,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-23 17:28:28.605890,yr
+412,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:28:33.320121,yr
+413,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:28:38.149438,hr
+414,"$96,680 /yr (est.)",96680.0,-1,-1,-1,-1,-1, CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:28:42.940075,yr
+415,"$96,680 /yr (est.)",96680.0,Data Engineer,-1,-1,-1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:28:48.772692,yr
+416,"$117,500 /yr (est.)",117500.0,Jr data engineer,-1,-1,-1,-1,Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:28:53.382279,yr
+417,$127.50 /hr (est.),265200.0,Software Engineer -Big Data,6,1,1,"CEDENT
+5.0", TX,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:28:58.699846,hr
+418,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:29:05.452575,yr
+419,$62.50 /hr (est.),130000.0,Data Engineer,-1,-1,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:29:10.035512,hr
+420,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:29:14.804622,hr
+421,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:29:19.512479,yr
+422,$62.50 /hr (est.),130000.0,SR. Data Engineer,10,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:29:24.454697,hr
+424,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:29:37.501666,yr
+425,$51.90 /hr (est.),107952.0,Senior Data Engineer,5,2,-1,"Xiar tech inc
+3.3", TX,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.3,3.3,3.3,3.3,2023-05-23 17:29:44.742732,hr
+426,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:29:49.763808,yr
+427,"$112,071 /yr (est.)",112071.0,Data Engineer,0,1,1,"McDonald's Corporation
+3.5", IL,3.5,0,68,10000+ Employees,1955,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.3,3.0,3.2,3.2,3.2,2023-05-23 17:29:55.334508,yr
+428,$65.00 /hr (est.),135200.0,Big Data Engineer,4,2,-1,"IT Engagements,Inc.", TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:29:59.446628,hr
+429,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:30:06.507052,yr
+430,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:30:12.713744,yr
+431,$64.00 /hr (est.),133120.0,Data Quality Engineer,1,2,-1,"Kairos Technologies
+4.6", TX,4.6,0,20,51 to 200 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,4.1,4.2,4.3,4.2,2023-05-23 17:30:17.900990,hr
+432,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:30:22.672574,yr
+434,"$83,685 /yr (est.)",83685.0,SQL Data Engineer - Snowflake,6,2,-1,"Perceptive Recruiting, LLC", SC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:30:35.840277,yr
+435,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:30:52.404943,hr
+436,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:30:58.074599,hr
+437,"$103,925 /yr (est.)",103925.0,Data Engineer,5,2,1,Techadox, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:31:02.841665,yr
+438,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:31:10.718536,yr
+439,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:31:17.584831,yr
+440,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:31:21.689074,hr
+441,"$101,648 /yr (est.)",101648.0,Data Engineer,5,-1,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-23 17:31:27.462943,yr
+442,$127.50 /hr (est.),265200.0,Software Engineer -Big Data,6,1,1,"CEDENT
+5.0", TX,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:31:32.999317,hr
+443,"$96,680 /yr (est.)",96680.0,Data Engineer,-1,-1,-1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:31:39.141272,yr
+444,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:31:43.886988,yr
+445,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:31:50.442878,hr
+446,"$108,898 /yr (est.)",108898.0,Big Data Engineer,0,2,1,"Alt Shift USA
+4.0", TX,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.6,4.0,4.0,4.0,2023-05-23 17:31:56.218289,yr
+447,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:32:01.815210,hr
+449,"$92,902 /yr (est.)",92902.0,Data Engineer,0,1,1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:32:13.145094,yr
+450,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,-1,-1,-1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:32:18.479281,yr
+451,$62.50 /hr (est.),130000.0,SR. Data Engineer,10,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:32:22.182985,hr
+452,"$106,696 /yr (est.)",106696.0,Data Engineer,5,1,-1,"InfoQuest Consulting Group Inc.
+4.5", PA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.1,4.5,4.3,3.1,2023-05-23 17:32:28.781324,yr
+453,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:32:35.371004,yr
+454,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:32:40.831796,hr
+455,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:32:45.638303,yr
+456,$64.00 /hr (est.),133120.0,Data Quality Engineer,1,2,-1,"Kairos Technologies
+4.6", TX,4.6,0,20,51 to 200 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,4.1,4.2,4.3,4.2,2023-05-23 17:32:50.306609,hr
+457,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:32:55.985625,yr
+458,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:33:01.021021,yr
+459,$51.90 /hr (est.),107952.0,Senior Data Engineer,5,2,-1,"Xiar tech inc
+3.3", TX,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.3,3.3,3.3,3.3,2023-05-23 17:33:06.862823,hr
+460,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:33:12.505592,hr
+461,"$103,232 /yr (est.)",103232.0,Big Data Engineer BDE21-1,0,1,-1,"Datasync Techonlogies Inc
+4.9", VA,4.9,0,20,1 to 50 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.9,2023-05-23 17:33:19.639061,yr
+462,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:33:24.374073,hr
+463,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:33:31.651530,yr
+464,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:33:47.214151,hr
+465,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:33:53.016044,hr
+466,"$103,925 /yr (est.)",103925.0,Data Engineer,5,2,1,Techadox, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:33:58.040886,yr
+467,"$85,000 /yr (est.)",85000.0,Data Engineer (Junior),3,1,-1,Schober Consulting LLC, MN,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:34:05.714549,yr
+468,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:34:13.287392,yr
+469,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:34:18.352432,hr
+470,"$101,648 /yr (est.)",101648.0,Data Engineer,5,-1,-1,"Virtualware Innovations
+4.6", TX,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.6,5.0,4.6,5.0,2023-05-23 17:34:24.278919,yr
+471,$127.50 /hr (est.),265200.0,Software Engineer -Big Data,6,1,1,"CEDENT
+5.0", TX,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:34:28.435373,hr
+472,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:34:34.711645,yr
+473,"$85,000 /yr (est.)",85000.0,Data Engineer,2,1,0,DocsInk LLC, NC,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:34:39.855005,yr
+474,$72.50 /hr (est.),150800.0,Big Data Engineer,1,2,1,"Fuge Technologies Inc
+4.7", NJ,4.7,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.5,4.7,4.3,4.5,2023-05-23 17:34:49.083520,hr
+475,"$108,898 /yr (est.)",108898.0,Big Data Engineer,0,2,1,"Alt Shift USA
+4.0", TX,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.6,4.0,4.0,4.0,2023-05-23 17:34:54.311493,yr
+476,$86.00 /hr (est.),178880.0,Senior Big Data Engineer,3,1,-1,"ASA
+3.6", TX,3.6,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),3.6,3.4,3.5,3.6,3.5,2023-05-23 17:34:59.175221,hr
+478,"$92,902 /yr (est.)",92902.0,Data Engineer,-1,-1,-1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:35:10.415930,yr
+479,"$110,441 /yr (est.)",110441.0,Senior AWS Data Engineer,10,1,1,"JSR Tech Consulting
+5.0", NJ,5.0,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),5.0,4.0,5.0,5.0,5.0,2023-05-23 17:35:13.600105,yr
+480,$62.50 /hr (est.),130000.0,SR. Data Engineer,10,2,-1,Kommforcesolutions, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:35:18.438391,hr
+481,"$92,902 /yr (est.)",92902.0,Data Engineer,-1,-1,-1,"American Power & Gas
+2.5", FL,2.5,0,13,201 to 500 Employees,2010,Company - Private,Energy & Utilities,"Energy, Mining & Utilities",$100 to $500 million (USD),2.6,2.8,2.4,2.7,2.7,2023-05-23 17:35:25.561285,yr
+482,"$117,500 /yr (est.)",117500.0,Jr data engineer,3,1,-1,"Kalani Consulting
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,2023-05-23 17:35:29.854299,yr
+483,$62.50 /hr (est.),130000.0,Data Engineer,11,2,-1,"Okaya infocom
+4.0", NJ,4.0,0,17,Unknown,2006,Self-employed,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.5,3.8,2023-05-23 17:35:34.607165,hr
+484,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:35:38.489115,yr
+485,$64.00 /hr (est.),133120.0,Data Quality Engineer,1,2,-1,"Kairos Technologies
+4.6", TX,4.6,0,20,51 to 200 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,4.1,4.2,4.3,4.2,2023-05-23 17:35:42.908944,hr
+486,"$83,235 /yr (est.)",83235.0,Data Engineer,3,1,-1,"INTELETECH GLOBAL INC
+3.7", FL,3.7,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.2,4.0,3.9,2023-05-23 17:35:47.690935,yr
+487,"$91,842 /yr (est.)",91842.0,Data Engineer,3,1,-1,"Sunwater Capital
+4.0", MD,4.0,0,6,1 to 50 Employees,2017,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1,-1,-1,-1,-1,2023-05-23 17:35:52.979805,yr
+488,$51.90 /hr (est.),107952.0,Senior Data Engineer,5,2,-1,"Xiar tech inc
+3.3", TX,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.3,3.3,3.3,3.3,2023-05-23 17:35:58.176136,hr
+489,$42.50 /hr (est.),88400.0,Snowflake Data Engineer,5,1,-1,Futuretech Consultants LLC, MS,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:36:02.951359,hr
+490,"$103,232 /yr (est.)",103232.0,Big Data Engineer BDE21-1,0,1,-1,"Datasync Techonlogies Inc
+4.9", VA,4.9,0,20,1 to 50 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.9,2023-05-23 17:36:09.726549,yr
+491,$57.50 /hr (est.),119600.0,AWS Data Engineer,5,1,1,Sthavirsoft Inc, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:36:14.409134,hr
+492,"$115,231 /yr (est.)",115231.0,Big Data Engineer,0,1,-1,Softwhiz, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:36:22.418387,yr
+493,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:36:38.731370,hr
+494,$43.38 /hr (est.),90230.4,Data Engineer,10,1,1,"Infomatics Corp
+4.7",Remote,4.7,1,18,51 to 200 Employees,2005,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.7,4.5,4.6,4.6,4.6,2023-05-23 17:36:44.057894,hr
+495,"$103,925 /yr (est.)",103925.0,Data Engineer,5,2,1,Techadox, NJ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 17:36:48.050467,yr
+496,"$97,837 /yr (est.)",97837.0,Data Engineer,0,1,-1,"Southern Glazer’s Wine and Spirits
+3.6", TX,3.6,0,55,10000+ Employees,1968,Company - Private,Wholesale,Retail & Wholesale,$10+ billion (USD),3.5,3.6,3.4,3.2,3.3,2023-05-23 17:36:54.761195,yr
+497,"$119,000 /yr (est.)",119000.0,Data Engineer,0,2,1,"MCG Health
+4.6", WA,4.6,0,35,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.3,4.4,4.6,4.5,4.5,2023-05-23 17:36:59.271906,yr
+498,$75.00 /hr (est.),156000.0,AWS Data Engineer(Tech Lead),8,2,1,"BigLynx Computer Software
+4.9", WA,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.6,4.8,4.9,4.8,2023-05-23 17:37:03.746251,hr
+499,"$96,680 /yr (est.)",96680.0,Data Engineer,3,1,1,"AvidXchange
+3.7", CA,3.7,0,23,1001 to 5000 Employees,2000,Company - Public,Software Development,Information Technology,$100 to $500 million (USD),3.7,3.6,3.8,3.4,3.9,2023-05-23 17:37:10.131775,yr

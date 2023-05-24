@@ -1,0 +1,815 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+2,"$95,509 /yr (est.)",95509.0,Data Scientist,0,1,-1,"RS Americas
+4.0", TX,4.0,0,95,501 to 1000 Employees,1928,Company - Private,Wholesale,Retail & Wholesale,$500 million to $1 billion (USD),4.1,3.8,4.2,3.7,4.0,2023-05-23 15:23:25.027867,yr
+3,"$132,194 /yr (est.)",132194.0,Data Science & Machine Learning-W2,1,2,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:23:27.866012,yr
+4,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:23:32.468108,yr
+5,"$89,965 /yr (est.)",89965.0,Data Scientist - MPD,2,1,1,"City of Minneapolis
+3.5", MN,3.5,0,156,1001 to 5000 Employees,1867,Government,Municipal Agencies,Government & Public Administration,Unknown / Non-Applicable,3.3,3.9,3.3,3.1,4.0,2023-05-23 15:23:35.981892,yr
+8,"$99,197 /yr (est.)",99197.0,Data Scientist,-1,-1,-1,"Excella
+4.0", VA,4.0,0,21,201 to 500 Employees,2002,Company - Private,Business Consulting,Management & Consulting,$25 to $100 million (USD),3.9,3.8,4.2,3.8,4.2,2023-05-23 15:23:52.745990,yr
+9,$35.00 /hr (est.),72800.0,Data Scientist,-1,-1,-1,"Columbia University
+4.1", NY,4.1,0,269,10000+ Employees,1754,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,3.8,3.6,3.9,3.5,3.8,2023-05-23 15:23:56.300143,hr
+10,$80.00 /hr (est.),166400.0,Data Scientist,0,2,-1,"Surya Systems
+3.9", CA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.0,4.0,3.3,3.7,2023-05-23 15:23:58.788480,hr
+11,"$120,000 /yr (est.)",120000.0,"Data Jobs in Dublin: Data Scientist, Data Engineer, Data Analyst, + More",0,1,-1,"Cardinal Health, Quest, Wendy's + More", OH,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:24:02.671697,yr
+12,"$100,030 /yr (est.)",100030.0,Data Scientist,5,2,1,"Drexel University
+4.1", PA,4.1,0,132,1001 to 5000 Employees,1891,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD),3.9,3.5,4.0,3.7,4.1,2023-05-23 15:24:07.871784,yr
+13,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Elite ProTek
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 15:24:10.281073,yr
+14,"$93,523 /yr (est.)",93523.0,Data Scientist,3,1,1,"BRADY WORLDWIDE INC
+3.6", WI,3.6,0,109,5001 to 10000 Employees,1914,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.3,3.5,3.5,3.2,3.8,2023-05-23 15:24:14.443397,yr
+15,"$115,965 /yr (est.)",115965.0,Data Scientist (Bioinformatics),0,1,-1,"Psomagen Inc
+2.6", MD,2.6,0,19,51 to 200 Employees,2004,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,2.8,2.6,2.6,2.8,2023-05-23 15:24:17.205247,yr
+16,"$94,752 /yr (est.)",94752.0,Data Scientist 1,3,1,-1,"Baylor Scott & White Health
+3.9", TX,3.9,0,120,10000+ Employees,1903,Company - Private,Health Care Services & Hospitals,Healthcare,$5 to $10 billion (USD),3.8,3.6,3.9,3.5,3.7,2023-05-23 15:24:19.709358,yr
+19,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:24:32.321656,yr
+20,$70.00 /hr (est.),145600.0,Data Scientist,1,2,1,"Devcare Solutions
+3.7", OH,3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-23 15:24:35.751586,hr
+21,$62.50 /hr (est.),130000.0,Senior Data Scientist,8,1,1,"ClinDCast LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,4.0,4.0,4.0,2023-05-23 15:24:38.841138,hr
+22,"$99,486 /yr (est.)",99486.0,Data Scientist,0,2,-1,"WinWire
+4.0", NJ,4.0,0,17,501 to 1000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.8,4.0,3.8,3.8,2023-05-23 15:24:42.602686,yr
+23,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:24:45.741878,yr
+24,"$101,376 /yr (est.)",101376.0,Data Scientist,0,2,-1,"Cyber Infotech
+4.2", TX,4.2,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 15:24:48.886595,yr
+25,"$77,500 /yr (est.)",77500.0,Data Scientist,2,1,-1,Jobba Trade Tech, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:24:53.103392,yr
+26,"$98,676 /yr (est.)",98676.0,Data Scientist I,0,1,-1,"Hy-Vee, Inc.
+3.4", IA,3.4,0,93,10000+ Employees,1930,Company - Private,Grocery Stores,Retail & Wholesale,$5 to $10 billion (USD),3.2,3.0,3.1,2.9,3.2,2023-05-23 15:24:58.499993,yr
+27,"$93,374 /yr (est.)",93374.0,Jr Data Scientist,1,1,-1,"Veracity Software
+3.9", NJ,3.9,0,13,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,4.0,3.8,3.9,2023-05-23 15:25:01.049277,yr
+28,"$72,500 /yr (est.)",72500.0,Data Scientist,0,1,-1,"Numero Data
+3.9",Remote,3.9,1,-1,-1,-1,-1,-1,-1,-1,4.0,3.4,4.0,4.0,3.8,2023-05-23 15:25:04.065609,yr
+29,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:25:17.258366,yr
+30,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:25:20.012444,hr
+32,"$96,521 /yr (est.)",96521.0,Associate Data Scientist,-1,-1,-1,"WALGREENS
+3.1", IL,3.1,0,122,10000+ Employees,1901,Company - Public,Drug & Health Stores,Retail & Wholesale,$10+ billion (USD),3.1,3.0,2.9,2.8,2.8,2023-05-23 15:25:26.836262,yr
+33,"$108,750 /yr (est.)",108750.0,Data Scientist (Remote),3,1,-1,"Parsons
+3.9",Remote,3.9,1,79,10000+ Employees,1944,Company - Public,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),3.7,3.6,3.8,3.5,3.8,2023-05-23 15:25:29.356632,yr
+35,"$88,324 /yr (est.)",88324.0,Associate Data Scientist,0,1,0,"American Modern Insurance Group
+4.1", VA,4.1,0,29,Unknown,1994,Company - Private,Insurance Carriers,Insurance,$25 to $100 million (USD),4.0,4.0,4.1,3.8,3.7,2023-05-23 15:25:36.458316,yr
+36,"$107,340 /yr (est.)",107340.0,Associate Data Scientist,3,1,0,"Blue Cross Blue Shield of Massachusetts
+4.0", MA,4.0,0,86,1001 to 5000 Employees,1937,Nonprofit Organization,Insurance Carriers,Insurance,$100 to $500 million (USD),3.9,3.8,4.2,3.7,4.3,2023-05-23 15:25:39.851848,yr
+37,"$91,342 /yr (est.)",91342.0,Junior Data Scientist,-1,-1,-1,"Soothsayer Analytics
+2.7", MI,2.7,0,-1,-1,-1,-1,-1,-1,-1,1.9,2.1,2.5,2.3,2.1,2023-05-23 15:25:43.235575,yr
+38,"$88,177 /yr (est.)",88177.0,Technical Associate I/Data Scientist,0,1,0,"MIT
+4.3", MA,4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.8,4.0,3.7,3.6,2023-05-23 15:25:47.418477,yr
+39,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:25:50.745019,yr
+40,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:25:54.166381,yr
+41,"$83,750 /yr (est.)",83750.0,Data Scientist,0,1,1,"Unilever
+4.1", CT,4.1,0,151,10000+ Employees,1872,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.8,4.2,3.7,3.7,2023-05-23 15:25:59.346889,yr
+42,"$97,226 /yr (est.)",97226.0,"Data Scientist I, Bioinformatics",0,1,-1,"UT Southwestern
+3.9", TX,3.9,0,80,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),3.9,3.8,3.8,3.4,3.7,2023-05-23 15:26:02.146379,yr
+44,"$96,017 /yr (est.)",96017.0,"Scientist 2, Data Science",-1,-1,-1,"Katalyst Healthcares & Life Sciences
+3.6", NC,3.6,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.8,3.6,3.6,3.7,2023-05-23 15:26:11.047771,yr
+45,"$81,905 /yr (est.)",81905.0,Data Scientist,0,1,-1,"Trajector
+3.3", FL,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.4,3.4,3.1,3.8,2023-05-23 15:26:14.030389,yr
+46,"$108,990 /yr (est.)",108990.0,Data Scientist II Data Science,1,1,1,"Kaiser Permanente
+3.9", CA,3.9,0,78,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.7,4.3,3.6,3.2,3.5,2023-05-23 15:26:18.311820,yr
+47,"$134,200 /yr (est.)",134200.0,Data Scientist I - MSAT,0,1,-1,"Roche
+4.3", CA,4.3,0,127,5001 to 10000 Employees,1896,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.7,4.1,2023-05-23 15:26:21.739618,yr
+48,"$124,500 /yr (est.)",124500.0,Data Scientist,3,1,-1,"Charles Schwab
+4.1", TX,4.1,0,50,10000+ Employees,1973,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),4.0,3.9,4.2,3.8,4.1,2023-05-23 15:26:25.160677,yr
+49,"$112,555 /yr (est.)",112555.0,Junior Data Scientist,0,1,0,"SoundThinking
+3.5", CA,3.5,0,27,201 to 500 Employees,1996,Company - Public,Software Development,Information Technology,$25 to $100 million (USD),3.2,3.4,3.4,3.4,3.5,2023-05-23 15:26:29.134447,yr
+50,"$97,570 /yr (est.)",97570.0,Data Scientist,0,2,-1,"Wise Equation Solutions
+4.9", TX,4.9,0,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.9,4.3,5.0,4.9,4.8,2023-05-23 15:26:32.559070,yr
+51,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:26:35.777459,yr
+52,"$145,500 /yr (est.)",145500.0,Junior Data Scientist,4,1,-1,"Peraton
+3.6", MD,3.6,0,6,10000+ Employees,2017,Company - Private,Information Technology Support Services,Information Technology,$5 to $10 billion (USD),3.5,3.6,3.4,3.3,3.8,2023-05-23 15:26:39.437252,yr
+54,"$67,830 /yr (est.)",67830.0,Junior Data Scientist,3,1,0,"Camgian
+4.9", MS,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.8,4.9,4.6,4.7,2023-05-23 15:26:48.888296,yr
+55,"$100,792 /yr (est.)",100792.0,Junior Data Scientist,-1,-1,-1,"Logistics Management Institute
+4.2", VA,4.2,0,62,1001 to 5000 Employees,1961,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),3.8,4.0,4.3,3.8,4.4,2023-05-23 15:26:52.485531,yr
+56,"$112,595 /yr (est.)",112595.0,Senior Data Scientist I,5,1,-1,"ALDI
+3.5", IL,3.5,0,24,10000+ Employees,1999,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,3.3,3.6,3.3,3.1,2.9,2023-05-23 15:26:54.567195,yr
+57,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:26:58.295521,yr
+59,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:27:14.995200,yr
+60,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:27:17.761363,hr
+61,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:27:21.331477,yr
+62,"$134,200 /yr (est.)",134200.0,Data Scientist I - MSAT,0,1,-1,"Roche
+4.3", CA,4.3,0,127,5001 to 10000 Employees,1896,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.7,4.1,2023-05-23 15:27:26.283270,yr
+63,"$130,623 /yr (est.)",130623.0,Data Scientist,11,1,0,"National Security Agency
+3.7", MD,3.7,0,61,Unknown,1962,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,4.2,3.8,3.4,3.1,4.1,2023-05-23 15:27:30.109428,yr
+65,"$96,521 /yr (est.)",96521.0,Associate Data Scientist,-1,-1,-1,"WALGREENS
+3.1", IL,3.1,0,122,10000+ Employees,1901,Company - Public,Drug & Health Stores,Retail & Wholesale,$10+ billion (USD),3.1,3.0,2.9,2.8,2.8,2023-05-23 15:27:38.089228,yr
+66,"$83,750 /yr (est.)",83750.0,Data Scientist,0,1,1,"Unilever
+4.1", CT,4.1,0,151,10000+ Employees,1872,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),3.7,3.8,4.2,3.7,3.7,2023-05-23 15:27:40.731928,yr
+67,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),-1,-1,-1,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:27:44.337885,yr
+68,"$107,340 /yr (est.)",107340.0,Associate Data Scientist,3,1,0,"Blue Cross Blue Shield of Massachusetts
+4.0", MA,4.0,0,86,1001 to 5000 Employees,1937,Nonprofit Organization,Insurance Carriers,Insurance,$100 to $500 million (USD),3.9,3.8,4.2,3.7,4.3,2023-05-23 15:27:46.786378,yr
+70,"$119,250 /yr (est.)",119250.0,Data Scientist,5,1,0,"PACCAR
+3.6", WA,3.6,0,118,10000+ Employees,1905,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.5,3.3,3.2,3.0,3.6,2023-05-23 15:27:57.741331,yr
+71,"$88,324 /yr (est.)",88324.0,Associate Data Scientist,0,1,0,"American Modern Insurance Group
+4.1", VA,4.1,0,29,Unknown,1994,Company - Private,Insurance Carriers,Insurance,$25 to $100 million (USD),4.0,4.0,4.1,3.8,3.7,2023-05-23 15:28:01.609854,yr
+72,"$108,990 /yr (est.)",108990.0,Data Scientist II Data Science,1,1,1,"Kaiser Permanente
+3.9", CA,3.9,0,78,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.7,4.3,3.6,3.2,3.5,2023-05-23 15:28:04.373652,yr
+73,"$67,830 /yr (est.)",67830.0,Junior Data Scientist,3,1,0,"Camgian
+4.9", MS,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.8,4.9,4.6,4.7,2023-05-23 15:28:08.071672,yr
+74,"$155,000 /yr (est.)",155000.0,Data Scientist,7,1,1,"Janus Henderson
+3.9", NY,3.9,0,6,1001 to 5000 Employees,2017,Company - Public,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.4,3.9,3.9,3.4,4.0,2023-05-23 15:28:12.234662,yr
+75,"$105,531 /yr (est.)",105531.0,Data Scientist,0,1,1,"Verizon
+3.9", NJ,3.9,0,23,10000+ Employees,2000,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.7,4.1,3.8,3.4,3.5,2023-05-23 15:28:15.847012,yr
+76,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:28:19.386885,yr
+77,"$96,017 /yr (est.)",96017.0,"Scientist 2, Data Science",5,1,-1,"Katalyst Healthcares & Life Sciences
+3.6", NC,3.6,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.8,3.6,3.6,3.7,2023-05-23 15:28:23.247894,yr
+78,"$85,664 /yr (est.)",85664.0,Junior Scientific Programmer/Data Scientist,6,1,0,"University of Minnesota
+4.2", MN,4.2,0,172,Unknown,1851,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,3.8,3.6,4.0,3.7,4.1,2023-05-23 15:28:26.932251,yr
+79,"$212,150 /yr (est.)",212150.0,Senior-Data Scientist,0,2,1,"AT&T
+3.7", TX,3.7,0,147,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.6,4.0,3.5,3.2,3.3,2023-05-23 15:28:30.324268,yr
+80,"$128,816 /yr (est.)",128816.0,Data Scientist,0,1,-1,"U.S. Department of State
+4.0", DC,4.0,0,234,10000+ Employees,1789,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,3.9,4.0,3.7,3.3,3.4,2023-05-23 15:28:33.793313,yr
+82,"$124,500 /yr (est.)",124500.0,Data Scientist,3,1,-1,"Charles Schwab
+4.1", TX,4.1,0,50,10000+ Employees,1973,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),4.0,3.9,4.2,3.8,4.1,2023-05-23 15:28:44.663781,yr
+83,"$105,321 /yr (est.)",105321.0,Data Scientist,10,1,1,"Toyota
+3.9", TX,3.9,0,66,10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,4.0,3.9,3.6,3.4,2023-05-23 15:28:48.944170,yr
+85,"$88,177 /yr (est.)",88177.0,Technical Associate I/Data Scientist,0,1,0,"MIT
+4.3", MA,4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.8,4.0,3.7,3.6,2023-05-23 15:28:56.795667,yr
+86,"$120,000 /yr (est.)",120000.0,Junior Data Scientist,5,1,-1,"Leidos
+3.9", MD,3.9,0,54,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.6,3.8,3.6,4.0,2023-05-23 15:29:00.289752,yr
+87,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:29:12.485277,yr
+88,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:29:15.692021,yr
+89,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:29:18.870021,hr
+90,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:29:22.485114,yr
+91,"$134,200 /yr (est.)",134200.0,Data Scientist I - MSAT,0,1,-1,"Roche
+4.3", CA,4.3,0,127,5001 to 10000 Employees,1896,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.7,4.1,2023-05-23 15:29:27.616963,yr
+92,"$130,623 /yr (est.)",130623.0,Data Scientist,11,1,0,"National Security Agency
+3.7", MD,3.7,0,61,Unknown,1962,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,4.2,3.8,3.4,3.1,4.1,2023-05-23 15:29:31.364527,yr
+93,"$96,521 /yr (est.)",96521.0,Associate Data Scientist,-1,-1,-1,"WALGREENS
+3.1", IL,3.1,0,122,10000+ Employees,1901,Company - Public,Drug & Health Stores,Retail & Wholesale,$10+ billion (USD),3.1,3.0,2.9,2.8,2.8,2023-05-23 15:29:35.438045,yr
+94,"$107,340 /yr (est.)",107340.0,Associate Data Scientist,3,1,0,"Blue Cross Blue Shield of Massachusetts
+4.0", MA,4.0,0,86,1001 to 5000 Employees,1937,Nonprofit Organization,Insurance Carriers,Insurance,$100 to $500 million (USD),3.9,3.8,4.2,3.7,4.3,2023-05-23 15:29:38.997454,yr
+96,"$83,855 /yr (est.)",83855.0,Research Data Scientist I,2,1,1,"Cleveland Clinic
+3.7", OH,3.7,0,102,10000+ Employees,1921,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),3.6,3.5,3.6,3.2,3.3,2023-05-23 15:29:47.924890,yr
+97,"$119,250 /yr (est.)",119250.0,Data Scientist,5,1,0,"PACCAR
+3.6", WA,3.6,0,118,10000+ Employees,1905,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.5,3.3,3.2,3.0,3.6,2023-05-23 15:29:50.978057,yr
+98,"$108,990 /yr (est.)",108990.0,Data Scientist II Data Science,1,1,1,"Kaiser Permanente
+3.9", CA,3.9,0,78,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.7,4.3,3.6,3.2,3.5,2023-05-23 15:29:54.991028,yr
+99,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:29:58.738377,yr
+100,"$88,177 /yr (est.)",88177.0,Technical Associate I/Data Scientist,0,1,0,"MIT
+4.3", MA,4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.8,4.0,3.7,3.6,2023-05-23 15:30:02.763022,yr
+101,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:30:05.609085,yr
+102,"$106,403 /yr (est.)",106403.0,Data Scientist,2,1,1,"ConnectiveRx
+3.1", NJ,3.1,0,8,1001 to 5000 Employees,2015,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,3.0,3.2,3.0,2.5,2.9,2023-05-23 15:30:09.562316,yr
+103,"$67,830 /yr (est.)",67830.0,Junior Data Scientist,3,1,0,"Camgian
+4.9", MS,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.8,4.9,4.6,4.7,2023-05-23 15:30:13.637125,yr
+105,"$157,000 /yr (est.)",157000.0,Senior Data Scientist,3,2,1,"GoPro
+4.1",United States,4.1,0,21,1001 to 5000 Employees,2002,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),3.6,4.1,4.5,3.7,4.6,2023-05-23 15:30:22.020417,yr
+106,"$85,664 /yr (est.)",85664.0,Junior Scientific Programmer/Data Scientist,6,1,0,"University of Minnesota
+4.2", MN,4.2,0,172,Unknown,1851,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,3.8,3.6,4.0,3.7,4.1,2023-05-23 15:30:25.850314,yr
+107,"$128,816 /yr (est.)",128816.0,Data Scientist,0,1,-1,"U.S. Department of State
+4.0", DC,4.0,0,234,10000+ Employees,1789,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,3.9,4.0,3.7,3.3,3.4,2023-05-23 15:30:28.951672,yr
+108,"$112,595 /yr (est.)",112595.0,Senior Data Scientist I,5,1,-1,"ALDI
+3.5", IL,3.5,0,24,10000+ Employees,1999,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,3.3,3.6,3.3,3.1,2.9,2023-05-23 15:30:33.093192,yr
+109,"$212,150 /yr (est.)",212150.0,Senior-Data Scientist,0,2,1,"AT&T
+3.7", TX,3.7,0,147,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.6,4.0,3.5,3.2,3.3,2023-05-23 15:30:37.340402,yr
+110,"$117,252 /yr (est.)",117252.0,Data Scientist,0,1,-1,"Verily
+3.8", MA,3.8,0,8,1001 to 5000 Employees,2015,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,3.6,4.3,3.9,3.5,3.7,2023-05-23 15:30:41.068060,yr
+111,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:30:45.196378,yr
+112,"$105,321 /yr (est.)",105321.0,Data Scientist,10,1,1,"Toyota
+3.9", TX,3.9,0,66,10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,4.0,3.9,3.6,3.4,2023-05-23 15:30:49.098675,yr
+113,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:30:53.306947,yr
+114,"$155,000 /yr (est.)",155000.0,Data Scientist,7,1,1,"Janus Henderson
+3.9", NY,3.9,0,6,1001 to 5000 Employees,2017,Company - Public,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.4,3.9,3.9,3.4,4.0,2023-05-23 15:30:57.410629,yr
+115,"$110,100 /yr (est.)",110100.0,Data Scientist,0,1,0,"Blue Cross & Blue Shield of Rhode Island
+3.6", RI,3.6,0,84,501 to 1000 Employees,1939,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,3.5,3.8,4.0,3.5,4.2,2023-05-23 15:31:01.412296,yr
+116,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:31:15.162939,yr
+117,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:31:18.471025,yr
+118,"$134,200 /yr (est.)",134200.0,Data Scientist I - MSAT,0,1,-1,"Roche
+4.3", CA,4.3,0,127,5001 to 10000 Employees,1896,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.7,4.1,2023-05-23 15:31:22.639357,yr
+119,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:31:25.887222,yr
+120,"$137,500 /yr (est.)",137500.0,"Data Scientist, Product Analytics - Monetization",2,1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:31:30.070400,yr
+121,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:31:33.837861,hr
+122,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:31:37.069848,yr
+123,"$130,623 /yr (est.)",130623.0,Data Scientist,11,1,0,"National Security Agency
+3.7", MD,3.7,0,61,Unknown,1962,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,4.2,3.8,3.4,3.1,4.1,2023-05-23 15:31:42.989091,yr
+124,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:31:46.302764,yr
+125,"$85,664 /yr (est.)",85664.0,Junior Scientific Programmer/Data Scientist,6,1,0,"University of Minnesota
+4.2", MN,4.2,0,172,Unknown,1851,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,3.8,3.6,4.0,3.7,4.1,2023-05-23 15:31:50.286903,yr
+126,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:31:54.051520,yr
+127,"$100,850 /yr (est.)",100850.0,Data Scientist I - Hybrid,2,1,1,"Radian
+4.2", NY,4.2,0,46,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $5 billion (USD),3.8,4.1,4.3,3.8,4.4,2023-05-23 15:31:59.698205,yr
+128,"$96,521 /yr (est.)",96521.0,Associate Data Scientist,-1,-1,-1,"WALGREENS
+3.1", IL,3.1,0,122,10000+ Employees,1901,Company - Public,Drug & Health Stores,Retail & Wholesale,$10+ billion (USD),3.1,3.0,2.9,2.8,2.8,2023-05-23 15:32:03.817357,yr
+129,"$128,816 /yr (est.)",128816.0,Data Scientist,0,1,-1,"U.S. Department of State
+4.0", DC,4.0,0,234,10000+ Employees,1789,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,3.9,4.0,3.7,3.3,3.4,2023-05-23 15:32:07.643592,yr
+130,"$108,990 /yr (est.)",108990.0,Data Scientist II Data Science,1,1,1,"Kaiser Permanente
+3.9", CA,3.9,0,78,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.7,4.3,3.6,3.2,3.5,2023-05-23 15:32:12.008651,yr
+131,"$212,150 /yr (est.)",212150.0,Senior-Data Scientist,0,2,1,"AT&T
+3.7", TX,3.7,0,147,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),3.6,4.0,3.5,3.2,3.3,2023-05-23 15:32:15.909656,yr
+132,"$107,340 /yr (est.)",107340.0,Associate Data Scientist,3,1,0,"Blue Cross Blue Shield of Massachusetts
+4.0", MA,4.0,0,86,1001 to 5000 Employees,1937,Nonprofit Organization,Insurance Carriers,Insurance,$100 to $500 million (USD),3.9,3.8,4.2,3.7,4.3,2023-05-23 15:32:19.908173,yr
+133,"$67,830 /yr (est.)",67830.0,Junior Data Scientist,3,1,0,"Camgian
+4.9", MS,4.9,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.8,4.9,4.6,4.7,2023-05-23 15:32:23.891660,yr
+135,"$78,693 /yr (est.)",78693.0,Junior Data Scientist,2,2,1,"Technomics
+4.5", VA,4.5,0,39,51 to 200 Employees,1984,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $100 million (USD),4.5,3.5,4.4,4.0,4.3,2023-05-23 15:32:35.082196,yr
+136,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:32:39.685338,yr
+137,"$157,000 /yr (est.)",157000.0,Senior Data Scientist,3,2,1,"GoPro
+4.1",United States,4.1,0,21,1001 to 5000 Employees,2002,Company - Public,Consumer Product Manufacturing,Manufacturing,$1 to $5 billion (USD),3.6,4.1,4.5,3.7,4.6,2023-05-23 15:32:44.773386,yr
+138,"$105,321 /yr (est.)",105321.0,Data Scientist,10,1,1,"Toyota
+3.9", TX,3.9,0,66,10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,4.0,3.9,3.6,3.4,2023-05-23 15:32:48.816045,yr
+139,"$100,000 /yr (est.)",100000.0,Biology Data Scientist,0,1,-1,"Procter & Gamble
+4.1", OH,4.1,0,186,10000+ Employees,1837,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.0,4.1,4.2,3.7,3.4,2023-05-23 15:32:53.891486,yr
+140,"$112,555 /yr (est.)",112555.0,Junior Data Scientist,0,1,0,"SoundThinking
+3.5", CA,3.5,0,27,201 to 500 Employees,1996,Company - Public,Software Development,Information Technology,$25 to $100 million (USD),3.2,3.4,3.4,3.4,3.5,2023-05-23 15:32:58.010499,yr
+141,"$112,595 /yr (est.)",112595.0,Senior Data Scientist I,5,1,-1,"ALDI
+3.5", IL,3.5,0,24,10000+ Employees,1999,Company - Private,Grocery Stores,Retail & Wholesale,Unknown / Non-Applicable,3.3,3.6,3.3,3.1,2.9,2023-05-23 15:33:04.425602,yr
+142,"$143,202 /yr (est.)",143202.0,"Senior Data Scientist, Analytics",4,1,-1,"Discord
+3.5", CA,3.5,0,8,501 to 1000 Employees,2015,Company - Private,Internet & Web Services,Information Technology,$25 to $100 million (USD),3.5,4.1,3.5,3.1,3.4,2023-05-23 15:33:14.405998,yr
+143,"$88,324 /yr (est.)",88324.0,Associate Data Scientist,0,1,0,"American Modern Insurance Group
+4.1", VA,4.1,0,29,Unknown,1994,Company - Private,Insurance Carriers,Insurance,$25 to $100 million (USD),4.0,4.0,4.1,3.8,3.7,2023-05-23 15:33:18.649080,yr
+144,"$180,000 /yr (est.)",180000.0,Principal Data Scientist/AI Researcher,5,1,1,"Novartis
+4.0", MA,4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:33:23.585014,yr
+145,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:33:38.787798,hr
+146,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:33:45.523804,yr
+147,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:33:49.811324,yr
+148,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:33:54.891597,yr
+149,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:33:59.672816,yr
+151,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:34:09.198097,yr
+152,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:34:13.690670,yr
+153,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:34:17.765356,yr
+154,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:34:22.298701,yr
+155,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:34:29.542666,yr
+156,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:34:33.600677,yr
+157,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:34:37.410589,hr
+158,"$164,000 /yr (est.)",164000.0,"Data Scientist, Product Analytics - Monetization",4,1,-1,"Facebook App
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:34:42.466783,yr
+159,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:34:46.809249,yr
+160,"$134,200 /yr (est.)",134200.0,Data Scientist I - MSAT,0,1,-1,"Roche
+4.3", CA,4.3,0,127,5001 to 10000 Employees,1896,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.7,4.1,2023-05-23 15:34:51.667777,yr
+161,"$139,175 /yr (est.)",139175.0,Data Scientist,9,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-23 15:34:56.611553,yr
+162,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:35:01.212537,yr
+163,"$122,943 /yr (est.)",122943.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:35:05.892831,yr
+164,"$103,173 /yr (est.)",103173.0,Data Scientist,1,1,-1,"Mosaic Data Science
+5.0", VA,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:35:12.347803,yr
+165,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:35:18.320685,yr
+166,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:35:22.742701,yr
+167,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:35:26.916551,yr
+168,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Elite ProTek
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 15:35:31.967632,yr
+169,"$90,500 /yr (est.)",90500.0,Data Scientist,0,1,-1,"Vetro Tech Inc
+3.9", CA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.9,3.4,3.4,3.9,2023-05-23 15:35:37.095930,yr
+170,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:35:42.213956,hr
+171,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:35:46.782816,yr
+173,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:35:56.459688,yr
+174,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:36:10.350007,yr
+175,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:36:15.293492,yr
+177,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:36:24.197384,yr
+178,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:36:29.185347,yr
+179,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:36:33.232536,hr
+180,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:36:40.102596,hr
+181,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:36:44.451560,yr
+182,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:36:49.367502,yr
+183,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,-1,-1,-1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:36:54.615350,yr
+184,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:36:57.585493,yr
+185,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:37:01.454286,yr
+187,"$122,943 /yr (est.)",122943.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:37:10.231837,yr
+188,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:37:16.037664,yr
+189,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:37:20.118212,yr
+190,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:37:24.963188,yr
+191,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:37:29.030139,hr
+192,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:37:33.748093,yr
+193,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:37:37.924304,yr
+194,"$164,000 /yr (est.)",164000.0,"Data Scientist, Product Analytics - Monetization",4,1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:37:42.024319,yr
+195,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:37:46.075245,yr
+196,"$89,965 /yr (est.)",89965.0,Data Scientist - MPD,2,1,1,"City of Minneapolis
+3.5", MN,3.5,0,156,1001 to 5000 Employees,1867,Government,Municipal Agencies,Government & Public Administration,Unknown / Non-Applicable,3.3,3.9,3.3,3.1,4.0,2023-05-23 15:37:51.950382,yr
+197,"$96,521 /yr (est.)",96521.0,Associate Data Scientist,-1,-1,-1,"WALGREENS
+3.1", IL,3.1,0,122,10000+ Employees,1901,Company - Public,Drug & Health Stores,Retail & Wholesale,$10+ billion (USD),3.1,3.0,2.9,2.8,2.8,2023-05-23 15:37:56.214968,yr
+198,"$93,374 /yr (est.)",93374.0,Jr Data Scientist,1,1,-1,"Veracity Software
+3.9", NJ,3.9,0,13,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,4.0,3.8,3.9,2023-05-23 15:38:00.323271,yr
+199,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:38:04.629103,yr
+200,"$100,000 /yr (est.)",100000.0,Biology Data Scientist,0,1,-1,"Procter & Gamble
+4.1", OH,4.1,0,186,10000+ Employees,1837,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.0,4.1,4.2,3.7,3.4,2023-05-23 15:38:08.680637,yr
+201,"$103,173 /yr (est.)",103173.0,Data Scientist,1,1,-1,"Mosaic Data Science
+5.0", VA,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:38:12.649334,yr
+202,"$180,000 /yr (est.)",180000.0,Principal Data Scientist/AI Researcher,5,1,1,"Novartis
+4.0", MA,4.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:38:18.061783,yr
+203,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:38:33.122002,yr
+204,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:38:37.219027,hr
+205,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:38:45.783089,yr
+207,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:38:56.096373,yr
+208,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:39:00.499972,yr
+209,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:39:04.622205,yr
+210,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:39:08.806302,yr
+211,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:39:12.721258,yr
+212,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:39:17.408803,hr
+213,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:39:21.799937,yr
+214,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:39:25.753800,yr
+215,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:39:30.452935,yr
+216,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:39:34.597618,yr
+217,"$164,000 /yr (est.)",164000.0,"Data Scientist, Product Analytics - Monetization",4,1,-1,"Facebook App
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:39:39.045433,yr
+218,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:39:43.169006,yr
+219,"$100,000 /yr (est.)",100000.0,Data Scientist,-1,-1,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:39:47.218998,yr
+221,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:39:57.523729,yr
+222,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:40:02.249405,yr
+224,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:40:10.991994,yr
+225,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:40:15.342376,yr
+226,"$100,000 /yr (est.)",100000.0,Biology Data Scientist,0,1,-1,"Procter & Gamble
+4.1", OH,4.1,0,186,10000+ Employees,1837,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.0,4.1,4.2,3.7,3.4,2023-05-23 15:40:21.664702,yr
+228,"$139,175 /yr (est.)",139175.0,Data Scientist,9,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-23 15:40:31.237607,yr
+229,"$93,374 /yr (est.)",93374.0,Jr Data Scientist,1,1,-1,"Veracity Software
+3.9", NJ,3.9,0,13,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,4.0,3.8,3.9,2023-05-23 15:40:35.322462,yr
+230,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:40:39.722231,yr
+232,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:40:58.871325,hr
+233,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:41:05.688643,yr
+235,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:41:14.798781,yr
+236,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:41:20.043418,yr
+237,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:41:24.025172,yr
+238,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:41:28.892156,yr
+239,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:41:36.065144,hr
+240,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:41:40.424603,yr
+241,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:41:44.878781,yr
+242,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:41:49.193986,yr
+244,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:41:59.350782,yr
+245,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:42:03.659589,yr
+246,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:42:07.998108,yr
+248,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:42:17.039018,yr
+249,"$137,500 /yr (est.)",137500.0,"Data Scientist, Product Analytics - Monetization",-1,-1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:42:20.979905,yr
+250,"$98,148 /yr (est.)",98148.0,Data Scientist I,-1,-1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:42:24.065896,yr
+251,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:42:27.288755,yr
+252,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:42:33.129081,yr
+253,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:42:39.492684,yr
+254,"$93,374 /yr (est.)",93374.0,Jr Data Scientist,1,1,-1,"Veracity Software
+3.9", NJ,3.9,0,13,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,4.0,3.8,3.9,2023-05-23 15:42:43.525092,yr
+255,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:42:47.271218,yr
+256,"$103,173 /yr (est.)",103173.0,Data Scientist,1,1,-1,"Mosaic Data Science
+5.0", VA,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:42:53.278208,yr
+257,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:42:58.393589,yr
+258,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:43:03.197466,yr
+259,"$89,965 /yr (est.)",89965.0,Data Scientist - MPD,2,1,1,"City of Minneapolis
+3.5", MN,3.5,0,156,1001 to 5000 Employees,1867,Government,Municipal Agencies,Government & Public Administration,Unknown / Non-Applicable,3.3,3.9,3.3,3.1,4.0,2023-05-23 15:43:06.259478,yr
+261,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:43:24.349861,hr
+262,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:43:31.010770,yr
+264,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:43:38.258576,yr
+265,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:43:42.826849,yr
+266,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:43:46.654280,yr
+267,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:43:51.406697,yr
+268,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:43:55.249438,hr
+269,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:43:59.374627,yr
+270,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:44:03.381149,yr
+271,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:44:07.062599,yr
+273,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:44:16.986785,yr
+274,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:44:20.807439,yr
+275,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:44:24.484331,yr
+277,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:44:32.914660,yr
+278,"$137,500 /yr (est.)",137500.0,"Data Scientist, Product Analytics - Monetization",2,1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:44:36.613109,yr
+279,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:44:40.424493,yr
+280,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:44:44.726505,yr
+281,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:44:50.873318,yr
+282,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:44:56.268857,yr
+283,"$93,374 /yr (est.)",93374.0,Jr Data Scientist,1,1,-1,"Veracity Software
+3.9", NJ,3.9,0,13,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,4.0,3.8,3.9,2023-05-23 15:44:59.788890,yr
+284,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:45:03.714741,yr
+285,"$103,173 /yr (est.)",103173.0,Data Scientist,1,1,-1,"Mosaic Data Science
+5.0", VA,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:45:10.040039,yr
+286,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:45:14.810974,yr
+287,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:45:18.119156,yr
+288,"$89,965 /yr (est.)",89965.0,Data Scientist - MPD,2,1,1,"City of Minneapolis
+3.5", MN,3.5,0,156,1001 to 5000 Employees,1867,Government,Municipal Agencies,Government & Public Administration,Unknown / Non-Applicable,3.3,3.9,3.3,3.1,4.0,2023-05-23 15:45:23.023070,yr
+290,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:45:40.807586,yr
+291,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:45:44.791400,yr
+293,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:45:54.179645,yr
+294,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:45:59.098708,hr
+295,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:46:07.321035,yr
+297,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:46:16.409629,hr
+298,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:46:20.057819,yr
+299,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:46:23.966271,yr
+300,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:46:27.805300,yr
+301,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:46:32.518690,yr
+302,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:46:37.014812,yr
+303,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:46:40.846863,yr
+304,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:46:45.182350,yr
+305,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:46:48.949294,yr
+306,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:46:52.500813,yr
+307,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:46:58.168433,yr
+308,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:47:02.463868,yr
+309,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:47:08.874775,yr
+310,"$93,374 /yr (est.)",93374.0,Jr Data Scientist,1,1,-1,"Veracity Software
+3.9", NJ,3.9,0,13,51 to 200 Employees,2010,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,4.0,3.8,3.9,2023-05-23 15:47:13.183822,yr
+311,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:47:16.754226,yr
+312,"$95,544 /yr (est.)",95544.0,Data Science Opportunities,7,1,1,-1, CA,-1,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,2023-05-23 15:47:20.478200,yr
+313,"$134,200 /yr (est.)",134200.0,Data Scientist I - MSAT,0,1,-1,"Roche
+4.3", CA,4.3,0,127,5001 to 10000 Employees,1896,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.7,4.1,2023-05-23 15:47:25.923328,yr
+315,"$138,450 /yr (est.)",138450.0,Data and Applied Scientist II,5,1,0,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-23 15:47:34.288663,yr
+316,"$164,000 /yr (est.)",164000.0,"Data Scientist, Product Analytics - Monetization",4,1,-1,"Facebook App
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:47:38.734118,yr
+317,"$99,486 /yr (est.)",99486.0,Data Scientist,0,2,-1,"WinWire
+4.0", NJ,4.0,0,17,501 to 1000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.8,4.0,3.8,3.8,2023-05-23 15:47:42.612836,yr
+319,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:48:01.567138,hr
+320,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:48:08.530147,yr
+321,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:48:11.722197,yr
+322,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:48:14.725438,yr
+323,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:48:18.993982,yr
+325,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:48:27.899778,yr
+326,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:48:31.892214,yr
+327,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:48:35.827056,yr
+328,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 15:48:39.806533,yr
+329,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:48:43.764314,yr
+330,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:48:47.024201,yr
+332,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:48:56.806125,yr
+333,"$137,500 /yr (est.)",137500.0,"Data Scientist, Product Analytics - Monetization",2,1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:49:01.211112,yr
+335,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:49:10.221484,yr
+336,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:49:13.587194,yr
+338,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:49:22.266905,hr
+339,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:49:27.118925,yr
+340,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Redvest App
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:49:31.957063,yr
+341,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:49:37.600919,yr
+342,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:49:43.693011,yr
+343,"$100,000 /yr (est.)",100000.0,Data Scientist,0,2,-1,"Elite ProTek
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-23 15:49:47.549815,yr
+344,"$99,486 /yr (est.)",99486.0,Data Scientist,0,2,-1,"WinWire
+4.0", NJ,4.0,0,17,501 to 1000 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.8,4.0,3.8,3.8,2023-05-23 15:49:51.745679,yr
+345,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:49:54.911380,hr
+346,"$139,175 /yr (est.)",139175.0,Data Scientist,9,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-23 15:49:58.883886,yr
+348,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:50:19.387392,hr
+349,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:50:26.554058,yr
+350,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:50:29.763105,yr
+351,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:50:33.736186,yr
+352,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),-1,-1,-1,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:50:37.716719,yr
+353,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:50:41.611011,yr
+354,"$137,500 /yr (est.)",137500.0,"Data Scientist, Product Analytics - Monetization",2,1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:50:45.628942,yr
+355,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:50:50.222962,yr
+356,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:50:54.912873,yr
+359,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:51:09.008834,yr
+361,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 15:51:17.278533,yr
+363,"$127,067 /yr (est.)",127067.0,Data Scientist,4,2,-1,"Kyla
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:51:25.421717,yr
+364,"$98,534 /yr (est.)",98534.0,Data Scientist (Coaching),2,1,-1,"WHOOP
+3.5", MA,3.5,0,11,501 to 1000 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.2,3.3,3.4,3.1,3.7,2023-05-23 15:51:30.991284,yr
+365,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:51:34.994948,hr
+366,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:51:39.525037,yr
+367,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:51:43.567096,yr
+368,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:51:47.621152,yr
+369,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:51:52.165442,yr
+370,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:51:56.278665,yr
+371,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:52:00.890392,yr
+372,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:52:07.104288,yr
+373,"$115,000 /yr (est.)",115000.0,Quantitative Analytics Professional - Data Scientist,0,1,1,"Freddie Mac
+3.4", VA,3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.7,3.4,2.6,3.5,2023-05-23 15:52:11.078701,yr
+375,"$108,092 /yr (est.)",108092.0,Data Scientist,6,1,1,"PayPal
+3.9", AZ,3.9,0,25,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.5,3.9,4.0,3.4,4.0,2023-05-23 15:52:21.781335,yr
+377,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:52:42.240833,hr
+378,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:52:48.808036,yr
+379,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:52:52.244077,yr
+380,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:52:56.963030,yr
+381,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:53:01.343212,yr
+382,"$137,500 /yr (est.)",137500.0,"Data Scientist, Product Analytics - Monetization",2,1,-1,"Facebook App
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:53:05.435092,yr
+383,"$98,534 /yr (est.)",98534.0,Data Scientist (Coaching),2,1,-1,"WHOOP
+3.5", MA,3.5,0,11,501 to 1000 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.2,3.3,3.4,3.1,3.7,2023-05-23 15:53:09.496372,yr
+384,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:53:13.412721,yr
+385,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 15:53:17.297234,yr
+386,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:53:21.214151,yr
+387,"$115,000 /yr (est.)",115000.0,Quantitative Analytics Professional - Data Scientist,0,1,1,"Freddie Mac
+3.4", VA,3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.7,3.4,2.6,3.5,2023-05-23 15:53:25.887171,yr
+389,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:53:39.865860,yr
+390,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:53:44.232154,yr
+392,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:53:52.576902,yr
+393,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:53:56.636244,hr
+394,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:54:01.491561,yr
+396,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:54:10.436599,yr
+397,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:54:14.556568,yr
+398,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:54:19.508206,yr
+400,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,-1,-1,-1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:54:28.872197,yr
+401,"$127,067 /yr (est.)",127067.0,Data Scientist,4,2,-1,"Kyla
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:54:34.890182,yr
+403,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:54:47.241998,yr
+404,"$108,092 /yr (est.)",108092.0,Data Scientist,6,1,1,"PayPal
+3.9", AZ,3.9,0,25,10000+ Employees,1998,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.5,3.9,4.0,3.4,4.0,2023-05-23 15:54:52.015644,yr
+406,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:55:11.010975,hr
+407,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:55:17.439009,yr
+408,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 15:55:21.683928,yr
+409,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:55:25.948460,yr
+410,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:55:29.938087,yr
+411,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:55:33.442627,yr
+412,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:55:38.504856,yr
+413,"$98,534 /yr (est.)",98534.0,Data Scientist (Coaching),2,1,-1,"WHOOP
+3.5", MA,3.5,0,11,501 to 1000 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.2,3.3,3.4,3.1,3.7,2023-05-23 15:55:43.266016,yr
+414,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,-1,-1,-1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:55:47.949476,yr
+415,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:55:51.180904,yr
+417,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:56:00.626959,yr
+418,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:56:06.000584,yr
+419,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:56:11.971927,yr
+420,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:56:16.295107,yr
+422,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:56:25.604731,yr
+423,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:56:29.953623,yr
+425,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:56:39.701416,yr
+426,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:56:43.895667,hr
+427,"$115,000 /yr (est.)",115000.0,Quantitative Analytics Professional - Data Scientist,0,1,1,"Freddie Mac
+3.4", VA,3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.7,3.4,2.6,3.5,2023-05-23 15:56:48.557159,yr
+429,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:56:58.343073,yr
+432,"$127,067 /yr (est.)",127067.0,Data Scientist,4,2,-1,"Kyla
+3.5",Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:57:16.063292,yr
+433,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 15:57:20.952078,yr
+435,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 15:57:40.304515,yr
+436,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 15:57:45.390453,yr
+437,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 15:57:50.160574,yr
+438,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:57:55.232118,hr
+439,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:58:01.726789,yr
+440,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,-1,-1,-1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 15:58:05.333929,yr
+441,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 15:58:13.753971,yr
+442,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 15:58:17.475253,yr
+443,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 15:58:21.725972,yr
+445,"$98,534 /yr (est.)",98534.0,Data Scientist (Coaching),2,1,-1,"WHOOP
+3.5", MA,3.5,0,11,501 to 1000 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.2,3.3,3.4,3.1,3.7,2023-05-23 15:58:32.688733,yr
+446,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 15:58:35.955881,yr
+447,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 15:58:40.342437,hr
+448,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 15:58:44.982655,yr
+449,"$115,000 /yr (est.)",115000.0,Quantitative Analytics Professional - Data Scientist,0,1,1,"Freddie Mac
+3.4", VA,3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.7,3.4,2.6,3.5,2023-05-23 15:58:49.305649,yr
+450,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 15:58:54.062132,yr
+452,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 15:59:05.959766,yr
+453,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 15:59:10.402214,yr
+455,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 15:59:20.090037,yr
+456,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 15:59:24.429907,yr
+458,"$164,000 /yr (est.)",164000.0,"Data Scientist, Product Analytics - Monetization",4,1,-1,"Facebook App
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 15:59:36.911919,yr
+459,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 15:59:41.315476,yr
+461,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 15:59:51.489587,hr
+464,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 16:00:17.884766,yr
+465,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 16:00:21.758866,yr
+466,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 16:00:26.044365,yr
+467,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 16:00:30.948689,yr
+468,"$98,534 /yr (est.)",98534.0,Data Scientist (Coaching),2,1,-1,"WHOOP
+3.5", MA,3.5,0,11,501 to 1000 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.2,3.3,3.4,3.1,3.7,2023-05-23 16:00:36.660799,yr
+469,"$84,327 /yr (est.)",84327.0,Associate Data Scientist - Inventory Management and Research Analytics,1,1,0,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 16:00:40.419943,yr
+470,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 16:00:44.445727,yr
+471,$60.00 /hr (est.),124800.0,Data Scientist,8,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:00:48.764329,hr
+472,$85.00 /hr (est.),176800.0,Jr. Data Scientist,1,1,0,"Mondelēz International
+4.0",New Jersey,4.0,0,11,10000+ Employees,2012,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.8,3.9,3.5,3.6,2023-05-23 16:00:55.706054,hr
+473,"$115,000 /yr (est.)",115000.0,Quantitative Analytics Professional - Data Scientist,0,1,1,"Freddie Mac
+3.4", VA,3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.7,3.4,2.6,3.5,2023-05-23 16:01:00.970282,yr
+474,"$140,000 /yr (est.)",140000.0,Data Scientist - Hybrid Remote,3,1,1,"Sharecare
+4.1", NY,4.1,0,13,1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),3.8,4.1,4.2,4.0,4.0,2023-05-23 16:01:05.879821,yr
+475,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 16:01:09.452478,yr
+477,"$215,050 /yr (est.)",215050.0,Principal Data Scientist,8,1,1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-23 16:01:18.500591,yr
+480,"$108,797 /yr (est.)",108797.0,Data Scientist I,0,1,-1,"Donald Danforth Plant Science Center
+4.3", MO,4.3,0,25,Unknown,1998,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,4.2,4.1,4.3,4.1,4.1,2023-05-23 16:01:33.183402,yr
+481,"$98,148 /yr (est.)",98148.0,Data Scientist I,5,1,-1,"Horizon Blue Cross Blue Shield of New Jersey
+3.3", NJ,3.3,0,91,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),2.8,3.5,3.1,2.8,3.5,2023-05-23 16:01:37.554933,yr
+482,"$90,000 /yr (est.)",90000.0,Applied Data Scientist,2,1,-1,"Webstaurant Store
+3.8", PA,3.8,0,19,1001 to 5000 Employees,2004,Company - Private,Other Retail Stores,Retail & Wholesale,$500 million to $1 billion (USD),3.7,3.9,3.8,3.7,4.0,2023-05-23 16:01:42.323177,yr
+483,$33.88 /hr (est.),70470.4,Data Scientist I,2,1,1,"Children's Mercy KC
+3.8", MO,3.8,0,126,5001 to 10000 Employees,1897,Hospital,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.5,3.4,3.8,3.0,3.7,2023-05-23 16:01:46.719365,hr
+484,"$164,000 /yr (est.)",164000.0,"Data Scientist, Product Analytics - Monetization",4,1,-1,"Facebook App
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-23 16:01:51.123849,yr
+485,"$93,200 /yr (est.)",93200.0,Associate Data Scientist,0,1,-1,"GEHA
+4.0",United States,4.0,0,-1,-1,-1,-1,-1,-1,-1,2.0,3.0,4.0,3.0,4.0,2023-05-23 16:01:54.844007,yr
+486,"$95,000 /yr (est.)",95000.0,Data Scientist I,0,1,1,"VirginPulse
+3.4",Remote,3.4,1,19,501 to 1000 Employees,2004,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.3,3.2,3.6,3.1,3.7,2023-05-23 16:02:00.035529,yr
+487,"$89,718 /yr (est.)",89718.0,Data Scientist - All Levels,0,2,1,Silver Edge, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-23 16:02:04.381214,yr
+490,"$112,500 /yr (est.)",112500.0,Genomics Data Scientist,0,1,-1,"Avellino Lab USA Inc
+3.0",Remote,3.0,1,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,2.8,3.4,3.1,2.6,3.3,2023-05-23 16:02:23.758181,yr
+491,"$139,175 /yr (est.)",139175.0,Data Scientist,9,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-23 16:02:27.094553,yr
+492,"$100,000 /yr (est.)",100000.0,Junior Data Scientist (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-23 16:02:31.459343,yr
+493,"$121,500 /yr (est.)",121500.0,"Data Scientist, USCAN MR",0,1,1,"GE Healthcare
+4.2",Remote,4.2,1,131,10000+ Employees,1892,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),4.1,4.1,4.2,3.9,4.0,2023-05-23 16:02:45.447645,yr
+494,"$115,100 /yr (est.)",115100.0,Data Scientist (All Levels),5,1,0,"Noblis
+4.5", VA,4.5,0,27,1001 to 5000 Employees,1996,Nonprofit Organization,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.2,4.1,4.5,4.3,4.5,2023-05-23 16:02:48.961398,yr
+495,"$91,702 /yr (est.)",91702.0,Data Scientist Trainee,0,1,-1,"Axle Informatics
+3.5", MD,3.5,0,21,501 to 1000 Employees,2002,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),3.3,3.5,3.3,3.3,3.9,2023-05-23 16:02:53.441512,yr
+496,"$97,888 /yr (est.)",97888.0,Data Scientist,0,1,1,"Caterpillar
+4.0", IL,4.0,0,98,10000+ Employees,1925,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.7,2023-05-23 16:02:57.604966,yr
+497,"$82,317 /yr (est.)",82317.0,Jr. Data Scientist,0,1,1,"Kyla
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.0,2.0,2.6,2.6,2023-05-23 16:03:01.080652,yr
+499,"$57,500 /yr (est.)",57500.0,Junior Data Scientist,1,1,0,"Augray
+3.9", WI,3.9,0,9,51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.6,3.5,3.7,3.6,2023-05-23 16:03:11.400959,yr

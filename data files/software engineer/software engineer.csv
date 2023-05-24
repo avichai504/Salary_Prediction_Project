@@ -1,0 +1,554 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time Unit
+0,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,hr
+1,$67.50 /hr (est.),140400.0,Cloud Engineer,5,2,-1,CloudXoo,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+2,$19.00 /hr (est.),39520.0,Cyber Security and Cloud Computing Tutor,0,1,-1,"Georgetown Learning Centers
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.6,3.5,3.9,3.7,3.3,hr
+3,$71.50 /hr (est.),148720.0,Cloud Architect,5,2,-1,CloudXoo,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+4,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,5,1,1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,hr
+5,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,0,2,1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+6,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,hr
+7,$87.50 /hr (est.),182000.0,Sr. Cloud Infrastructure Engineer,7,2,-1,"Zelus Inc.
+3.0","Trenton, NJ",3.0,0,5,1 to 50 Employees,2018,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1.0,-1.0,-1.0,-1.0,-1.0,hr
+8,"$75,000 /yr (est.)",75000.0,JR. CYBERSECURITY ANALYST,0,1,-1,"VSolvit
+4.0",United States,4.0,0,17,201 to 500 Employees,2006,Company - Private,National Agencies,Government & Public Administration,$25 to $100 million (USD),3.6,3.5,4.1,3.8,4.1,yr
+9,"$215,257 /yr (est.)",215257.0,Cloud Computing Evangelist - Remote,0,1,1,"Akamai
+4.5",United States,4.5,0,25,5001 to 10000 Employees,1998,Company - Public,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),4.2,4.2,4.5,4.1,4.6,yr
+10,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,1,1,1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,hr
+11,"$229,000 /yr (est.)",229000.0,"Director, Cloud Computing",0,1,1,"UST
+3.9","Aliso Viejo, CA",3.9,0,24,10000+ Employees,1999,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,3.4,3.9,3.6,4.0,yr
+12,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0","San Jose, CA",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,yr
+13,"$250,100 /yr (est.)",250100.0,Team Amazon | Cloud Solutions Architect,0,1,1,"INTEL
+4.2","Santa Clara, CA",4.2,0,55,10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,4.0,4.2,3.7,4.1,yr
+14,"$110,149 /yr (est.)",110149.0,"Sr Cloud Azure DevOps Engineer (Terraform) - Phoenix, AZ (HYBRID)",9,2,1,"Accolite Digital
+3.8","Phoenix, AZ",3.8,0,16,1001 to 5000 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.9,3.8,3.8,3.7,3.8,yr
+15,"$160,000 /yr (est.)",160000.0,AWS Cloud Engineer,4,1,-1,"DSM Infocom
+2.5","Bethesda, MD",2.5,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.1,2.6,2.4,2.5,yr
+16,"$56,437 /yr (est.)",56437.0,Associate End User Computing Support Analyst,0,2,0,"PAYLOCITY CORPORATION
+4.0","Lake Mary, FL",4.0,0,26,1001 to 5000 Employees,1997,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),4.0,4.0,4.2,3.9,4.0,yr
+17,$75.00 /hr (est.),156000.0,Data Engineer,8,1,-1,"BigLynx Computer Software
+4.9","Redmond, WA",4.9,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.5,4.8,4.9,4.8,hr
+18,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,yr
+20,"$75,000 /yr (est.)",75000.0,Junior Cloud Engineer,0,1,0,"Technergetics
+5.0","Utica, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,yr
+21,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,3,1,-1,Pragma Inc,"Orange, CT",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+22,$60.00 /hr (est.),124800.0,DevOps Engineer,-1,-1,-1,"Maven Workforce Pvt. Ltd.
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,hr
+23,"$118,600 /yr (est.)",118600.0,Cloud DevOps Engineer,0,1,1,"Southwest Airlines
+4.1","Dallas, TX",4.1,0,56,10000+ Employees,1967,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.1,4.2,4.0,3.5,3.6,yr
+31,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),4,1,-1,"Doran Jones
+3.9","New York, NY",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,yr
+33,$66.00 /hr (est.),137280.0,Azure Cloud Architect,10,2,1,"Triveni IT
+4.6",Remote,4.6,1,-1,-1,-1,-1,-1,-1,-1,4.9,4.5,4.6,4.6,4.7,hr
+34,"$140,500 /yr (est.)",140500.0,IBM Cloud Architect,10,1,1,"IBM
+4.0","Austin, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,yr
+35,"$98,500 /yr (est.)",98500.0,Cloud Engineer,3,2,-1,"E-Logic, Inc.
+4.4","Sacramento, CA",4.4,0,16,1 to 50 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.4,2.3,5.0,4.6,4.6,yr
+36,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,-1,-1,-1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,yr
+43,"$109,873 /yr (est.)",109873.0,Frontend Engineer (UI),2,1,0,"Tessell, Inc.
+5.0","San Francisco, CA",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,yr
+44,$66.43 /hr (est.),138174.4,DevOps Engineer,0,2,-1,Software concept LLC,"Sturgis, MI",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+46,$43.89 /hr (est.),91291.2,Operations Support/Cloud Engineer - ITS4,1,1,0,"State of Minnesota
+3.9","Saint Paul, MN",3.9,0,56,10000+ Employees,1967,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.4,4.0,3.5,3.2,3.9,hr
+47,"$147,500 /yr (est.)",147500.0,Cloud Engineer,5,1,-1,"State Street
+3.5","Boston, MA",3.5,0,231,10000+ Employees,1792,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),3.5,3.2,3.5,3.2,3.4,yr
+49,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9","Rochester, MN",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.4,3.5,yr
+51,"$101,725 /yr (est.)",101725.0,Hybrid Cloud Engineer,5,1,-1,"Anne Arundel Community College
+4.3","Arnold, MD",4.3,0,56,501 to 1000 Employees,1967,College / University,Colleges & Universities,Education,$100 to $500 million (USD),3.3,3.4,4.0,3.8,4.3,yr
+52,"$75,000 /yr (est.)",75000.0,Junior DevOps Engineer,1,1,0,"University of Texas at Austin
+4.2","Austin, TX",4.2,0,140,10000+ Employees,1883,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),3.9,3.5,4.0,3.8,4.0,yr
+53,"$96,625 /yr (est.)",96625.0,Junior Cloud Infrastructure Engineer,6,1,-1,"Applied Insight
+3.5","Laurel, MD",3.5,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.9,3.6,3.2,4.0,yr
+54,"$90,525 /yr (est.)",90525.0,Data Analyst,0,1,1,"Blend
+3.2",United States,3.2,0,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.0,3.6,3.4,2.9,3.7,yr
+64,"$98,930 /yr (est.)",98930.0,Software and Data Junior Engineer,0,1,0,"MIT
+4.3","Cambridge, MA",4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.7,4.1,3.7,3.6,yr
+65,$45.00 /hr (est.),93600.0,Cloud Big-Data Engineer,5,2,1,"PhasorSoft Group
+4.0","Starkville, MS",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+66,"$111,977 /yr (est.)",111977.0,AWS Cloud Data Engineer,3,1,-1,"SEFCU
+3.4","Albany, NY",3.4,0,70,201 to 500 Employees,1953,Nonprofit Organization,Banking & Lending,Financial Services,Unknown / Non-Applicable,2.8,3.9,3.5,3.1,3.6,yr
+69,"$117,500 /yr (est.)",117500.0,Cloud Consultant - AWS,5,1,-1,"Sourced Group, an Amdocs Company","Denver, CO",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+70,"$105,000 /yr (est.)",105000.0,Software Engineer,3,1,-1,Vindhya Data Science,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+71,"$93,000 /yr (est.)",93000.0,"Software Engineer - Parallel Computing, AWS (Hybrid - 3 Days in Office)",0,1,0,"Freddie Mac
+3.4","McLean, VA",3.4,0,53,5001 to 10000 Employees,1970,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.3,3.6,3.4,2.6,3.4,yr
+80,"$57,500 /yr (est.)",57500.0,Data Center Specialist,3,2,1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,yr
+83,$71.50 /hr (est.),148720.0,DATA ENGINEER,0,1,-1,"STAND 8
+4.4",Remote,4.4,1,-1,-1,-1,-1,-1,-1,-1,4.0,4.1,4.7,4.7,4.4,hr
+84,"$71,034 /yr (est.)",71034.0,"IT Analyst I, Cybersecurity",3,1,-1,"AGCO
+3.9","Duluth, GA",3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,yr
+85,"$170,500 /yr (est.)",170500.0,Security Analyst,4,2,1,"IBM
+4.0","Dallas, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,yr
+86,"$135,000 /yr (est.)",135000.0,Data Engineer,5,1,1,"Pallidus, Inc
+3.7",Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.5,2.5,2.8,3.4,3.0,yr
+90,"$176,675 /yr (est.)",176675.0,Senior Data Analyst,5,1,1,"Coinbase
+3.7",Remote,3.7,1,11,501 to 1000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.5,3.6,3.2,3.5,yr
+92,"$105,049 /yr (est.)",105049.0,Data Engineer,0,2,1,"Intertech, Inc
+4.4","Minnetonka, MN",4.4,0,32,51 to 200 Employees,1991,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.3,4.2,4.6,4.5,4.5,yr
+110,"$90,000 /yr (est.)",90000.0,Senior Data Engineer,10,1,-1,"spar information systems
+3.5",Remote,3.5,1,11,201 to 500 Employees,2012,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.6,3.5,3.4,3.6,3.6,yr
+174,"$88,750 /yr (est.)",88750.0,Jr Software Engineer,3,1,0,"webfx.com
+4.3","Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,yr
+204,$50.00 /hr (est.),104000.0,Remote - SQL Developer,4,1,1,First-Tek Inc,"New York, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+211,$82.50 /hr (est.),171600.0,Cloud Transformation Consultant,-1,-1,-1,"Synovize
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,hr
+274,$77.50 /hr (est.),161200.0,Cloud Infrastructure Engineer,-1,-1,-1,"Devcare Solutions
+3.7","Trenton, NJ",3.7,0,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+299,"$57,500 /yr (est.)",57500.0,Data Center Specialist,-1,-1,-1,"IBM
+4.0","Irving, TX",4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,yr
+304,"$88,750 /yr (est.)",88750.0,-1,-1,-1,-1,-1,"Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,yr
+334,$30.00 /hr (est.),62400.0,Scripting and Programming Foundations (Complex)|| Fresher,-1,-1,-1,"Hurix Digital
+3.2",Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,hr
+345,$60.00 /hr (est.),124800.0,DevOps Engineer,7,1,-1,"Maven Workforce Pvt. Ltd
+4.1","Berkeley Heights, NJ",4.1,0,15,51 to 200 Employees,2008,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.2,4.0,4.3,4.3,4.1,hr
+394,$50.00 /hr (est.),104000.0,Remote - SQL Developer,-1,-1,-1,First-Tek Inc,"New York, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+427,$65.00 /hr (est.),135200.0,Cloud Engineer - AWS/Azure,-1,-1,-1,Pragma Inc,"Orange, CT",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+437,$67.50 /hr (est.),140400.0,Cloud Engineer,-1,-1,-1,CloudXoo,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+0,$30.00 /hr (est.),62400.0,Web Development Foundations (Complex) || Fresher,5,1,1,Hurix Digital,Remote,3.2,1,23,501 to 1000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.2,3.0,3.1,3.0,3.0,hr
+1,"$50,000 /yr (est.)",50000.0,Frontend engineer,1,2,1,Arvist,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+2,"$82,299 /yr (est.)",82299.0,XSELLARATE WEB DEVELOPMENT & MERCHANT SERVICES,1,1,-1,BPS,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+3,$22.00 /hr (est.),45760.0,Jr. Web Developer,1,1,0,HiFi Design,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+4,"$63,473 /yr (est.)",63473.0,Associate Web App Engineer,0,1,0,Hyperspace Ventures,"Durham, NC",4.2,0,6,1 to 50 Employees,2017,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.5,4.0,4.7,4.5,4.5,yr
+5,$15.00 /hr (est.),31200.0,Project Coordinator for Web Development Company,-1,-1,-1,Gretrix LLC,Remote,4.3,1,-1,-1,-1,-1,-1,-1,-1,4.3,2.9,3.8,3.3,4.0,hr
+6,"$167,000 /yr (est.)",167000.0,Frontend Software Engineer,4,1,1,Zillow,Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,yr
+7,"$57,500 /yr (est.)",57500.0,Web Quality Assurance Engineer - Remote,3,1,-1,Provision IAM,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+8,"$95,000 /yr (est.)",95000.0,Full Stack Web Developer (Contract to hire),5,1,1,NovaWurks,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+9,$40.00 /hr (est.),83200.0,WEB CONTENT PROGRAMMER,5,2,-1,Princeton IT Services,Remote,4.2,1,15,1 to 50 Employees,2008,Private Practice / Firm,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.9,3.9,3.9,3.9,4.3,hr
+10,"$70,414 /yr (est.)",70414.0,Junior Web Developer,1,1,-1,Crunchapps,"New York, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+11,"$100,000 /yr (est.)",100000.0,Frontend Developer,3,1,-1,WPROMOTE,Remote,3.9,1,22,501 to 1000 Employees,2001,Company - Private,Advertising & Public Relations,Media & Communication,$100 to $500 million (USD),3.8,3.6,4.0,3.6,3.9,yr
+12,$62.50 /hr (est.),130000.0,Web and Graphics Designer,0,1,-1,Creator Marketing,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+13,"$60,717 /yr (est.)",60717.0,Web Development,0,1,0,Family Reunion,"Vienna, VA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+14,$45.00 /hr (est.),93600.0,Freelance Web Designer (Contract),0,1,-1,Loopdash,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+15,"$95,000 /yr (est.)",95000.0,Full Stack Engineer,0,2,1,Endurance Warranty Services,Remote,3.4,1,17,201 to 500 Employees,2006,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),3.3,3.5,3.2,3.0,3.3,yr
+16,"$71,327 /yr (est.)",71327.0,Web Development (Front End),2,1,-1,JEMSU,"Denver, CO",4.2,0,13,1 to 50 Employees,2010,Company - Private,Advertising & Public Relations,Media & Communication,$1 to $5 billion (USD),4.0,3.5,4.4,3.9,4.3,yr
+17,"$88,750 /yr (est.)",88750.0,Jr. Web Developer,3,1,0,webfx.com,"Ann Arbor, MI",4.3,0,28,501 to 1000 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$100 to $500 million (USD),4.4,4.1,4.4,4.3,4.1,yr
+18,"$68,078 /yr (est.)",68078.0,Junior Software Developer (Remote),1,1,0,SnapRISK,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+19,"$70,000 /yr (est.)",70000.0,Jr Frontend Developer,10,1,1,Modernize Home Services,"Austin, TX",4.1,0,18,51 to 200 Employees,2005,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.1,4.0,4.3,4.1,4.2,yr
+20,"$80,000 /yr (est.)",80000.0,Frontend Engineer (Remote),2,1,1,Leaf Logistics,Remote,4.0,1,6,1 to 50 Employees,2017,Company - Private,Taxi & Car Services,Transportation & Logistics,Unknown / Non-Applicable,3.9,4.2,3.9,3.8,4.5,yr
+21,"$90,735 /yr (est.)",90735.0,Frontend Web Developer,0,2,-1,Tasktoday,"Newark, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+22,"$70,000 /yr (est.)",70000.0,Jr Frontend Developer,0,1,-1,QuinStreet,"Austin, TX",4.0,0,24,501 to 1000 Employees,1999,Company - Public,Advertising & Public Relations,Media & Communication,$500 million to $1 billion (USD),3.9,3.8,3.9,3.7,4.1,yr
+23,"$88,424 /yr (est.)",88424.0,Frontend Engineer,0,1,1,Loft Orbital Solutions,"Toulouse, KY",4.6,0,6,1 to 50 Employees,2017,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.6,4.1,4.7,4.6,3.5,yr
+24,$15.00 /hr (est.),31200.0,Project Coordinator for Web Development Company,0,1,1,Gretrix,Remote,4.3,1,-1,-1,-1,-1,-1,-1,-1,4.3,2.9,3.8,3.3,4.0,hr
+25,"$115,000 /yr (est.)",115000.0,Frontend Software Engineer - React,0,2,-1,"Search Leaders, LLC",Minnesota,3.8,0,25,1 to 50 Employees,1998,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.1,3.8,4.1,4.1,4.2,yr
+26,$30.00 /hr (est.),62400.0,Web Designer,3,1,-1,Graybill Creative,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+27,"$64,250 /yr (est.)",64250.0,Frontend Engineer Apprenticeship,0,1,0,Fetch,"Madison, WI",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+28,"$78,250 /yr (est.)",78250.0,Frontend Web Developer,0,1,-1,Firefly Dimension,"San Jose, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+29,"$65,000 /yr (est.)",65000.0,Web Designer,2,1,-1,Einstein Industries,Remote,3.6,1,28,51 to 200 Employees,1995,Company - Private,Advertising & Public Relations,Media & Communication,$5 to $25 million (USD),3.4,3.2,3.8,3.4,3.9,yr
+30,"$102,500 /yr (est.)",102500.0,Web Developer,2,1,1,The New York Times,"New York, NY",3.7,0,127,1001 to 5000 Employees,1896,Company - Public,Broadcast Media,Media & Communication,$1 to $5 billion (USD),3.6,3.5,4.0,3.5,3.9,yr
+31,"$110,000 /yr (est.)",110000.0,Web Developer,2,1,1,A10 Networks,"San Jose, CA",4.1,0,19,501 to 1000 Employees,2004,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),3.8,3.8,3.8,3.9,4.4,yr
+32,"$10,000 /mo (est.)",120000.0,Web Developer/Programmer,0,1,-1,Vegan Liftz,"San Clemente, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,mo
+33,"$113,809 /yr (est.)",113809.0,Frontend Engineer,2,2,1,Rephrase.ai,"San Francisco, CA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.4,2.8,3.1,3.4,2.7,yr
+34,"$120,000 /yr (est.)",120000.0,"Software Developer, Frontend",2,1,-1,DISQO,Remote,4.5,1,8,201 to 500 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.1,4.3,4.2,4.1,4.2,yr
+35,$18.00 /hr (est.),37440.0,Junior Web Developer and Designer,1,1,0,Craft & Communicate,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+36,"$103,193 /yr (est.)",103193.0,React JS Developer,7,1,-1,cortracker inc,"Monterey, IN",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+37,"$55,000 /yr (est.)",55000.0,Web Developer,1,1,-1,Region 6 ESC,"Huntsville, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+38,"$119,218 /yr (est.)",119218.0,Frontend engineer,0,2,-1,Trood,"New York, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.4,5.0,4.4,5.0,yr
+47,"$45,000 /yr (est.)",45000.0,Junior Web Designer & Front-End Developer,0,1,1,Fame Foundry,"Charlotte, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+48,"$160,000 /yr (est.)",160000.0,Frontend Engineer,4,2,-1,BW Talent Solutions,"San Francisco, CA",4.4,0,20,51 to 200 Employees,2003,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.2,4.4,4.4,4.3,yr
+49,"$72,760 /yr (est.)",72760.0,Front end Developer,0,2,-1,Gazelle Global Consulting,Remote,3.6,1,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.6,3.4,3.5,yr
+51,"$126,015 /yr (est.)",126015.0,FrontEnd (React) Developer - Remote,3,1,1,CEDARS-SINAI,"Los Angeles, CA",4.1,0,121,10000+ Employees,1902,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),4.0,4.0,4.0,3.6,3.6,yr
+52,"$60,693 /yr (est.)",60693.0,Frontend Engineer Apprenticeship,0,1,0,Fetch,"Birmingham, AL",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+53,"$105,000 /yr (est.)",105000.0,Front End Developer,10,1,-1,Redvest App,Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+54,"$104,726 /yr (est.)",104726.0,Frontend Engineer,5,1,1,Wonders Corporation,"New York, NY",3.1,0,11,201 to 500 Employees,2012,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.8,4.0,3.5,3.3,3.5,yr
+56,"$75,000 /yr (est.)",75000.0,Web Designer II,2,1,1,Web Tech Fusion,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+58,"$140,000 /yr (est.)",140000.0,Frontend Engineer,1,1,-1,Hive,"San Francisco, CA",3.8,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.7,3.0,4.1,yr
+59,"$91,500 /yr (est.)",91500.0,Web Engineer,0,1,-1,The American Kennel Club,"New York, NY",2.9,0,139,201 to 500 Employees,1884,Nonprofit Organization,Membership Organizations,Management & Consulting,$25 to $100 million (USD),2.2,2.9,2.3,2.0,2.8,yr
+64,"$61,573 /yr (est.)",61573.0,Front-End-Web,0,1,-1,Celandyne Software Solutions,"Santa Clara, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+71,"$100,000 /yr (est.)",100000.0,Front end Web Developer,2,1,1,Public Health Solutions,New York State,3.9,0,66,501 to 1000 Employees,1957,Nonprofit Organization,Grantmaking & Charitable Foundations,Nonprofit & NGO,$100 to $500 million (USD),3.4,3.6,3.9,3.4,4.0,yr
+72,"$79,025 /yr (est.)",79025.0,Web Designer / Developer,0,1,-1,HIYO DESIGN,"New York, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+73,"$79,513 /yr (est.)",79513.0,VueJs Frontend Developer (Remote),0,2,0,"Avantpage, Inc.","Davis, CA",4.3,0,27,1 to 50 Employees,1996,Company - Private,Business Consulting,Management & Consulting,$1 to $5 million (USD),3.8,3.9,4.3,4.1,4.0,yr
+74,"$126,015 /yr (est.)",126015.0,FrontEnd (React) Developer - Remote,-1,-1,-1,CEDARS-SINAI,"Los Angeles, CA",4.1,0,121,10000+ Employees,1902,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),4.0,4.0,4.0,3.6,3.6,yr
+75,"$77,000 /yr (est.)",77000.0,Web Software Developer,2,1,1,University of Utah,Utah,4.2,0,173,10000+ Employees,1850,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),3.7,3.6,4.0,3.7,4.1,yr
+77,"$61,218 /yr (est.)",61218.0,"Web Developer, Frontend - React",0,2,1,Mackin Educational Resources,"Burnsville, MN",3.4,0,38,201 to 500 Employees,1985,Company - Private,Colleges & Universities,Education,$100 to $500 million (USD),2.2,2.7,3.1,2.8,3.6,yr
+78,"$104,032 /yr (est.)",104032.0,Frontend Software Engineer,5,1,-1,Subskribe,"San Ramon, CA",5.0,0,3,1 to 50 Employees,2020,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),4.8,4.6,5.0,5.0,4.8,yr
+80,"$65,000 /yr (est.)",65000.0,Front End Developer,0,2,-1,Nosto,"New York, NY",4.0,0,12,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.5,2.8,4.1,3.7,4.1,yr
+83,"$80,000 /yr (est.)",80000.0,Frontend Engineer (Remote),-1,-1,-1,Leaf Logistics,Remote,4.0,1,6,1 to 50 Employees,2017,Company - Private,Taxi & Car Services,Transportation & Logistics,Unknown / Non-Applicable,3.9,4.2,3.9,3.8,4.5,yr
+92,"$80,198 /yr (est.)",80198.0,front end HTML developer,2,1,-1,Lead5 Media,"Newark, CA",4.0,0,14,1 to 50 Employees,2009,Company - Private,Advertising & Public Relations,Media & Communication,$1 to $5 million (USD),4.0,4.0,4.0,5.0,3.0,yr
+95,"$81,046 /yr (est.)",81046.0,Frontend Engineer,0,2,1,Stukent,"Idaho Falls, ID",3.9,0,10,1 to 50 Employees,2013,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,3.7,3.1,4.3,3.9,4.2,yr
+96,"$69,323 /yr (est.)",69323.0,Front End Web Developer,0,1,-1,Magnetic Creative,"Temecula, CA",3.9,0,17,1 to 50 Employees,2006,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,3.5,3.4,4.3,3.5,4.1,yr
+98,"$68,069 /yr (est.)",68069.0,Front End Web Developer,4,1,1,Samesurf,"Beverly Hills, CA",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.0,5.0,5.0,5.0,yr
+100,"$60,202 /yr (est.)",60202.0,Front-End Web Developer,0,1,-1,Savant Learning Systems,"Martin, TN",1.9,0,-1,-1,-1,-1,-1,-1,-1,1.9,2.3,1.8,1.7,2.1,yr
+103,"$115,000 /yr (est.)",115000.0,Frontend Software Engineer - React,-1,-1,-1,"Search Leaders, LLC",Minnesota,3.8,0,25,1 to 50 Employees,1998,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.1,3.8,4.1,4.1,4.2,yr
+112,"$72,873 /yr (est.)",72873.0,Web Developer,2,2,-1,Citirex,"Los Angeles, CA",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,yr
+114,"$66,832 /yr (est.)",66832.0,Front-End Web Developer,0,1,1,Innovative Global Vision,"Macedonia, OH",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+117,"$71,473 /yr (est.)",71473.0,Junior Web Designer,2,1,0,Pixels Infotech,"Oakland, CA",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+118,"$81,032 /yr (est.)",81032.0,Junior Software Back End Developer,0,1,0,Spectrum Communications & Consulting Inc.,"Chicago, IL",4.3,0,31,51 to 200 Employees,1992,Company - Private,Advertising & Public Relations,Media & Communication,$5 to $25 million (USD),4.4,4.4,4.4,4.3,4.4,yr
+119,"$80,570 /yr (est.)",80570.0,Web Applications Developer,2,1,1,North Carolina State University,"Raleigh, NC",4.3,0,136,1001 to 5000 Employees,1887,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD),4.0,3.5,4.2,4.0,4.0,yr
+121,"$75,000 /yr (est.)",75000.0,Web Developer,5,1,1,Cyber Tech Group,"Houston, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+122,"$75,232 /yr (est.)",75232.0,Associate Front-End Web Developer,1,1,0,Sherwin-Williams,"Cleveland, OH",3.8,0,157,10000+ Employees,1866,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,3.6,3.3,3.2,yr
+123,"$113,619 /yr (est.)",113619.0,Frontend Engineer,0,1,-1,FactoryFour,"Los Angeles, CA",4.7,0,8,1 to 50 Employees,2015,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,4.7,4.6,4.8,4.4,4.4,yr
+126,$15.00 /hr (est.),31200.0,Project Coordinator for Web Development Company,0,1,1,Gretrix LLC,Remote,4.3,1,-1,-1,-1,-1,-1,-1,-1,4.3,2.9,3.8,3.3,4.0,hr
+158,"$45,000 /yr (est.)",45000.0,Junior Web Designer & Front-End Developer,-1,-1,-1,Fame Foundry,"Charlotte, NC",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+178,"$70,000 /yr (est.)",70000.0,Jr Frontend Developer,-1,-1,-1,QuinStreet,"Austin, TX",4.0,0,24,501 to 1000 Employees,1999,Company - Public,Advertising & Public Relations,Media & Communication,$500 million to $1 billion (USD),3.9,3.8,3.9,3.7,4.1,yr
+231,"$86,479 /yr (est.)",86479.0,Intermediate/Junior Web Developer,1,1,0,Social Concepts,"Redwood City, CA",1.6,0,-1,-1,-1,-1,-1,-1,-1,1.0,1.0,1.5,1.0,1.5,yr
+241,"$90,735 /yr (est.)",90735.0,Frontend Web Developer,-1,-1,-1,Tasktoday,"Newark, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+267,"$60,693 /yr (est.)",60693.0,Frontend Engineer Apprenticeship,-1,-1,-1,Fetch,"Birmingham, AL",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+386,"$71,327 /yr (est.)",71327.0,Web Development (Front End),-1,-1,-1,JEMSU,"Denver, CO",4.2,0,13,1 to 50 Employees,2010,Company - Private,Advertising & Public Relations,Media & Communication,$1 to $5 billion (USD),4.0,3.5,4.4,3.9,4.3,yr
+388,"$66,580 /yr (est.)",66580.0,Web Development,0,2,-1,I-Team,"Branch, TX",2.7,0,-1,-1,-1,-1,-1,-1,-1,2.8,3.9,3.0,3.1,2.2,yr
+455,"$113,809 /yr (est.)",113809.0,Frontend Engineer,-1,-1,-1,Rephrase.ai,"San Francisco, CA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.4,2.8,3.1,3.4,2.7,yr
+476,"$62,125 /yr (est.)",62125.0,Web Designer,5,1,1,B12,"New York, NY",4.1,0,8,1 to 50 Employees,2015,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.0,3.3,4.7,4.2,4.2,yr
+0,"$120,000 /yr (est.)",120000.0,Mobile App Developer - iOS/Android,5,2,-1,Invictech Inc,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+1,$95.00 /hr (est.),197600.0,Mobile App Designer,0,1,-1,Braintrust,"San Francisco, CA",4.6,0,5,1 to 50 Employees,2018,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.4,4.5,4.5,4.4,4.3,hr
+3,$95.00 /hr (est.),197600.0,Mobile Engineer (0-1 Development),0,1,-1,Braintrust,"San Francisco, CA",4.6,0,5,1 to 50 Employees,2018,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.4,4.5,4.5,4.4,4.3,hr
+4,"$69,900 /yr (est.)",69900.0,"Content Translator, Spanish (Remote)",0,1,1,Hinge Health,"Nevada, TX",3.8,0,9,1001 to 5000 Employees,2014,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.8,4.0,yr
+5,"$82,500 /yr (est.)",82500.0,Software Developer w/ Mobile App Development Expertise,5,1,0,FTS,Remote,3.9,1,5,1 to 50 Employees,2018,Company - Private,Accounting & Tax,Financial Services,$5 to $25 million (USD),3.9,3.7,3.7,3.8,3.7,yr
+6,$55.00 /hr (est.),114400.0,Mobile Application Developer,3,2,-1,Devcare Solutions,Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,hr
+7,"$63,837 /yr (est.)",63837.0,"Android, Mobile Engineer, Apprenticeship",0,2,0,Fetch,"Madison, WI",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+8,"$127,500 /yr (est.)",127500.0,Android Mobile App Developer (REMOTE),2,1,0,GEICO,"Chevy Chase, MD",3.1,0,87,10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),3.3,3.5,2.9,2.6,2.7,yr
+9,$50.00 /hr (est.),104000.0,Mobile app developer,3,2,1,Locks Global Staffing LLC,"Austin, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+10,"$125,000 /yr (est.)",125000.0,Frontend Engineer,1,1,0,SportsRecruits,Remote,4.3,1,14,1 to 50 Employees,2009,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.8,3.5,4.4,4.0,4.0,yr
+11,"$134,500 /yr (est.)",134500.0,Business Development - Advertiser Partnerships,8,1,-1,AppLovin,Remote,3.6,1,11,1001 to 5000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.0,3.4,3.4,3.1,yr
+12,$80.00 /hr (est.),166400.0,Mobile Application Developer,5,1,1,Tessolve,"San Jose, CA",4.1,0,19,1001 to 5000 Employees,2004,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$500 million to $1 billion (USD),4.2,3.7,4.1,3.9,3.8,hr
+13,"$54,311 /yr (est.)",54311.0,Mobile Developer (Flutter),6,2,1,Axians,"Lisbon, ME",3.6,0,24,10000+ Employees,1999,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),3.3,3.4,3.6,3.2,3.7,yr
+14,"$72,500 /yr (est.)",72500.0,Mobile App Developer,3,2,-1,PhasorSoft Group,"Starkville, MS",4.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+15,$35.00 /hr (est.),72800.0,Jr Mobile App Developer.,2,2,-1,Adidev Technologies Inc,"New York, NY",4.1,0,-1,-1,-1,-1,-1,-1,-1,3.7,3.2,3.2,4.0,4.0,hr
+17,"$113,462 /yr (est.)",113462.0,Mobile App Developer / Software Developer,0,1,-1,Artisan Crew Engineering (ACE),"Los Angeles, CA",4.0,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.4,3.8,3.6,4.1,yr
+18,$50.00 /hr (est.),104000.0,Mobile App Developer,6,2,-1,"Kareo, Inc","Englewood, CO",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+19,"$105,000 /yr (est.)",105000.0,Software Engineer,0,1,-1,Redvest App,Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+20,$90.00 /hr (est.),187200.0,"Product Designer, App Platforms (Full Time Temp)",3,2,1,The New York Times,"New York, NY",3.7,0,127,1001 to 5000 Employees,1896,Company - Public,Broadcast Media,Media & Communication,$1 to $5 billion (USD),3.6,3.5,4.0,3.5,3.9,hr
+21,"$49,743 /yr (est.)",49743.0,"iOS, Mobile Engineer, Apprenticeship",0,2,1,Fetch,"Birmingham, AL",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+22,"$96,307 /yr (est.)",96307.0,.Net App developer -Remote,6,2,1,Riya Interactive Inc,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+23,"$8,915 /mo (est.)",106980.0,Sr-Principal Quality Assurance Engineer-Mobile App Automation - REMOTE,5,1,0,Publix Associate Services LLC,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,mo
+24,"$69,206 /yr (est.)",69206.0,"iOS, Mobile Engineer, Apprenticeship",0,2,1,Fetch,"Chicago, IL",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+25,"$66,116 /yr (est.)",66116.0,Mobile App Developer (ReactNative /Flutter),0,2,-1,Trood,"New York, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.4,5.0,4.4,5.0,yr
+26,"$140,000 /yr (est.)",140000.0,Android Developer,0,1,-1,YouMail,Remote,3.5,1,-1,-1,-1,-1,-1,-1,-1,3.2,3.4,3.7,3.4,3.9,yr
+27,"$120,000 /yr (est.)",120000.0,Software Developer - Android Mobile App,4,1,1,Costco Wholesale,"Dallas, TX",4.0,0,47,10000+ Employees,1976,Company - Public,General Merchandise & Superstores,Retail & Wholesale,Unknown / Non-Applicable,3.9,4.3,3.7,3.4,3.3,yr
+28,"$197,100 /yr (est.)",197100.0,(Remote) iOS Principal Mobile Developer,8,1,1,Stryker,Michigan,4.1,0,82,10000+ Employees,1941,Company - Public,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),4.0,3.9,4.1,3.8,3.7,yr
+29,"$150,000 /yr (est.)",150000.0,Android Software Engineer (Remote),3,1,-1,Nimbus,United States,4.3,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.8,2.6,3.6,2.7,yr
+30,"$101,149 /yr (est.)",101149.0,Front End Developer,0,1,-1,E business international,Remote,3.6,1,31,51 to 200 Employees,1992,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.5,3.5,3.7,3.6,3.7,yr
+31,"$68,487 /yr (est.)",68487.0,Mobile App Engineer (IOS/Android),-1,-1,-1,Experient Group,"Atlanta, GA",4.8,0,22,51 to 200 Employees,2001,Company - Private,Business Consulting,Management & Consulting,$5 to $25 million (USD),4.3,4.5,4.8,4.6,4.8,yr
+32,"$240,000 /yr (est.)",240000.0,Product Principal- Mobile App (Remote),8,1,1,Home Depot / THD,"Atlanta, GA",3.8,0,45,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),3.7,3.6,3.8,3.4,3.5,yr
+33,"$150,000 /yr (est.)",150000.0,iOS Software Engineer (Remote),3,1,-1,Nimbus,United States,4.3,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.8,2.6,3.6,2.7,yr
+34,"$161,625 /yr (est.)",161625.0,Mobile Development Engineer- Android,-1,-1,-1,Nevro Corp.,"Redwood City, CA",3.5,0,17,501 to 1000 Employees,2006,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.5,4.1,3.5,3.2,3.0,yr
+35,"$129,315 /yr (est.)",129315.0,Sr. Mobile Automation Engineer,-1,-1,-1,Yum! Brands,Remote,4.1,1,26,10000+ Employees,1997,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.9,3.7,4.3,3.8,4.2,yr
+36,"$135,000 /yr (est.)",135000.0,Frontend Engineer,6,1,-1,MagicLinks,Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.8,3.8,3.8,3.6,4.1,yr
+37,"$100,000 /yr (est.)",100000.0,Front End Developer,0,1,1,"Otter Products, LLC",Remote,3.6,1,25,501 to 1000 Employees,1998,Company - Private,Consumer Product Manufacturing,Manufacturing,Unknown / Non-Applicable,3.2,3.4,3.8,3.3,3.5,yr
+38,$52.50 /hr (est.),109200.0,iOS Developer,5,2,-1,CALLISTOFUSION,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+39,$75.00 /hr (est.),156000.0,Sr. Android Mobile Developer,8,2,-1,OrangePeople,"Plano, TX",4.1,0,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,hr
+40,$72.50 /hr (est.),150800.0,Mobile iOS/ Android Developer,8,2,-1,Sansutek,"Plano, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+41,"$97,500 /yr (est.)",97500.0,Flutter Developer,0,1,-1,Ramsey Theory Group,"Fort Lee, NJ",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+43,"$290,400 /yr (est.)",290400.0,Principal Software Engineer - Frontend Mobile,0,1,1,Hinge Health,"San Francisco, CA",3.8,0,9,1001 to 5000 Employees,2014,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.8,4.0,yr
+44,"$108,850 /yr (est.)",108850.0,Android Developer,0,2,-1,Trood,"New York, NY",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.6,4.4,5.0,4.4,5.0,yr
+45,"$100,000 /yr (est.)",100000.0,Full Stack Developer,0,2,-1,Redvest App,Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+52,"$124,800 /yr (est.)",124800.0,Software Engineer(iOS & Android) - REMOTE,3,1,0,HM Health Solutions,Pennsylvania,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.6,3.6,3.3,3.8,yr
+53,"$161,625 /yr (est.)",161625.0,Mobile Development Engineer- Android,5,1,-1,Nevro Corp.,"Redwood City, CA",3.5,0,17,501 to 1000 Employees,2006,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),3.5,4.1,3.5,3.2,3.0,yr
+59,"$79,062 /yr (est.)",79062.0,Flutter App Developer,5,1,-1,eComStreet,"Chicago, IL",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.9,4.6,4.9,4.9,4.9,yr
+60,"$143,486 /yr (est.)",143486.0,Principal Mobile Product Designer,0,2,1,Intuit,"San Diego, CA",4.6,0,40,10000+ Employees,1983,Company - Public,Software Development,Information Technology,$10+ billion (USD),4.4,4.5,4.6,4.3,4.5,yr
+64,"$152,000 /yr (est.)",152000.0,Software Engineer- iOS,0,2,1,Babylist,United States,4.1,0,12,51 to 200 Employees,2011,Company - Private,Other Retail Stores,Retail & Wholesale,Unknown / Non-Applicable,3.8,4.2,4.3,3.8,4.1,yr
+65,"$76,248 /yr (est.)",76248.0,Mobile Application Developer,5,1,0,Barnes & Noble,"Schenectady, NY",3.8,0,-1,-1,-1,-1,-1,-1,-1,3.0,2.9,3.8,3.3,3.6,yr
+67,"$163,000 /yr (est.)",163000.0,"Senior Web Developer, Frontend",0,1,0,Wrapmate,Remote,5.0,1,5,1 to 50 Employees,2018,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,yr
+85,"$170,885 /yr (est.)",170885.0,Principal Mobile App Engineer,9,1,1,Publix,"Lakeland, FL",3.7,0,93,10000+ Employees,1930,Company - Private,Grocery Stores,Retail & Wholesale,$10+ billion (USD),3.8,3.7,3.7,3.4,3.3,yr
+88,"$210,000 /yr (est.)",210000.0,Software Engineer - Android,2,1,-1,Blockchain Talents,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+102,"$100,000 /yr (est.)",100000.0,Front End Developer,-1,-1,-1,"Otter Products, LLC",Remote,3.6,1,25,501 to 1000 Employees,1998,Company - Private,Consumer Product Manufacturing,Manufacturing,Unknown / Non-Applicable,3.2,3.4,3.8,3.3,3.5,yr
+106,$45.00 /hr (est.),93600.0,Android/IOS Developer,0,1,-1,KC Synergy Solutions,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+107,"$112,000 /yr (est.)",112000.0,Sr. Mobile App Developer (Android),5,1,1,Gemological Institute of America,"Carlsbad, CA",3.9,0,92,1001 to 5000 Employees,1931,Nonprofit Organization,Civic & Social Services,Nonprofit & NGO,Unknown / Non-Applicable,3.5,3.7,3.7,3.3,3.7,yr
+109,"$125,000 /yr (est.)",125000.0,iOS Engineer,3,2,1,Guidebook,"Raleigh, NC",3.9,0,12,1 to 50 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.5,4.1,3.5,4.1,yr
+113,"$146,000 /yr (est.)",146000.0,Senior Software Engineer (iOS & Android) - REMOTE,5,1,0,HM Health Solutions,Pennsylvania,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.5,3.6,3.6,3.3,3.8,yr
+116,"$135,000 /yr (est.)",135000.0,Frontend Engineer,-1,-1,-1,MagicLinks,Remote,3.7,1,-1,-1,-1,-1,-1,-1,-1,3.8,3.8,3.8,3.6,4.1,yr
+120,"$112,000 /yr (est.)",112000.0,Software Engineer,4,1,1,Credit Acceptance,Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,yr
+123,"$160,000 /yr (est.)",160000.0,Senior iOS Engineer (Dating App),0,2,1,Recruiting From Scratch,Remote,3.9,1,4,1 to 50 Employees,2019,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$1 to $5 million (USD),4.0,3.9,3.6,3.5,3.9,yr
+124,"$137,254 /yr (est.)",137254.0,"Software Engineer, Android, IXL Mobile",4,1,1,IXL Learning,"San Mateo, CA",3.2,0,25,1001 to 5000 Employees,1998,Company - Private,Education & Training Services,Education,$100 to $500 million (USD),2.9,3.1,3.1,2.8,3.6,yr
+125,"$123,209 /yr (est.)",123209.0,IOS developer (W2),8,1,-1,Phasorsoft LLC,Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+129,"$125,000 /yr (est.)",125000.0,Android Developer,3,2,1,Guidebook,"Raleigh, NC",3.9,0,12,1 to 50 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.5,4.1,3.5,4.1,yr
+131,"$133,800 /yr (est.)",133800.0,Mobile Software Development Engineer - Android,3,1,0,Workday,"Boulder, CO",4.2,0,18,10000+ Employees,2005,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),3.9,4.2,4.3,3.8,4.3,yr
+161,"$120,000 /yr (est.)",120000.0,Software Developer - Android Mobile App,4,1,1,Costco Wholesale,"Chicago, IL",4.0,0,47,10000+ Employees,1976,Company - Public,General Merchandise & Superstores,Retail & Wholesale,Unknown / Non-Applicable,3.9,4.3,3.7,3.4,3.3,yr
+177,"$75,849 /yr (est.)",75849.0,"Android, Mobile Engineer, Apprenticeship",0,2,0,Fetch,"Chicago, IL",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+200,"$63,473 /yr (est.)",63473.0,Associate Web App Engineer,-1,-1,-1,Hyperspace Ventures,"Durham, NC",4.2,0,6,1 to 50 Employees,2017,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.5,4.0,4.7,4.5,4.5,yr
+205,"$63,473 /yr (est.)",63473.0,Front End Developer,10,1,-1,Redvest App,Remote,5.0,1,6,1 to 50 Employees,2017,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+336,$52.50 /hr (est.),109200.0,iOS Developer,-1,-1,-1,CALLISTOFUSION,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+344,"$63,837 /yr (est.)",63837.0,"Android, Mobile Engineer, Apprenticeship",-1,-1,-1,Fetch,"Madison, WI",3.7,0,10,501 to 1000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.7,3.3,3.8,yr
+361,"$84,084 /yr (est.)",84084.0,Jr. Web & Mobile App Designer,0,2,-1,OpenSource Technologies,"Philadelphia, PA",3.8,0,14,1 to 50 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.1,4.1,3.7,3.9,yr
+364,"$160,000 /yr (est.)",160000.0,Senior/Principal Mobile Engineer-Android,3,1,0,Liberty Mutual,"Plano, TX",4.0,0,111,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.8,4.0,4.0,3.7,3.9,yr
+373,"$120,000 /yr (est.)",120000.0,Mobile App Developer - iOS/Android,-1,-1,-1,Invictech Inc,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+374,"$105,000 /yr (est.)",105000.0,Front End Developer,-1,-1,-1,Redvest App,Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+375,"$69,900 /yr (est.)",69900.0,"Content Translator, Spanish (Remote)",-1,-1,-1,Hinge Health,"Nevada, TX",3.8,0,9,1001 to 5000 Employees,2014,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.9,3.8,4.0,yr
+376,"$240,000 /yr (est.)",240000.0,Product Principal- Mobile App (Remote),-1,-1,-1,Home Depot / THD,"Atlanta, GA",3.8,0,45,10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),3.7,3.6,3.8,3.4,3.5,yr
+381,$95.00 /hr (est.),197600.0,Mobile App Designer,-1,-1,-1,Braintrust,"San Francisco, CA",4.6,0,5,1 to 50 Employees,2018,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),4.4,4.5,4.5,4.4,4.3,hr
+387,"$137,254 /yr (est.)",137254.0,"Software Engineer, Android, IXL Mobile",-1,-1,-1,IXL Learning,"San Mateo, CA",3.2,0,25,1001 to 5000 Employees,1998,Company - Private,Education & Training Services,Education,$100 to $500 million (USD),2.9,3.1,3.1,2.8,3.6,yr
+407,"$157,426 /yr (est.)",157426.0,"Senior Software Engineer, Android, IXL Mobile",-1,-1,-1,IXL Learning,"San Mateo, CA",3.2,0,25,1001 to 5000 Employees,1998,Company - Private,Education & Training Services,Education,$100 to $500 million (USD),2.9,3.1,3.1,2.8,3.6,yr
+431,"$143,286 /yr (est.)",143286.0,"Software Engineer, iOS, IXL Mobile",1,1,1,IXL Learning,"San Mateo, CA",3.2,0,25,1001 to 5000 Employees,1998,Company - Private,Education & Training Services,Education,$100 to $500 million (USD),2.9,3.1,3.1,2.8,3.6,yr
+476,"$8,915 /mo (est.)",106980.0,Sr-Principal Quality Assurance Engineer-Mobile App Automation - REMOTE,-1,-1,-1,Publix Associate Services LLC,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,mo
+490,"$127,500 /yr (est.)",127500.0,Android Mobile App Developer (REMOTE),-1,-1,-1,GEICO,"Chevy Chase, MD",3.1,0,87,10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),3.3,3.5,2.9,2.6,2.7,yr
+503,"$84,084 /yr (est.)",84084.0,Jr. Web & Mobile App Designer,-1,-1,-1,OpenSource Technologies,"Philadelphia, PA",3.8,0,14,1 to 50 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.1,4.1,3.7,3.9,yr
+532,"$160,000 /yr (est.)",160000.0,Senior/Principal Mobile Engineer-Android,-1,-1,-1,Liberty Mutual,"Plano, TX",4.0,0,111,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.8,4.0,4.0,3.7,3.9,yr
+551,"$163,000 /yr (est.)",163000.0,"Senior Web Developer, Frontend",-1,-1,-1,Wrapmate,Remote,5.0,1,5,1 to 50 Employees,2018,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,yr
+0,$43.50 /hr (est.),90480.0,"Windows Desktop Software Engineer (C#, Winforms) - 1148",2,1,-1,infosoft,"Johnson City, TN",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+1,"$97,827 /yr (est.)",97827.0,Software Engineer,1,1,1,Product Genius,"Boston, MA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+2,"$131,754 /yr (est.)",131754.0,Software Development Engineer,0,1,-1,"DaleWorthGroup.com
+4.0","Santa Clara, CA",4.0,0,34,1 to 50 Employees,1989,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),2.0,5.0,5.0,5.0,1.0,yr
+3,"$152,500 /yr (est.)",152500.0,Sr. Software Engineer (Full Stack),8,1,-1,"UpKeep
+3.0",Remote,3.0,1,-1,-1,-1,-1,-1,-1,-1,3.0,3.0,3.0,2.0,2.0,yr
+4,"$95,000 /yr (est.)",95000.0,Desktop Support/Systems Administrator,0,1,0,ls3staffing.com,"Houston, TX",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+5,"$48,827 /yr (est.)",48827.0,IT Desktop Support,3,1,-1,"Orion Innovation
+3.9","Edison, NJ",3.9,0,30,5001 to 10000 Employees,1993,Company - Private,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.2,3.0,3.2,3.4,4.0,yr
+6,$16.00 /hr (est.),33280.0,Arabic Interpreter,0,1,1,-1,Remote,-1.0,1,41,10000+ Employees,1982,Company - Public,Telecommunications Services,Telecommunications,$500 million to $1 billion (USD),2.9,2.6,3.1,3.0,3.2,hr
+7,$29.00 /hr (est.),60320.0,Desktop Support Technician,4,2,-1,"Intratek Computer, Inc.
+4.5","Orange, CA",4.5,0,34,201 to 500 Employees,1989,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),4.5,4.5,4.5,4.5,4.5,hr
+8,"$82,500 /yr (est.)",82500.0,Manager of HR & Administration (Fully Remote CDH Client),0,1,1,"CDH, PC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,4.2,4.3,4.4,3.7,4.1,yr
+9,$31.50 /hr (est.),65520.0,Software Engineer / C# Developer,4,1,-1,"ComTec
+2.4","Johnson City, TN",2.4,0,-1,-1,-1,-1,-1,-1,-1,1.4,1.8,1.8,1.8,1.5,hr
+10,"$70,000 /yr (est.)",70000.0,Desktop Support Technician,-1,-1,-1,"Union Supply Group Inc
+2.8","Groveport, OH",2.8,0,-1,-1,-1,-1,-1,-1,-1,2.5,2.4,1.8,2.2,2.3,yr
+11,"$73,957 /yr (est.)",73957.0,Desktop Software Application Developer,0,1,1,"Breault Research Organization
+4.1","Tucson, AZ",4.1,0,44,1 to 50 Employees,1979,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.1,3.3,3.2,3.7,4.4,yr
+12,"$50,709 /yr (est.)",50709.0,Associate QA Analyst (Remote),0,1,0,"Patterson Companies, Inc.
+3.7","Effingham, IL",3.7,0,146,5001 to 10000 Employees,1877,Company - Public,Wholesale,Retail & Wholesale,$5 to $10 billion (USD),3.4,3.5,3.8,3.4,3.6,yr
+13,"$49,201 /yr (est.)",49201.0,Desktop Support Technician,0,2,0,"NTT DATA Services
+3.5","Brick, NJ",3.5,0,56,10000+ Employees,1967,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.1,3.1,3.2,3.1,3.5,yr
+14,"$97,703 /yr (est.)",97703.0,Software Engineer,0,1,1,"City of Duncanville
+4.1","Duncanville, TX",4.1,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.9,2.8,2.5,3.0,yr
+15,"$92,180 /yr (est.)",92180.0,QA Engineer - Remote,2,1,1,"Genome
+3.8","New York, NY",3.8,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.2,3.9,3.4,3.2,yr
+16,$17.50 /hr (est.),36400.0,"SERVICE DESK ANALYST, TECHNICAL – REMOTE WORK!",0,2,1,"UNITY BPO
+2.9",Remote,2.9,1,7,51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,2.8,3.1,2.9,2.3,3.0,hr
+17,"$54,332 /yr (est.)",54332.0,Software Support Specialists - SaaS - 100% Remote,3,2,1,"Transfinder
+3.4","Houston, TX",3.4,0,35,51 to 200 Employees,1988,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.2,2.9,3.3,2.9,3.1,yr
+18,"$49,211 /yr (est.)",49211.0,IT Assistant: Level 1,0,1,0,"The City University of New York (CUNY)
+3.8","New York, NY",3.8,0,176,10000+ Employees,1847,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),3.3,3.5,3.8,3.3,3.7,yr
+19,"$142,500 /yr (est.)",142500.0,Manager Desktop Support - 23010358,5,1,0,"MoneyGram
+3.7","Minneapolis, MN",3.7,0,83,1001 to 5000 Employees,1940,Company - Public,Financial Transaction Processing,Financial Services,$500 million to $1 billion (USD),3.2,3.6,3.5,3.3,3.8,yr
+20,"$112,000 /yr (est.)",112000.0,Senior Software Test Engineer II,7,1,1,"Zimmer Biomet
+3.6",Remote,3.6,1,96,10000+ Employees,1927,Company - Public,Health Care Products Manufacturing,Manufacturing,$5 to $10 billion (USD),3.4,3.7,3.5,3.3,3.3,yr
+21,"$40,847 /yr (est.)",40847.0,Associate Help Desk Analyst,0,1,0,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,yr
+22,$27.50 /hr (est.),57200.0,Service Desk IT Support Specialist,3,1,1,"Hanger, Inc.
+3.5",Remote,3.5,1,162,5001 to 10000 Employees,1861,Company - Private,Health Care Services & Hospitals,Healthcare,$1 to $5 billion (USD),3.4,3.3,3.5,3.2,3.5,hr
+23,"$45,000 /yr (est.)",45000.0,IT Technician,3,1,-1,"Camden County College
+3.6",New Jersey,3.6,0,56,501 to 1000 Employees,1967,College / University,Colleges & Universities,Education,$25 to $100 million (USD),2.9,2.8,3.4,2.9,3.6,yr
+24,"$87,500 /yr (est.)",87500.0,Software Developer,4,1,-1,"Globus family of brands
+3.9",Remote,3.9,1,60,201 to 500 Employees,1963,Company - Private,Travel Agencies,Hotels & Travel Accommodation,$25 to $100 million (USD),3.5,3.6,3.8,3.5,3.8,yr
+25,"$44,542 /yr (est.)",44542.0,Desktop Support Analyst 1,2,1,1,"Louisiana State University
+3.9","Baton Rouge, LA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.2,3.7,3.6,3.8,yr
+26,"$56,534 /yr (est.)",56534.0,Quality Assurance Analyst,0,1,-1,"Dee's Solutions
+5.0","Rockwall, TX",5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,5.0,yr
+27,$32.50 /hr (est.),67600.0,IT Support Technician,2,1,1,"Spring Fertility
+3.6","New York, NY",3.6,0,7,201 to 500 Employees,2016,Company - Private,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.4,3.7,3.3,3.4,hr
+28,"$71,970 /yr (est.)",71970.0,IT Associate Systems Engineer,0,1,1,"EVERSOURCE
+3.6","Berlin, CT",3.6,0,57,5001 to 10000 Employees,1966,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",Unknown / Non-Applicable,3.7,4.1,3.3,3.2,3.1,yr
+29,"$165,000 /yr (est.)",165000.0,Senior Full-Stack Software Engineer,4,1,0,"Chartbeat
+4.2",Remote,4.2,1,14,51 to 200 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $25 million (USD),4.0,4.1,4.7,3.7,4.7,yr
+30,"$120,000 /yr (est.)",120000.0,Software Engineer,8,1,-1,"YSI
+3.7","College Park, MD",3.7,0,12,10000+ Employees,2011,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.3,3.5,3.5,3.1,3.6,yr
+31,"$41,546 /yr (est.)",41546.0,Desktop Support Technician,0,1,-1,"SUN Behavioral Houston
+3.0","Houston, TX",3.0,0,10,1001 to 5000 Employees,2013,Company - Private,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),3.0,3.2,3.0,2.5,3.2,yr
+32,"$57,500 /yr (est.)",57500.0,IT Support Specialist,1,1,0,"Atelier Ten
+4.2","New York, NY",4.2,0,33,201 to 500 Employees,1990,Company - Private,Construction,"Construction, Repair & Maintenance Services",Unknown / Non-Applicable,3.7,3.4,3.8,3.5,3.7,yr
+33,$27.50 /hr (est.),57200.0,Help Desk Specialist Level 1,-1,-1,-1,"Mantek Solutions
+5.0","Commerce, CA",5.0,0,50,1 to 50 Employees,1973,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.8,5.0,4.8,5.0,4.8,hr
+34,"$84,645 /yr (est.)",84645.0,Full Stack Developer,0,2,-1,Epic Solutions Consultant,Dallas-Fort Worth,-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+35,"$82,500 /yr (est.)",82500.0,Support Engineer,0,1,1,"Skytap
+3.8",Remote,3.8,1,17,51 to 200 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.5,3.8,3.8,3.8,4.0,yr
+36,"$73,500 /yr (est.)",73500.0,Computing Support Analyst 1,0,1,1,"Stanford University
+4.3","Redwood City, CA",4.3,0,132,10000+ Employees,1891,College / University,Colleges & Universities,Education,$10+ billion (USD),4.2,3.6,4.1,3.8,3.8,yr
+37,"$51,292 /yr (est.)",51292.0,IT Help Desk Technician,0,1,-1,"Brivo
+4.4","Bethesda, MD",4.4,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),4.3,4.2,4.5,4.3,4.5,yr
+38,"$69,723 /yr (est.)",69723.0,IT Support Associate,3,1,0,"ACLU
+3.6","New York, NY",3.6,0,103,201 to 500 Employees,1920,Nonprofit Organization,Membership Organizations,Management & Consulting,$25 to $100 million (USD),3.4,4.2,3.2,3.4,3.3,yr
+39,"$68,493 /yr (est.)",68493.0,IT Analyst,5,1,0,"Chromalloy
+3.6","Newnan, GA",3.6,0,69,1001 to 5000 Employees,1954,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),3.5,3.4,3.5,3.5,3.3,yr
+40,"$47,500 /yr (est.)",47500.0,IT Technician,2,1,0,"ARM GROUP LLC
+4.1","Hummelstown, PA",4.1,0,-1,-1,-1,-1,-1,-1,-1,3.6,3.6,3.9,3.5,3.1,yr
+41,"$99,075 /yr (est.)",99075.0,Sr. Desktop Support Engineer,5,1,1,"Electronic Arts
+4.0","Los Angeles, CA",4.0,0,41,10000+ Employees,1982,Company - Public,Video Game Publishing,Media & Communication,$5 to $10 billion (USD),3.8,3.8,4.1,3.6,4.0,yr
+42,"$62,500 /yr (est.)",62500.0,I.T. Support Engineer,2,2,1,"Cyemptive Technologies
+3.8","Everett, WA",3.8,0,-1,-1,-1,-1,-1,-1,-1,3.7,3.4,3.6,3.3,4.1,yr
+43,"$57,000 /yr (est.)",57000.0,IT Service Desk Analyst,3,1,-1,"Crane Currency
+3.2","Alpharetta, GA",3.2,0,222,1001 to 5000 Employees,1801,Company - Public,Consumer Product Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.0,3.4,3.2,3.0,3.3,yr
+44,"$87,412 /yr (est.)",87412.0,Frontend Engineer (Junior Frontend Developer),-1,-1,-1,"Sangoma
+3.4","San Diego, CA",3.4,0,39,201 to 500 Employees,1984,Company - Public,Telecommunications Services,Telecommunications,$100 to $500 million (USD),3.4,3.2,3.2,3.0,3.4,yr
+45,"$58,169 /yr (est.)",58169.0,Sr Desktop Support Analyst,5,1,1,"HCA Healthcare
+3.3","Nashville, TN",3.3,0,55,10000+ Employees,1968,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.5,3.2,3.3,3.0,3.2,yr
+46,$27.50 /hr (est.),57200.0,Help Desk Specialist Level 1,3,1,0,"Mantek Solutions
+5.0","Commerce, CA",5.0,0,50,1 to 50 Employees,1973,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.8,5.0,4.8,5.0,4.8,hr
+49,"$71,500 /yr (est.)",71500.0,"IT Support Admin, I",0,1,1,"Synopsys
+4.1","Mountain View, CA",4.1,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,4.1,3.8,4.0,yr
+53,$30.00 /hr (est.),62400.0,IT Support Specialist,1,1,0,"Blue Summit Technologies, Inc.","New York, NY",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+55,$26.00 /hr (est.),54080.0,Help Desk Technician,2,2,1,"Parasol Alliance
+4.1","McLean, VA",4.1,0,8,51 to 200 Employees,2015,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,4.1,4.4,4.1,4.2,hr
+57,$57.50 /hr (est.),119600.0,QA Test Engineer,8,2,-1,"Ghritachi Inc
+5.0","New York, NY",5.0,0,2,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),5.0,5.0,5.0,5.0,5.0,hr
+59,$40.29 /hr (est.),83803.2,"(2) IT Field Support Technician (Infrastructure Specialist 2)- 20067064, 20083020",0,1,0,"State of Ohio Jobs
+3.5","Columbus, OH",3.5,0,220,10000+ Employees,1803,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.5,3.8,3.1,2.7,3.5,hr
+60,"$67,500 /yr (est.)",67500.0,Technical Support Analyst,0,1,1,"Aflac, Incorporated
+3.8",South Carolina,3.8,0,68,10000+ Employees,1955,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),3.7,3.8,3.9,3.5,3.8,yr
+62,"$75,884 /yr (est.)",75884.0,IT Software Developer,0,1,1,"Miami-Dade County
+3.7",United States,3.7,0,117,10000+ Employees,1906,Government,Municipal Agencies,Government & Public Administration,$1 to $5 billion (USD),3.9,3.8,3.6,3.4,3.8,yr
+63,$30.00 /hr (est.),62400.0,Help Desk Specialist level 2,-1,-1,-1,"Mantek Solutions
+5.0","Commerce, CA",5.0,0,50,1 to 50 Employees,1973,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.8,5.0,4.8,5.0,4.8,hr
+67,$26.50 /hr (est.),55120.0,IT Help Desk Technician,0,2,-1,"Schomp Automotive
+3.0","Highlands Ranch, CO",3.0,0,82,501 to 1000 Employees,1941,Company - Private,Vehicle Dealers,Retail & Wholesale,Unknown / Non-Applicable,3.3,3.2,3.1,3.1,2.7,hr
+68,$37.00 /hr (est.),76960.0,C# Developer,0,1,-1,Plexus enterprises,"Johnson City, TN",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+69,"$135,570 /yr (est.)",135570.0,IT Linux Client Engineer,7,1,-1,"INTEL
+4.2",Remote,4.2,1,55,10000+ Employees,1968,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,4.0,4.2,3.7,4.1,yr
+70,"$127,500 /yr (est.)",127500.0,Senior Software Development Engineer I,5,1,0,"Travelport
+3.5",Colorado,3.5,0,52,1001 to 5000 Employees,1971,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 billion (USD),3.3,3.4,3.6,3.1,3.9,yr
+75,$30.00 /hr (est.),62400.0,Help Desk Specialist level 2,3,1,0,"Mantek Solutions
+5.0","Commerce, CA",5.0,0,50,1 to 50 Employees,1973,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.8,5.0,4.8,5.0,4.8,hr
+84,$29.00 /hr (est.),60320.0,IT Technician,3,2,-1,"Infinity Technologies
+3.0","Los Angeles, CA",3.0,0,2,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.0,1.0,1.0,1.0,3.0,hr
+86,"$90,000 /yr (est.)",90000.0,IT Desktop Support Analyst,5,2,1,"Richemont
+3.8","New York, NY",3.8,0,35,10000+ Employees,1988,Company - Public,Beauty & Personal Accessories Stores,Retail & Wholesale,$10+ billion (USD),3.4,3.7,3.5,3.2,3.4,yr
+89,"$67,500 /yr (est.)",67500.0,"Associate Engineer, End User Support",0,2,0,"Man Group
+4.3","New York, NY",4.3,0,240,1001 to 5000 Employees,1783,Company - Public,Investment & Asset Management,Financial Services,$25 to $100 million (USD),4.0,3.7,4.3,3.9,4.0,yr
+90,"$73,500 /yr (est.)",73500.0,Service Desk Analyst,0,1,1,"Stanford University
+4.3","Redwood City, CA",4.3,0,132,10000+ Employees,1891,College / University,Colleges & Universities,Education,$10+ billion (USD),4.2,3.6,4.1,3.8,3.8,yr
+91,"$38,710 /yr (est.)",38710.0,"Service Desk Analyst I, II, III (Remote)",1,1,-1,"National General Insurance
+3.1","Alice, TX",3.1,0,103,10000+ Employees,1920,Company - Public,Insurance Carriers,Insurance,$1 to $5 billion (USD),3.1,3.1,3.1,3.0,3.0,yr
+92,"$54,100 /yr (est.)",54100.0,IT Help Desk Technician (Specialist),2,1,-1,"US District Court- Northern District of Ohio
+5.0","Cleveland, OH",5.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+94,"$96,000 /yr (est.)",96000.0,End User Support Analyst,0,2,-1,"Morrison & Foerster
+4.0","New York, NY",4.0,0,140,1001 to 5000 Employees,1883,Private Practice / Firm,Legal,Legal,$1 to $5 billion (USD),3.9,4.2,4.0,3.7,3.4,yr
+95,"$71,655 /yr (est.)",71655.0,Information Technology Technician II,0,1,0,"U.S. District Court, Northern District of Illinois
+4.8","Chicago, IL",4.8,0,-1,-1,-1,-1,-1,-1,-1,4.4,4.1,4.3,4.2,3.8,yr
+96,"$87,412 /yr (est.)",87412.0,Frontend Engineer (Junior Frontend Developer),2,1,1,"Sangoma
+3.4","San Diego, CA",3.4,0,39,201 to 500 Employees,1984,Company - Public,Telecommunications Services,Telecommunications,$100 to $500 million (USD),3.4,3.2,3.2,3.0,3.4,yr
+114,"$41,546 /yr (est.)",41546.0,Desktop Support Technician,-1,-1,-1,"SUN Behavioral Houston
+3.0","Houston, TX",3.0,0,10,1001 to 5000 Employees,2013,Company - Private,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),3.0,3.2,3.0,2.5,3.2,yr
+115,"$96,080 /yr (est.)",96080.0,"Sr, Analyst IT Field Support",4,1,1,"Marriott Vacations Worldwide
+3.8","New York, NY",3.8,0,39,10000+ Employees,1984,Company - Public,Hotels & Resorts,Hotels & Travel Accommodation,$100 to $500 million (USD),3.7,3.7,3.8,3.4,3.5,yr
+116,"$75,098 /yr (est.)",75098.0,Geographic Information Systems Technician I/II,0,1,0,"County of Napa, CA
+3.4","Napa, CA",3.4,0,-1,-1,-1,-1,-1,-1,-1,3.0,3.8,3.1,2.8,3.7,yr
+117,"$71,970 /yr (est.)",71970.0,IT Associate Systems Engineer,-1,-1,-1,"EVERSOURCE
+3.6","Berlin, CT",3.6,0,57,5001 to 10000 Employees,1966,Company - Public,Energy & Utilities,"Energy, Mining & Utilities",Unknown / Non-Applicable,3.7,4.1,3.3,3.2,3.1,yr
+118,"$65,823 /yr (est.)",65823.0,Desktop Support Technician,0,1,0,"Trinity Health
+3.4","Fresno, CA",3.4,0,47,10000+ Employees,1976,Nonprofit Organization,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.3,3.3,3.6,3.1,3.5,yr
+122,"$77,424 /yr (est.)",77424.0,Systems Analyst I,2,1,1,"CHARLES COUNTY GOVERNMENT
+3.0","La Plata, MD",3.0,0,-1,-1,-1,-1,-1,-1,-1,2.6,2.4,2.9,2.8,3.0,yr
+126,"$81,703 /yr (est.)",81703.0,Software Quality Assurance Analyst,3,2,1,"Proton.ai
+4.2","Boston, MA",4.2,0,5,1 to 50 Employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.9,4.4,3.9,3.7,4.1,yr
+127,"$63,473 /yr (est.)",63473.0,Associate Web App Engineer,0,1,0,"Hyperspace Ventures
+4.2","Durham, NC",4.2,0,6,1 to 50 Employees,2017,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.5,4.0,4.7,4.5,4.5,yr
+128,"$46,250 /yr (est.)",46250.0,Service Desk Analyst,2,2,0,"Indigo IT
+3.9",Remote,3.9,1,22,51 to 200 Employees,2001,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,4.1,4.0,3.8,3.8,yr
+129,"$101,500 /yr (est.)",101500.0,Software Development Engineer in Test,2,1,-1,"WEX Inc.
+3.7",Remote,3.7,1,40,1001 to 5000 Employees,1983,Company - Public,Investment & Asset Management,Financial Services,$1 to $5 billion (USD),3.5,3.4,3.6,3.3,3.8,yr
+131,"$70,000 /yr (est.)",70000.0,IT Desktop Support Analyst,3,1,1,"Sony Pictures Entertainment, Inc.
+3.9","Culver City, CA",3.9,0,34,5001 to 10000 Employees,1989,Subsidiary or Business Segment,Film Production,Media & Communication,$5 to $10 billion (USD),3.2,3.6,3.8,3.3,3.8,yr
+135,"$95,217 /yr (est.)",95217.0,"Software Development Engineer, Test (SDET)",5,1,-1,"Intelsat
+4.1","Chicago, IL",4.1,0,19,1001 to 5000 Employees,2004,Company - Public,Telecommunications Services,Telecommunications,Unknown / Non-Applicable,4.0,4.2,4.1,3.9,4.0,yr
+136,"$6,102 /mo (est.)",73224.0,IT Systems Specialist I,0,1,0,"South Orange County Community College District
+3.9","Mission Viejo, CA",3.9,0,-1,-1,-1,-1,-1,-1,-1,3.2,4.1,3.7,3.2,3.7,mo
+139,$22.50 /hr (est.),46800.0,Junior Software Tester,1,2,0,DataGenix Corporation,"Riverside, CA",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+142,"$74,500 /yr (est.)",74500.0,Front End Developer,5,1,-1,ARwall,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+143,"$70,630 /yr (est.)",70630.0,Desktop Support Technician,-1,-1,-1,"Yum! Brands
+4.1","Irvine, CA",4.1,0,26,10000+ Employees,1997,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),3.9,3.7,4.3,3.8,4.2,yr
+144,"$51,921 /yr (est.)",51921.0,Help Desk Specialist,0,2,1,"The EDH Global
+4.0","Washington, DC",4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,2.0,3.5,3.5,3.0,yr
+163,"$68,284 /yr (est.)",68284.0,Information Technology Generalist 1,0,1,0,"Commonwealth of PA
+3.3","Allegheny, PA",3.3,0,235,10000+ Employees,1788,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.1,3.5,2.8,2.7,3.4,yr
+209,"$63,473 /yr (est.)",63473.0,Associate Web App Engineer,-1,-1,-1,"Hyperspace Ventures
+4.2","Durham, NC",4.2,0,6,1 to 50 Employees,2017,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.5,4.0,4.7,4.5,4.5,yr
+249,"$49,222 /yr (est.)",49222.0,Help Desk Analyst Tier 1,0,2,1,"Rackner
+5.0","Washington, DC",5.0,0,7,1 to 50 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.7,yr
+263,"$37,500 /yr (est.)",37500.0,Help Desk Analyst (Tier I) Night Shift,0,1,-1,"Spatial Front, Inc.
+3.8","Washington, DC",3.8,0,15,201 to 500 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.6,3.3,3.6,3.3,3.9,yr
+272,"$88,200 /yr (est.)",88200.0,Research Software Engineer (Early Career),2,1,-1,"RAND Corporation
+3.9","Los Angeles, CA",3.9,0,75,1001 to 5000 Employees,1948,Nonprofit Organization,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.7,3.8,3.8,3.4,3.7,yr
+303,"$81,703 /yr (est.)",81703.0,-1,-1,-1,-1,-1,"Boston, MA",4.2,0,5,1 to 50 Employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.9,4.4,3.9,3.7,4.1,yr
+309,"$51,292 /yr (est.)",51292.0,IT Help Desk Technician,-1,-1,-1,"Brivo
+4.4","Bethesda, MD",4.4,0,24,51 to 200 Employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $100 million (USD),4.3,4.2,4.5,4.3,4.5,yr
+333,"$46,250 /yr (est.)",46250.0,Service Desk Analyst,-1,-1,-1,"Indigo IT
+3.9",Remote,3.9,1,22,51 to 200 Employees,2001,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.9,4.1,4.0,3.8,3.8,yr
+334,"$190,000 /yr (est.)",190000.0,"Software Engineer, Web Infrastructure",0,2,1,"Notion
+4.7","New York, NY",4.7,0,7,201 to 500 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,4.6,4.4,yr
+350,"$68,284 /yr (est.)",68284.0,-1,-1,-1,-1,-1,"Allegheny, PA",3.3,0,235,10000+ Employees,1788,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.1,3.5,2.8,2.7,3.4,yr
+353,"$89,405 /yr (est.)",89405.0,Software Engineer 1,0,2,-1,"Oracle
+3.9","Kansas City, MO",3.9,0,46,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),3.7,3.5,3.8,3.6,4.0,yr
+361,"$67,590 /yr (est.)",67590.0,Junior Software Developer,0,1,0,"Blue Marble Geographics
+4.2","Hallowell, ME",4.2,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.7,4.6,4.0,4.0,yr
+384,"$73,500 /yr (est.)",73500.0,Computing Support Analyst 1,-1,-1,-1,"Stanford University
+4.3","Redwood City, CA",4.3,0,132,10000+ Employees,1891,College / University,Colleges & Universities,Education,$10+ billion (USD),4.2,3.6,4.1,3.8,3.8,yr
+385,"$100,178 /yr (est.)",100178.0,Web Developer in Test - Multiple openings,3,1,-1,"MathWorks
+4.5","Natick, MA",4.5,0,39,501 to 1000 Employees,1984,Company - Private,Software Development,Information Technology,$1 to $5 billion (USD),4.2,4.0,4.6,4.3,4.7,yr
+399,"$89,405 /yr (est.)",89405.0,Software Engineer 1,-1,-1,-1,"Oracle
+3.9","Kansas City, MO",3.9,0,46,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),3.7,3.5,3.8,3.6,4.0,yr
+400,"$67,500 /yr (est.)",67500.0,"Associate Engineer, End User Support",-1,-1,-1,"Man Group
+4.3","New York, NY",4.3,0,240,1001 to 5000 Employees,1783,Company - Public,Investment & Asset Management,Financial Services,$25 to $100 million (USD),4.0,3.7,4.3,3.9,4.0,yr
+402,"$49,222 /yr (est.)",49222.0,Help Desk Analyst Tier 1,-1,-1,-1,"Rackner
+5.0","Washington, DC",5.0,0,7,1 to 50 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.7,yr
+408,"$130,667 /yr (est.)",130667.0,Software Development Engineer - Experience Products,3,2,0,"Workday
+4.2","Boulder, CO",4.2,0,18,10000+ Employees,2005,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),3.9,4.2,4.3,3.8,4.3,yr
+428,"$68,284 /yr (est.)",68284.0,Information Technology Generalist 1,0,1,0,"Commonwealth of PA
+3.3","Lehigh, PA",3.3,0,235,10000+ Employees,1788,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.1,3.5,2.8,2.7,3.4,yr
+438,"$68,284 /yr (est.)",68284.0,Information Technology Generalist 1,-1,-1,-1,"Commonwealth of PA
+3.3","Allegheny, PA",3.3,0,235,10000+ Employees,1788,Government,State & Regional Agencies,Government & Public Administration,Unknown / Non-Applicable,3.1,3.5,2.8,2.7,3.4,yr
+440,"$37,500 /yr (est.)",37500.0,Help Desk Analyst (Tier I) Night Shift,-1,-1,-1,"Spatial Front, Inc.
+3.8","Washington, DC",3.8,0,15,201 to 500 Employees,2008,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),3.6,3.3,3.6,3.3,3.9,yr
+454,"$130,667 /yr (est.)",130667.0,Software Development Engineer - Experience Products,-1,-1,-1,"Workday
+4.2","Boulder, CO",4.2,0,18,10000+ Employees,2005,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $5 billion (USD),3.9,4.2,4.3,3.8,4.3,yr
+471,"$53,500 /yr (est.)",53500.0,Junior Information Technologist,0,1,1,"Rhode Island College
+3.5","Providence, RI",3.5,0,-1,-1,-1,-1,-1,-1,-1,3.1,3.1,3.3,2.7,4.0,yr
+530,"$49,222 /yr (est.)",49222.0,-1,-1,-1,-1,-1,"Washington, DC",5.0,0,7,1 to 50 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.7,yr
+0,$21.24 /hr (est.),44179.2,Relationship Coach,-1,-1,-1,Pinnacle of Man,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+1,$25.00 /hr (est.),52000.0,Development Tester - Rocksmith+ - Contract,10,2,1,Ubisoft,"San Francisco, CA",3.8,0,37,10000+ Employees,1986,Company - Public,Video Game Publishing,Media & Communication,$1 to $5 billion (USD),3.6,3.1,3.9,3.3,4.1,hr
+2,"$129,135 /yr (est.)",129135.0,"Game Artist, R&D Tech Lab",5,2,1,Netflix,"Los Gatos, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+3,$35.00 /hr (est.),72800.0,Unity Video Game Developer,1,2,-1,PowerHouse Video Games,"Cedar Hills, UT",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,hr
+4,"$71,466 /yr (est.)",71466.0,QA Tester,0,2,-1,MindSeekers,"Bellevue, WA",3.1,0,-1,-1,-1,-1,-1,-1,-1,3.1,2.8,3.0,2.9,3.7,yr
+5,"$52,500 /yr (est.)",52500.0,Intake Coordinator,-1,-1,-1,Team IMPACT,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+6,"$140,000 /yr (est.)",140000.0,"Director, Global Events Deals and Development (Hybrid)",0,1,1,the NBA,"New York, NY",4.1,0,77,1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$5 to $10 billion (USD),3.6,3.5,4.0,3.5,3.5,yr
+7,"$62,661 /yr (est.)",62661.0,Scrum Master (REMOTE OPPORTUNITY),4,1,0,Regions,"Birmingham, AL",3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.4,3.6,3.7,3.2,3.6,yr
+8,"$66,500 /yr (est.)",66500.0,Marketing Development Representative,1,2,1,Buzops,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+9,"$85,000 /yr (est.)",85000.0,Media Partnerships Coordinator,0,1,-1,the NBA,"New York, NY",4.1,0,77,1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$5 to $10 billion (USD),3.6,3.5,4.0,3.5,3.5,yr
+10,"$107,500 /yr (est.)",107500.0,Game Director - Remote,3,1,1,Playground Labs,Remote,-1.0,1,2,Unknown,2021,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+11,"$55,781 /yr (est.)",55781.0,Game Designer - Full Time,0,1,1,Filament Games,"Madison, WI",4.9,0,18,51 to 200 Employees,2005,Company - Private,Primary & Secondary Schools,Education,$1 to $5 million (USD),3.9,3.9,4.5,4.6,4.9,yr
+12,"$38,892 /yr (est.)",38892.0,Game Support,2,1,-1,MindSeekers,"Bellevue, WA",3.1,0,-1,-1,-1,-1,-1,-1,-1,3.1,2.8,3.0,2.9,3.7,yr
+13,"$65,520 /yr (est.)",65520.0,Graduate Game Designer,0,1,1,"Big Fish Games, Inc.","Las Vegas, NV",3.8,0,21,201 to 500 Employees,2002,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$25 to $100 million (USD),3.7,3.7,4.1,3.6,4.5,yr
+14,"$102,500 /yr (est.)",102500.0,Customer Success Manager,3,1,1,Interos Inc.,Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),3.7,4.0,4.0,3.7,4.0,yr
+15,"$109,591 /yr (est.)",109591.0,Head of Game Development,0,2,1,iTalent PLUS,"Myrtle Point, OR",5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,4.0,5.0,5.0,5.0,yr
+16,"$140,145 /yr (est.)",140145.0,"QA Test Lead - Compatibility, CCQA, Games - Operations",5,2,1,Netflix,"Los Gatos, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+17,"$65,520 /yr (est.)",65520.0,Graduate Game Designer,0,1,1,Aristocrat,"Las Vegas, NV",4.0,0,70,5001 to 10000 Employees,1953,Company - Public,Gambling,"Arts, Entertainment & Recreation",$1 to $5 billion (USD),3.8,4.0,4.1,3.8,4.1,yr
+18,"$43,448 /yr (est.)",43448.0,QA Test Lead,2,2,1,White Hat Gaming,Remote,3.9,1,11,501 to 1000 Employees,2012,Company - Private,Gambling,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.7,4.0,3.8,3.7,4.6,yr
+19,"$65,000 /yr (est.)",65000.0,Quality Assurance Tester,2,2,1,Valyant AI,"Denver, CO",-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+20,"$97,500 /yr (est.)",97500.0,Customer Success Team Lead,0,1,0,FORM.com,Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.9,3.5,4.1,3.8,4.2,yr
+21,"$65,076 /yr (est.)",65076.0,Game Producer,0,1,1,GAMEVISION,"Naperville, IL",3.9,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.3,4.7,4.0,yr
+22,$28.00 /hr (est.),58240.0,CONTRACT - Technical Tester (Manual/Web QA),0,1,-1,Nintendo,"Redmond, WA",4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,4.1,4.3,4.0,3.9,hr
+23,"$190,450 /yr (est.)",190450.0,Senior Gameplay Programmer,0,2,-1,Epic Games,"Bellevue, WA",4.2,0,32,1001 to 5000 Employees,1991,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,3.9,4.6,4.1,3.5,3.8,yr
+24,"$67,000 /yr (est.)",67000.0,Team Operations Lead,0,1,0,Equitable Hiring Group,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+25,"$123,500 /yr (est.)",123500.0,Game Producer,5,1,1,IGT,"Reno, NV",3.8,0,42,10000+ Employees,1981,Company - Public,Gambling,"Arts, Entertainment & Recreation",$1 to $5 billion (USD),3.5,3.4,3.7,3.4,3.7,yr
+26,"$227,185 /yr (est.)",227185.0,"QA Lead Coordinator, Console",5,1,1,Roblox,"San Mateo, CA",4.1,0,19,1001 to 5000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.2,4.5,4.0,3.9,4.0,yr
+27,"$83,468 /yr (est.)",83468.0,Game Designer,-1,-1,-1,Las Vegas Sands Corp.,"Las Vegas, NV",4.0,0,19,10000+ Employees,2004,Company - Public,Hotels & Resorts,Hotels & Travel Accommodation,$10+ billion (USD),3.3,4.2,3.7,3.7,3.4,yr
+28,"$77,545 /yr (est.)",77545.0,"Associate Producer, External Games",2,2,0,Netflix,"Los Gatos, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+29,"$60,500 /yr (est.)",60500.0,"Coordinator, Global Events Operations",4,1,1,Major League Baseball,"New York, NY",3.9,0,154,201 to 500 Employees,1869,Self-employed,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.3,3.6,3.7,3.3,3.5,yr
+30,"$40,470 /yr (est.)",40470.0,Quality Assurance / Game Tester (English),0,2,-1,NIS AMERICA,"Santa Ana, CA",3.4,0,-1,-1,-1,-1,-1,-1,-1,2.9,3.0,3.1,2.6,2.5,yr
+31,"$75,490 /yr (est.)",75490.0,Game Producer,0,2,1,HIDDEN VARIABLE STUDIOS,"Los Angeles, CA",5.0,0,13,1 to 50 Employees,2010,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),5.0,3.0,5.0,5.0,5.0,yr
+32,"$172,250 /yr (est.)",172250.0,"Lead HR Business Partner, Tech",8,1,1,"Upstart Network, Inc.",Remote,3.6,1,11,1001 to 5000 Employees,2012,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,3.4,3.7,3.8,3.3,3.8,yr
+33,"$52,665 /yr (est.)",52665.0,Game Producer,0,1,-1,"Lionheart Games, LLC","Atlanta, GA",3.2,0,4,1 to 50 Employees,2019,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,3.5,3.6,3.2,2.7,2.9,yr
+34,"$155,678 /yr (est.)",155678.0,Senior People & Culture Business Partner,-1,-1,-1,"Big Fish Games, Inc.","Seattle, WA",3.8,0,21,201 to 500 Employees,2002,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$25 to $100 million (USD),3.7,3.7,4.1,3.6,4.5,yr
+39,"$155,678 /yr (est.)",155678.0,Senior People & Culture Business Partner,-1,-1,-1,Aristocrat,"Seattle, WA",4.0,0,70,5001 to 10000 Employees,1953,Company - Public,Gambling,"Arts, Entertainment & Recreation",$1 to $5 billion (USD),3.8,4.0,4.1,3.8,4.1,yr
+44,"$100,000 /yr (est.)",100000.0,"Sr. Employee Relations Partner, Investigations (Remote)",7,1,1,CrowdStrike,Remote,4.2,1,12,1001 to 5000 Employees,2011,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),4.0,4.2,4.0,3.8,4.0,yr
+45,"$60,000 /yr (est.)",60000.0,Game Designer,0,2,-1,Wonder Works Studio,"Arlington, TX",2.7,0,2,51 to 200 Employees,2021,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,3.0,3.2,3.0,2.5,3.0,yr
+46,"$88,500 /yr (est.)",88500.0,Technical Game Designer,0,2,-1,thatgamecompany,United States,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.7,5.0,5.0,5.0,5.0,yr
+47,"$148,312 /yr (est.)",148312.0,"Game Director, Games Studio",10,2,1,Netflix,"Los Angeles, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+48,"$187,265 /yr (est.)",187265.0,Senior Producer,0,2,1,"Big Fish Games, Inc.","Las Vegas, NV",3.8,0,21,201 to 500 Employees,2002,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$25 to $100 million (USD),3.7,3.7,4.1,3.6,4.5,yr
+50,"$110,853 /yr (est.)",110853.0,"Senior Operations Manager, Games Studio",8,1,1,Netflix,"Los Angeles, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+57,"$124,392 /yr (est.)",124392.0,Sr. People Business Partner,5,1,1,Flexport,"Bellevue, WA",3.6,0,10,1001 to 5000 Employees,2013,Company - Private,Shipping & Trucking,Transportation & Logistics,$1 to $5 billion (USD),3.4,3.4,3.6,3.0,3.4,yr
+59,"$79,205 /yr (est.)",79205.0,Gameplay Programmer,2,1,-1,Bethesda Game Studios,"Austin, TX",3.4,0,-1,-1,-1,-1,-1,-1,-1,2.4,3.3,3.6,2.3,3.9,yr
+61,"$110,513 /yr (est.)",110513.0,"Systems Designer, Games Studio",3,1,-1,Netflix,"Los Angeles, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+62,$42.48 /hr (est.),88358.4,Live Ops Associate Producer,0,1,0,Activision,"Santa Monica, CA",3.2,0,44,1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$500 million to $1 billion (USD),3.1,3.1,3.2,3.0,3.0,hr
+64,"$102,000 /yr (est.)",102000.0,(US) Sr. Talent Partner,5,2,1,PointClickCare,Remote,4.4,1,23,1001 to 5000 Employees,2000,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.0,4.3,4.5,4.0,4.3,yr
+65,"$160,000 /yr (est.)",160000.0,Director of People & Culture,8,1,1,AptDeco,"Brooklyn, NY",3.9,0,9,51 to 200 Employees,2014,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.1,3.4,4.0,4.0,3.4,yr
+66,"$60,485 /yr (est.)",60485.0,Game Producer,6,2,-1,Design Works Studios LLC,"Scottsdale, AZ",4.7,0,18,1 to 50 Employees,2005,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,yr
+67,"$105,066 /yr (est.)",105066.0,"Sr Manager, HR Business Partner",7,1,1,Disney,"Lake Buena Vista, FL",3.9,0,100,10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),3.6,3.7,3.9,3.3,3.4,yr
+68,"$70,000 /yr (est.)",70000.0,Senior Game Designer,5,2,1,Blockchain Talents,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+85,"$101,390 /yr (est.)",101390.0,"Business Development Associate, Games - External Games",2,2,0,Netflix,"Los Angeles, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+86,"$111,431 /yr (est.)",111431.0,SENIOR GAME DESIGNER,0,2,1,The Rogue Initiative,"Los Angeles, CA",1.0,0,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+88,"$186,678 /yr (est.)",186678.0,"Director of QA, Game Studio",0,2,1,Netflix,"Los Gatos, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+89,"$85,000 /yr (est.)",85000.0,Media Partnerships Coordinator,-1,-1,-1,the NBA,"New York, NY",4.1,0,77,1001 to 5000 Employees,1946,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$5 to $10 billion (USD),3.6,3.5,4.0,3.5,3.5,yr
+100,"$116,199 /yr (est.)",116199.0,"Head of Player Support, Game Studio",10,2,1,Netflix,"Los Gatos, CA",4.3,0,26,5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),3.9,4.6,4.2,3.8,3.9,yr
+104,"$88,158 /yr (est.)",88158.0,Unity 3D Developer (Sr/Jr),0,-1,-1,Praadis Technologies,"Princeton, NJ",4.4,0,11,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.2,4.2,4.3,yr
+118,"$73,419 /yr (est.)",73419.0,Game Designer,0,1,-1,GAMEVISION,"Naperville, IL",3.9,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.3,4.7,4.0,yr
+123,"$72,500 /yr (est.)",72500.0,Game Designer,0,1,-1,Gamefam,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,yr
+140,"$71,466 /yr (est.)",71466.0,QA Tester,6,2,1,MindSeekers,,3.1,0,-1,-1,-1,-1,-1,-1,-1,3.1,2.8,3.0,2.9,3.7,yr
+160,"$102,000 /yr (est.)",102000.0,(US) Sr. Talent Partner,-1,-1,-1,PointClickCare,Remote,4.4,1,23,1001 to 5000 Employees,2000,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.0,4.3,4.5,4.0,4.3,yr
+166,"$4,500 /mo (est.)",54000.0,Game Developer,-1,-1,-1,Hopscotch Games,Remote,-1.0,1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,mo
+214,"$71,466 /yr (est.)",71466.0,QA Tester,-1,-1,-1,MindSeekers,"Bellevue, WA",3.1,0,-1,-1,-1,-1,-1,-1,-1,3.1,2.8,3.0,2.9,3.7,yr
+400,$28.00 /hr (est.),58240.0,CONTRACT - Technical Tester (Manual/Web QA),0,1,-1,Nintendo,"Redmond, WA",4.5,0,22,501 to 1000 Employees,2001,Company - Private,Video Game Publishing,Media & Communication,Unknown / Non-Applicable,3.9,4.1,4.3,4.0,3.9,hr
