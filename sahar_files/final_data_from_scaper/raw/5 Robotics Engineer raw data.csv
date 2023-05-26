@@ -1,0 +1,717 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision - Reality Labs",0,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:26:04.593302,yr
+1,"$167,500 /yr (est.)",167500.0,Robotics Software Engineer,3,1,1,"Bear Robotics
+2.2", CA,2.2,0,-1,-1,-1,-1,-1,-1,-1,2.2,2.5,2.3,1.7,2.5,2023-05-24 01:26:06.548967,yr
+2,"$81,479 /yr (est.)",81479.0,Robotics Software Engineer 1,4,1,-1,"Applied Research Associates, Inc
+4.2", VT,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 01:26:09.594947,yr
+5,"$106,500 /yr (est.)",106500.0,Mechanical Engineer,4,1,1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:26:20.489881,yr
+7,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 01:26:28.001084,yr
+8,"$174,450 /yr (est.)",174450.0,Staff Robotics Software Engineer,6,1,1,"Johnson & Johnson
+4.2", CA,4.2,0,136,10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.2,3.8,4.0,2023-05-24 01:26:30.757709,yr
+9,"$141,500 /yr (est.)",141500.0,Software Engineer,3,1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 01:26:32.614191,yr
+10,"$110,000 /yr (est.)",110000.0,Integration Engineer,3,1,-1,"Phantom Auto
+4.4", CO,4.4,0,6,1 to 50 Employees,2017,Company - Private,Shipping & Trucking,Transportation & Logistics,Unknown / Non-Applicable,4.6,4.5,4.5,4.5,4.1,2023-05-24 01:26:34.636218,yr
+11,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8",Remote,3.8,1,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:26:36.387094,hr
+13,"$101,491 /yr (est.)",101491.0,Dialog Engineer,5,1,0,"Deloitte
+4.1", TX,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 01:26:43.967224,yr
+15,"$70,814 /yr (est.)",70814.0,Robotics Engineer,8,1,-1,"Tekskills Inc
+4.3", IL,4.3,0,20,501 to 1000 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.2,4.3,2023-05-24 01:26:49.135661,yr
+16,"$110,000 /yr (est.)",110000.0,Robotics Mechanical Engineer,5,1,-1,"PopUp Talent
+4.0", CA,4.0,0,-1,-1,-1,-1,-1,-1,-1,3.7,3.4,3.7,3.7,4.0,2023-05-24 01:26:51.149353,yr
+18,"$38,307 /yr (est.)",38307.0,Robotics Operator,0,2,1,"Ocado Group
+3.5", GA,3.5,0,23,10000+ Employees,2000,Company - Public,Grocery Stores,Retail & Wholesale,$1 to $5 billion (USD),3.2,3.3,3.3,3.1,3.2,2023-05-24 01:26:58.760064,yr
+19,"$76,998 /yr (est.)",76998.0,ROBOTICS ENGINEER,0,1,0,ARIS Technology, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:27:00.751480,yr
+20,"$117,500 /yr (est.)",117500.0,Software Engineer - Frontend,0,1,-1,"Coco
+4.1", CA,4.1,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.7,3.9,2023-05-24 01:27:05.869190,yr
+22,"$108,770 /yr (est.)",108770.0,Amazon Robotics - Hardware Development Engineer Co-Op - July-December 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:27:14.557815,yr
+23,"$120,000 /yr (est.)",120000.0,Software Engineer,5,1,1,ERTHOS INC, AZ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:27:16.340586,yr
+24,$70.00 /hr (est.),145600.0,Robotic Software engineer(UAV),0,1,-1,"Mobile Programming LLC
+3.8",Remote,3.8,1,23,1001 to 5000 Employees,2000,Company - Private,Computer Hardware Development,Information Technology,$100 to $500 million (USD),3.8,3.5,3.5,3.4,3.6,2023-05-24 01:27:21.365101,hr
+25,"$100,000 /yr (est.)",100000.0,Linux Kernel Software Engineer,0,2,-1,Scythe Robotics,United States,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:27:23.814464,yr
+26,"$80,472 /yr (est.)",80472.0,C++ Robotics Engineer,0,1,-1,"Autonomous Solutions
+4.6", UT,4.6,0,23,51 to 200 Employees,2000,Company - Private,Electronics Manufacturing,Manufacturing,$5 to $25 million (USD),4.4,4.2,4.6,4.5,4.5,2023-05-24 01:27:29.145783,yr
+27,"$89,500 /yr (est.)",89500.0,Robotics/Automations Engineer,0,1,0,"Vagus Technologies
+4.0", NJ,4.0,0,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,4.1,3.6,3.9,3.7,3.9,2023-05-24 01:27:31.660682,yr
+28,"$67,751 /yr (est.)",67751.0,Frontend Engineer I,0,1,-1,"Foxconn-D Group
+3.4", WI,3.4,0,-1,-1,-1,-1,-1,-1,-1,3.2,3.4,3.1,2.8,3.0,2023-05-24 01:27:33.833530,yr
+29,"$80,785 /yr (est.)",80785.0,Software Engineer I,2,1,1,"Universal Instruments Corporation
+2.1", NY,2.1,0,-1,-1,-1,-1,-1,-1,-1,1.9,1.8,2.0,1.8,2.5,2023-05-24 01:27:45.862217,yr
+31,"$99,194 /yr (est.)",99194.0,Robotics Engineer,0,-1,-1,Net-Inspect, WA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:27:51.502461,yr
+32,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:27:56.341486,yr
+33,$82.50 /hr (est.),171600.0,Robotics Simulation Engineer,0,2,-1,"Pi-Square Technologies
+3.9", NH,3.9,0,4,201 to 500 Employees,2019,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,4.0,3.7,4.2,4.1,3.9,2023-05-24 01:27:58.349311,hr
+35,"$94,255 /yr (est.)",94255.0,"Senior Software Automation Test Engineer, Surgical Robotics",4,1,0,"Johnson & Johnson
+4.2", MA,4.2,0,136,10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.2,3.8,4.0,2023-05-24 01:28:03.756831,yr
+36,"$72,014 /yr (est.)",72014.0,Associate Data Engineer,3,1,1,"Benson Hill
+3.5", MO,3.5,0,11,51 to 200 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 million (USD),3.4,3.8,3.7,3.1,3.2,2023-05-24 01:28:05.869738,yr
+37,"$137,570 /yr (est.)",137570.0,"Software QA Engineer, Autopilot",2,1,1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:28:08.088786,yr
+38,"$121,928 /yr (est.)",121928.0,Simulation Robotics Software Engineer,5,1,1,"Boston Dynamics AI Institute
+4.7", MA,4.7,0,31,201 to 500 Employees,1992,Subsidiary or Business Segment,Computer Hardware Development,Information Technology,$5 to $25 million (USD),4.6,4.6,4.6,4.5,4.3,2023-05-24 01:28:10.161363,yr
+39,"$95,000 /yr (est.)",95000.0,"Engineer, Robotics / Automaton",3,1,-1,"Essilor of America, Inc.
+3.2", CA,3.2,0,51,5001 to 10000 Employees,1972,Company - Public,Health Care Products Manufacturing,Manufacturing,$5 to $10 billion (USD),2.9,3.1,3.5,2.9,3.2,2023-05-24 01:28:12.154763,yr
+41,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 01:28:17.559792,yr
+42,"$105,446 /yr (est.)",105446.0,Senior Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:28:19.566331,yr
+43,$67.50 /hr (est.),140400.0,Controls Engineer,5,1,-1,"Synergy Solutions
+2.8",Remote,2.8,1,-1,-1,-1,-1,-1,-1,-1,2.8,2.6,3.1,2.7,3.1,2023-05-24 01:28:24.804525,hr
+45,"$124,847 /yr (est.)",124847.0,Software Engineer - Robotics,0,1,-1,"Agility Robotics
+4.4", OR,4.4,0,8,51 to 200 Employees,2015,Company - Private,Consumer Product Manufacturing,Manufacturing,$1 to $5 million (USD),4.3,4.6,4.2,4.3,4.4,2023-05-24 01:28:31.958779,yr
+46,"$102,103 /yr (est.)",102103.0,Automation Controls Software Engineer,4,1,-1,"Agilent Technologies Inc.
+4.2", CA,4.2,0,24,10000+ Employees,1999,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 billion (USD),3.7,3.8,4.2,3.7,4.0,2023-05-24 01:28:34.264252,yr
+47,"$69,505 /yr (est.)",69505.0,Robotics Engineer,0,-1,-1,"Atlantis IT Group
+3.3", OH,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,1.5,3.3,3.3,3.0,2023-05-24 01:28:36.681282,yr
+48,"$142,500 /yr (est.)",142500.0,Senior Frontend Software Engineer,0,1,1,"Bedrock Ocean Exploration
+5.0", NY,5.0,0,3,1 to 50 Employees,2020,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.0,2023-05-24 01:28:40.077679,yr
+49,"$110,000 /yr (est.)",110000.0,Robotics Engineer,5,1,-1,Sorting Robotics Inc., CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:28:42.415934,yr
+50,"$95,000 /yr (est.)",95000.0,Robotics Engineer,0,1,0,"e-Business International
+3.6", NH,3.6,0,31,51 to 200 Employees,1992,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.5,3.5,3.7,3.6,3.7,2023-05-24 01:28:47.441302,yr
+51,"$126,970 /yr (est.)",126970.0,Data Engineer,4,1,-1,"Luminar
+3.7", CA,3.7,0,11,201 to 500 Employees,2012,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.9,4.1,3.4,3.1,3.4,2023-05-24 01:28:50.039118,yr
+52,"$107,500 /yr (est.)",107500.0,Automation and Robotics Engineer,2,1,1,McLaughlin Associates, GA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:28:52.847264,yr
+53,"$84,590 /yr (est.)",84590.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 01:28:57.841496,yr
+55,"$150,000 /yr (est.)",150000.0,Senior Robotics Engineer,5,1,-1,"Aescape, Inc.
+5.0", NY,5.0,0,6,1 to 50 Employees,2017,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.7,2023-05-24 01:29:06.384334,yr
+56,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:29:08.939817,yr
+57,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:29:11.326472,yr
+58,"$102,103 /yr (est.)",102103.0,Automation Controls Software Engineer,4,1,-1,"Agilent Technologies Inc.
+4.2", CA,4.2,0,24,10000+ Employees,1999,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 billion (USD),3.7,3.8,4.2,3.7,4.0,2023-05-24 01:29:23.177425,yr
+59,"$150,000 /yr (est.)",150000.0,Senior Robotics Engineer,5,1,-1,"Aescape, Inc.
+5.0", NY,5.0,0,6,1 to 50 Employees,2017,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,4.7,2023-05-24 01:29:25.452853,yr
+60,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:29:27.864247,yr
+61,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:29:30.284595,yr
+63,"$150,000 /yr (est.)",150000.0,Senior Robotics Software Engineer,5,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 01:29:36.178034,yr
+65,"$221,500 /yr (est.)",221500.0,Data Engineer,0,2,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 01:29:42.827572,yr
+66,"$100,000 /yr (est.)",100000.0,Manufacturing Engineer- Entry Level,2,1,1,"Procter & Gamble
+4.1", UT,4.1,0,186,10000+ Employees,1837,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.0,4.1,4.2,3.7,3.4,2023-05-24 01:29:45.219009,yr
+67,"$197,000 /yr (est.)",197000.0,Sr Robotics Software Engineer,5,1,-1,"Blue River Technology
+4.0", CA,4.0,0,12,51 to 200 Employees,2011,Subsidiary or Business Segment,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.4,3.8,3.6,3.8,2023-05-24 01:29:47.527668,yr
+68,"$79,841 /yr (est.)",79841.0,Robotics AI / ML Engineer,3,1,1,"Honeywell
+4.0", PA,4.0,0,138,10000+ Employees,1885,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.0,3.8,3.9,3.7,3.8,2023-05-24 01:29:50.036161,yr
+69,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:29:52.519760,yr
+70,"$90,000 /yr (est.)",90000.0,Entry Level Automation Engineer,2,1,1,"Groe Advisors LLC
+4.4", MA,4.4,0,16,1 to 50 Employees,2007,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.1,4.1,4.3,4.2,2023-05-24 01:29:55.799556,yr
+71,"$155,000 /yr (est.)",155000.0,Senior Robotics Software Engineer - SLAM,6,1,1,"Exyn Technologies
+4.2",Remote,4.2,1,9,51 to 200 Employees,2014,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,3.9,4.4,4.2,3.9,4.4,2023-05-24 01:29:58.401739,yr
+72,$30.00 /hr (est.),62400.0,Automation Engineer,8,1,-1,"Atlantis IT Group
+3.3", IL,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.3,1.5,3.3,3.3,3.0,2023-05-24 01:30:00.913884,hr
+73,"$69,612 /yr (est.)",69612.0,Robotics Engineer,0,1,-1,"Optimal Inc.
+3.6", MI,3.6,0,19,1 to 50 Employees,2004,Nonprofit Organization,Education & Training Services,Education,Unknown / Non-Applicable,3.2,3.7,3.3,2.6,4.5,2023-05-24 01:30:04.169114,yr
+74,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:30:06.774740,yr
+75,"$128,357 /yr (est.)",128357.0,Linux Software Engineer,5,1,-1,Recogni, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:30:09.515693,yr
+76,"$65,000 /yr (est.)",65000.0,Entry Level Process Engineer,0,1,-1,"Salas O'Brien
+4.2", OH,4.2,0,48,1001 to 5000 Employees,1975,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.4,4.0,4.0,4.0,3.9,2023-05-24 01:30:14.817199,yr
+77,"$91,816 /yr (est.)",91816.0,Integration Engineer (US Remote),-1,-1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:30:17.233295,yr
+78,"$114,500 /yr (est.)",114500.0,Mechanical Engineer,4,1,-1,"Honeybee Robotics
+3.8", MD,3.8,0,40,51 to 200 Employees,1983,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $100 million (USD),3.5,3.1,4.1,3.1,3.3,2023-05-24 01:30:19.772875,yr
+79,"$95,000 /yr (est.)",95000.0,Application Support Engineer,5,1,1,"Bastian Solutions - A Division of Toyota
+4.2",Remote,4.2,1,71,1001 to 5000 Employees,1952,Company - Private,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),4.1,3.7,4.2,3.8,3.8,2023-05-24 01:30:22.216603,yr
+80,"$72,093 /yr (est.)",72093.0,Mechanical Engineer,0,2,0,Mending Minds Clinics LLC,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:30:24.882147,yr
+81,"$142,000 /yr (est.)",142000.0,Senior Robotics Software Engineer,5,1,1,"Noah Medical
+4.0", CA,4.0,0,5,51 to 200 Employees,2018,Company - Private,Health Care Products Manufacturing,Manufacturing,Unknown / Non-Applicable,3.6,3.4,3.8,4.3,3.7,2023-05-24 01:30:30.281569,yr
+82,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:30:32.941234,yr
+83,"$115,000 /yr (est.)",115000.0,Advanced Robotics & Automation Engineer,0,2,1,"Emonics
+3.5", IN,3.5,0,7,1001 to 5000 Employees,2016,Company - Private,HR Consulting,Human Resources & Staffing,$100 to $500 million (USD),3.4,3.4,3.3,3.4,3.4,2023-05-24 01:30:35.576500,yr
+84,"$123,400 /yr (est.)",123400.0,Software Engineer,0,1,0,"Big Fish Games, Inc.
+3.8", TX,3.8,0,21,201 to 500 Employees,2002,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$25 to $100 million (USD),3.7,3.7,4.1,3.6,4.5,2023-05-24 01:30:38.122726,yr
+85,"$104,934 /yr (est.)",104934.0,Associate Software Engineer,3,1,0,"Revasum
+3.7", CA,3.7,0,-1,-1,-1,-1,-1,-1,-1,3.3,4.0,3.7,3.5,3.9,2023-05-24 01:30:41.009102,yr
+86,"$79,932 /yr (est.)",79932.0,IT System Support Engineer,8,1,-1,"Novanta
+2.7", NC,2.7,0,55,1001 to 5000 Employees,1968,Company - Public,Health Care Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),2.7,2.9,2.6,2.4,3.0,2023-05-24 01:30:44.430133,yr
+87,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:30:56.219552,yr
+88,"$65,000 /yr (est.)",65000.0,Entry Level Process Engineer,0,1,-1,"Salas O'Brien
+4.2", OH,4.2,0,48,1001 to 5000 Employees,1975,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.4,4.0,4.0,4.0,3.9,2023-05-24 01:30:59.589250,yr
+89,"$114,500 /yr (est.)",114500.0,Mechanical Engineer,4,1,-1,"Honeybee Robotics
+3.8", MD,3.8,0,40,51 to 200 Employees,1983,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $100 million (USD),3.5,3.1,4.1,3.1,3.3,2023-05-24 01:31:02.223215,yr
+90,"$72,093 /yr (est.)",72093.0,Mechanical Engineer,0,2,0,Mending Minds Clinics LLC,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:31:04.724867,yr
+91,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),-1,-1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:31:09.837194,yr
+92,"$82,859 /yr (est.)",82859.0,Robotics Application Engineer,0,1,-1,"Festo Corporation
+4.1", OH,4.1,0,98,10000+ Employees,1925,Company - Private,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.5,3.6,4.0,3.6,4.0,2023-05-24 01:31:12.211827,yr
+93,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:31:14.906609,yr
+94,"$135,000 /yr (est.)",135000.0,Robotics Software Developer,4,1,1,"PopUp Talent
+4.0", CA,4.0,0,-1,-1,-1,-1,-1,-1,-1,3.7,3.4,3.7,3.7,4.0,2023-05-24 01:31:17.416584,yr
+95,"$92,333 /yr (est.)",92333.0,Software Engineer,2,1,0,"Deloitte
+4.1", FL,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 01:31:20.880966,yr
+96,"$60,976 /yr (est.)",60976.0,Advanced Robotics & Automation Engineer,5,1,-1,"Realign LLC
+4.5", IN,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,3.0,2023-05-24 01:31:23.508726,yr
+98,"$118,750 /yr (est.)",118750.0,"Mechanical Engineer III, Robotics - (E3)",7,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 01:31:30.849389,yr
+99,"$138,617 /yr (est.)",138617.0,Software Engineer - Robotics,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 01:31:33.814525,yr
+100,"$60,836 /yr (est.)",60836.0,Robotics Integration Engineer,0,1,1,"Mujin
+3.9", GA,3.9,0,12,51 to 200 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),3.6,3.4,4.2,3.3,3.1,2023-05-24 01:31:36.332530,yr
+101,"$78,954 /yr (est.)",78954.0,System Engineer,2,1,-1,"Symbotic
+3.3", MS,3.3,0,16,501 to 1000 Employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $25 million (USD),3.2,3.2,2.8,2.6,2.9,2023-05-24 01:31:38.926394,yr
+103,"$113,092 /yr (est.)",113092.0,Computer Vision Engineer,0,2,-1,RW Search, TX,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:31:45.562314,yr
+104,"$106,254 /yr (est.)",106254.0,Full Stack Javascript Engineer,4,1,-1,"Ford Motor Company
+4.1", MI,4.1,0,120,10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.9,2023-05-24 01:31:50.909874,yr
+105,"$115,478 /yr (est.)",115478.0,ChatBot Software Engineer - Robotics,5,1,1,"Madison Square Garden Entertainment
+3.6", CA,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.3,3.2,3.2,2023-05-24 01:31:53.555940,yr
+106,"$142,000 /yr (est.)",142000.0,Robotics and Controls Engineer,2,2,1,"Noah Medical
+4.0", CA,4.0,0,5,51 to 200 Employees,2018,Company - Private,Health Care Products Manufacturing,Manufacturing,Unknown / Non-Applicable,3.6,3.4,3.8,4.3,3.7,2023-05-24 01:31:57.015065,yr
+107,"$120,468 /yr (est.)",120468.0,Senior Robotics Software Engineer,0,1,1,"Realtime Robotics
+4.2", MA,4.2,0,7,51 to 200 Employees,2016,Company - Private,Software Development,Information Technology,$5 to $25 million (USD),4.2,3.9,3.7,3.9,4.3,2023-05-24 01:32:00.154616,yr
+108,"$114,253 /yr (est.)",114253.0,DevOps Software Engineer,3,1,1,"Full Spectrum Software
+4.0", MA,4.0,0,-1,-1,-1,-1,-1,-1,-1,3.7,2.9,3.7,4.0,4.5,2023-05-24 01:32:02.849470,yr
+109,"$102,582 /yr (est.)",102582.0,"Machine Learning Engineer/Scientist, Motion Planning - Autopilot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:32:06.302857,yr
+110,"$84,489 /yr (est.)",84489.0,Technical Solutions Engineer,0,1,1,"OXOS Medical, Inc.
+5.0", GA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,4.3,5.0,5.0,5.0,2023-05-24 01:32:09.073155,yr
+111,"$248,500 /yr (est.)",248500.0,Software Engineer - Lidar,10,1,0,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:32:12.666124,yr
+112,"$79,361 /yr (est.)",79361.0,Machine Learning Engineer,2,2,-1,"AI Cyber Solutions
+4.5", FL,4.5,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:32:15.471039,yr
+113,"$78,102 /yr (est.)",78102.0,Robotics Engineer,8,1,-1,Techspace Solutions, IL,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:32:19.890993,yr
+114,"$117,000 /yr (est.)",117000.0,Test Automation Engineer - Robotics,3,1,1,"Noah Medical
+4.0", CA,4.0,0,5,51 to 200 Employees,2018,Company - Private,Health Care Products Manufacturing,Manufacturing,Unknown / Non-Applicable,3.6,3.4,3.8,4.3,3.7,2023-05-24 01:32:25.438071,yr
+115,"$107,000 /yr (est.)",107000.0,Junior Electrical Engineer,3,1,0,"Honeybee Robotics
+3.8", CA,3.8,0,40,51 to 200 Employees,1983,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $100 million (USD),3.5,3.1,4.1,3.1,3.3,2023-05-24 01:32:28.634318,yr
+116,"$60,976 /yr (est.)",60976.0,Advanced Robotics & Automation Engineer,5,1,-1,"Realign LLC
+4.5", IN,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,5.0,5.0,3.0,2023-05-24 01:32:41.526442,yr
+117,"$78,954 /yr (est.)",78954.0,System Engineer,2,1,-1,"Symbotic
+3.3", MS,3.3,0,16,501 to 1000 Employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $25 million (USD),3.2,3.2,2.8,2.6,2.9,2023-05-24 01:32:45.046680,yr
+118,"$120,468 /yr (est.)",120468.0,Senior Robotics Software Engineer,0,1,1,"Realtime Robotics
+4.2", MA,4.2,0,7,51 to 200 Employees,2016,Company - Private,Software Development,Information Technology,$5 to $25 million (USD),4.2,3.9,3.7,3.9,4.3,2023-05-24 01:32:47.761953,yr
+119,"$102,582 /yr (est.)",102582.0,"Machine Learning Engineer/Scientist, Motion Planning - Autopilot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:32:50.637321,yr
+120,"$248,500 /yr (est.)",248500.0,Software Engineer - Lidar,10,1,0,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:32:53.242251,yr
+121,"$79,361 /yr (est.)",79361.0,Machine Learning Engineer,2,2,-1,"AI Cyber Solutions
+4.5", FL,4.5,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:32:56.143947,yr
+122,"$107,000 /yr (est.)",107000.0,Junior Electrical Engineer,3,1,0,"Honeybee Robotics
+3.8", CA,3.8,0,40,51 to 200 Employees,1983,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $100 million (USD),3.5,3.1,4.1,3.1,3.3,2023-05-24 01:33:00.567150,yr
+123,"$82,500 /yr (est.)",82500.0,Jr. Mechanical Engineer - Machine Design/Robotics,2,2,-1,"Groe Advisors
+4.4", MA,4.4,0,16,1 to 50 Employees,2007,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.1,4.1,4.3,4.2,2023-05-24 01:33:03.453235,yr
+124,$37.50 /hr (est.),78000.0,Robotic Process Automation Engineer,0,1,-1,merican Inc,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:33:06.512202,hr
+125,"$136,000 /yr (est.)",136000.0,"Research Engineer, R&D integration, Live Telepresence with Codec Avatars",3,1,1,"Oculus
+3.9", PA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:33:11.728373,yr
+126,"$91,052 /yr (est.)",91052.0,Robotics Software Developer,0,1,1,REFRACTION AI INC, MI,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:33:14.919929,yr
+127,"$92,500 /yr (est.)",92500.0,Mechanical Solidworks Design Engineer,0,1,-1,"Entech Instruments
+4.2", NV,4.2,0,34,51 to 200 Employees,1989,Company - Private,Consumer Product Manufacturing,Manufacturing,$5 to $25 million (USD),3.7,4.0,4.7,4.3,4.5,2023-05-24 01:33:20.719170,yr
+128,"$90,900 /yr (est.)",90900.0,"Engineer (Unmanned Robotics, Chemical & Biological Defense Systems)",5,1,1,"THE GENEVA FOUNDATION
+3.9", MD,3.9,0,30,201 to 500 Employees,1993,Nonprofit Organization,Grantmaking & Charitable Foundations,Nonprofit & NGO,$25 to $100 million (USD),3.5,3.7,3.9,3.5,4.2,2023-05-24 01:33:23.912434,yr
+129,"$122,666 /yr (est.)",122666.0,Data Engineer,0,1,-1,"MIT
+4.3", MA,4.3,0,162,10000+ Employees,1861,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.2,3.8,4.0,3.7,3.6,2023-05-24 01:33:26.945742,yr
+130,"$100,000 /yr (est.)",100000.0,Embedded Software Engineer,5,1,-1,Saven Technologies,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:33:29.575789,yr
+131,"$90,500 /yr (est.)",90500.0,R&D Engineer,0,1,1,"Answer Engineering
+5.0", CO,5.0,0,11,1 to 50 Employees,2012,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$1 to $5 million (USD),4.6,4.4,5.0,4.8,5.0,2023-05-24 01:33:35.048859,yr
+132,"$75,178 /yr (est.)",75178.0,Customer Service Engineer- Broadcast Camera Robotics,5,1,-1,"Telemetrics Inc.
+2.9", NJ,2.9,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.7,3.1,2.5,3.6,2023-05-24 01:33:37.959974,yr
+133,"$126,500 /yr (est.)",126500.0,Simulation Software Engineer I,0,2,-1,"Relativity
+3.8", CA,3.8,0,7,501 to 1000 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,3.8,3.8,3.8,3.2,3.5,2023-05-24 01:33:42.120969,yr
+135,"$118,800 /yr (est.)",118800.0,Software QA Automation Engineer III,5,1,-1,"AeroVironment
+3.6", CA,3.6,0,52,1001 to 5000 Employees,1971,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),3.6,3.7,3.5,2.9,3.5,2023-05-24 01:33:49.559997,yr
+136,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 01:33:52.889333,yr
+137,"$108,349 /yr (est.)",108349.0,Consulting Engineer - Robotics,6,1,1,"Siemens
+4.1", MA,4.1,0,176,10000+ Employees,1847,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.8,4.1,3.7,4.1,2023-05-24 01:33:56.375492,yr
+138,"$99,036 /yr (est.)",99036.0,Robot Software Engineer,0,2,1,Tutor Intelligence, MA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:33:59.241633,yr
+139,"$100,148 /yr (est.)",100148.0,Agile PM /Scrum Master,5,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 01:34:04.966391,yr
+140,"$117,740 /yr (est.)",117740.0,Senior Robotics Engineer - Motion Planning,0,1,1,"eBots
+4.6", CA,4.6,0,6,1 to 50 Employees,2017,Company - Private,Electronics Manufacturing,Manufacturing,Unknown / Non-Applicable,4.2,4.2,3.8,4.2,4.0,2023-05-24 01:34:08.535037,yr
+141,"$87,434 /yr (est.)",87434.0,System Software Engineer,3,1,-1,"Bosch Group
+4.4", MI,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 01:34:11.617084,yr
+142,"$125,000 /yr (est.)",125000.0,Robotics Engineer,0,1,-1,"ANDURIL INDUSTRIES
+4.6", GA,4.6,0,6,1001 to 5000 Employees,2017,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.6,4.7,4.6,4.4,3.9,2023-05-24 01:34:15.394261,yr
+143,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 01:34:18.328723,yr
+145,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,1,1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:34:37.981399,yr
+146,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:34:42.803846,yr
+147,"$109,029 /yr (est.)",109029.0,Software Engineer,0,1,-1,"Unity Technologies
+3.8", FL,3.8,0,18,5001 to 10000 Employees,2005,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.8,3.9,3.1,4.1,2023-05-24 01:34:48.519223,yr
+148,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:34:51.725486,hr
+149,$55.00 /hr (est.),114400.0,Automation Engineer (AI/Robotics),4,2,-1,"OrangePeople
+4.1",Remote,4.1,1,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,2023-05-24 01:34:54.792771,hr
+150,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:34:58.086219,yr
+151,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:35:01.639593,yr
+153,"$119,339 /yr (est.)",119339.0,Software Engineer - Radar,2,1,-1,Recogni, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:35:08.833550,yr
+154,"$110,000 /yr (est.)",110000.0,Robotics Engineer I/II,3,1,-1,ExLabs, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:35:14.535602,yr
+155,"$85,333 /yr (est.)",85333.0,Robotics Engineer,0,2,-1,"(API) Automated Precision Europe GmbH
+2.8", MD,2.8,0,36,Unknown,1987,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,2.6,2.7,2.2,2.4,2.8,2023-05-24 01:35:20.098390,yr
+157,"$85,095 /yr (est.)",85095.0,Robotics Engineer,5,1,1,REFRACTION AI INC, MI,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:35:27.817104,yr
+158,"$60,215 /yr (est.)",60215.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),8,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 01:35:33.728305,yr
+159,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:35:36.809340,yr
+160,"$100,000 /yr (est.)",100000.0,Mobile Robotics Systems Engineer,5,1,-1,"OMRON
+4.0", CA,4.0,0,90,10000+ Employees,1933,Company - Public,Electronics Manufacturing,Manufacturing,$5 to $10 billion (USD),3.6,3.6,4.0,3.5,3.9,2023-05-24 01:35:40.293620,yr
+161,"$126,478 /yr (est.)",126478.0,"Software Engineer, Applications",2,1,-1,"Johnson & Johnson
+4.2", CA,4.2,0,136,10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.2,3.8,4.0,2023-05-24 01:35:43.552005,yr
+163,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:35:51.633974,yr
+164,"$89,712 /yr (est.)",89712.0,Robotics Software Engineer,2,1,1,"University of Maryland
+4.2", MD,4.2,0,167,10000+ Employees,1856,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),3.9,3.6,4.1,3.8,4.0,2023-05-24 01:35:55.148147,yr
+165,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:35:58.188615,yr
+166,$48.50 /hr (est.),100880.0,Robotics Engineer,4,1,1,"DONIA LLC
+4.0", CA,4.0,0,-1,-1,-1,-1,-1,-1,-1,1.0,3.0,2.0,1.0,5.0,2023-05-24 01:36:01.320189,hr
+167,"$152,500 /yr (est.)",152500.0,"Software Engineer, Robotics (All levels)",0,1,-1,"Neuralink
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:36:05.769886,yr
+168,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),-1,-1,-1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 01:36:08.821975,yr
+170,"$79,437 /yr (est.)",79437.0,Robotics Engineer,2,1,1,"Brighton Science
+4.5", OH,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.3,4.0,4.3,3.6,2023-05-24 01:36:18.421894,yr
+171,"$98,399 /yr (est.)",98399.0,R&D Engineer,0,1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-24 01:36:22.462121,yr
+173,"$167,500 /yr (est.)",167500.0,Robotics Software Engineer,3,1,1,"Bear Robotics
+2.2", CA,2.2,0,-1,-1,-1,-1,-1,-1,-1,2.2,2.5,2.3,1.7,2.5,2023-05-24 01:36:29.608088,yr
+174,"$109,029 /yr (est.)",109029.0,Software Engineer,0,1,-1,"Unity Technologies
+3.8", FL,3.8,0,18,5001 to 10000 Employees,2005,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.8,3.9,3.1,4.1,2023-05-24 01:36:43.184959,yr
+176,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:36:50.959108,yr
+179,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:37:03.503071,yr
+180,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:37:06.696918,yr
+181,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:37:12.738418,yr
+183,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:37:20.986984,yr
+184,"$84,590 /yr (est.)",84590.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 01:37:24.326718,yr
+185,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:37:28.013842,yr
+188,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:37:39.991079,hr
+189,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,1,1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:37:43.498174,yr
+190,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:37:48.433270,yr
+191,"$87,053 /yr (est.)",87053.0,Software Engineer,2,1,-1,"Johnson & Johnson
+4.2", MA,4.2,0,136,10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.2,3.8,4.0,2023-05-24 01:37:51.715050,yr
+192,"$104,260 /yr (est.)",104260.0,Amazon Robotics - Software Development Engineer (SDE) Co-op - Fall 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:37:55.462402,yr
+193,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:37:59.139587,yr
+194,"$80,785 /yr (est.)",80785.0,Software Engineer I,2,1,1,"Universal Instruments Corporation
+2.1", NY,2.1,0,-1,-1,-1,-1,-1,-1,-1,1.9,1.8,2.0,1.8,2.5,2023-05-24 01:38:02.562702,yr
+197,"$85,333 /yr (est.)",85333.0,Robotics Engineer,0,2,-1,"(API) Automated Precision Europe GmbH
+2.8", MD,2.8,0,36,Unknown,1987,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,2.6,2.7,2.2,2.4,2.8,2023-05-24 01:38:16.607097,yr
+198,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 01:38:19.828797,yr
+199,"$94,255 /yr (est.)",94255.0,"Senior Software Automation Test Engineer, Surgical Robotics",4,1,0,"Johnson & Johnson
+4.2", MA,4.2,0,136,10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.2,3.8,4.0,2023-05-24 01:38:23.074062,yr
+200,$55.00 /hr (est.),114400.0,Automation Engineer (AI/Robotics),4,2,-1,"OrangePeople
+4.1",Remote,4.1,1,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,2023-05-24 01:38:26.897830,hr
+202,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:38:37.102135,yr
+204,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,-1,-1,-1,-1, MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:38:54.724392,yr
+205,"$109,029 /yr (est.)",109029.0,Software Engineer,-1,-1,-1,"Unity Technologies
+3.8", FL,3.8,0,18,5001 to 10000 Employees,2005,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.8,3.9,3.1,4.1,2023-05-24 01:38:59.247279,yr
+206,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:39:02.448605,yr
+210,"$137,570 /yr (est.)",137570.0,"Software QA Engineer, Autopilot",2,1,1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:39:21.470058,yr
+211,"$133,500 /yr (est.)",133500.0,Robotics Engineer,-1,-1,-1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:39:24.851648,yr
+212,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:39:28.396317,yr
+213,"$84,590 /yr (est.)",84590.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 01:39:32.441553,yr
+214,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:39:35.992235,hr
+215,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:39:40.297283,yr
+216,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:39:44.516942,yr
+217,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:39:48.074100,yr
+219,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:39:56.857375,yr
+220,"$102,103 /yr (est.)",102103.0,Automation Controls Software Engineer,4,1,-1,"Agilent Technologies Inc.
+4.2", CA,4.2,0,24,10000+ Employees,1999,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$1 to $5 billion (USD),3.7,3.8,4.2,3.7,4.0,2023-05-24 01:40:03.608729,yr
+221,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",-1,-1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:40:07.885006,yr
+223,"$60,215 /yr (est.)",60215.0,Quality Assurance Automation Engineer (REMOTE OPPORTUNITY),8,1,0,"Regions
+3.5", AL,3.5,0,52,10000+ Employees,1971,Company - Public,Banking & Lending,Financial Services,$5 to $10 billion (USD),3.5,3.6,3.7,3.3,3.7,2023-05-24 01:40:17.054022,yr
+225,"$80,785 /yr (est.)",80785.0,Software Engineer I,2,1,1,"Universal Instruments Corporation
+2.1", NY,2.1,0,-1,-1,-1,-1,-1,-1,-1,1.9,1.8,2.0,1.8,2.5,2023-05-24 01:40:26.226862,yr
+226,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:40:31.006301,yr
+227,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),0,1,1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 01:40:34.798474,yr
+228,"$85,333 /yr (est.)",85333.0,Robotics Engineer,0,2,-1,"(API) Automated Precision Europe GmbH
+2.8", MD,2.8,0,36,Unknown,1987,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,2.6,2.7,2.2,2.4,2.8,2023-05-24 01:40:39.267641,yr
+229,"$184,000 /yr (est.)",184000.0,Software Test Engineer,3,1,-1,"Reliable Robotics
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.3,4.2,4.3,4.4,4.3,2023-05-24 01:40:43.433002,yr
+230,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,1,1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:40:47.968834,yr
+232,"$119,515 /yr (est.)",119515.0,Amazon Robotics - Automation Engineer Co-Op - Fall 2023,0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:41:08.114275,yr
+234,"$109,029 /yr (est.)",109029.0,Software Engineer,0,1,-1,"Unity Technologies
+3.8", FL,3.8,0,18,5001 to 10000 Employees,2005,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.8,3.9,3.1,4.1,2023-05-24 01:41:17.223248,yr
+235,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:41:21.276895,yr
+238,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:41:35.494622,yr
+239,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:41:39.564853,yr
+240,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:41:43.768815,yr
+242,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:41:53.793943,yr
+244,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:42:03.876090,yr
+246,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:42:13.557730,yr
+247,"$106,500 /yr (est.)",106500.0,Mechanical Engineer,4,1,1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:42:17.835013,yr
+250,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:42:34.793180,hr
+251,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:42:38.991350,yr
+252,"$100,000 /yr (est.)",100000.0,Manufacturing Engineer- Entry Level,2,1,1,"Procter & Gamble
+4.1", UT,4.1,0,186,10000+ Employees,1837,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.0,4.1,4.2,3.7,3.4,2023-05-24 01:42:43.742671,yr
+253,"$137,570 /yr (est.)",137570.0,"Software QA Engineer, Autopilot",2,1,1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:42:48.032207,yr
+255,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:42:57.952776,yr
+256,"$85,333 /yr (est.)",85333.0,Robotics Engineer,0,2,-1,"(API) Automated Precision Europe GmbH
+2.8", MD,2.8,0,36,Unknown,1987,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,2.6,2.7,2.2,2.4,2.8,2023-05-24 01:43:02.607650,yr
+257,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:43:06.758249,yr
+259,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:43:15.973676,yr
+262,"$109,029 /yr (est.)",109029.0,Software Engineer,0,1,-1,"Unity Technologies
+3.8", FL,3.8,0,18,5001 to 10000 Employees,2005,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.8,3.9,3.1,4.1,2023-05-24 01:43:40.966521,yr
+263,"$119,515 /yr (est.)",119515.0,Amazon Robotics - Automation Engineer Co-Op - Fall 2023,0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:43:45.702010,yr
+266,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:43:59.874272,yr
+267,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:44:04.268306,yr
+268,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:44:08.531239,yr
+270,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:44:18.715209,yr
+271,"$106,500 /yr (est.)",106500.0,Mechanical Engineer,4,1,1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:44:23.810138,yr
+274,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:44:41.605662,yr
+275,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:44:46.004264,yr
+276,"$80,785 /yr (est.)",80785.0,Software Engineer I,2,1,1,"Universal Instruments Corporation
+2.1", NY,2.1,0,-1,-1,-1,-1,-1,-1,-1,1.9,1.8,2.0,1.8,2.5,2023-05-24 01:44:50.273469,yr
+277,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:44:55.396658,yr
+278,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:45:00.194396,yr
+279,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:45:04.893942,yr
+280,"$87,053 /yr (est.)",87053.0,Software Engineer,2,1,-1,"Johnson & Johnson
+4.2", MA,4.2,0,136,10000+ Employees,1887,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.2,3.8,4.0,2023-05-24 01:45:09.560205,yr
+282,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:45:19.330622,yr
+283,"$81,479 /yr (est.)",81479.0,Robotics Software Engineer 1,4,1,-1,"Applied Research Associates, Inc
+4.2", VT,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 01:45:24.377242,yr
+285,$42.50 /hr (est.),88400.0,Robotics Engineer,-1,-1,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:45:34.718126,hr
+288,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 01:45:50.865302,yr
+289,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:45:55.289138,yr
+290,"$109,029 /yr (est.)",109029.0,Software Engineer,0,1,-1,"Unity Technologies
+3.8", FL,3.8,0,18,5001 to 10000 Employees,2005,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,3.8,3.9,3.1,4.1,2023-05-24 01:46:09.503664,yr
+291,"$119,515 /yr (est.)",119515.0,Amazon Robotics - Automation Engineer Co-Op - Fall 2023,0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:46:14.239485,yr
+293,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:46:24.285919,yr
+295,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:46:34.770836,yr
+299,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:46:56.173591,yr
+301,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:47:07.045111,yr
+302,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:47:11.191238,hr
+303,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:47:16.380414,yr
+304,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",-1,-1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:47:20.954977,yr
+305,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:47:25.271952,yr
+306,"$133,500 /yr (est.)",133500.0,Robotics Engineer,-1,-1,-1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:47:30.647911,yr
+308,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:47:40.729004,yr
+310,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:47:50.941097,yr
+311,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:47:55.613666,yr
+313,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:48:06.724282,yr
+314,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:48:11.436440,hr
+315,"$106,500 /yr (est.)",106500.0,Mechanical Engineer,-1,-1,-1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:48:16.380545,yr
+316,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 01:48:23.051465,yr
+318,"$90,952 /yr (est.)",90952.0,Robotics Research Engineer,0,1,1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:48:33.933399,yr
+319,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:48:48.643910,yr
+322,"$108,770 /yr (est.)",108770.0,Amazon Robotics - Hardware Development Engineer Co-Op - July-December 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:49:04.884695,yr
+324,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:49:16.016852,yr
+327,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:49:33.898716,yr
+328,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",-1,-1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:49:38.846762,hr
+329,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),-1,-1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:49:43.273526,yr
+330,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:49:48.165028,yr
+332,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:49:58.838530,yr
+333,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:50:04.141915,yr
+334,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:50:09.508273,yr
+335,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:50:14.396290,yr
+336,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:50:20.330273,yr
+337,"$81,479 /yr (est.)",81479.0,Robotics Software Engineer 1,4,1,-1,"Applied Research Associates, Inc
+4.2", VT,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 01:50:25.940524,yr
+338,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:50:31.099398,yr
+339,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:50:36.339451,yr
+340,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,1,1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:50:42.388816,yr
+341,"$137,570 /yr (est.)",137570.0,"Software QA Engineer, Autopilot",2,1,1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:50:49.504842,yr
+342,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:50:54.486501,hr
+344,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:51:05.975563,yr
+345,"$82,131 /yr (est.)",82131.0,Automation Engineer,-1,-1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:51:13.939544,yr
+346,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:51:18.696219,yr
+348,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:51:40.016452,yr
+351,"$108,770 /yr (est.)",108770.0,Amazon Robotics - Hardware Development Engineer Co-Op - July-December 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:51:57.372595,yr
+353,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",-1,-1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:52:08.401235,yr
+354,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:52:14.019415,yr
+355,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:52:19.633657,yr
+358,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:52:37.447158,yr
+359,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:52:42.466637,hr
+360,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 01:52:47.521883,yr
+361,"$133,500 /yr (est.)",133500.0,Robotics Engineer,-1,-1,-1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:52:52.968226,yr
+363,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:53:03.898987,yr
+364,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",-1,-1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:53:09.483652,yr
+365,"$81,479 /yr (est.)",81479.0,Robotics Software Engineer 1,4,1,-1,"Applied Research Associates, Inc
+4.2", VT,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 01:53:14.138906,yr
+366,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:53:19.253370,yr
+367,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",-1,-1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:53:24.916625,yr
+368,"$137,570 /yr (est.)",137570.0,"Software QA Engineer, Autopilot",2,1,1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:53:29.750359,yr
+369,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 01:53:34.850261,hr
+370,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:53:40.684501,yr
+372,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:53:52.021807,yr
+374,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:54:04.112058,yr
+375,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,-1,-1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:54:09.717114,yr
+376,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 01:54:16.071759,yr
+377,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:54:31.550398,yr
+379,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",-1,-1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:54:43.206955,yr
+380,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:54:48.212555,yr
+381,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:54:53.617029,hr
+383,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:55:05.272746,yr
+385,"$108,770 /yr (est.)",108770.0,Amazon Robotics - Hardware Development Engineer Co-Op - July-December 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:55:17.435859,yr
+387,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:55:29.450431,yr
+390,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:55:47.880964,yr
+391,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:55:53.844426,yr
+392,$55.00 /hr (est.),114400.0,Automation Engineer (AI/Robotics),4,2,-1,"OrangePeople
+4.1",Remote,4.1,1,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,2023-05-24 01:55:59.263161,hr
+393,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:56:05.528321,yr
+395,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:56:20.110153,yr
+396,"$102,582 /yr (est.)",102582.0,"Machine Learning Engineer/Scientist, Motion Planning - Autopilot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:56:26.138423,yr
+397,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:56:31.586125,yr
+398,"$53,447 /yr (est.)",53447.0,Test Technician II,3,2,0,"Novanta
+2.7", MA,2.7,0,55,1001 to 5000 Employees,1968,Company - Public,Health Care Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),2.7,2.9,2.6,2.4,3.0,2023-05-24 01:56:37.008408,yr
+399,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 01:56:42.370797,yr
+400,"$95,000 /yr (est.)",95000.0,Automation Engineer,5,1,-1,"True Velocity
+4.3", TX,4.3,0,-1,-1,-1,-1,-1,-1,-1,4.7,4.0,4.2,4.3,3.7,2023-05-24 01:56:48.215149,yr
+401,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 01:56:54.283673,yr
+402,"$131,617 /yr (est.)",131617.0,"Robotics Software Engineer, Navigation",-1,-1,-1,"Bear Robotics
+2.2", CA,2.2,0,-1,-1,-1,-1,-1,-1,-1,2.2,2.5,2.3,1.7,2.5,2023-05-24 01:56:59.660762,yr
+405,"$106,500 /yr (est.)",106500.0,Mechanical Engineer,4,1,1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:57:19.039193,yr
+406,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:57:36.720017,yr
+408,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 01:57:48.917867,yr
+411,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:58:08.227051,yr
+413,"$108,770 /yr (est.)",108770.0,Amazon Robotics - Hardware Development Engineer Co-Op - July-December 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:58:21.090685,yr
+414,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:58:26.521427,hr
+415,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 01:58:31.996006,yr
+417,$55.00 /hr (est.),114400.0,Automation Engineer (AI/Robotics),4,2,-1,"OrangePeople
+4.1",Remote,4.1,1,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,2023-05-24 01:58:44.317463,hr
+419,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 01:58:57.483940,yr
+420,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 01:59:03.391208,yr
+421,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 01:59:09.117838,yr
+422,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 01:59:14.866682,yr
+423,"$102,582 /yr (est.)",102582.0,"Machine Learning Engineer/Scientist, Motion Planning - Autopilot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:59:20.711342,yr
+424,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:59:26.555573,yr
+427,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 01:59:48.282359,yr
+428,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:59:54.004281,yr
+429,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,1,1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:59:59.595350,yr
+431,"$146,800 /yr (est.)",146800.0,"Automation Engineer (0442U), Innovative Genomics Institute - 53590",0,1,1,"University of California Berkeley
+4.2", CA,4.2,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,4.1,4.2,4.1,2023-05-24 02:00:14.158267,yr
+432,"$167,500 /yr (est.)",167500.0,Robotics Software Engineer,-1,-1,-1,"Bear Robotics
+2.2", CA,2.2,0,-1,-1,-1,-1,-1,-1,-1,2.2,2.5,2.3,1.7,2.5,2023-05-24 02:00:20.383352,yr
+433,"$81,479 /yr (est.)",81479.0,Robotics Software Engineer 1,4,1,-1,"Applied Research Associates, Inc
+4.2", VT,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 02:00:26.241200,yr
+434,"$137,570 /yr (est.)",137570.0,"Software QA Engineer, Autopilot",2,1,1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 02:00:31.971106,yr
+435,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 02:00:47.686455,yr
+437,"$104,260 /yr (est.)",104260.0,Amazon Robotics - Software Development Engineer (SDE) Co-op - Fall 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:01:01.361810,yr
+438,"$79,499 /yr (est.)",79499.0,Robotics Engineer,10,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 02:01:07.089657,yr
+439,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 02:01:13.235101,yr
+440,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 02:01:19.864603,hr
+441,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 02:01:26.359376,yr
+442,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:01:32.515167,hr
+446,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 02:01:58.622317,yr
+447,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,0,2,1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:02:04.380707,yr
+448,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 02:02:13.218628,yr
+451,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 02:02:32.928507,yr
+454,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 02:02:53.887627,yr
+455,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,5,1,1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 02:03:00.030085,yr
+456,"$53,447 /yr (est.)",53447.0,Test Technician II,3,2,0,"Novanta
+2.7", MA,2.7,0,55,1001 to 5000 Employees,1968,Company - Public,Health Care Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),2.7,2.9,2.6,2.4,3.0,2023-05-24 02:03:05.874601,yr
+457,"$102,582 /yr (est.)",102582.0,"Machine Learning Engineer/Scientist, Motion Planning - Autopilot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 02:03:11.737730,yr
+458,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", CA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 02:03:17.579391,yr
+459,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:03:23.626880,yr
+460,$55.00 /hr (est.),114400.0,Automation Engineer (AI/Robotics),-1,-1,-1,"OrangePeople
+4.1",Remote,4.1,1,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,2023-05-24 02:03:29.478864,hr
+462,"$84,590 /yr (est.)",84590.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 02:03:42.713309,yr
+463,"$110,000 /yr (est.)",110000.0,Robotics Engineer I/II,3,1,-1,ExLabs, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:03:48.873469,yr
+464,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 02:04:07.253978,yr
+466,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 02:04:20.484357,yr
+467,$42.50 /hr (est.),88400.0,Robotics Engineer,-1,-1,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 02:04:27.304937,hr
+468,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",0,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:04:33.664604,hr
+471,"$108,770 /yr (est.)",108770.0,Amazon Robotics - Hardware Development Engineer Co-Op - July-December 2023,0,1,0,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:04:54.347500,yr
+472,"$84,394 /yr (est.)",84394.0,Software Engineer - Autonomous Robotics,-1,-1,-1,Altitude AI, UT,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:05:00.297761,yr
+475,"$210,000 /yr (est.)",210000.0,"Motion Planning Software Engineer, Behavior Planning",8,1,1,"Aurora Innovation
+3.9", WA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 02:05:22.434469,yr
+477,"$93,189 /yr (est.)",93189.0,Robotics Engineer,0,1,-1,"Holy Grail
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.0,5.0,5.0,4.0,2023-05-24 02:05:35.862871,yr
+478,"$152,500 /yr (est.)",152500.0,"SOFTWARE ENGINEER, ROBOTICS (ALL LEVELS)",0,1,-1,"NEURALINK
+4.0", CA,4.0,0,7,201 to 500 Employees,2016,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,Unknown / Non-Applicable,4.1,3.6,3.7,3.6,2.8,2023-05-24 02:05:42.166879,yr
+480,"$53,447 /yr (est.)",53447.0,Test Technician II,3,2,0,"Novanta
+2.7", MA,2.7,0,55,1001 to 5000 Employees,1968,Company - Public,Health Care Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),2.7,2.9,2.6,2.4,3.0,2023-05-24 02:05:55.924099,yr
+481,"$123,080 /yr (est.)",123080.0,Amazon Robotics - Data Scientist Co-op - Fall 2023 (July - December),3,1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:06:02.152905,yr
+482,"$102,582 /yr (est.)",102582.0,"Machine Learning Engineer/Scientist, Motion Planning - Autopilot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 02:06:08.163067,yr
+484,"$133,500 /yr (est.)",133500.0,Robotics Engineer,5,1,1,"Chewy
+3.5", MA,3.5,0,12,10000+ Employees,2011,Company - Public,Pet & Pet Supplies Stores,Retail & Wholesale,$5 to $25 million (USD),3.4,3.5,3.6,3.1,3.4,2023-05-24 02:06:21.208154,yr
+485,"$172,000 /yr (est.)",172000.0,"Backend Engineer, ML Productivity",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 02:06:27.439898,yr
+486,"$105,595 /yr (est.)",105595.0,Robotics Automation Engineer - Remote - W2,1,1,-1,"Phasorsoft LLC
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 02:06:33.644805,yr
+487,"$82,131 /yr (est.)",82131.0,Automation Engineer,5,1,-1,"Faurecia
+3.7", TN,3.7,0,26,10000+ Employees,1997,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.6,3.5,3.2,3.2,2023-05-24 02:06:41.373393,yr
+488,"$83,095 /yr (est.)",83095.0,Software Test and Test Automation Engineer (hybrid),-1,-1,-1,"Bosch Group
+4.4", MN,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 02:06:48.101963,yr
+489,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 02:06:54.327833,hr
+490,$55.00 /hr (est.),114400.0,Automation Engineer (AI/Robotics),4,2,-1,"OrangePeople
+4.1",Remote,4.1,1,17,51 to 200 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),3.5,3.6,4.0,4.1,4.0,2023-05-24 02:07:00.280365,hr
+491,"$69,746 /yr (est.)",69746.0,Automation/Robotics Engineer,-1,-1,-1,"Jabil Circuit
+3.8", FL,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 02:07:07.508204,yr
+492,"$90,952 /yr (est.)",90952.0,Robotics Research Engineer,0,1,1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 02:07:13.332266,yr
+493,"$92,470 /yr (est.)",92470.0,Software Engineer Robotics & Automation,2,1,-1,"Jabil Circuit
+3.8", MA,3.8,0,57,10000+ Employees,1966,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.6,3.7,3.7,3.4,3.2,2023-05-24 02:07:29.607460,yr
+495,"$85,741 /yr (est.)",85741.0,"Robotics Engineer, Sensors",2,1,-1,"Locus Robotics
+4.9", MA,4.9,0,8,201 to 500 Employees,2015,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.4,4.9,4.9,4.6,2023-05-24 02:07:42.536693,yr
+496,$42.50 /hr (est.),88400.0,Robotics Engineer,5,2,-1,"SpanIdea Systems
+3.9", CA,3.9,0,12,501 to 1000 Employees,2011,Company - Private,Computer Hardware Development,Information Technology,$5 to $25 million (USD),3.9,3.6,3.7,3.7,3.8,2023-05-24 02:07:49.481006,hr
+497,$31.15 /hr (est.),64792.0,"Amazon Robotics - Technical Artist Co-op - July to December 2023, Virtual Systems",-1,-1,-1,"Amazon.com Services LLC
+3.8", MA,3.8,0,29,10000+ Employees,1994,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),3.8,3.9,3.7,3.4,3.3,2023-05-24 02:07:56.044186,hr

@@ -1,0 +1,536 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:02:17.861321,yr
+2,"$78,197 /yr (est.)",78197.0,Application Engineer,-1,-1,-1,"HCA Healthcare
+3.3", TN,3.3,0,55,10000+ Employees,1968,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.5,3.2,3.3,3.0,3.2,2023-05-25 09:02:22.753554,yr
+3,"$135,000 /yr (est.)",135000.0,Java Engineer,-1,-1,-1,"Avenue Code
+4.4", CA,4.4,0,15,1001 to 5000 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.2,4.2,4.5,4.1,4.3,2023-05-25 09:02:25.102939,yr
+4,"$56,069 /yr (est.)",56069.0,Unified Communication Engineer,-1,-1,-1,"Memorial Health University Medical Center
+3.0", GA,3.0,0,39,1001 to 5000 Employees,1984,Hospital,Health Care Services & Hospitals,Healthcare,$100 to $500 million (USD),3.7,3.3,3.0,2.6,3.0,2023-05-25 09:02:26.830875,yr
+5,"$102,500 /yr (est.)",102500.0,Database Reliability Engineer,-1,-1,-1,"FORM.com
+4.2",Remote,4.2,1,-1,-1,-1,-1,-1,-1,-1,3.9,3.5,4.1,3.8,4.2,2023-05-25 09:02:29.154565,yr
+6,"$155,000 /yr (est.)",155000.0,"Streaming Media Engineer, Media Technology",-1,-1,-1,"Major League Baseball
+3.9", NY,3.9,0,154,201 to 500 Employees,1869,Self-employed,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.4,3.6,3.8,3.4,3.5,2023-05-25 09:02:31.962835,yr
+7,"$87,356 /yr (est.)",87356.0,Senior UI Engineer I (0970),-1,-1,-1,"FLEETCOR
+3.3", GA,3.3,0,23,10000+ Employees,2000,Company - Public,Financial Transaction Processing,Financial Services,$1 to $5 billion (USD),3.4,3.4,3.2,3.0,3.4,2023-05-25 09:02:34.057023,yr
+8,"$103,363 /yr (est.)",103363.0,Data and Machine Learning Engineer,-1,-1,-1,"AEEC, LLC.
+2.8", UT,2.8,0,28,1 to 50 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),2.5,3.3,3.0,3.0,2.8,2023-05-25 09:02:36.158093,yr
+12,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:02:47.315131,yr
+14,"$133,250 /yr (est.)",133250.0,Sr Full Stack Engineer,-1,-1,-1,"Pennymac
+3.1", CA,3.1,0,15,1001 to 5000 Employees,2008,Company - Public,Banking & Lending,Financial Services,$1 to $5 billion (USD),2.9,3.1,3.2,2.9,2.9,2023-05-25 09:02:52.524757,yr
+15,"$137,994 /yr (est.)",137994.0,"Software Engineer, Machine Learning",-1,-1,-1,"Sunshine
+4.4", CA,4.4,0,5,1 to 50 Employees,2018,Company - Private,Internet & Web Services,Information Technology,Less than $1 million (USD),5.0,4.5,5.0,4.5,5.0,2023-05-25 09:02:54.576982,yr
+18,"$80,007 /yr (est.)",80007.0,Data Engineer I,-1,-1,-1,"Freeport McMoRan
+4.1", AZ,4.1,0,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,3.7,3.3,3.5,2023-05-25 09:03:05.296288,yr
+19,"$117,813 /yr (est.)",117813.0,App Dev & Support Engineer III,-1,-1,-1,"Conduent
+3.1", GA,3.1,0,6,10000+ Employees,2017,Company - Public,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.0,2.8,3.0,2.9,3.1,2023-05-25 09:03:08.309170,yr
+23,"$92,465 /yr (est.)",92465.0,Software Engineer,-1,-1,-1,"Code Corporation
+3.6", UT,3.6,0,109,5001 to 10000 Employees,1914,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.3,3.5,3.5,3.2,3.8,2023-05-25 09:03:19.672947,yr
+24,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:03:21.662212,yr
+25,"$110,839 /yr (est.)",110839.0,Software Engineer,-1,-1,-1,"Allergan Data Labs
+3.9", CA,3.9,0,-1,-1,-1,-1,-1,-1,-1,4.0,5.0,3.9,3.9,3.7,2023-05-25 09:03:23.725627,yr
+27,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:03:32.605676,yr
+28,"$103,844 /yr (est.)",103844.0,Computer Vision Engineer,-1,-1,-1,"Universal Logic
+4.4", NC,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.0,4.4,3.7,2023-05-25 09:03:34.411490,yr
+30,"$90,901 /yr (est.)",90901.0,Machine Learning Engineer,-1,-1,-1,"Radiance Technologies
+4.5", OH,4.5,0,24,501 to 1000 Employees,1999,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.3,4.7,4.6,4.2,4.4,2023-05-25 09:03:47.957881,yr
+32,"$126,150 /yr (est.)",126150.0,Senior Data Engineer - Remote,-1,-1,-1,-1, MN,-1,0,46,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.6,3.5,3.8,3.3,3.7,2023-05-25 09:03:53.057947,yr
+34,"$94,071 /yr (est.)",94071.0,Machine Learning Engineer,-1,-1,-1,"Universal Logic
+4.4", NC,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,4.0,4.4,3.7,2023-05-25 09:04:00.022105,yr
+35,"$131,197 /yr (est.)",131197.0,Machine Learning Engineer/Scientist,-1,-1,-1,"GotIt!
+4.0", CA,4.0,0,12,51 to 200 Employees,2011,Company - Private,Internet & Web Services,Information Technology,Less than $1 million (USD),3.8,3.4,3.9,3.7,3.6,2023-05-25 09:04:02.802369,yr
+36,"$97,766 /yr (est.)",97766.0,Data Engineer,-1,-1,-1,"State Farm
+3.6", GA,3.6,0,101,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.5,3.4,3.6,3.3,3.5,2023-05-25 09:04:04.700213,yr
+38,"$95,025 /yr (est.)",95025.0,Data Science Engineer,-1,-1,-1,"AI Cyber Solutions
+4.5", FL,4.5,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-25 09:04:10.237562,yr
+39,"$97,177 /yr (est.)",97177.0,Data Engineer,-1,-1,-1,"FanDuel
+4.0", GA,4.0,0,14,501 to 1000 Employees,2009,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$100 to $500 million (USD),3.7,3.8,4.0,3.7,3.8,2023-05-25 09:04:14.139038,yr
+40,"$100,000 /yr (est.)",100000.0,Azure Data Engineer (remote),-1,-1,-1,"MultiPlan Inc.
+3.8", NY,3.8,0,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:04:18.552690,yr
+43,"$83,590 /yr (est.)",83590.0,Data Engineer,-1,-1,-1,"Chirality Research
+5.0", TX,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.5,5.0,4.5,5.0,2023-05-25 09:04:41.441323,yr
+44,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:04:44.277512,yr
+46,"$121,000 /yr (est.)",121000.0,"Application Management Engineer, Senior",-1,-1,-1,"Blue Shield of California
+3.9", CA,3.9,0,84,5001 to 10000 Employees,1939,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),3.8,4.0,4.2,3.7,4.0,2023-05-25 09:04:49.934391,yr
+47,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:04:53.547851,yr
+48,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,"Princeton University
+4.5", NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:04:58.749615,yr
+49,"$147,500 /yr (est.)",147500.0,Cloud Engineer (AWS),-1,-1,-1,"Doran Jones
+3.9", NY,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.1,3.7,3.8,3.6,2023-05-25 09:05:04.121203,yr
+51,"$97,895 /yr (est.)",97895.0,Software Developer (Remote),-1,-1,-1,"Everi
+3.5", NV,3.5,0,8,1001 to 5000 Employees,2015,Company - Public,Consumer Product Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.2,3.5,3.4,3.5,2023-05-25 09:05:12.054678,yr
+53,"$80,604 /yr (est.)",80604.0,Remote Full-stack JS Developer,-1,-1,-1,"Scopic
+4.8", MA,4.8,0,17,201 to 500 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.5,4.0,4.7,4.7,4.6,2023-05-25 09:05:18.616881,yr
+54,"$80,600 /yr (est.)",80600.0,Full Stack Web Developer,-1,-1,-1,S.M.A.R.T., AZ,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-25 09:05:21.211050,yr
+55,"$95,720 /yr (est.)",95720.0,Software Engineer (Data Science),-1,-1,-1,"Crane Payment Innovations
+2.8", PA,2.8,0,10,1001 to 5000 Employees,2013,Company - Public,Electronics Manufacturing,Manufacturing,$1 to $5 billion (USD),2.8,3.0,2.7,2.4,3.1,2023-05-25 09:05:26.390373,yr
+56,"$122,500 /yr (est.)",122500.0,Full Stack Engineer - Digital Order Management,-1,-1,-1,"Costco Wholesale
+4.0", WA,4.0,0,47,10000+ Employees,1976,Company - Public,General Merchandise & Superstores,Retail & Wholesale,Unknown / Non-Applicable,3.9,4.3,3.8,3.4,3.4,2023-05-25 09:05:28.784382,yr
+57,"$136,440 /yr (est.)",136440.0,Data Platform Engineer,-1,-1,-1,"GSK
+4.1", WA,4.1,0,193,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,3.9,4.0,3.6,3.9,2023-05-25 09:05:31.311454,yr
+58,"$129,480 /yr (est.)",129480.0,Senior Software Engineer,-1,-1,-1,"U.S. Bank National Association
+3.7",Remote,3.7,1,160,10000+ Employees,1863,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.5,3.8,3.4,3.7,2023-05-25 09:05:33.871151,yr
+59,"$115,175 /yr (est.)",115175.0,Trading Software Engineer,-1,-1,-1,"Voloridge Investment Management
+4.7", FL,4.7,0,14,51 to 200 Employees,2009,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,4.6,4.5,4.2,4.6,4.7,2023-05-25 09:05:36.618366,yr
+61,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:05:49.622524,yr
+66,"$97,766 /yr (est.)",97766.0,Data Engineer,-1,-1,-1,"State Farm
+3.6", GA,3.6,0,101,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.5,3.4,3.6,3.3,3.5,2023-05-25 09:06:06.990908,yr
+67,"$100,000 /yr (est.)",100000.0,Azure Data Engineer (remote),-1,-1,-1,"MultiPlan Inc.
+3.8", NY,3.8,0,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:06:09.247662,yr
+69,"$116,977 /yr (est.)",116977.0,Lead Data Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:06:15.199860,yr
+71,"$123,528 /yr (est.)",123528.0,"Cloud/Backend Software Engineering, Lead Software Engineer",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:06:20.958039,yr
+72,"$80,604 /yr (est.)",80604.0,Remote Full-stack JS Developer,-1,-1,-1,"Scopic
+4.8", MA,4.8,0,17,201 to 500 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.5,4.0,4.7,4.7,4.6,2023-05-25 09:06:23.266808,yr
+73,"$110,691 /yr (est.)",110691.0,SENIOR MACHINE LEARNING ENGINEER (REMOTE OPPORTUNITY),-1,-1,-1,"Hyatt Corporate Office, Chicago
+4.0", IL,4.0,0,66,10000+ Employees,1957,Company - Public,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),4.0,3.8,4.0,3.7,3.5,2023-05-25 09:06:26.014599,yr
+74,"$95,533 /yr (est.)",95533.0,Software Engineer III: Backend/AWS Developer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:06:28.458398,yr
+76,"$168,875 /yr (est.)",168875.0,"Java and AWS/Cloud, Lead Software Engineer",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:06:34.171946,yr
+78,"$111,344 /yr (est.)",111344.0,Computer Vision Engineer,-1,-1,-1,"Bigbear.ai
+3.2", MD,3.2,0,3,501 to 1000 Employees,2020,Company - Public,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.0,3.6,3.2,3.0,3.6,2023-05-25 09:06:40.694239,yr
+80,"$98,869 /yr (est.)",98869.0,Senior Data Engineer (Remote),-1,-1,-1,"Enova International
+4.0", IL,4.0,0,19,1001 to 5000 Employees,2004,Company - Public,Banking & Lending,Financial Services,$1 to $5 billion (USD),3.8,3.6,4.1,3.8,4.0,2023-05-25 09:06:46.805371,yr
+81,"$84,820 /yr (est.)",84820.0,React Developer,-1,-1,-1,"SLM Facilities
+3.6", PA,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.9,3.9,3.8,3.8,2023-05-25 09:06:49.557219,yr
+82,"$145,000 /yr (est.)",145000.0,Full Stack Engineer - Digital Site Development,-1,-1,-1,"Costco Wholesale
+4.0", WA,4.0,0,47,10000+ Employees,1976,Company - Public,General Merchandise & Superstores,Retail & Wholesale,Unknown / Non-Applicable,3.9,4.3,3.8,3.4,3.4,2023-05-25 09:06:53.151727,yr
+83,"$119,550 /yr (est.)",119550.0,"Machine Learning Engineer, Mid",-1,-1,-1,"Booz Allen Hamilton
+4.2", VA,4.2,0,109,10000+ Employees,1914,Company - Public,Business Consulting,Management & Consulting,$5 to $10 billion (USD),4.1,3.9,4.3,3.9,4.3,2023-05-25 09:06:55.981375,yr
+85,"$95,720 /yr (est.)",95720.0,Software Engineer (Data Science),-1,-1,-1,"Crane Payment Innovations
+2.8", PA,2.8,0,10,1001 to 5000 Employees,2013,Company - Public,Electronics Manufacturing,Manufacturing,$1 to $5 billion (USD),2.8,3.0,2.7,2.4,3.1,2023-05-25 09:07:02.512353,yr
+86,"$120,000 /yr (est.)",120000.0,Senior Software Engineer,-1,-1,-1,"Wolfe
+2.8",Remote,2.8,1,28,1 to 50 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),2.4,2.5,2.5,2.3,2.8,2023-05-25 09:07:05.381764,yr
+89,"$122,197 /yr (est.)",122197.0,Senior Software Engineer,-1,-1,-1,"United States Gold Bureau
+3.2", TX,3.2,0,20,51 to 200 Employees,2003,Company - Private,Other Retail Stores,Retail & Wholesale,Unknown / Non-Applicable,2.9,3.4,3.3,3.3,3.6,2023-05-25 09:07:15.903322,yr
+90,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:07:26.100618,yr
+94,"$101,300 /yr (est.)",101300.0,Software Engineer III - (Java/Cloud/API),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:07:48.810157,yr
+95,"$110,691 /yr (est.)",110691.0,SENIOR MACHINE LEARNING ENGINEER (REMOTE OPPORTUNITY),-1,-1,-1,"Hyatt Corporate Office, Chicago
+4.0", IL,4.0,0,66,10000+ Employees,1957,Company - Public,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),4.0,3.8,4.0,3.7,3.5,2023-05-25 09:07:51.549965,yr
+98,"$123,528 /yr (est.)",123528.0,"Cloud/Backend Software Engineering, Lead Software Engineer",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:08:02.573795,yr
+99,"$136,440 /yr (est.)",136440.0,Data Platform Engineer,-1,-1,-1,"GSK
+4.1", WA,4.1,0,193,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,3.9,4.0,3.6,3.9,2023-05-25 09:08:05.747275,yr
+100,"$179,153 /yr (est.)",179153.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:08:08.603479,yr
+101,"$95,533 /yr (est.)",95533.0,Software Engineer III: Backend/AWS Developer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:08:11.334793,yr
+102,"$95,720 /yr (est.)",95720.0,Software Engineer (Data Science),-1,-1,-1,"Crane Payment Innovations
+2.8", PA,2.8,0,10,1001 to 5000 Employees,2013,Company - Public,Electronics Manufacturing,Manufacturing,$1 to $5 billion (USD),2.8,3.0,2.7,2.4,3.1,2023-05-25 09:08:13.986525,yr
+104,"$110,320 /yr (est.)",110320.0,Experienced Software Engineer Java / Python (Full Stack or Back End),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:08:21.323305,yr
+106,"$98,869 /yr (est.)",98869.0,Senior Data Engineer (Remote),-1,-1,-1,"Enova International
+4.0", IL,4.0,0,19,1001 to 5000 Employees,2004,Company - Public,Banking & Lending,Financial Services,$1 to $5 billion (USD),3.8,3.6,4.1,3.8,4.0,2023-05-25 09:08:27.999103,yr
+107,"$222,000 /yr (est.)",222000.0,Principal Data Platform Engineer,-1,-1,-1,"ServiceTitan
+3.6",Remote,3.6,1,10,1001 to 5000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.5,4.0,3.6,3.2,3.5,2023-05-25 09:08:31.079653,yr
+108,"$97,734 /yr (est.)",97734.0,Computer Vision Software Developer,-1,-1,-1,"Kulicke and Soffa
+3.6", PA,3.6,0,72,1001 to 5000 Employees,1951,Company - Public,Electronics Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.1,3.4,3.1,2.9,3.3,2023-05-25 09:08:33.983477,yr
+110,"$111,344 /yr (est.)",111344.0,Computer Vision Engineer,-1,-1,-1,"Bigbear.ai
+3.2", MD,3.2,0,3,501 to 1000 Employees,2020,Company - Public,Information Technology Support Services,Information Technology,$100 to $500 million (USD),3.0,3.6,3.2,3.0,3.6,2023-05-25 09:08:40.873718,yr
+111,"$129,480 /yr (est.)",129480.0,Senior Software Engineer,-1,-1,-1,"U.S. Bank National Association
+3.7",Remote,3.7,1,160,10000+ Employees,1863,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.5,3.8,3.4,3.7,2023-05-25 09:08:43.777091,yr
+112,"$120,000 /yr (est.)",120000.0,Senior Software Engineer,-1,-1,-1,"Wolfe
+2.8",Remote,2.8,1,28,1 to 50 Employees,1995,Company - Private,Internet & Web Services,Information Technology,$5 to $25 million (USD),2.4,2.5,2.5,2.3,2.8,2023-05-25 09:08:46.969896,yr
+114,"$119,550 /yr (est.)",119550.0,Machine Learning Web Developer,-1,-1,-1,"Booz Allen Hamilton
+4.2", DC,4.2,0,109,10000+ Employees,1914,Company - Public,Business Consulting,Management & Consulting,$5 to $10 billion (USD),4.1,3.9,4.3,3.9,4.3,2023-05-25 09:08:54.011796,yr
+115,"$97,895 /yr (est.)",97895.0,Software Developer (Remote),-1,-1,-1,"Everi
+3.5", NV,3.5,0,8,1001 to 5000 Employees,2015,Company - Public,Consumer Product Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.2,3.5,3.4,3.5,2023-05-25 09:08:57.322780,yr
+116,"$84,820 /yr (est.)",84820.0,React Developer,-1,-1,-1,"SLM Facilities
+3.6", PA,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.8,3.9,3.9,3.8,3.8,2023-05-25 09:09:00.001115,yr
+117,"$73,100 /yr (est.)",73100.0,Full Stack Developer,-1,-1,-1,"Grimco Inc.
+3.8", MO,3.8,0,148,501 to 1000 Employees,1875,Company - Private,Wholesale,Retail & Wholesale,$500 million to $1 billion (USD),3.6,3.8,3.9,3.8,3.8,2023-05-25 09:09:03.430802,yr
+118,"$81,766 /yr (est.)",81766.0,Software Developer II,-1,-1,-1,"CGB Enterprises Inc
+3.5", LA,3.5,0,54,1001 to 5000 Employees,1969,Company - Private,Crop Production,Agriculture,Unknown / Non-Applicable,3.3,3.4,3.5,3.3,3.2,2023-05-25 09:09:06.670166,yr
+119,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:09:10.197615,yr
+122,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:09:28.306217,yr
+124,"$179,153 /yr (est.)",179153.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:09:35.230760,yr
+125,"$222,000 /yr (est.)",222000.0,Principal Data Platform Engineer,-1,-1,-1,"ServiceTitan
+3.6",Remote,3.6,1,10,1001 to 5000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.5,4.0,3.6,3.2,3.5,2023-05-25 09:09:38.372310,yr
+126,"$110,691 /yr (est.)",110691.0,SENIOR MACHINE LEARNING ENGINEER (REMOTE OPPORTUNITY),-1,-1,-1,"Hyatt Corporate Office, Chicago
+4.0", IL,4.0,0,66,10000+ Employees,1957,Company - Public,Hotels & Resorts,Hotels & Travel Accommodation,$1 to $5 billion (USD),4.0,3.8,4.0,3.7,3.5,2023-05-25 09:09:41.287347,yr
+127,"$123,528 /yr (est.)",123528.0,"Cloud/Backend Software Engineering, Lead Software Engineer",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:09:44.110820,yr
+128,"$95,533 /yr (est.)",95533.0,Software Engineer III: Backend/AWS Developer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:09:47.136247,yr
+129,"$98,688 /yr (est.)",98688.0,Site Reliability Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:09:49.963836,yr
+130,"$98,869 /yr (est.)",98869.0,Senior Data Engineer (Remote),-1,-1,-1,"Enova International
+4.0", IL,4.0,0,19,1001 to 5000 Employees,2004,Company - Public,Banking & Lending,Financial Services,$1 to $5 billion (USD),3.8,3.6,4.1,3.8,4.0,2023-05-25 09:09:53.143527,yr
+131,"$116,977 /yr (est.)",116977.0,Lead Data Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:09:56.365439,yr
+132,"$97,734 /yr (est.)",97734.0,Computer Vision Software Developer,-1,-1,-1,"Kulicke and Soffa
+3.6", PA,3.6,0,72,1001 to 5000 Employees,1951,Company - Public,Electronics Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.1,3.4,3.1,2.9,3.3,2023-05-25 09:09:59.162238,yr
+133,"$129,480 /yr (est.)",129480.0,Senior Software Engineer,-1,-1,-1,"U.S. Bank National Association
+3.7",Remote,3.7,1,160,10000+ Employees,1863,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.5,3.8,3.4,3.7,2023-05-25 09:10:02.215115,yr
+136,"$129,480 /yr (est.)",129480.0,Senior Software Engineer ( Full-Stack),-1,-1,-1,"U.S. Bank National Association
+3.7", TX,3.7,0,160,10000+ Employees,1863,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.5,3.8,3.4,3.7,2023-05-25 09:10:13.568253,yr
+137,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:10:16.571052,yr
+139,"$119,550 /yr (est.)",119550.0,Machine Learning Web Developer,-1,-1,-1,"Booz Allen Hamilton
+4.2", DC,4.2,0,109,10000+ Employees,1914,Company - Public,Business Consulting,Management & Consulting,$5 to $10 billion (USD),4.1,3.9,4.3,3.9,4.3,2023-05-25 09:10:23.962162,yr
+140,"$90,000 /yr (est.)",90000.0,SQL Developer-Payment Integrity (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:10:27.057583,yr
+141,"$201,500 /yr (est.)",201500.0,Senior Staff Data Platform Engineer,-1,-1,-1,"Udemy
+4.2", CA,4.2,0,13,501 to 1000 Employees,2010,Company - Public,Education & Training Services,Education,Unknown / Non-Applicable,4.2,4.2,4.5,4.0,4.3,2023-05-25 09:10:30.347284,yr
+142,"$168,875 /yr (est.)",168875.0,"Java and AWS/Cloud, Lead Software Engineer",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:10:33.363866,yr
+143,"$134,378 /yr (est.)",134378.0,"Software Engineer, Senior II",-1,-1,-1,"Meteorcomm LLC
+3.6", WA,3.6,0,48,51 to 200 Employees,1975,Company - Private,Telecommunications Services,Telecommunications,$5 to $25 million (USD),3.5,3.8,3.7,3.5,3.8,2023-05-25 09:10:36.248723,yr
+144,"$73,100 /yr (est.)",73100.0,Full Stack Developer,-1,-1,-1,"Grimco Inc.
+3.8",,3.8,0,148,501 to 1000 Employees,1875,Company - Private,Wholesale,Retail & Wholesale,$500 million to $1 billion (USD),3.6,3.8,3.9,3.8,3.8,2023-05-25 09:10:40.022118,yr
+145,"$98,800 /yr (est.)",98800.0,JAVA NLP Developer,-1,-1,-1,"NextXAP
+2.1", VA,2.1,0,20,Unknown,2003,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,1.9,1.7,1.7,2.0,1.5,2023-05-25 09:10:43.362434,yr
+146,"$129,500 /yr (est.)",129500.0,Lead .NET Software Engineer,-1,-1,-1,"Assurant
+3.6",Georgia,3.6,0,45,10000+ Employees,1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),3.3,3.5,3.7,3.2,3.5,2023-05-25 09:10:46.547211,yr
+149,"$124,263 /yr (est.)",124263.0,Senior Data Engineer Modeler,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:10:58.762345,yr
+151,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:11:13.328405,yr
+152,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:11:16.623974,yr
+153,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:11:20.683263,yr
+154,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:11:23.941739,yr
+158,"$100,820 /yr (est.)",100820.0,Software Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:11:41.648237,yr
+159,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:11:44.605565,yr
+161,"$172,000 /yr (est.)",172000.0,"Software Engineer, Machine Learning - Monetization",-1,-1,-1,"Meta
+3.9", FL,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:11:51.507886,yr
+162,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:11:54.455083,yr
+164,"$179,153 /yr (est.)",179153.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:12:01.230323,yr
+165,"$110,320 /yr (est.)",110320.0,Experienced Software Engineer Java / Python (Full Stack or Back End),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:12:04.379951,yr
+167,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:12:11.852228,yr
+168,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:12:15.250196,yr
+169,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:12:18.297668,yr
+170,"$90,000 /yr (est.)",90000.0,SQL Developer-Payment Integrity (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:12:21.358184,yr
+172,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,"Princeton University
+4.5", NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:12:28.938436,yr
+174,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:12:36.189068,yr
+178,"$103,363 /yr (est.)",103363.0,Data and Machine Learning Engineer,-1,-1,-1,"AEEC, LLC.
+2.8", UT,2.8,0,28,1 to 50 Employees,1995,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),2.5,3.3,3.0,3.0,2.8,2023-05-25 09:12:51.725671,yr
+179,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:12:55.483603,yr
+181,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:13:10.340603,yr
+182,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:13:14.084478,yr
+183,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:13:17.283061,yr
+184,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:13:20.871086,yr
+185,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:13:24.075313,yr
+186,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:13:27.488725,yr
+188,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:13:35.466944,yr
+189,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:13:38.602921,yr
+191,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:13:46.328119,yr
+192,"$179,153 /yr (est.)",179153.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:13:50.480546,yr
+193,"$101,300 /yr (est.)",101300.0,Software Engineer III - (Java/Cloud/API),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:13:54.320175,yr
+195,"$100,820 /yr (est.)",100820.0,Software Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:14:02.035614,yr
+200,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:14:24.116032,yr
+202,"$100,000 /yr (est.)",100000.0,Azure Data Engineer (remote),-1,-1,-1,"MultiPlan Inc.
+3.8", NY,3.8,0,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:14:32.016967,yr
+203,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:14:36.000089,yr
+205,"$131,197 /yr (est.)",131197.0,Machine Learning Engineer/Scientist,-1,-1,-1,"GotIt!
+4.0", CA,4.0,0,12,51 to 200 Employees,2011,Company - Private,Internet & Web Services,Information Technology,Less than $1 million (USD),3.8,3.4,3.9,3.7,3.6,2023-05-25 09:14:44.655979,yr
+206,"$110,320 /yr (est.)",110320.0,Experienced Software Engineer Java / Python (Full Stack or Back End),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:14:48.030290,yr
+207,"$155,000 /yr (est.)",155000.0,"Streaming Media Engineer, Media Technology",-1,-1,-1,"Major League Baseball
+3.9", NY,3.9,0,154,201 to 500 Employees,1869,Self-employed,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.4,3.6,3.8,3.4,3.5,2023-05-25 09:14:51.762981,yr
+208,"$80,007 /yr (est.)",80007.0,Data Engineer I,-1,-1,-1,"Freeport McMoRan
+4.1", AZ,4.1,0,-1,-1,-1,-1,-1,-1,-1,3.8,4.3,3.7,3.3,3.5,2023-05-25 09:14:55.705110,yr
+211,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:15:16.295963,yr
+212,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:15:20.434649,yr
+213,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:15:24.382199,yr
+214,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:15:28.314899,yr
+215,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:15:32.226200,yr
+217,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:15:40.739423,yr
+219,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:15:48.966314,yr
+220,"$100,820 /yr (est.)",100820.0,Software Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:15:53.049648,yr
+221,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:15:57.121575,yr
+224,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:16:11.090839,yr
+225,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:16:15.556394,yr
+226,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:16:19.672899,yr
+227,"$90,000 /yr (est.)",90000.0,SQL Developer-Payment Integrity (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:16:23.765646,yr
+231,"$179,153 /yr (est.)",179153.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:16:42.237281,yr
+232,"$110,320 /yr (est.)",110320.0,Experienced Software Engineer Java / Python (Full Stack or Back End),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:16:46.496175,yr
+235,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:17:00.584803,yr
+236,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:17:04.669260,yr
+239,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:17:18.942668,yr
+241,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:17:35.434287,yr
+242,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:17:39.132187,yr
+243,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:17:43.170563,yr
+244,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:17:47.056119,yr
+246,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:17:56.624635,yr
+247,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:18:00.694130,yr
+249,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:18:09.587125,yr
+252,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:18:23.720556,yr
+253,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:18:27.687826,yr
+257,"$185,633 /yr (est.)",185633.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", CA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:18:48.845907,yr
+260,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:19:03.602490,yr
+261,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:19:07.749339,yr
+262,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:19:12.109387,yr
+263,"$90,000 /yr (est.)",90000.0,SQL Developer-Payment Integrity (remote),-1,-1,-1,"MultiPlan Inc.
+3.8",Remote,3.8,1,43,1001 to 5000 Employees,1980,Company - Public,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,3.8,3.7,3.9,3.6,3.9,2023-05-25 09:19:16.404634,yr
+266,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:19:30.572313,yr
+267,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:19:34.730850,yr
+268,"$198,000 /yr (est.)",198000.0,Senior Android Engineer,-1,-1,-1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:19:38.962313,yr
+269,"$95,025 /yr (est.)",95025.0,Data Science Engineer,-1,-1,-1,"AI Cyber Solutions
+4.5", FL,4.5,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-25 09:19:43.154643,yr
+271,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:20:01.672518,yr
+272,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:20:05.861939,yr
+273,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:20:10.426384,yr
+274,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:20:15.046961,yr
+275,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:20:19.156436,yr
+278,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:20:33.332682,yr
+279,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:20:37.722259,yr
+283,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:20:57.897640,yr
+284,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:21:02.289903,yr
+286,"$185,633 /yr (est.)",185633.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", CA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:21:12.743386,yr
+288,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:21:23.203007,yr
+291,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:21:38.499973,yr
+293,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:21:48.401781,yr
+294,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:21:52.889269,yr
+295,"$198,000 /yr (est.)",198000.0,Senior Android Engineer,-1,-1,-1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:21:57.343734,yr
+297,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:22:12.359105,yr
+298,"$95,025 /yr (est.)",95025.0,-1,-1,-1,-1,-1, FL,4.5,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-25 09:22:16.389426,yr
+299,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,-1, NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:22:23.874329,yr
+301,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:22:42.585584,yr
+302,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:22:47.035505,yr
+303,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:22:51.643744,yr
+305,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:23:01.798415,yr
+306,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:23:06.844489,yr
+307,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:23:11.442791,yr
+309,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:23:21.485416,yr
+311,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:23:31.237137,yr
+312,"$198,000 /yr (est.)",198000.0,Senior Android Engineer,-1,-1,-1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:23:35.764702,yr
+315,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:23:52.192116,yr
+317,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:24:02.778020,yr
+320,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:24:19.301853,yr
+321,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:24:23.976007,yr
+322,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:24:28.891014,yr
+323,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:24:33.262322,yr
+325,"$101,300 /yr (est.)",101300.0,Software Engineer III - (Java/Cloud/API),-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:24:42.986578,yr
+326,"$185,633 /yr (est.)",185633.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", CA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:24:47.688427,yr
+327,"$97,766 /yr (est.)",97766.0,Data Engineer,-1,-1,-1,"State Farm
+3.6", GA,3.6,0,101,10000+ Employees,1922,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),3.5,3.4,3.6,3.3,3.5,2023-05-25 09:24:52.672222,yr
+328,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,"Princeton University
+4.5", NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:24:57.329783,yr
+329,"$126,150 /yr (est.)",126150.0,Senior Data Engineer - Remote,-1,-1,-1,-1, MN,-1,0,46,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),3.6,3.5,3.8,3.3,3.7,2023-05-25 09:25:02.170841,yr
+332,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:25:28.381208,yr
+333,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:25:33.464533,yr
+334,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:25:38.147759,yr
+335,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:25:42.854687,yr
+337,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:25:53.324492,yr
+339,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:26:03.190245,yr
+341,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:26:13.883136,yr
+343,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:26:24.519446,yr
+344,"$198,000 /yr (est.)",198000.0,Senior Android Engineer,-1,-1,-1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:26:29.656888,yr
+346,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:26:40.718518,yr
+347,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:26:45.700026,yr
+350,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:27:03.408737,yr
+351,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:27:08.388368,yr
+352,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,"Princeton University
+4.5", NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:27:13.332889,yr
+353,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:27:18.257273,yr
+354,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:27:23.405596,yr
+355,"$185,633 /yr (est.)",185633.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", CA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:27:28.488078,yr
+358,"$155,000 /yr (est.)",155000.0,"Streaming Media Engineer, Media Technology",-1,-1,-1,"Major League Baseball
+3.9", NY,3.9,0,154,201 to 500 Employees,1869,Self-employed,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,3.4,3.6,3.8,3.4,3.5,2023-05-25 09:27:45.687746,yr
+362,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:28:17.714860,yr
+363,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:28:22.876448,yr
+364,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:28:27.968655,yr
+365,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:28:32.903394,yr
+366,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:28:37.687690,yr
+367,"$198,000 /yr (est.)",198000.0,Senior Android Engineer,-1,-1,-1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:28:42.714577,yr
+369,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:28:53.847829,yr
+373,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:29:17.899682,yr
+374,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:29:23.052212,yr
+375,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:29:28.171013,yr
+376,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:29:33.422050,yr
+378,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:29:45.141560,yr
+380,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:29:56.549837,yr
+381,"$185,633 /yr (est.)",185633.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", CA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:30:02.140240,yr
+383,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:30:14.165388,yr
+385,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,"Princeton University
+4.5", NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:30:25.641786,yr
+386,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:30:31.204459,yr
+387,"$114,035 /yr (est.)",114035.0,Software Development Manager,-1,-1,-1,"ClearEdge3D
+4.4", CO,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.6,3.4,4.6,4.4,4.7,2023-05-25 09:30:36.416730,yr
+389,"$200,000 /yr (est.)",200000.0,"Principal Software Engineer, Originations",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:30:48.372638,yr
+392,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:31:14.377565,yr
+393,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:31:19.817109,yr
+394,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:31:24.987057,yr
+395,"$103,858 /yr (est.)",103858.0,AI Software Engineer,-1,-1,-1,"Delta
+4.3", GA,4.3,0,95,10000+ Employees,1928,Company - Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,$10+ billion (USD),4.2,4.1,4.2,3.8,3.8,2023-05-25 09:31:30.730383,yr
+396,"$103,018 /yr (est.)",103018.0,Java Software Engineer III - Backend Engineer,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:31:36.021765,yr
+397,"$198,000 /yr (est.)",198000.0,Senior Android Engineer,-1,-1,-1,"Zillow
+3.9",Remote,3.9,1,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:31:41.424988,yr
+399,"$86,462 /yr (est.)",86462.0,"Front End Software Engineer II, React",-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:31:52.212109,yr
+403,"$100,830 /yr (est.)",100830.0,QA Automation Software Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", DE,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:32:16.453071,yr
+404,"$98,408 /yr (est.)",98408.0,R&D Engineer,-1,-1,-1,"Delsys Incorporated
+4.1", MA,4.1,0,30,1 to 50 Employees,1993,Company - Private,Electronics Manufacturing,Manufacturing,$1 to $5 million (USD),3.8,3.5,4.4,4.4,3.9,2023-05-25 09:32:21.782328,yr
+405,"$150,000 /yr (est.)",150000.0,"Software Engineering Manager I, Enterprise Shared Services",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:32:27.644564,yr
+406,"$120,700 /yr (est.)",120700.0,"Software Engineer I, Application Performance Management",-1,-1,-1,"The Travelers Companies, Inc.
+4.0", CT,4.0,0,170,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),4.1,4.1,4.1,3.8,3.9,2023-05-25 09:32:33.062380,yr
+408,"$121,000 /yr (est.)",121000.0,Senior Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:32:45.284900,yr
+410,"$100,348 /yr (est.)",100348.0,Software Engineer III - (Python) Data Quality,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", TX,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:32:57.580931,yr
+411,"$185,633 /yr (est.)",185633.0,"Machine Learning Engineer, Trust and Safety - USDS",-1,-1,-1,"TikTok
+3.6", CA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-25 09:33:02.930802,yr
+413,"$235,050 /yr (est.)",235050.0,Principal Software Development Engineer,-1,-1,-1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-25 09:33:14.995456,yr
+415,"$130,824 /yr (est.)",130824.0,Senior Research Software Engineer,-1,-1,-1,"Princeton University
+4.5", NJ,4.5,0,277,5001 to 10000 Employees,1746,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,4.1,4.2,4.1,3.8,3.9,2023-05-25 09:33:27.674125,yr
+416,"$116,810 /yr (est.)",116810.0,Data Engineer III,-1,-1,-1,"JPMorgan Chase Bank, N.A.
+3.8", OH,3.8,0,224,10000+ Employees,1799,Company - Public,Banking & Lending,Financial Services,$10+ billion (USD),3.6,3.7,3.7,3.4,3.5,2023-05-25 09:33:33.129028,yr
+417,"$114,035 /yr (est.)",114035.0,Software Development Manager,-1,-1,-1,"ClearEdge3D
+4.4", CO,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.6,3.4,4.6,4.4,4.7,2023-05-25 09:33:38.416342,yr
+419,"$200,000 /yr (est.)",200000.0,"Principal Software Engineer, Originations",-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:33:50.582595,yr
+422,"$112,000 /yr (est.)",112000.0,Software Engineer,-1,-1,-1,"Credit Acceptance
+3.9",Remote,3.9,1,51,1001 to 5000 Employees,1972,Company - Public,Banking & Lending,Financial Services,$500 million to $1 billion (USD),3.8,4.2,4.2,3.7,4.2,2023-05-25 09:34:17.890339,yr
+423,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-25 09:34:23.529722,yr
+424,"$140,000 /yr (est.)",140000.0,Full Stack Engineer,-1,-1,-1,"Augmedix Inc.
+4.0",Remote,4.0,1,11,501 to 1000 Employees,2012,Company - Public,Health Care Services & Hospitals,Healthcare,$5 to $25 million (USD),3.7,3.7,4.0,3.6,3.2,2023-05-25 09:34:29.279802,yr

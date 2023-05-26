@@ -1,0 +1,901 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:44:09.034945,yr
+1,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 21:44:13.302841,yr
+2,"$74,500 /yr (est.)",74500.0,Software Engineer (Vehicle Automation and Autonomous Systems),0,1,1,"Kubota Tractor Corp
+3.5", AZ,3.5,0,52,1001 to 5000 Employees,1971,Company - Private,Wholesale,Retail & Wholesale,$5 to $25 million (USD),3.1,3.4,3.2,3.1,3.4,2023-05-24 21:44:15.988243,yr
+3,"$126,897 /yr (est.)",126897.0,"Motion Planning Engineer, Autopilot",0,1,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 21:44:18.179974,yr
+4,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 21:44:19.873041,yr
+5,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 21:44:21.628727,yr
+6,"$132,500 /yr (est.)",132500.0,Software Infrastructure Engineer (Starshield),2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:44:23.415386,yr
+8,"$101,500 /yr (est.)",101500.0,Software Engineer,5,1,1,"Autonodyne LLC
+3.9", MA,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.2,3.6,3.3,3.6,2023-05-24 21:44:28.219857,yr
+9,"$98,589 /yr (est.)",98589.0,Autonomous and Embedded Systems Engineer,0,1,1,"MIT Lincoln Laboratory
+4.3", MA,4.3,0,72,1001 to 5000 Employees,1951,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,3.8,4.0,4.1,3.6,4.4,2023-05-24 21:44:31.097617,yr
+10,"$95,650 /yr (est.)",95650.0,"Autonomous System Test Engineer, Mid",2,1,-1,"Booz Allen Hamilton
+4.2", CA,4.2,0,109,10000+ Employees,1914,Company - Public,Business Consulting,Management & Consulting,$5 to $10 billion (USD),4.1,3.9,4.3,3.9,4.3,2023-05-24 21:44:32.874028,yr
+12,"$140,000 /yr (est.)",140000.0,Vision Systems Software Engineer,4,1,-1,"Groe Advisors
+4.4", MA,4.4,0,16,1 to 50 Employees,2007,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,4.4,4.1,4.1,4.3,4.2,2023-05-24 21:44:38.031763,yr
+13,"$117,155 /yr (est.)",117155.0,"Mechanical Engineer, Vehicle Engineering",-1,-1,-1,Glydways, CA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 21:44:40.048082,yr
+14,"$89,712 /yr (est.)",89712.0,Robotics Software Engineer,2,1,1,"University of Maryland
+4.2", MD,4.2,0,167,10000+ Employees,1856,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),3.9,3.6,4.1,3.8,4.0,2023-05-24 21:44:44.783260,yr
+15,"$85,270 /yr (est.)",85270.0,"Development Engineer, Telematics Testing and Validation",0,1,0,"Mercedes-Benz R&D North America
+4.2", CA,4.2,0,137,10000+ Employees,1886,Company - Public,Transportation Equipment Manufacturing,Manufacturing,Unknown / Non-Applicable,3.6,4.0,3.9,3.7,4.0,2023-05-24 21:44:46.753191,yr
+16,"$78,954 /yr (est.)",78954.0,System Engineer,2,1,-1,"Symbotic
+3.3", MS,3.3,0,16,501 to 1000 Employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $25 million (USD),3.2,3.2,2.8,2.6,2.9,2023-05-24 21:44:48.821314,yr
+17,"$131,118 /yr (est.)",131118.0,Machine Learning Engineer - Simulation,0,1,-1,"DiDi Labs
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.9,3.5,3.7,3.4,3.8,2023-05-24 21:44:50.838992,yr
+19,"$145,000 /yr (est.)",145000.0,Software Engineer,10,1,-1,"Koffie Financial
+5.0",United States,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.0,2.0,2.0,3.0,2023-05-24 21:44:56.079359,yr
+20,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 21:44:58.832032,hr
+21,"$130,544 /yr (est.)",130544.0,Vehicle Robotics Controls Engineer,-1,-1,-1,"Udelv
+3.0", CA,3.0,0,-1,-1,-1,-1,-1,-1,-1,2.7,2.5,2.6,2.0,2.8,2023-05-24 21:45:00.788135,yr
+22,"$132,500 /yr (est.)",132500.0,"Software Engineer, Data (Starshield)",4,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:45:03.441229,yr
+23,"$170,000 /yr (est.)",170000.0,Research Engineer,0,1,1,"PlusAI
+4.1", CA,4.1,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.0,5.0,5.0,4.0,2023-05-24 21:45:05.485727,yr
+24,"$119,500 /yr (est.)",119500.0,Control System Engineer,5,1,1,RPO International, PA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 21:45:08.694550,yr
+25,"$126,970 /yr (est.)",126970.0,Data Engineer,4,1,-1,"Luminar
+3.7", CA,3.7,0,11,201 to 500 Employees,2012,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.9,4.1,3.4,3.1,3.4,2023-05-24 21:45:13.674526,yr
+26,"$200,000 /yr (est.)",200000.0,"Research Scientist Model Engineer, Autonomous Startup",0,2,-1,"Recruiting From Scratch
+3.9", AZ,3.9,0,4,1 to 50 Employees,2019,Company - Private,Staffing & Subcontracting,Human Resources & Staffing,$1 to $5 million (USD),4.0,3.9,3.6,3.5,3.9,2023-05-24 21:45:15.781818,yr
+27,"$105,000 /yr (est.)",105000.0,Communications Software Development Engineer - Software Defined Radios,3,1,1,"Secmation
+3.6", TX,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.6,2.6,3.1,3.1,3.6,2023-05-24 21:45:17.855080,yr
+28,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:45:21.042256,yr
+29,"$105,000 /yr (est.)",105000.0,Communications Software Development Engineer - Software Defined Radios,3,1,1,"Secmation
+3.6", NC,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.6,2.6,3.1,3.1,3.6,2023-05-24 21:45:32.264843,yr
+30,"$81,479 /yr (est.)",81479.0,Robotics Software Engineer 1,4,1,-1,"Applied Research Associates, Inc
+4.2", VT,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 21:45:35.294799,yr
+31,"$106,254 /yr (est.)",106254.0,Full Stack Javascript Engineer,4,1,-1,"Ford Motor Company
+4.1", MI,4.1,0,120,10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.9,2023-05-24 21:45:37.419087,yr
+32,"$175,000 /yr (est.)",175000.0,Senior Frontend Engineer,5,1,-1,"Union.ai
+5.0", WA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,4.6,2023-05-24 21:45:39.682809,yr
+33,"$156,000 /yr (est.)",156000.0,Software Engineer - Mapping & Localization,3,2,1,"WeRide.ai
+4.6", CA,4.6,0,-1,-1,-1,-1,-1,-1,-1,4.3,3.8,3.5,3.3,2.7,2023-05-24 21:45:42.710180,yr
+34,"$80,472 /yr (est.)",80472.0,C++ Robotics Engineer,0,1,-1,"Autonomous Solutions
+4.6", UT,4.6,0,23,51 to 200 Employees,2000,Company - Private,Electronics Manufacturing,Manufacturing,$5 to $25 million (USD),4.4,4.2,4.6,4.5,4.5,2023-05-24 21:45:45.647082,yr
+35,"$95,362 /yr (est.)",95362.0,Data Engineer,5,1,1,"Ford Motor Company
+4.1", MI,4.1,0,120,10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.9,2023-05-24 21:45:47.807091,yr
+36,"$81,640 /yr (est.)",81640.0,Diagnostic Software Engineer 1,1,1,1,"PACCAR
+3.6", TX,3.6,0,118,10000+ Employees,1905,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.5,3.3,3.2,3.0,3.6,2023-05-24 21:45:49.802643,yr
+40,"$80,000 /yr (est.)",80000.0,Vehicle Integration Engineer,5,1,-1,"TuSimple
+3.1", AZ,3.1,0,8,501 to 1000 Employees,2015,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,2.9,3.7,2.8,2.5,3.1,2023-05-24 21:46:04.877105,yr
+41,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 21:46:07.117171,yr
+44,"$92,289 /yr (est.)",92289.0,Software Engineer,5,1,-1,Defense Acquisition Support Services LLC, VA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 21:46:19.460807,yr
+45,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:46:24.750890,yr
+47,"$97,500 /yr (est.)",97500.0,Software Engineer - Machine Vision,0,1,-1,"RFA Engineering
+4.0", IA,4.0,0,56,201 to 500 Employees,1967,Company - Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",$5 to $25 million (USD),3.4,2.7,3.3,3.1,3.4,2023-05-24 21:46:30.307630,yr
+48,"$115,376 /yr (est.)",115376.0,Microcontroller Software/Applications Engineer,0,1,0,"Analog Devices
+4.1", TX,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 21:46:33.177384,yr
+49,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:46:35.281178,yr
+50,"$106,481 /yr (est.)",106481.0,Forward Deployed Software Engineer,0,1,-1,"First Resonance
+4.9", CA,4.9,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.6,4.3,4.9,4.7,4.1,2023-05-24 21:46:37.544983,yr
+51,"$115,174 /yr (est.)",115174.0,Software Engineer 4,10,1,-1,"USfalcon, Inc.
+4.5", VA,4.5,0,39,201 to 500 Employees,1984,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $100 million (USD),4.1,4.4,4.4,4.1,4.5,2023-05-24 21:46:39.839350,yr
+52,"$107,919 /yr (est.)",107919.0,Autonomous Systems Embedded Engineer,7,1,1,"Oak Ridge National Laboratory
+3.6", TN,3.6,0,80,5001 to 10000 Employees,1943,Government,National Agencies,Government & Public Administration,Unknown / Non-Applicable,3.5,3.7,3.3,2.7,3.6,2023-05-24 21:46:42.427842,yr
+53,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 21:46:44.650977,yr
+55,$77.00 /hr (est.),160160.0,"Staff Software Engineer, Build",7,1,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 21:46:52.647835,hr
+56,"$105,000 /yr (est.)",105000.0,Firmware Engineer,0,1,1,"Ampro ADLINK Technology, Inc.
+3.6", CA,3.6,0,28,1001 to 5000 Employees,1995,Company - Public,Electronics Manufacturing,Manufacturing,$100 to $500 million (USD),3.5,3.5,3.3,3.1,4.1,2023-05-24 21:46:55.224124,yr
+57,"$221,500 /yr (est.)",221500.0,Data Engineer,0,2,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:46:57.541538,yr
+59,"$207,125 /yr (est.)",207125.0,Senior Systems Software Engineer - Autonomous Vehicles Platform,4,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:47:12.702248,yr
+60,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 21:47:14.848701,yr
+61,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:47:17.971006,yr
+62,"$100,804 /yr (est.)",100804.0,"Senior Robotics Engineer, Computer Vision - National Robotics Engineering Center",5,1,1,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:47:20.664028,yr
+63,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 21:47:23.029881,yr
+64,"$116,579 /yr (est.)",116579.0,Computer Vision Research Engineer,2,1,-1,"DreamVu
+3.8", PA,3.8,0,6,Unknown,2017,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.7,3.8,3.5,3.6,3.4,2023-05-24 21:47:25.403346,yr
+65,"$78,569 /yr (est.)",78569.0,Software Engineer- Electric Vehicles,3,1,-1,"Fontaine Modification
+3.5", NC,3.5,0,-1,-1,-1,-1,-1,-1,-1,2.8,3.3,3.6,3.0,3.1,2023-05-24 21:47:27.553816,yr
+66,"$103,172 /yr (est.)",103172.0,Artificial Intelligence & Machine Learning Research Engineer- Autonomous Systems,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:47:30.560190,yr
+67,"$244,000 /yr (est.)",244000.0,Staff Security Software Engineer,0,1,1,"Cruise
+3.9",United States,3.9,0,10,1001 to 5000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,4.3,3.8,3.4,3.4,2023-05-24 21:47:33.054408,yr
+68,"$232,500 /yr (est.)",232500.0,Software Engineer - Mapping and Localization,0,1,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 21:47:35.549850,yr
+69,"$87,413 /yr (est.)",87413.0,Embedded Software Engineer,0,1,-1,"ORANGE EV LLC
+4.0", MO,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.4,3.8,3.9,4.2,2023-05-24 21:47:38.132167,yr
+70,"$207,500 /yr (est.)",207500.0,"Systems Validation Engineer, Vehicle and HIL",3,1,-1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:47:41.645444,yr
+71,"$67,831 /yr (est.)",67831.0,Student Programs Engineer - Robotics and Autonomous Systems,3,1,-1,"MathWorks
+4.5", MA,4.5,0,39,501 to 1000 Employees,1984,Company - Private,Software Development,Information Technology,$1 to $5 billion (USD),4.1,4.0,4.6,4.3,4.7,2023-05-24 21:47:44.167839,yr
+73,"$101,050 /yr (est.)",101050.0,Associate Real Time Software Engineer (Virtual),2,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:47:49.794209,yr
+74,"$86,217 /yr (est.)",86217.0,Autonomous Driving Simulation Engineer - Managed AI,3,1,-1,"Deloitte
+4.1", NJ,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 21:47:52.183654,yr
+75,"$239,450 /yr (est.)",239450.0,"Staff Software Engineer, Localization",7,1,1,"Cruise
+3.9",United States,3.9,0,10,1001 to 5000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,4.3,3.8,3.4,3.4,2023-05-24 21:47:54.717179,yr
+76,"$56,957 /yr (est.)",56957.0,Computer Engineer I,0,1,1,"DCS Corp
+4.5", MI,4.5,0,46,1001 to 5000 Employees,1977,Company - Private,Research & Development,Management & Consulting,$100 to $500 million (USD),4.1,4.2,4.3,4.2,4.5,2023-05-24 21:47:57.141916,yr
+77,"$104,248 /yr (est.)",104248.0,Software Engineer - Machine Learning (ML/CV/AI),3,1,1,"Skyways
+3.3", TX,3.3,0,5,1 to 50 Employees,2018,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,3.8,3.1,3.8,1.0,3.1,2023-05-24 21:47:59.404664,yr
+78,"$102,310 /yr (est.)",102310.0,Engineering Software Engineer,0,1,1,"Valeo
+3.9", MI,3.9,0,100,10000+ Employees,1923,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.6,3.7,3.3,3.3,2023-05-24 21:48:01.929801,yr
+79,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:48:04.333920,yr
+80,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", WA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:48:06.785094,yr
+81,"$147,410 /yr (est.)",147410.0,Senior Software Engineer,0,2,-1,"Spirent Communications
+3.8", CA,3.8,0,87,1001 to 5000 Employees,1936,Company - Public,Telecommunications Services,Telecommunications,$500 million to $1 billion (USD),3.6,3.4,3.6,3.3,3.9,2023-05-24 21:48:09.439315,yr
+83,"$89,813 /yr (est.)",89813.0,Systems Engineer,5,1,1,"AGCO
+3.9", AZ,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 21:48:15.415293,yr
+85,"$79,088 /yr (est.)",79088.0,Software Test Engineer,3,1,1,"Robotic Research
+4.5", MD,4.5,0,21,201 to 500 Employees,2002,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),4.7,4.4,4.7,4.6,4.1,2023-05-24 21:48:21.364438,yr
+86,"$85,434 /yr (est.)",85434.0,Quality Assurance Engineer,0,1,-1,"Alten Technology USA
+3.4", MA,3.4,0,35,10000+ Employees,1988,Company - Private,Research & Development,Management & Consulting,$1 to $5 billion (USD),3.4,2.8,3.2,3.2,3.6,2023-05-24 21:48:24.192547,yr
+87,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:48:36.448577,yr
+90,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 21:48:46.274560,yr
+91,"$132,500 /yr (est.)",132500.0,Software Engineer (Starship),2,1,-1,"SpaceX
+4.0", TX,4.0,0,21,5001 to 10000 Employees,2002,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.8,3.8,3.4,2.7,2023-05-24 21:48:48.744477,yr
+92,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:48:51.283227,yr
+93,$30.00 /hr (est.),62400.0,Reliability Test Engineer,10,1,1,"Kett Engineering Corporation
+2.6", CA,2.6,0,-1,-1,-1,-1,-1,-1,-1,2.4,2.1,2.6,2.2,3.2,2023-05-24 21:48:53.933947,hr
+94,"$101,050 /yr (est.)",101050.0,Associate Real Time Software Engineer (Virtual),2,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:48:57.672268,yr
+95,"$80,593 /yr (est.)",80593.0,Brake Systems Engineer,3,1,-1,"Bosch Group
+4.4", MI,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 21:49:00.328311,yr
+96,"$89,813 /yr (est.)",89813.0,Systems Engineer,5,1,1,"AGCO
+3.9", AZ,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 21:49:03.067971,yr
+97,"$100,804 /yr (est.)",100804.0,"Senior Robotics Engineer, Computer Vision - National Robotics Engineering Center",5,1,1,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:49:05.478244,yr
+98,"$109,307 /yr (est.)",109307.0,Software Engineering Co-op,0,1,-1,"QinetiQ
+3.9", MA,3.9,0,22,1001 to 5000 Employees,2001,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $5 billion (USD),3.8,3.4,3.9,3.5,4.0,2023-05-24 21:49:08.129596,yr
+100,"$170,000 /yr (est.)",170000.0,Firmware Engineer,5,1,-1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:49:14.381884,yr
+101,"$87,413 /yr (est.)",87413.0,Embedded Software Engineer,0,1,-1,"ORANGE EV LLC
+4.0", MO,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.4,3.8,3.9,4.2,2023-05-24 21:49:17.396897,yr
+102,"$105,000 /yr (est.)",105000.0,Communications Software Development Engineer - Software Defined Radios,3,1,1,"Secmation
+3.6", NC,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.6,2.6,3.1,3.1,3.6,2023-05-24 21:49:20.995373,yr
+104,"$85,434 /yr (est.)",85434.0,Quality Assurance Engineer,0,1,-1,"Alten Technology USA
+3.4", MA,3.4,0,35,10000+ Employees,1988,Company - Private,Research & Development,Management & Consulting,$1 to $5 billion (USD),3.4,2.8,3.2,3.2,3.6,2023-05-24 21:49:28.843887,yr
+105,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:49:31.848917,yr
+106,"$132,500 /yr (est.)",132500.0,Software Engineer (Starshield),2,1,-1,"Swarm Technologies
+4.2", WA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:49:34.493520,yr
+107,"$78,569 /yr (est.)",78569.0,Software Engineer- Electric Vehicles,3,1,-1,"Fontaine Modification
+3.5", NC,3.5,0,-1,-1,-1,-1,-1,-1,-1,2.8,3.3,3.6,3.0,3.1,2023-05-24 21:49:37.327792,yr
+108,"$99,612 /yr (est.)",99612.0,User Interface Software Engineer - National Robotics Engineering Center,5,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:49:40.894653,yr
+109,"$79,088 /yr (est.)",79088.0,Software Test Engineer,3,1,1,"Robotic Research
+4.5", MD,4.5,0,21,201 to 500 Employees,2002,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),4.7,4.4,4.7,4.6,4.1,2023-05-24 21:49:43.846589,yr
+110,"$85,000 /yr (est.)",85000.0,Associate Industrial Engineer,2,1,0,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:49:46.968710,yr
+111,"$245,500 /yr (est.)",245500.0,Software Engineer II,5,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 21:49:50.111634,yr
+112,"$239,450 /yr (est.)",239450.0,"Staff Software Engineer, Localization",7,1,1,"Cruise
+3.9",United States,3.9,0,10,1001 to 5000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,4.3,3.8,3.4,3.4,2023-05-24 21:49:53.060951,yr
+113,"$91,628 /yr (est.)",91628.0,Software Engineer,5,1,1,"Oasys International, LLC
+3.7", UT,3.7,0,12,51 to 200 Employees,2011,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,4.0,3.9,3.8,4.3,2023-05-24 21:49:55.906790,yr
+114,"$207,125 /yr (est.)",207125.0,Senior Systems Software Engineer - Autonomous Vehicles Platform,4,1,-1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:49:58.595631,yr
+115,"$103,707 /yr (est.)",103707.0,Software Engineer - Full-Stack,4,1,1,"Skyways
+3.3", TX,3.3,0,5,1 to 50 Employees,2018,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,3.8,3.1,3.8,1.0,3.1,2023-05-24 21:50:01.348440,yr
+116,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:50:13.421933,yr
+119,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:50:24.297292,yr
+120,$30.00 /hr (est.),62400.0,Reliability Test Engineer,10,1,1,"Kett Engineering Corporation
+2.6", CA,2.6,0,-1,-1,-1,-1,-1,-1,-1,2.4,2.1,2.6,2.2,3.2,2023-05-24 21:50:27.255023,hr
+121,"$101,050 /yr (est.)",101050.0,Associate Real Time Software Engineer (Virtual),2,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:50:31.260650,yr
+122,"$80,593 /yr (est.)",80593.0,Brake Systems Engineer,3,1,-1,"Bosch Group
+4.4", MI,4.4,0,137,10000+ Employees,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),4.1,4.1,4.4,4.0,4.1,2023-05-24 21:50:34.418289,yr
+123,"$89,813 /yr (est.)",89813.0,Systems Engineer,5,1,1,"AGCO
+3.9", AZ,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 21:50:37.461447,yr
+124,"$100,804 /yr (est.)",100804.0,"Senior Robotics Engineer, Computer Vision - National Robotics Engineering Center",5,1,1,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:50:40.164580,yr
+125,"$170,000 /yr (est.)",170000.0,Firmware Engineer,5,1,-1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:50:42.856994,yr
+126,"$87,413 /yr (est.)",87413.0,Embedded Software Engineer,0,1,-1,"ORANGE EV LLC
+4.0", MO,4.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.4,3.8,3.9,4.2,2023-05-24 21:50:45.617407,yr
+127,"$105,000 /yr (est.)",105000.0,Communications Software Development Engineer - Software Defined Radios,3,1,1,"Secmation
+3.6", NC,3.6,0,-1,-1,-1,-1,-1,-1,-1,3.6,2.6,3.1,3.1,3.6,2023-05-24 21:50:49.303048,yr
+129,"$85,434 /yr (est.)",85434.0,Quality Assurance Engineer,0,1,-1,"Alten Technology USA
+3.4", MA,3.4,0,35,10000+ Employees,1988,Company - Private,Research & Development,Management & Consulting,$1 to $5 billion (USD),3.4,2.8,3.2,3.2,3.6,2023-05-24 21:50:56.979953,yr
+130,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:51:00.191078,yr
+131,"$132,500 /yr (est.)",132500.0,Software Engineer (Starshield),2,1,-1,"Swarm Technologies
+4.2", WA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:51:02.875860,yr
+132,"$99,612 /yr (est.)",99612.0,User Interface Software Engineer - National Robotics Engineering Center,5,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:51:05.652803,yr
+133,"$79,088 /yr (est.)",79088.0,Software Test Engineer,3,1,1,"Robotic Research
+4.5", MD,4.5,0,21,201 to 500 Employees,2002,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),4.7,4.4,4.7,4.6,4.1,2023-05-24 21:51:08.596927,yr
+134,"$85,000 /yr (est.)",85000.0,Associate Industrial Engineer,2,1,0,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:51:11.718814,yr
+135,"$239,450 /yr (est.)",239450.0,"Staff Software Engineer, Localization",7,1,1,"Cruise
+3.9",United States,3.9,0,10,1001 to 5000 Employees,2013,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,4.3,3.8,3.4,3.4,2023-05-24 21:51:14.732087,yr
+136,"$91,628 /yr (est.)",91628.0,Software Engineer,5,1,1,"Oasys International, LLC
+3.7", UT,3.7,0,12,51 to 200 Employees,2011,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),3.8,4.0,3.9,3.8,4.3,2023-05-24 21:51:17.746890,yr
+137,"$207,125 /yr (est.)",207125.0,Senior Systems Software Engineer - Autonomous Vehicles Platform,4,1,-1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:51:20.640175,yr
+138,"$103,707 /yr (est.)",103707.0,Software Engineer - Full-Stack,4,1,1,"Skyways
+3.3", TX,3.3,0,5,1 to 50 Employees,2018,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,3.8,3.1,3.8,1.0,3.1,2023-05-24 21:51:23.405107,yr
+139,"$150,000 /yr (est.)",150000.0,Autonomous Systems Embedded Software Engineer,10,1,0,"Leidos
+3.9", WA,3.9,0,54,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.6,3.8,3.6,4.0,2023-05-24 21:51:26.354045,yr
+140,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:51:29.528286,hr
+141,"$102,310 /yr (est.)",102310.0,Engineering Software Engineer,0,1,1,"Valeo
+3.9", MI,3.9,0,100,10000+ Employees,1923,Company - Private,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.6,3.7,3.3,3.3,2023-05-24 21:51:32.624256,yr
+144,"$232,500 /yr (est.)",232500.0,Autonomous Vehicles Software Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 21:51:46.210043,yr
+145,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:51:58.821097,yr
+146,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 21:52:02.031621,hr
+147,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:52:05.259993,hr
+148,"$132,500 /yr (est.)",132500.0,Software Engineer (Starship),2,1,-1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:52:08.891387,yr
+149,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:52:12.124438,yr
+150,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:52:15.218066,yr
+151,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 21:52:18.339748,yr
+152,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:52:21.165220,yr
+153,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 21:52:24.290297,yr
+154,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:52:27.449230,yr
+155,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:52:30.581215,yr
+156,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:52:33.752649,yr
+157,"$86,159 /yr (est.)",86159.0,Autonomous Vehicle Software Engineer,0,1,1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:52:36.711619,yr
+158,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 21:52:40.408420,yr
+159,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 21:52:44.232185,yr
+160,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 21:52:47.161510,yr
+161,$74.50 /hr (est.),154960.0,Frontend Engineer,5,2,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 21:52:51.057350,hr
+162,"$141,500 /yr (est.)",141500.0,Software Engineer,3,1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 21:52:54.290856,yr
+163,"$101,050 /yr (est.)",101050.0,Associate Real Time Software Engineer (Virtual),2,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:52:57.502372,yr
+164,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 21:53:00.962542,yr
+165,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:53:06.774525,yr
+167,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 21:53:13.814052,yr
+168,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 21:53:16.818606,yr
+169,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 21:53:20.166425,yr
+171,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 21:53:28.046910,yr
+172,"$145,000 /yr (est.)",145000.0,Software Engineer,10,1,-1,"Koffie Financial
+5.0",United States,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.0,2.0,2.0,3.0,2023-05-24 21:53:32.011244,yr
+173,"$99,612 /yr (est.)",99612.0,User Interface Software Engineer - National Robotics Engineering Center,5,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:53:35.867738,yr
+174,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:53:48.631458,yr
+175,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:53:52.020956,yr
+176,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:53:55.750067,hr
+177,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:53:59.342665,yr
+178,"$132,500 /yr (est.)",132500.0,Software Engineer (Starship),2,1,-1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:54:02.769578,yr
+179,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 21:54:06.105544,yr
+180,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:54:09.307997,yr
+181,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 21:54:12.666973,hr
+182,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:54:15.993664,yr
+183,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 21:54:19.215258,yr
+184,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 21:54:22.455240,yr
+185,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:54:25.956951,yr
+186,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:54:29.755580,yr
+187,"$141,500 /yr (est.)",141500.0,Software Engineer,3,1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 21:54:32.987215,yr
+188,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 21:54:36.441663,yr
+189,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 21:54:40.900422,yr
+190,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:54:44.397902,yr
+192,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 21:54:51.914989,yr
+193,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 21:54:55.588269,yr
+194,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 21:54:59.076793,yr
+195,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:55:02.395527,yr
+196,$74.50 /hr (est.),154960.0,Frontend Engineer,5,2,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 21:55:05.884539,hr
+197,"$132,500 /yr (est.)",132500.0,Software Engineer (Starship),2,1,-1,"SpaceX
+4.0", TX,4.0,0,21,5001 to 10000 Employees,2002,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.8,3.8,3.4,2.7,2023-05-24 21:55:09.456813,yr
+198,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 21:55:13.035444,yr
+199,"$115,000 /yr (est.)",115000.0,Software Engineer,2,1,1,"Beep Inc
+4.3",Remote,4.3,1,4,51 to 200 Employees,2019,Company - Private,Taxi & Car Services,Transportation & Logistics,Unknown / Non-Applicable,4.3,3.6,3.9,4.2,3.9,2023-05-24 21:55:16.827052,yr
+200,"$95,362 /yr (est.)",95362.0,Data Engineer,-1,-1,-1,"Ford Motor Company
+4.1", MI,4.1,0,120,10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.9,2023-05-24 21:55:20.078399,yr
+201,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 21:55:23.413470,yr
+202,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:55:29.676114,yr
+203,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:55:42.507697,yr
+204,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 21:55:46.071864,hr
+205,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:55:49.542619,yr
+206,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:55:52.927225,yr
+207,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:55:56.332655,hr
+208,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 21:55:59.919655,yr
+209,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:56:03.668642,yr
+210,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:56:07.451720,yr
+211,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 21:56:10.922833,yr
+212,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 21:56:14.727749,yr
+213,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:56:18.457791,yr
+214,"$141,500 /yr (est.)",141500.0,Software Engineer,-1,-1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 21:56:22.007818,yr
+215,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:56:25.855836,yr
+216,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 21:56:29.268391,yr
+217,"$86,159 /yr (est.)",86159.0,Autonomous Vehicle Software Engineer,0,1,1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 21:56:33.284020,yr
+218,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 21:56:36.922562,yr
+219,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 21:56:40.857850,yr
+220,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 21:56:45.038003,yr
+221,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:56:48.548126,yr
+222,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 21:56:52.646582,yr
+223,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 21:56:56.246422,yr
+224,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 21:57:00.271815,yr
+226,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:57:09.652114,yr
+227,"$95,362 /yr (est.)",95362.0,Data Engineer,5,1,1,"Ford Motor Company
+4.1", MI,4.1,0,120,10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.9,2023-05-24 21:57:13.654972,yr
+229,"$207,125 /yr (est.)",207125.0,Senior Systems Software Engineer - Autonomous Vehicles Platform,4,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:57:23.300499,yr
+230,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:57:27.330442,yr
+231,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 21:57:31.348635,yr
+232,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:57:45.223957,yr
+233,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:57:49.643969,yr
+234,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,-1,-1,-1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 21:57:53.716188,yr
+235,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 21:57:57.523270,hr
+236,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 21:58:02.108883,yr
+237,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 21:58:06.261977,yr
+238,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 21:58:10.314605,hr
+239,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:58:14.055177,yr
+240,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 21:58:18.165253,yr
+241,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 21:58:22.126311,yr
+242,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:58:26.317701,yr
+243,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 21:58:30.161308,yr
+244,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 21:58:34.505701,yr
+245,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 21:58:38.659907,yr
+246,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,-1,-1,-1,-1, CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 21:58:42.832341,yr
+247,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 21:58:48.181303,yr
+248,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 21:58:52.401593,yr
+249,"$141,500 /yr (est.)",141500.0,Software Engineer,3,1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 21:58:56.521655,yr
+251,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 21:59:05.765590,yr
+252,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),-1,-1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 21:59:10.139853,yr
+253,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 21:59:13.627571,yr
+254,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 21:59:17.741623,yr
+257,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:59:35.515430,yr
+258,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 21:59:39.781116,yr
+259,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 21:59:44.522523,yr
+260,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 21:59:48.738535,yr
+261,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:00:03.301697,yr
+262,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:00:07.768227,yr
+263,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:00:12.511436,yr
+264,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:00:16.887490,yr
+265,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:00:21.260297,hr
+266,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:00:25.973842,yr
+267,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:00:30.239877,hr
+268,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:00:34.981318,yr
+269,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:00:39.397856,yr
+270,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:00:43.386059,yr
+271,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:00:47.781017,yr
+272,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:00:51.702299,yr
+273,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:00:56.315817,yr
+274,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:01:00.643622,yr
+275,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:01:05.395020,yr
+276,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:01:09.819636,yr
+277,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:01:14.137582,yr
+278,"$141,500 /yr (est.)",141500.0,Software Engineer,-1,-1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 22:01:19.031683,yr
+279,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",-1,-1,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:01:22.806662,yr
+281,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:01:33.063583,yr
+282,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:01:37.109929,yr
+283,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:01:41.590222,yr
+284,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),-1,-1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:01:45.543547,yr
+285,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:01:50.000260,yr
+286,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 22:01:55.192780,yr
+289,"$115,000 /yr (est.)",115000.0,Software Engineer,2,1,1,"Beep Inc
+4.3",Remote,4.3,1,4,51 to 200 Employees,2019,Company - Private,Taxi & Car Services,Transportation & Logistics,Unknown / Non-Applicable,4.3,3.6,3.9,4.2,3.9,2023-05-24 22:02:13.484609,yr
+290,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:02:27.914938,yr
+291,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:02:32.584363,yr
+292,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:02:37.127753,yr
+293,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:02:41.711334,yr
+294,$34.15 /hr (est.),71032.0,-1,-1,-1,-1,-1, CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:02:46.090783,hr
+295,"$232,500 /yr (est.)",232500.0,-1,-1,-1,-1,-1, CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:02:52.893755,yr
+296,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,-1,-1,-1,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:02:58.784942,hr
+297,"$190,000 /yr (est.)",190000.0,Sr. Software Engineer (Starship),6,1,1,"Swarm Technologies
+4.2",Texas,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:03:03.043588,yr
+298,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:03:07.734695,yr
+299,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:03:11.853581,yr
+300,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:03:16.447343,yr
+301,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",-1,-1,-1,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:03:20.448246,yr
+302,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:03:24.939434,yr
+303,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:03:29.386613,yr
+304,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:03:34.319075,yr
+305,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:03:38.897568,yr
+306,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:03:43.552030,yr
+307,"$141,500 /yr (est.)",141500.0,Software Engineer,3,1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 22:03:48.569799,yr
+308,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:03:54.260335,yr
+310,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:04:04.736482,yr
+311,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:04:09.447634,yr
+312,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:04:14.178492,yr
+313,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:04:18.861983,yr
+314,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:04:24.547074,yr
+315,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 22:04:29.908527,yr
+318,"$115,000 /yr (est.)",115000.0,Software Engineer,2,1,1,"Beep Inc
+4.3",Remote,4.3,1,4,51 to 200 Employees,2019,Company - Private,Taxi & Car Services,Transportation & Logistics,Unknown / Non-Applicable,4.3,3.6,3.9,4.2,3.9,2023-05-24 22:04:49.082437,yr
+319,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:05:03.952999,yr
+320,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:05:09.275538,hr
+321,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,-1,-1,-1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:05:14.122139,yr
+322,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:05:18.177823,yr
+323,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:05:23.161746,yr
+324,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:05:28.374481,hr
+325,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:05:33.707924,yr
+326,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:05:38.590364,yr
+327,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:05:43.495391,yr
+328,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:05:48.247010,yr
+329,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:05:53.404398,yr
+330,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:05:58.312132,yr
+331,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:06:03.606210,yr
+332,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:06:08.639951,yr
+333,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:06:13.469132,yr
+334,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:06:19.522245,yr
+335,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:06:24.812890,yr
+336,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:06:29.802868,yr
+337,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:06:34.678739,yr
+338,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:06:39.468819,yr
+340,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:06:50.593910,yr
+341,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:06:55.557728,yr
+342,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:07:01.170564,yr
+343,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:07:06.190858,yr
+344,$74.50 /hr (est.),154960.0,Frontend Engineer,-1,-1,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 22:07:12.068573,hr
+346,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 22:07:23.405201,yr
+347,"$141,500 /yr (est.)",141500.0,Software Engineer,3,1,-1,"Pyka
+5.0", CA,5.0,0,6,1 to 50 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.9,4.7,4.9,4.8,4.8,2023-05-24 22:07:28.828610,yr
+348,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:07:44.356018,yr
+349,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:07:51.019220,yr
+350,"$86,209 /yr (est.)",86209.0,Autonomous Vehicle Software Engineer,0,1,0,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:07:56.273172,yr
+351,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,-1,-1,-1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:08:01.698549,yr
+352,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:08:06.353463,yr
+353,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:08:11.525010,yr
+354,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:08:17.182637,yr
+355,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:08:22.470585,hr
+356,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:08:27.795887,hr
+357,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:08:32.993874,yr
+358,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:08:38.089515,yr
+359,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:08:42.794641,yr
+360,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:08:48.411729,yr
+361,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:08:53.731748,yr
+362,"$82,900 /yr (est.)",82900.0,Entry-Level Real Time Software Engineer (Virtual),0,1,0,"BOEING
+3.9", MO,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:08:58.783986,yr
+363,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:09:04.468905,yr
+364,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:09:09.712902,yr
+365,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:09:14.763544,yr
+366,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:09:20.509279,yr
+367,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",-1,-1,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:09:25.944905,yr
+369,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:09:36.758743,yr
+370,"$103,172 /yr (est.)",103172.0,Artificial Intelligence & Machine Learning Research Engineer- Autonomous Systems,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:09:41.957708,yr
+371,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 22:09:47.215697,yr
+372,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 22:09:53.063977,yr
+373,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:10:00.503720,yr
+374,"$95,362 /yr (est.)",95362.0,Data Engineer,5,1,1,"Ford Motor Company
+4.1", MI,4.1,0,120,10000+ Employees,1903,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),3.8,3.9,3.9,3.5,3.9,2023-05-24 22:10:06.185653,yr
+375,$74.50 /hr (est.),154960.0,Frontend Engineer,-1,-1,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 22:10:11.832829,hr
+376,"$145,000 /yr (est.)",145000.0,Software Engineer,10,1,-1,"Koffie Financial
+5.0",United States,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.0,2.0,2.0,3.0,2023-05-24 22:10:16.736290,yr
+377,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:10:32.437182,yr
+378,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:10:38.225773,hr
+379,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:10:43.814586,yr
+380,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:10:49.595370,yr
+381,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:10:54.999690,hr
+382,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:11:00.850283,yr
+383,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:11:06.842210,yr
+384,"$86,217 /yr (est.)",86217.0,Autonomous Driving Simulation Engineer - Managed AI,3,1,-1,"Deloitte
+4.1", NJ,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 22:11:12.182976,yr
+385,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:11:18.084129,yr
+386,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:11:23.773196,yr
+387,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:11:29.094239,yr
+388,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:11:34.442188,yr
+389,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:11:39.936302,yr
+390,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:11:45.612689,yr
+391,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:11:51.068459,yr
+392,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:11:56.817477,yr
+393,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:12:02.124213,yr
+394,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:12:07.914542,yr
+395,"$101,663 /yr (est.)",101663.0,Software Engineer C++,3,1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:12:13.420971,yr
+396,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:12:19.944604,yr
+397,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:12:26.190242,yr
+399,"$103,172 /yr (est.)",103172.0,Artificial Intelligence & Machine Learning Research Engineer- Autonomous Systems,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:12:38.159802,yr
+400,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:12:43.444178,yr
+401,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),-1,-1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:12:49.470087,yr
+402,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:12:54.832823,yr
+403,$74.50 /hr (est.),154960.0,Frontend Engineer,5,2,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 22:13:01.170730,hr
+404,"$67,831 /yr (est.)",67831.0,Student Programs Engineer - Robotics and Autonomous Systems,3,1,-1,"MathWorks
+4.5", MA,4.5,0,39,501 to 1000 Employees,1984,Company - Private,Software Development,Information Technology,$1 to $5 billion (USD),4.1,4.0,4.6,4.3,4.7,2023-05-24 22:13:07.507209,yr
+405,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 22:13:12.913696,yr
+406,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:13:28.827195,yr
+407,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:13:35.007943,hr
+408,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:13:40.636745,yr
+409,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:13:46.263542,yr
+410,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:13:51.744561,hr
+411,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:13:58.145300,yr
+412,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:14:03.606943,yr
+413,"$86,217 /yr (est.)",86217.0,Autonomous Driving Simulation Engineer - Managed AI,3,1,-1,"Deloitte
+4.1", NJ,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 22:14:09.916142,yr
+414,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:14:16.127071,yr
+415,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:14:22.156256,yr
+416,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:14:27.792967,yr
+417,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:14:33.402127,yr
+418,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:14:39.236661,yr
+419,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:14:45.070460,yr
+420,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:14:50.616899,yr
+421,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:14:56.207616,yr
+422,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:15:01.918035,yr
+423,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:15:08.132146,yr
+424,"$101,663 /yr (est.)",101663.0,Software Engineer C++,-1,-1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:15:13.740240,yr
+425,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:15:19.205940,yr
+426,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:15:24.841456,yr
+428,"$103,172 /yr (est.)",103172.0,Artificial Intelligence & Machine Learning Research Engineer- Autonomous Systems,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:15:37.164735,yr
+429,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:15:42.743977,yr
+430,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:15:49.112100,yr
+431,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:15:55.532892,yr
+432,$74.50 /hr (est.),154960.0,Frontend Engineer,5,2,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 22:16:01.428288,hr
+433,"$67,831 /yr (est.)",67831.0,Student Programs Engineer - Robotics and Autonomous Systems,3,1,-1,"MathWorks
+4.5", MA,4.5,0,39,501 to 1000 Employees,1984,Company - Private,Software Development,Information Technology,$1 to $5 billion (USD),4.1,4.0,4.6,4.3,4.7,2023-05-24 22:16:07.769580,yr
+434,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 22:16:13.693831,yr
+435,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:16:30.379980,yr
+436,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:16:36.754465,hr
+437,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:16:42.562917,yr
+438,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:16:48.274890,yr
+439,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:16:53.980807,hr
+440,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:17:00.402076,yr
+441,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:17:06.082680,yr
+442,"$86,217 /yr (est.)",86217.0,Autonomous Driving Simulation Engineer - Managed AI,3,1,-1,"Deloitte
+4.1", NJ,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 22:17:12.373693,yr
+443,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:17:19.040008,yr
+444,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:17:25.135978,yr
+445,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:17:31.035900,yr
+446,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",10,1,0,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:17:36.781691,yr
+447,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:17:42.642709,yr
+448,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:17:48.707558,yr
+449,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",0,1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:17:54.605170,yr
+450,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:18:00.420563,yr
+451,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:18:06.215805,yr
+452,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:18:12.021370,yr
+453,"$101,663 /yr (est.)",101663.0,Software Engineer C++,-1,-1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:18:18.001290,yr
+454,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:18:24.198326,yr
+455,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:18:30.206481,yr
+457,"$103,172 /yr (est.)",103172.0,Artificial Intelligence & Machine Learning Research Engineer- Autonomous Systems,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:18:43.386085,yr
+458,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:18:49.688023,yr
+459,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:18:56.045862,yr
+460,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:19:03.168810,yr
+461,$74.50 /hr (est.),154960.0,Frontend Engineer,5,2,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 22:19:08.979994,hr
+462,"$67,831 /yr (est.)",67831.0,Student Programs Engineer - Robotics and Autonomous Systems,3,1,-1,"MathWorks
+4.5", MA,4.5,0,39,501 to 1000 Employees,1984,Company - Private,Software Development,Information Technology,$1 to $5 billion (USD),4.1,4.0,4.6,4.3,4.7,2023-05-24 22:19:15.622068,yr
+463,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 22:19:21.484241,yr
+464,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:19:38.131904,yr
+465,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,-1,-1,-1,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:19:44.625699,hr
+466,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:19:50.056019,yr
+467,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:19:56.190828,yr
+468,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:20:02.101513,yr
+469,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:20:08.000761,hr
+470,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:20:14.659914,yr
+471,"$172,000 /yr (est.)",172000.0,"Software Engineer, Simulation Realism",0,1,-1,"Waymo
+3.9", CA,3.9,0,14,Unknown,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.4,4.0,4.0,3.4,3.7,2023-05-24 22:20:20.726954,yr
+472,"$86,217 /yr (est.)",86217.0,Autonomous Driving Simulation Engineer - Managed AI,3,1,-1,"Deloitte
+4.1", NJ,4.1,0,173,10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),4.3,3.8,4.0,3.8,3.3,2023-05-24 22:20:26.739213,yr
+473,"$99,823 /yr (est.)",99823.0,Flight Software Engineer,2,1,-1,"Vast
+4.5", CA,4.5,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.7,4.4,4.3,4.0,2023-05-24 22:20:34.081360,yr
+474,"$69,987 /yr (est.)",69987.0,Systems Engineer – Autonomous Vehicle Applications,3,1,-1,"Oshkosh Corporation
+4.1", PA,4.1,0,106,10000+ Employees,1917,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),3.8,3.7,4.1,3.6,4.1,2023-05-24 22:20:40.523451,yr
+475,"$81,349 /yr (est.)",81349.0,"Robotics Engineer, Autonomous Aerial Vehicles - National Robotics Engineering Center",-1,-1,-1,"Carnegie Mellon University
+4.4", PA,4.4,0,123,1001 to 5000 Employees,1900,College / University,Colleges & Universities,Education,$1 to $5 billion (USD),4.3,3.9,4.2,4.0,3.8,2023-05-24 22:20:46.863441,yr
+476,"$254,750 /yr (est.)",254750.0,Senior Systems Test Engineer - Autonomous Vehicles,6,1,1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:20:52.623951,yr
+477,"$132,500 /yr (est.)",132500.0,"Software Engineer, C++ (Starshield)",2,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:20:58.768937,yr
+478,"$98,900 /yr (est.)",98900.0,"Software Engineer, Hybrid",-1,-1,-1,"MKS Instruments, Inc.
+3.9", OR,3.9,0,62,5001 to 10000 Employees,1961,Company - Public,Machinery Manufacturing,Manufacturing,$1 to $5 billion (USD),3.8,3.7,3.8,3.6,3.8,2023-05-24 22:21:04.860275,yr
+479,"$83,064 /yr (est.)",83064.0,Autonomous AI/ML Software Engineer,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:21:10.266533,yr
+480,"$142,000 /yr (est.)",142000.0,"Developer Technology Engineer, AI - New College Grad 2023",0,1,-1,"NVIDIA
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 22:21:16.456303,yr
+481,"$137,689 /yr (est.)",137689.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 22:21:22.434883,yr
+482,"$101,663 /yr (est.)",101663.0,Software Engineer C++,-1,-1,-1,"Seegrid
+3.5", PA,3.5,0,20,201 to 500 Employees,2003,Company - Private,Machinery Manufacturing,Manufacturing,Unknown / Non-Applicable,3.3,3.5,3.8,3.2,3.8,2023-05-24 22:21:28.400577,yr
+483,"$132,500 /yr (est.)",132500.0,"Software Engineer, Full Stack (Starshield)",-1,-1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:21:34.143579,yr
+484,"$88,154 /yr (est.)",88154.0,Systems Engineer/ Medical Devices,0,1,-1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 22:21:39.497416,yr
+486,"$103,172 /yr (est.)",103172.0,Artificial Intelligence & Machine Learning Research Engineer- Autonomous Systems,0,1,-1,"Aurora Flight Sciences
+4.1", MA,4.1,0,34,501 to 1000 Employees,1989,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.1,3.9,4.0,3.8,4.3,2023-05-24 22:21:52.880229,yr
+487,"$130,000 /yr (est.)",130000.0,Computer Vision and Machine Learning Engineer,3,1,1,"Stratom, Inc.
+5.0", CO,5.0,0,-1,-1,-1,-1,-1,-1,-1,4.8,4.3,5.0,5.0,5.0,2023-05-24 22:21:58.926433,yr
+488,$74.50 /hr (est.),154960.0,Frontend Engineer,5,2,-1,"Ryzen Solutions
+4.2", CA,4.2,0,24,51 to 200 Employees,1999,Company - Private,HR Consulting,Human Resources & Staffing,$25 to $100 million (USD),4.3,4.0,4.2,4.0,4.1,2023-05-24 22:22:05.275571,hr
+489,"$67,831 /yr (est.)",67831.0,Student Programs Engineer - Robotics and Autonomous Systems,3,1,-1,"MathWorks
+4.5", MA,4.5,0,39,501 to 1000 Employees,1984,Company - Private,Software Development,Information Technology,$1 to $5 billion (USD),4.1,4.0,4.6,4.3,4.7,2023-05-24 22:22:12.987584,yr
+490,"$70,303 /yr (est.)",70303.0,Autonomous Systems,0,1,-1,"Honda Research Institute USA
+4.4", CA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,3.7,3.9,3.9,4.4,2023-05-24 22:22:19.040906,yr
+491,"$84,633 /yr (est.)",84633.0,Software Test Engineer I - Robotics,0,1,-1,"Hyster-Yale Group
+3.5", OR,3.5,0,38,5001 to 10000 Employees,1985,Company - Public,Machinery Manufacturing,Manufacturing,$500 million to $1 billion (USD),3.3,3.4,3.3,2.9,3.7,2023-05-24 22:22:25.262308,yr
+492,"$100,000 /yr (est.)",100000.0,Software Quality Assurance (Manual/Automation),5,1,-1,"Abalta Technologies Inc
+4.3", CA,4.3,0,20,51 to 200 Employees,2003,Company - Private,Computer Hardware Development,Information Technology,$1 to $5 million (USD),3.8,3.3,4.3,4.1,4.1,2023-05-24 22:22:31.218917,yr
+493,"$80,750 /yr (est.)",80750.0,Equipment Engineer I (Summer 2023 Start),2,1,-1,"Applied Materials
+4.1", NY,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:22:48.047563,yr
+494,$31.13 /hr (est.),64750.4,Autonomous Vehicle Operations Specialist,5,1,0,"Aurora Innovation
+3.9", TX,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 22:22:54.090047,hr
+495,"$78,000 /yr (est.)",78000.0,Entry Level Design and Analysis Engineer,0,1,-1,"BOEING
+3.9", AZ,3.9,0,107,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.9,3.5,3.1,3.9,2023-05-24 22:23:00.184750,yr
+496,"$105,000 /yr (est.)",105000.0,Trajectory Analysis Engineer,1,1,-1,"Swarm Technologies
+4.2", CA,4.2,0,7,1 to 50 Employees,2016,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,4.0,4.2,4.3,4.4,4.3,2023-05-24 22:23:06.203716,yr
+497,"$232,500 /yr (est.)",232500.0,Autonomous Vehicle Test Engineer,2,2,1,"Applied Intuition
+3.8", CA,3.8,0,6,51 to 200 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.4,3.9,4.2,4.1,3.0,2023-05-24 22:23:12.271855,yr
+498,$34.15 /hr (est.),71032.0,Optical Devices Process Technician,4,1,0,"Applied Materials
+4.1", CA,4.1,0,56,10000+ Employees,1967,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.8,3.9,3.6,3.6,2023-05-24 22:23:18.454979,hr
+499,"$147,000 /yr (est.)",147000.0,Autonomous Vehicle System Behavior Engineer,0,1,1,"Zoox
+4.1", CA,4.1,0,9,1001 to 5000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.8,3.8,4.0,3.5,3.5,2023-05-24 22:23:24.420345,yr

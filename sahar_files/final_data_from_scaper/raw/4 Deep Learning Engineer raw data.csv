@@ -1,0 +1,724 @@
+,Salary Estimate,Annual Salary,Job Title,Experience,Education,Position,Company Name,Location,Rating,Is Remote,Company Old,Company Size,Founded,Type of Ownership,Industry,Sector,Revenue,Career Opportunities,Comp & Benefits,Culture & Values,Senior Management,Work Life Balance,Time of Scrape,Time Unit
+0,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 00:45:00.234432,yr
+1,"$170,143 /yr (est.)",170143.0,Deep Learning Engineer,5,1,-1,"Carbon Robotics
+4.6", WA,4.6,0,5,51 to 200 Employees,2018,Company - Private,Farm Support,Agriculture,Unknown / Non-Applicable,4.5,3.9,4.2,4.3,3.9,2023-05-24 00:45:04.418269,yr
+2,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 00:45:06.479180,yr
+3,"$130,442 /yr (est.)",130442.0,Deep Learning and Computer Vision Engineer,3,1,-1,"Imagry
+5.0", CA,5.0,0,8,1 to 50 Employees,2015,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,4.0,4.5,3.9,4.5,4.5,2023-05-24 00:45:08.194217,yr
+4,"$135,000 /yr (est.)",135000.0,eGain Infrastructure Engineer,7,1,-1,Wisemen Multimedia, GA,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:45:09.994079,yr
+5,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 00:45:15.034760,yr
+6,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 00:45:16.943835,yr
+7,"$125,000 /yr (est.)",125000.0,Remote Experienced Frontend Engineer - React,4,2,-1,"TheoremOne, LLC
+4.2",Remote,4.2,1,16,51 to 200 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.4,4.3,4.4,4.1,4.3,2023-05-24 00:45:18.704941,yr
+8,"$1,367 /mo (est.)",16404.0,Audio AI Engineer,0,1,-1,"A.V. Mapping Co., LTD",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:45:23.204381,mo
+9,$75.00 /hr (est.),156000.0,Aruba Wireless Engineer,10,1,1,"Amaze Systems Inc
+5.0",Remote,5.0,1,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-24 00:45:27.759227,hr
+11,"$130,000 /yr (est.)",130000.0,AI Engineer,7,2,-1,NLB Technology Services,Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:45:33.479750,yr
+13,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0", CA,4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-24 00:45:41.160450,yr
+14,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,0,1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 00:45:43.268854,yr
+15,"$80,000 /yr (est.)",80000.0,Software Engineer,1,1,-1,"Skyline Nav AI, Inc.",Remote,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:45:45.617442,yr
+17,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 00:45:56.232554,yr
+18,$57.50 /hr (est.),119600.0,ML Engineer,0,2,-1,"Agile Tech Labs
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:45:58.160034,hr
+19,"$103,704 /yr (est.)",103704.0,Senior Deep Learning Engineer,3,2,1,"UVeye
+4.0", NJ,4.0,0,7,51 to 200 Employees,2016,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.2,4.1,4.0,4.0,2023-05-24 00:46:02.052257,yr
+20,$53.00 /hr (est.),110240.0,Software Development Engineer in Test (SDET),5,2,1,"Data Systems Integration Group
+3.5", WA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.0,3.1,2.9,3.1,3.3,2023-05-24 00:46:04.146140,hr
+21,"$216,500 /yr (est.)",216500.0,Staff Machine Learning Engineer,5,1,-1,"AppLovin
+3.6",Remote,3.6,1,11,1001 to 5000 Employees,2012,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.7,4.0,3.4,3.4,3.1,2023-05-24 00:46:06.987819,yr
+22,"$98,489 /yr (est.)",98489.0,Machine Learning Engineer,0,1,-1,"CoVar
+5.0", NC,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,5.0,5.0,5.0,5.0,2023-05-24 00:46:08.893929,yr
+23,"$154,000 /yr (est.)",154000.0,Machine Learning Engineer,4,1,1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:46:11.857117,yr
+25,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 00:46:22.343297,hr
+26,"$78,652 /yr (est.)",78652.0,Frontend Software Engineer,10,1,1,"Smarty
+4.8", UT,4.8,0,12,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.6,4.7,4.7,4.7,4.9,2023-05-24 00:46:24.321178,yr
+28,"$175,000 /yr (est.)",175000.0,ML/Deep Learning Engineer,5,2,1,"AppZen
+3.9", CA,3.9,0,11,51 to 200 Employees,2012,Company - Private,Financial Transaction Processing,Financial Services,$1 to $5 million (USD),3.7,3.8,4.0,3.8,3.7,2023-05-24 00:46:29.881063,yr
+29,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:46:40.971146,yr
+30,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:46:42.899329,yr
+31,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 00:46:44.845365,yr
+32,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:46:46.880029,yr
+33,"$90,623 /yr (est.)",90623.0,Machine Learning Engineer - Multimodal Deep Learning,3,1,-1,"Eduworks Corporation
+4.5", OR,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.5,4.5,4.5,4.5,2023-05-24 00:46:48.807679,yr
+34,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:46:51.626355,yr
+35,"$118,262 /yr (est.)",118262.0,Machine Learning Engineer,0,2,1,"Analog Devices
+4.1", MA,4.1,0,58,10000+ Employees,1965,Company - Public,Electronics Manufacturing,Manufacturing,$10+ billion (USD),3.9,3.7,4.0,3.6,3.9,2023-05-24 00:46:53.495177,yr
+36,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 00:46:55.690311,yr
+38,"$119,789 /yr (est.)",119789.0,Machine Learning Engineer,0,1,-1,"Broad Institute
+4.4", MA,4.4,0,19,1001 to 5000 Employees,2004,Nonprofit Organization,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),4.2,3.9,4.6,4.0,4.1,2023-05-24 00:47:01.708445,yr
+39,"$140,000 /yr (est.)",140000.0,Machine Learning Engineer,3,1,1,"Idea Evolver
+4.0",Remote,4.0,1,12,1 to 50 Employees,2011,Company - Private,Advertising & Public Relations,Media & Communication,Unknown / Non-Applicable,4.0,4.1,4.0,4.0,4.3,2023-05-24 00:47:03.924745,yr
+40,"$63,785 /yr (est.)",63785.0,AI/ML Ops Engineer - Multimodal Deep Learning,3,1,-1,"Eduworks Corporation
+4.5", OR,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.5,4.5,4.5,4.5,2023-05-24 00:47:06.066420,yr
+41,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 00:47:09.138917,yr
+42,"$136,572 /yr (est.)",136572.0,"Deep Learning Vision Engineer, Tesla Bot",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:47:11.178031,yr
+43,"$112,815 /yr (est.)",112815.0,Machine Learning Engineer,4,1,-1,"The Evolvers Group
+3.8", MD,3.8,0,-1,-1,-1,-1,-1,-1,-1,2.8,2.9,3.2,3.2,3.2,2023-05-24 00:47:13.166033,yr
+44,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 00:47:16.156300,yr
+45,"$150,000 /yr (est.)",150000.0,Machine Learning Engineer,2,1,-1,"Hive
+3.8", WA,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.7,3.0,4.1,2023-05-24 00:47:18.129346,yr
+46,"$142,664 /yr (est.)",142664.0,Lead Machine Learning / Deep Learning Engineer,5,2,-1,"Audax Labs
+3.7", WA,3.7,0,7,51 to 200 Employees,2016,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.7,3.5,3.7,3.5,3.7,2023-05-24 00:47:21.292319,yr
+47,"$137,123 /yr (est.)",137123.0,Autonomy Engineer - Deep Learning,2,1,-1,"Skydio
+4.8", CA,4.8,0,9,501 to 1000 Employees,2014,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.7,4.5,4.7,4.6,4.1,2023-05-24 00:47:23.274622,yr
+49,"$144,500 /yr (est.)",144500.0,Machine Learning Engineer,0,1,-1,"Hayden AI Technologies
+5.0", CA,5.0,0,4,51 to 200 Employees,2019,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 00:47:28.839318,yr
+50,"$204,000 /yr (est.)",204000.0,"Staff Machine Learning Engineer - NLP, LLM, Deep-Learning",10,1,1,"Eightfold.AI
+3.5", CA,3.5,0,7,501 to 1000 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,3.5,3.8,3.4,3.2,3.5,2023-05-24 00:47:31.036757,yr
+51,"$185,000 /yr (est.)",185000.0,Senior/Staff Deep Learning Engineer,8,1,1,"Hayden AI Technologies
+5.0", CA,5.0,0,4,51 to 200 Employees,2019,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 00:47:33.200381,yr
+52,"$205,000 /yr (est.)",205000.0,Senior Machine Learning Engineer,0,2,-1,"Lambda
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,4.1,4.0,4.1,3.6,3.8,2023-05-24 00:47:35.280546,yr
+53,"$118,678 /yr (est.)",118678.0,Senior Deep Learning Engineer (Computer Vision,0,1,1,Approgence Inc., CA,-1,0,17,1 to 50 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),-1,-1,-1,-1,-1,2023-05-24 00:47:38.519803,yr
+54,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:47:42.558895,yr
+55,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 00:47:44.642935,yr
+56,"$120,000 /yr (est.)",120000.0,Machine Learning Research Engineer,4,1,-1,"Leidos
+3.9", MI,3.9,0,54,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.6,3.8,3.6,4.0,2023-05-24 00:47:46.972116,yr
+57,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 00:47:49.101251,yr
+58,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,-1,-1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:48:00.618038,yr
+59,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:48:03.186754,yr
+61,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:48:08.579379,yr
+63,"$208,400 /yr (est.)",208400.0,Software Engineer - Machine Learning Infrastructure,0,1,1,"ByteDance
+4.0", CA,4.0,0,11,10000+ Employees,2012,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,4.0,4.1,3.9,3.6,3.3,2023-05-24 00:48:14.936767,yr
+65,"$90,623 /yr (est.)",90623.0,Machine Learning Engineer - Multimodal Deep Learning,3,1,-1,"Eduworks Corporation
+4.5", OR,4.5,0,-1,-1,-1,-1,-1,-1,-1,4.5,4.5,4.5,4.5,4.5,2023-05-24 00:48:21.452624,yr
+66,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:48:24.794918,yr
+67,"$205,000 /yr (est.)",205000.0,Senior Machine Learning Engineer,0,2,-1,"Lambda
+4.0",Remote,4.0,1,-1,-1,-1,-1,-1,-1,-1,4.1,4.0,4.1,3.6,3.8,2023-05-24 00:48:27.003723,yr
+68,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:48:30.162859,yr
+69,"$141,015 /yr (est.)",141015.0,Deep Learning Senior Software Engineer,8,1,1,"California Institute of Technology
+4.3", CA,4.3,0,132,1001 to 5000 Employees,1891,College / University,Colleges & Universities,Education,$100 to $500 million (USD),4.2,3.8,4.0,3.7,3.3,2023-05-24 00:48:32.413732,yr
+70,"$187,500 /yr (est.)",187500.0,Staff Machine Learning Engineer,0,2,-1,"Runway AI
+5.0",Remote,5.0,1,5,1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 00:48:34.709053,yr
+71,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 00:48:36.926988,yr
+72,"$103,711 /yr (est.)",103711.0,Machine Learning Engineer I,5,1,-1,"Broad Institute
+4.4", MA,4.4,0,19,1001 to 5000 Employees,2004,Nonprofit Organization,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),4.2,3.9,4.6,4.0,4.1,2023-05-24 00:48:39.112769,yr
+74,"$132,499 /yr (est.)",132499.0,Computer Vision Engineer,3,1,-1,"Vimaan Robotics
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.2,2.7,3.1,3.0,2.7,2023-05-24 00:48:44.802420,yr
+75,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 00:48:47.808170,yr
+76,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 00:48:50.062409,yr
+77,"$130,296 /yr (est.)",130296.0,Computer Vision Software Engineer,0,2,-1,"Valve Software
+4.4", WA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.2,3.7,3.3,3.9,2023-05-24 00:48:52.828918,yr
+78,"$150,000 /yr (est.)",150000.0,Machine Learning Engineer,2,1,-1,"Hive
+3.8", WA,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.7,3.0,4.1,2023-05-24 00:48:55.993935,yr
+79,"$185,000 /yr (est.)",185000.0,Senior/Staff Deep Learning Engineer,8,1,1,"Hayden AI Technologies
+5.0", CA,5.0,0,4,51 to 200 Employees,2019,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 00:48:59.183752,yr
+80,"$113,748 /yr (est.)",113748.0,Staff Computer Vision Deep Learning Engineer,0,1,-1,"Applied Research Associates, Inc
+4.2", NC,4.2,0,44,1001 to 5000 Employees,1979,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.0,4.0,4.3,4.1,4.3,2023-05-24 00:49:01.533020,yr
+81,"$118,678 /yr (est.)",118678.0,Senior Deep Learning Engineer (Computer Vision,0,1,1,Approgence Inc., CA,-1,0,17,1 to 50 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),-1,-1,-1,-1,-1,2023-05-24 00:49:03.867453,yr
+82,"$175,000 /yr (est.)",175000.0,Senior Machine Learning Engineer,5,1,1,"Transcarent
+3.8",Remote,3.8,1,3,201 to 500 Employees,2020,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.5,4.4,3.7,3.7,3.7,2023-05-24 00:49:08.134529,yr
+83,"$128,202 /yr (est.)",128202.0,Machine Learning Engineer / A.I.,0,1,-1,"Gaea Global Technologies, In
+4.7", CA,4.7,0,16,51 to 200 Employees,2007,Company - Private,Business Consulting,Management & Consulting,$1 to $5 million (USD),4.4,4.3,4.6,4.5,4.2,2023-05-24 00:49:10.516900,yr
+84,"$140,324 /yr (est.)",140324.0,Deep Learning Engineer,-1,-1,-1,"Matroid
+4.7", CA,4.7,0,7,1 to 50 Employees,2016,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.5,4.2,4.2,4.2,4.8,2023-05-24 00:49:13.217237,yr
+85,"$144,500 /yr (est.)",144500.0,Machine Learning Engineer,0,1,-1,"Hayden AI Technologies
+5.0", CA,5.0,0,4,51 to 200 Employees,2019,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 00:49:16.227693,yr
+86,"$155,200 /yr (est.)",155200.0,Software Engineer - AI,2,1,1,"HubSpot
+4.3", MA,4.3,0,17,1001 to 5000 Employees,2006,Company - Public,Computer Hardware Development,Information Technology,$500 million to $1 billion (USD),4.1,4.1,4.4,4.1,4.3,2023-05-24 00:49:18.632577,yr
+88,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:49:34.428882,yr
+89,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:49:36.791478,yr
+90,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:49:39.228074,yr
+91,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:49:41.713913,yr
+93,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:49:48.983686,yr
+94,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 00:49:51.724082,yr
+95,"$132,499 /yr (est.)",132499.0,Computer Vision Engineer,3,1,-1,"Vimaan Robotics
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.2,2.7,3.1,3.0,2.7,2023-05-24 00:49:54.604977,yr
+97,"$120,000 /yr (est.)",120000.0,Machine Learning Research Engineer,4,1,-1,"Leidos
+3.9", MI,3.9,0,54,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.6,3.8,3.6,4.0,2023-05-24 00:50:02.304433,yr
+98,"$150,000 /yr (est.)",150000.0,Machine Learning Engineer,2,1,-1,"Hive
+3.8", WA,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.7,3.0,4.1,2023-05-24 00:50:04.956350,yr
+99,"$130,296 /yr (est.)",130296.0,Computer Vision Software Engineer,0,2,-1,"Valve Software
+4.4", WA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.2,3.7,3.3,3.9,2023-05-24 00:50:08.708692,yr
+100,"$140,324 /yr (est.)",140324.0,Deep Learning Engineer,0,1,1,"Matroid
+4.7", CA,4.7,0,7,1 to 50 Employees,2016,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.5,4.2,4.2,4.2,4.8,2023-05-24 00:50:11.956607,yr
+101,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 00:50:14.761602,yr
+102,"$175,000 /yr (est.)",175000.0,Senior Machine Learning Engineer,5,1,1,"Transcarent
+3.8",Remote,3.8,1,3,201 to 500 Employees,2020,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.5,4.4,3.7,3.7,3.7,2023-05-24 00:50:17.626940,yr
+103,"$155,200 /yr (est.)",155200.0,Software Engineer - AI,2,1,1,"HubSpot
+4.3", MA,4.3,0,17,1001 to 5000 Employees,2006,Company - Public,Computer Hardware Development,Information Technology,$500 million to $1 billion (USD),4.1,4.1,4.4,4.1,4.3,2023-05-24 00:50:20.308158,yr
+104,"$187,500 /yr (est.)",187500.0,Staff Machine Learning Engineer,0,2,-1,"Runway AI
+5.0",Remote,5.0,1,5,1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 00:50:23.227923,yr
+105,"$103,711 /yr (est.)",103711.0,Machine Learning Engineer I,5,1,-1,"Broad Institute
+4.4", MA,4.4,0,19,1001 to 5000 Employees,2004,Nonprofit Organization,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$100 to $500 million (USD),4.2,3.9,4.6,4.0,4.1,2023-05-24 00:50:25.885105,yr
+107,"$150,846 /yr (est.)",150846.0,Principal Machine Learning Engineer,0,2,1,"Upwork
+4.2", CA,4.2,0,9,501 to 1000 Employees,2014,Company - Public,Internet & Web Services,Information Technology,$100 to $500 million (USD),3.9,4.0,4.1,3.8,4.2,2023-05-24 00:50:33.108469,yr
+108,"$128,202 /yr (est.)",128202.0,Machine Learning Engineer / A.I.,0,1,-1,"Gaea Global Technologies, In
+4.7", CA,4.7,0,16,51 to 200 Employees,2007,Company - Private,Business Consulting,Management & Consulting,$1 to $5 million (USD),4.4,4.3,4.6,4.5,4.2,2023-05-24 00:50:36.674301,yr
+109,"$102,727 /yr (est.)",102727.0,Machine Learning Engineer,5,1,0,"Agilysys, Inc.
+3.5", WA,3.5,0,60,1001 to 5000 Employees,1963,Company - Public,Hotels & Resorts,Hotels & Travel Accommodation,$100 to $500 million (USD),3.7,3.7,3.4,3.2,2.9,2023-05-24 00:50:39.741441,yr
+111,"$118,145 /yr (est.)",118145.0,Senior Machine Learning Engineer,8,1,0,"Novo Nordisk
+4.3", MA,4.3,0,100,10000+ Employees,1923,Company - Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.9,4.1,4.3,3.8,4.1,2023-05-24 00:50:46.504046,yr
+112,"$125,361 /yr (est.)",125361.0,Machine Learning Engineer,4,1,-1,"Generate Biomedicines
+5.0", MA,5.0,0,-1,-1,-1,-1,-1,-1,-1,5.0,4.0,5.0,4.7,4.8,2023-05-24 00:50:49.224880,yr
+113,"$119,538 /yr (est.)",119538.0,Machine Learning Engineer,3,2,-1,"Babel Street
+4.4", MA,4.4,0,11,51 to 200 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),4.2,4.1,4.2,4.1,4.4,2023-05-24 00:50:52.698102,yr
+114,"$133,558 /yr (est.)",133558.0,Machine Learning Engineer,0,1,-1,"DeepMotion
+5.0", CA,5.0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 00:50:55.307655,yr
+115,"$81,354 /yr (est.)",81354.0,Research Engineer - AllenNLP,2,1,-1,"The Allen Institute for AI
+4.9", WA,4.9,0,9,201 to 500 Employees,2014,Nonprofit Organization,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.8,4.9,4.8,4.8,4.9,2023-05-24 00:50:59.664575,yr
+116,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:51:12.112951,yr
+117,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:51:14.940539,yr
+118,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:51:17.970028,yr
+119,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 00:51:20.845847,yr
+120,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,-1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 00:51:23.779235,yr
+121,"$104,694 /yr (est.)",104694.0,Computer Vision Engineer,0,1,-1,"AGCO
+3.9", IL,3.9,0,33,10000+ Employees,1990,Company - Public,Machinery Manufacturing,Manufacturing,$10+ billion (USD),3.4,3.6,3.6,3.3,3.5,2023-05-24 00:51:26.519237,yr
+122,"$132,499 /yr (est.)",132499.0,Computer Vision Engineer,3,1,-1,"Vimaan Robotics
+3.5", CA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.2,2.7,3.1,3.0,2.7,2023-05-24 00:51:29.205040,yr
+123,"$147,029 /yr (est.)",147029.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 00:51:32.485996,yr
+124,"$116,736 /yr (est.)",116736.0,Machine Learning Engineer,6,1,0,"Fidelity Investments
+4.3", MA,4.3,0,77,10000+ Employees,1946,Company - Private,Investment & Asset Management,Financial Services,$10+ billion (USD),4.2,4.1,4.4,4.0,4.2,2023-05-24 00:51:35.167504,yr
+125,"$150,846 /yr (est.)",150846.0,Principal Machine Learning Engineer,0,2,1,"Upwork
+4.2", CA,4.2,0,9,501 to 1000 Employees,2014,Company - Public,Internet & Web Services,Information Technology,$100 to $500 million (USD),3.9,4.0,4.1,3.8,4.2,2023-05-24 00:51:38.028827,yr
+126,"$155,200 /yr (est.)",155200.0,Software Engineer - AI,2,1,1,"HubSpot
+4.3", MA,4.3,0,17,1001 to 5000 Employees,2006,Company - Public,Computer Hardware Development,Information Technology,$500 million to $1 billion (USD),4.1,4.1,4.4,4.1,4.3,2023-05-24 00:51:40.875732,yr
+127,"$140,229 /yr (est.)",140229.0,Machine Learning Engineer II,0,1,0,"PlayStation Global
+4.0", CA,4.0,0,29,5001 to 10000 Employees,1994,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$10+ billion (USD),3.4,3.7,3.9,3.4,3.8,2023-05-24 00:51:44.160501,yr
+128,"$120,000 /yr (est.)",120000.0,Machine Learning Research Engineer,4,1,-1,"Leidos
+3.9", MI,3.9,0,54,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),3.8,3.6,3.8,3.6,4.0,2023-05-24 00:51:47.255228,yr
+129,"$150,000 /yr (est.)",150000.0,Machine Learning Engineer,2,1,-1,"Hive
+3.8", WA,3.8,0,-1,-1,-1,-1,-1,-1,-1,3.3,3.6,3.7,3.0,4.1,2023-05-24 00:51:49.878732,yr
+131,"$175,000 /yr (est.)",175000.0,Senior Machine Learning Engineer,5,1,1,"Transcarent
+3.8",Remote,3.8,1,3,201 to 500 Employees,2020,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,4.5,4.4,3.7,3.7,3.7,2023-05-24 00:51:58.397806,yr
+134,"$130,296 /yr (est.)",130296.0,Computer Vision Software Engineer,0,2,-1,"Valve Software
+4.4", WA,4.4,0,-1,-1,-1,-1,-1,-1,-1,4.0,4.2,3.7,3.3,3.9,2023-05-24 00:52:09.540405,yr
+135,"$118,678 /yr (est.)",118678.0,Senior Deep Learning Engineer (Computer Vision,0,1,1,Approgence Inc., CA,-1,0,17,1 to 50 Employees,2006,Company - Private,Information Technology Support Services,Information Technology,$5 to $25 million (USD),-1,-1,-1,-1,-1,2023-05-24 00:52:12.931554,yr
+136,"$172,000 /yr (est.)",172000.0,"Software Engineer, Machine Learning - Generative AI",5,1,-1,"Meta
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 00:52:17.657390,yr
+137,"$140,324 /yr (est.)",140324.0,Deep Learning Engineer,0,1,1,"Matroid
+4.7", CA,4.7,0,7,1 to 50 Employees,2016,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.5,4.2,4.2,4.2,4.8,2023-05-24 00:52:20.623514,yr
+138,"$187,500 /yr (est.)",187500.0,Staff Machine Learning Engineer,0,2,-1,"Runway AI
+5.0",Remote,5.0,1,5,1 to 50 Employees,2018,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 00:52:24.674014,yr
+139,"$172,000 /yr (est.)",172000.0,"Software Engineer, Computer Vision",0,1,-1,"Meta
+3.9", WA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 00:52:27.841589,yr
+140,"$172,000 /yr (est.)",172000.0,Research Engineer,3,1,-1,"Oculus
+3.9", PA,3.9,0,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 00:52:30.596742,yr
+142,"$119,538 /yr (est.)",119538.0,Machine Learning Engineer,3,2,-1,"Babel Street
+4.4", MA,4.4,0,11,51 to 200 Employees,2012,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),4.2,4.1,4.2,4.1,4.4,2023-05-24 00:52:37.278055,yr
+143,"$198,000 /yr (est.)",198000.0,Senior Software Development Engineer,6,1,1,"Zillow
+3.9",Washington State,3.9,0,18,5001 to 10000 Employees,2005,Company - Public,Real Estate,Real Estate,$1 to $5 billion (USD),3.6,4.0,4.1,3.4,4.2,2023-05-24 00:52:40.028814,yr
+144,"$144,500 /yr (est.)",144500.0,Machine Learning Engineer,0,1,-1,"Hayden AI Technologies
+5.0", CA,5.0,0,4,51 to 200 Employees,2019,Company - Private,Computer Hardware Development,Information Technology,$25 to $100 million (USD),5.0,5.0,5.0,5.0,5.0,2023-05-24 00:52:43.031293,yr
+146,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 00:53:00.139043,yr
+148,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 00:53:07.436378,yr
+149,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 00:53:10.634551,yr
+151,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 00:53:18.555243,yr
+152,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:53:22.729868,yr
+153,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 00:53:25.582750,yr
+154,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 00:53:28.476784,hr
+155,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:53:31.439338,yr
+159,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:53:48.745443,yr
+160,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 00:53:51.668587,yr
+161,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:53:54.647903,yr
+162,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 00:53:57.603939,hr
+164,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 00:54:05.148942,yr
+165,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 00:54:08.431634,yr
+166,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 00:54:11.343594,yr
+167,"$104,789 /yr (est.)",104789.0,Frontend Engineer,5,1,1,"Wonders Corporation
+3.1", NY,3.1,0,11,201 to 500 Employees,2012,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.8,4.0,3.5,3.3,3.5,2023-05-24 00:54:14.682927,yr
+168,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 00:54:18.171456,yr
+170,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:54:25.213322,yr
+171,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 00:54:28.475187,yr
+173,"$114,100 /yr (est.)",114100.0,Software Engineer I,0,1,-1,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-24 00:54:35.981664,yr
+175,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 00:54:53.500307,yr
+177,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 00:55:01.038508,yr
+178,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 00:55:04.314288,yr
+180,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 00:55:12.240112,yr
+181,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:55:16.229126,yr
+182,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 00:55:19.313492,yr
+183,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 00:55:22.489653,hr
+184,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:55:25.544320,yr
+188,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:55:43.487870,yr
+189,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 00:55:46.726302,yr
+190,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:55:50.284131,yr
+191,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 00:55:53.992354,hr
+193,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 00:56:01.434906,yr
+194,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 00:56:04.659406,yr
+195,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 00:56:07.793690,yr
+196,"$104,789 /yr (est.)",104789.0,Frontend Engineer,5,1,1,"Wonders Corporation
+3.1", NY,3.1,0,11,201 to 500 Employees,2012,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.8,4.0,3.5,3.3,3.5,2023-05-24 00:56:11.450671,yr
+197,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 00:56:14.996131,yr
+199,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:56:22.661139,yr
+200,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 00:56:26.080935,yr
+202,"$114,100 /yr (est.)",114100.0,Software Engineer I,0,1,-1,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-24 00:56:34.875009,yr
+204,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 00:56:53.394471,yr
+206,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 00:57:01.335322,yr
+207,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 00:57:05.291190,yr
+209,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 00:57:14.541390,yr
+210,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:57:19.185349,yr
+211,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 00:57:22.594473,yr
+212,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 00:57:26.154156,hr
+213,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:57:29.473389,yr
+217,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 00:57:49.544270,yr
+218,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 00:57:52.988497,yr
+219,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 00:57:56.897636,yr
+220,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 00:58:00.788807,hr
+222,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 00:58:09.457398,yr
+223,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 00:58:13.356207,yr
+224,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 00:58:17.263841,yr
+225,"$104,789 /yr (est.)",104789.0,Frontend Engineer,5,1,1,"Wonders Corporation
+3.1", NY,3.1,0,11,201 to 500 Employees,2012,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.8,4.0,3.5,3.3,3.5,2023-05-24 00:58:20.870095,yr
+226,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 00:58:24.721633,yr
+228,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 00:58:33.335289,yr
+229,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 00:58:37.472205,yr
+231,"$114,100 /yr (est.)",114100.0,Software Engineer I,0,1,-1,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-24 00:58:46.622569,yr
+233,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 00:59:06.310439,yr
+235,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 00:59:15.916051,yr
+236,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 00:59:20.135800,yr
+238,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 00:59:29.869694,yr
+239,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 00:59:34.511115,yr
+240,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 00:59:38.565840,yr
+241,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 00:59:42.338478,hr
+242,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 00:59:45.951914,yr
+246,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:00:07.235339,yr
+247,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 01:00:11.103249,yr
+248,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:00:15.164240,yr
+249,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:00:19.498610,hr
+251,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:00:28.813668,yr
+252,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,-1,-1,-1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:00:32.893841,yr
+253,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:00:36.265469,yr
+254,"$104,789 /yr (est.)",104789.0,Frontend Engineer,5,1,1,"Wonders Corporation
+3.1", NY,3.1,0,11,201 to 500 Employees,2012,Company - Private,HR Consulting,Human Resources & Staffing,Unknown / Non-Applicable,3.8,4.0,3.5,3.3,3.5,2023-05-24 01:00:40.127017,yr
+255,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:00:45.059798,yr
+257,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:00:54.377587,yr
+258,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 01:00:58.545025,yr
+260,"$114,100 /yr (est.)",114100.0,Software Engineer I,0,1,-1,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-24 01:01:08.310663,yr
+262,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:01:28.321588,yr
+264,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:01:37.286325,yr
+265,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:01:42.002792,yr
+267,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:01:52.307344,hr
+269,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:02:02.722513,yr
+270,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:02:06.942942,yr
+271,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:02:12.180512,hr
+272,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:02:16.435621,yr
+273,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:02:20.752520,yr
+274,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:02:25.578348,yr
+275,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 01:02:29.847784,yr
+277,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:02:39.235958,yr
+278,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:02:43.043626,yr
+280,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:02:52.168461,yr
+281,"$125,000 /yr (est.)",125000.0,Remote Experienced Frontend Engineer - React,4,2,-1,"TheoremOne, LLC
+4.2",Remote,4.2,1,16,51 to 200 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.4,4.3,4.4,4.1,4.3,2023-05-24 01:02:56.540606,yr
+282,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:03:01.502865,yr
+285,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:03:18.310317,yr
+286,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:03:22.464557,yr
+288,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:03:32.560926,yr
+289,"$114,100 /yr (est.)",114100.0,Software Engineer I,0,1,-1,"Microsoft
+4.3", WA,4.3,0,48,10000+ Employees,1975,Company - Public,Computer Hardware Development,Information Technology,$10+ billion (USD),4.1,4.1,4.3,4.0,4.1,2023-05-24 01:03:36.979173,yr
+292,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:04:02.849944,yr
+293,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:04:08.153005,yr
+295,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:04:17.623620,hr
+296,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:04:22.098947,yr
+298,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:04:33.099469,yr
+299,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,-1,-1,-1,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:04:37.933324,yr
+302,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:04:54.967693,yr
+303,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:04:59.519789,yr
+304,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:05:04.033230,yr
+306,$53.00 /hr (est.),110240.0,Software Development Engineer in Test (SDET),-1,-1,-1,"Data Systems Integration Group
+3.5", WA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.0,3.1,2.9,3.1,3.3,2023-05-24 01:05:15.399430,hr
+307,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:05:20.164586,yr
+308,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:05:25.052286,yr
+309,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:05:29.824234,yr
+310,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,-1,-1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:05:34.344099,yr
+311,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0", CA,4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-24 01:05:38.632035,yr
+312,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:05:43.654567,hr
+313,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:05:48.158759,yr
+314,"$147,029 /yr (est.)",147029.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:05:52.737542,yr
+315,"$125,000 /yr (est.)",125000.0,Remote Experienced Frontend Engineer - React,4,2,-1,"TheoremOne, LLC
+4.2",Remote,4.2,1,16,51 to 200 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.4,4.3,4.4,4.1,4.3,2023-05-24 01:05:57.457548,yr
+317,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:06:09.418004,yr
+321,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:06:43.359142,yr
+322,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:06:48.238504,yr
+324,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:06:58.633929,hr
+325,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:07:03.607714,yr
+327,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:07:14.608340,yr
+328,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:07:19.970513,yr
+331,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:07:37.802010,yr
+332,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:07:42.716457,yr
+333,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:07:47.545652,yr
+334,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:07:52.469253,yr
+335,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:07:57.281701,yr
+337,$53.00 /hr (est.),110240.0,Software Development Engineer in Test (SDET),-1,-1,-1,"Data Systems Integration Group
+3.5", WA,3.5,0,-1,-1,-1,-1,-1,-1,-1,3.0,3.1,2.9,3.1,3.3,2023-05-24 01:08:09.368556,hr
+338,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:08:14.525100,yr
+339,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:08:19.400533,yr
+340,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,-1,-1,-1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:08:24.471715,yr
+341,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,0,1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:08:28.926921,yr
+342,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:08:34.625193,hr
+343,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:08:39.937274,yr
+344,"$147,029 /yr (est.)",147029.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:08:44.771080,yr
+345,"$125,000 /yr (est.)",125000.0,Remote Experienced Frontend Engineer - React,4,2,-1,"TheoremOne, LLC
+4.2",Remote,4.2,1,16,51 to 200 Employees,2007,Company - Private,Information Technology Support Services,Information Technology,$25 to $100 million (USD),4.4,4.3,4.4,4.1,4.3,2023-05-24 01:08:49.820794,yr
+350,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:09:32.206977,yr
+351,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:09:37.266581,hr
+353,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:09:48.347419,yr
+356,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:10:07.507311,yr
+357,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:10:13.050606,yr
+358,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:10:19.093712,yr
+359,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:10:24.122777,yr
+360,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:10:29.467410,yr
+361,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:10:34.458840,yr
+363,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:10:45.565146,yr
+364,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:10:50.676578,yr
+365,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:10:55.688082,yr
+366,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,0,1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:11:01.002067,yr
+367,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:11:06.592355,hr
+369,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,-1,-1,-1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:11:17.909637,yr
+370,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 01:11:22.312979,yr
+372,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:11:33.837301,yr
+373,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0", CA,4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-24 01:11:38.941262,yr
+374,"$147,029 /yr (est.)",147029.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CA,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:11:44.530766,yr
+375,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:11:49.792948,yr
+376,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,-1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 01:11:54.903025,yr
+379,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:12:22.735900,hr
+380,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:12:27.636942,yr
+382,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:12:39.503827,yr
+383,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:12:45.151058,yr
+385,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:12:57.979644,yr
+387,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:13:10.113968,yr
+388,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:13:15.042576,yr
+389,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:13:20.232131,yr
+391,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,-1,-1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:13:31.831502,yr
+392,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:13:37.325051,yr
+393,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:13:42.555459,yr
+394,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:13:47.817213,yr
+397,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:14:05.771032,yr
+398,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:14:11.179702,yr
+399,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:14:16.787345,hr
+400,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:14:22.452401,yr
+401,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,-1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 01:14:27.742691,yr
+402,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:14:33.117578,yr
+403,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 01:14:38.491376,yr
+404,"$51,150 /yr (est.)",51150.0,Application Developer on Z Apprentice,0,2,0,"IBM
+4.0", CA,4.0,0,112,10000+ Employees,1911,Company - Public,Information Technology Support Services,Information Technology,$10+ billion (USD),3.9,3.7,4.0,3.5,4.0,2023-05-24 01:14:43.942975,yr
+405,"$154,000 /yr (est.)",154000.0,Machine Learning Engineer,4,1,1,OXMAN, NY,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2023-05-24 01:14:49.700259,yr
+408,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:15:21.895330,hr
+409,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:15:27.651062,yr
+412,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:15:46.462700,yr
+414,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:15:59.183316,yr
+415,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:16:04.948664,yr
+416,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:16:11.619915,yr
+417,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:16:17.159876,yr
+418,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:16:23.123227,yr
+420,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:16:35.011755,yr
+421,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:16:40.517394,yr
+422,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 01:16:46.247261,yr
+423,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,-1,-1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:16:51.813058,yr
+424,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:16:57.154604,hr
+427,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:17:16.002843,yr
+428,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:17:21.527691,yr
+429,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:17:26.953871,yr
+431,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:17:40.991449,yr
+432,"$150,000 /yr (est.)",150000.0,Computer Vision AI Engineer,3,2,-1,"Ianuly Talent Accelerators
+4.6",United States,4.6,0,14,1 to 50 Employees,2009,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.3,4.3,4.4,5.0,4.8,2023-05-24 01:17:46.476644,yr
+437,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:18:32.435899,hr
+439,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,-1,-1,-1,-1, IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:18:44.794999,yr
+440,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:18:51.092179,yr
+443,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:19:12.568072,yr
+444,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,-1,-1,-1,-1, WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:19:18.892035,yr
+445,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",-1,-1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:19:25.237854,yr
+446,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:19:31.236310,yr
+447,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:19:36.799864,yr
+449,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:19:49.180630,yr
+450,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,0,1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:19:54.828643,yr
+451,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",-1,-1,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:20:03.753278,yr
+453,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:20:17.415930,hr
+454,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,5,1,1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:20:23.020854,yr
+455,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 01:20:29.066635,yr
+457,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:20:41.647170,yr
+459,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:20:57.301955,yr
+460,"$113,934 /yr (est.)",113934.0,Software Engineer 1 - Machine Learning,0,1,-1,"Abacus.AI
+4.9", CA,4.9,0,4,51 to 200 Employees,2019,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,4.8,4.8,4.7,5.0,4.6,2023-05-24 01:21:03.262871,yr
+461,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:21:09.005035,yr
+462,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:21:14.818813,yr
+463,$70.00 /hr (est.),145600.0,AI/ ML Engineer,5,2,-1,"Devcare Solutions
+3.7",Remote,3.7,1,18,51 to 200 Employees,2005,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.6,3.9,3.5,3.5,3.6,2023-05-24 01:21:20.649008,hr
+466,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),-1,-1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:21:52.076511,hr
+467,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:21:57.342759,yr
+470,"$110,147 /yr (est.)",110147.0,Software Engineer - Remote,2,1,1,"Mayo Clinic
+3.9", MN,3.9,0,-1,-1,-1,-1,-1,-1,-1,3.9,3.8,3.9,3.3,3.5,2023-05-24 01:22:17.646315,yr
+472,"$127,500 /yr (est.)",127500.0,Machine Learning Engineer,0,1,0,"Pison Technology
+3.3", MA,3.3,0,-1,-1,-1,-1,-1,-1,-1,3.4,3.2,3.1,3.2,3.4,2023-05-24 01:22:33.343459,yr
+473,"$161,975 /yr (est.)",161975.0,Machine Learning Engineer - Computer Vision,3,1,0,"TikTok
+3.6", WA,3.6,0,7,1001 to 5000 Employees,2016,Company - Private,Internet & Web Services,Information Technology,Unknown / Non-Applicable,3.4,3.6,3.5,3.1,3.0,2023-05-24 01:22:40.430413,yr
+474,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:22:46.795504,yr
+475,"$207,125 /yr (est.)",207125.0,Senior Deep Learning Engineer - Drug Discovery AI,5,1,1,"Oski Technology
+4.6", CA,4.6,0,30,10000+ Employees,1993,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.5,4.5,4.6,4.4,4.2,2023-05-24 01:22:52.725509,yr
+477,"$137,755 /yr (est.)",137755.0,"Machine Learning Engineer – 3D computer vision, Autopilot AI",0,2,-1,"Tesla
+3.6", CA,3.6,0,20,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$1 to $5 billion (USD),3.7,3.7,3.4,3.1,2.9,2023-05-24 01:23:05.145975,yr
+478,"$109,740 /yr (est.)",109740.0,Senior Machine Learning Engineer,0,1,-1,"Vanguard
+3.6", PA,3.6,0,48,10000+ Employees,1975,Company - Private,Investment & Asset Management,Financial Services,Unknown / Non-Applicable,3.6,3.4,3.8,3.2,3.9,2023-05-24 01:23:11.051035,yr
+479,"$101,738 /yr (est.)",101738.0,Machine Learning Engineer,0,1,-1,"Flock Safety
+4.2", GA,4.2,0,6,501 to 1000 Employees,2017,Unknown,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.1,4.1,4.3,4.0,3.9,2023-05-24 01:23:17.367007,yr
+480,"$100,100 /yr (est.)",100100.0,Machine Learning Engineer,3,2,1,"Osmo
+5.0", MA,5.0,0,1,1 to 50 Employees,2022,Company - Private,Software Development,Information Technology,Unknown / Non-Applicable,5.0,5.0,5.0,5.0,5.0,2023-05-24 01:23:24.709104,yr
+481,"$165,350 /yr (est.)",165350.0,Machine Learning Engineer,0,1,1,"Adobe
+4.4", CA,4.4,0,41,10000+ Employees,1982,Company - Public,Computer Hardware Development,Information Technology,$5 to $10 billion (USD),4.0,4.4,4.4,3.9,4.3,2023-05-24 01:23:30.704723,yr
+485,"$116,060 /yr (est.)",116060.0,Staff Software Engineer - Deep Learning Acceleration,-1,-1,-1,"Aurora Innovation
+3.9", CO,3.9,0,6,201 to 500 Employees,2017,Company - Public,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,3.6,4.1,3.9,3.9,3.8,2023-05-24 01:23:59.773099,yr
+486,$45.00 /hr (est.),93600.0,Computer Vision Engineer I,2,1,-1,"Intelliswift Software, Inc.
+4.2", PA,4.2,0,22,1001 to 5000 Employees,2001,Company - Private,Software Development,Information Technology,$100 to $500 million (USD),4.1,3.9,4.1,4.0,4.1,2023-05-24 01:24:05.201490,hr
+487,"$135,739 /yr (est.)",135739.0,"Software Engineer, Deep Learning for Computer Vision",0,1,1,"Kodiak Robotics
+4.3", CA,4.3,0,5,1 to 50 Employees,2018,Company - Private,Computer Hardware Development,Information Technology,Unknown / Non-Applicable,4.2,4.1,4.3,4.3,4.2,2023-05-24 01:24:11.104718,yr
+488,"$203,556 /yr (est.)",203556.0,Software Engineer (Machine Learning),0,1,1,"Anyscale
+4.0", CA,4.0,0,4,51 to 200 Employees,2019,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,3.8,3.7,3.7,3.7,3.4,2023-05-24 01:24:17.033641,yr
+489,"$106,208 /yr (est.)",106208.0,Deep Learning / Computer Vision engineer,3,2,1,"IREX
+3.8", VA,3.8,0,54,1001 to 5000 Employees,1969,Company - Private,Construction,"Construction, Repair & Maintenance Services",$100 to $500 million (USD),4.1,3.6,4.0,3.7,3.8,2023-05-24 01:24:23.088439,yr
+490,"$155,332 /yr (est.)",155332.0,Machine Learning Software Engineer,3,1,1,"Genentech
+4.3", CA,4.3,0,47,10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),3.8,4.3,4.1,3.6,4.0,2023-05-24 01:24:28.923129,yr
+491,"$120,894 /yr (est.)",120894.0,Machine Learning Engineer- Computer Vision,0,1,-1,"STR
+4.2", MA,4.2,0,13,501 to 1000 Employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),4.3,4.5,4.1,4.0,4.1,2023-05-24 01:24:34.999026,yr
+496,"$91,476 /yr (est.)",91476.0,Pre-Doc: Jr. Machine Learning Engineer,0,1,0,"Argonne National Laboratory
+4.4", IL,4.4,0,77,1001 to 5000 Employees,1946,Government,Research & Development,Management & Consulting,Unknown / Non-Applicable,3.9,4.0,4.2,3.9,4.3,2023-05-24 01:25:21.143937,yr
+497,$34.00 /hr (est.),70720.0,Co-Op Computer Vision - Deep Learning (Fall 2023),2,1,-1,"Torc Robotics
+4.3", TX,4.3,0,16,501 to 1000 Employees,2007,Company - Private,Software Development,Information Technology,$25 to $100 million (USD),4.0,4.5,4.5,3.9,4.1,2023-05-24 01:25:27.301720,hr
+498,"$136,000 /yr (est.)",136000.0,"Software Engineer, Machine Learning - Generative AI",2,1,-1,"Meta
+3.9",Remote,3.9,1,19,10000+ Employees,2004,Company - Public,Internet & Web Services,Information Technology,$10+ billion (USD),4.0,4.6,3.7,3.3,3.6,2023-05-24 01:25:33.231815,yr
