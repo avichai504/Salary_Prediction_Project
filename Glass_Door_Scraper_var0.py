@@ -15,7 +15,7 @@ from selenium.common.exceptions import WebDriverException
 
 
 
-def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
+def get_jobs(keyword, num_jobs, path, slp_time):
 
     counter_break = 0
 
@@ -75,7 +75,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
 
 
     num_of_job_in_page = 0  # In every page there has 30 jobs
-    currentPage = curr_page
+    currentPage = 0
     # currentPage = 0
     j = int(1)  # for creating a files
 
@@ -109,7 +109,7 @@ def get_jobs(keyword, num_jobs, path, slp_time, curr_page):
             pass
 
         time.sleep(3)
-        list_elements = WebDriverWait(driver, 5).until(
+        list_elements = WebDriverWait(driver, 3).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'ul.hover li.react-job-listing')))
         # print(list_elements)
 
