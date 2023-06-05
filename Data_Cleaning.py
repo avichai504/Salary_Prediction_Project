@@ -379,6 +379,7 @@ class DataInfo:
 
 
 
+
 def filling_missing_values(job):
     columns_with_missing = ['Experience', 'Rating', 'Company Old',
                             'Career Opportunities', 'Comp & Benefits', 'Culture & Values',
@@ -386,11 +387,13 @@ def filling_missing_values(job):
 
     list_types_of_ownership = ['Private', 'Public', 'Government', 'College / University', 'Hospital', 'Nonprofit Organization',
                                'Subsidiary or Business Segment', 'Unknown'
-                               'School', 'Self-employed', 'Contract']
+                                                                 'School', 'Self-employed', 'Contract']
 
 
     # Iterate through each column
     for column_with_missing in columns_with_missing:
+
+
         # Replace -1 with NaN
         job[column_with_missing] = job[column_with_missing].replace(-1, np.nan)
         job[column_with_missing] = job[column_with_missing].replace('-1', np.nan)
@@ -401,14 +404,10 @@ def filling_missing_values(job):
             if column_with_missing == 'Type of Ownership':
                 job[column_with_missing] = job[column_with_missing].apply(lambda x: 'Private' if x == 'Company - Private' or x == 'Unknown' or x == 'Private Practice / Firm' else x)
                 job[column_with_missing] = job[column_with_missing].apply(lambda x: 'Public' if x == 'Company - Public' else x)
-                # job[column_with_missing] = job[column_with_missing].apply(lambda x: 'School' if x == any('School') else x)
 
-        # Handle Education column separately
-        if column_with_missing == 'Education':
-            job[column_with_missing].fillna(0, inplace=True)
-        elif column_with_missing == 'Type of Ownership':
+
+        if column_with_missing == 'Type of Ownership':
             job[column_with_missing].fillna('Private', inplace=True)
-
         else:
             # Create a reference column without missing values
             job['Reference'] = job[column_with_missing].copy()
@@ -420,7 +419,10 @@ def filling_missing_values(job):
             job[column_with_missing].fillna(mean_value, inplace=True)
 
             # Remove the reference column
-            job.drop('Reference', axis=1, inplace=True)
+            job.drop('Reference', axis=1,inplace=True)
 
+
+
+""""""""
 
 
