@@ -112,74 +112,7 @@ def data_cleaning(df1):
     return df
 
 
-def preprocess_scaling(df):
-
-    # Convert the values in Location to a string
-    df["Location"] = df["Location"].astype(str)
-    # Deleting the space in the values on Location if exist
-    df["Location"] = df["Location"].apply(lambda x: x if ' ' not in x else x.replace(' ', ''))
-
-    # Preprocess the 'Location' column
-    location_mapping = {
-        "Remote": 1,
-        "NJ": 2,
-        "LA": 3,
-        "CA": 4,
-        "AZ": 5,
-        "MD": 6,
-        "FL": 7,
-        "WA": 8,
-        "MI": 9,
-        "NY": 10,
-        "CT": 11,
-        "TX": 12,
-        "MN": 13,
-        "MA": 14,
-        "MS": 15,
-        "CO": 16,
-        "VA": 17,
-        "GA": 18,
-        "NC": 19,
-        "KY": 20,
-        "WI": 21,
-        "IN": 22,
-        "AL": 23,
-        "ID": 24,
-        "TN": 25,
-        "OH": 26,
-        "IL": 27,
-        "ME": 28,
-        "Michigan": 29,
-        "Pennsylvania": 30,
-        "PA": 31,
-        "Colorado": 32,
-        "DC": 33,
-        "MO": 34,
-        "RI": 35,
-        "UT": 36,
-        "NV": 37,
-        "OR": 38,
-        pd.NA: 3,
-        "KS": 39,
-        "SC": 40,
-        "NM": 41,
-        "AK": 42,
-        "PR": 43,
-        "IA": 44,
-        "WY": 45,
-        "OK": 46,
-        "MT": 47,
-        "AR": 48,
-        "NE": 49,
-        "DE": 50,
-        "HI": 51,
-        "ND": 52,
-        "NH": 53,
-        "SD": 54,
-        "VT": 55,
-        "WV": 56
-    }
-    df["Scale_Location"] = df["Location"].map(location_mapping)
+def preprocess_scaling(df):  # Not fit for the ML model!!!
 
     # Preprocess the 'Company Size' column
     company_size_mapping = {
@@ -214,56 +147,13 @@ def preprocess_scaling(df):
     df["Scale_Revenue"] = df["Revenue"].map(revenue_mapping)
 
 
-        # Define the frequency mapping for scaling
-    industry_mapping = {
-        'Unknown': 0,
-        'Information Technology Support Services': 1,
-        'Other': 2,
-        'Video Game Publishing': 3,
-        'Computer Hardware Development': 4,
-        'Internet & Web Services': 5,
-        'Enterprise Software & Network Solutions': 6,
-        'Aerospace & Defense': 7,
-        'Health Care Services & Hospitals': 8,
-        'Colleges & Universities': 9,
-        'Business Consulting': 10,
-        'Banking & Lending': 11,
-        'Biotech & Pharmaceuticals': 12,
-        'Software Development': 13,
-        'Transportation Equipment Manufacturing': 14,
-        'Advertising & Public Relations': 15,
-        'Film Production': 16,
-        'Insurance Carriers': 17,
-        'Consumer Product Manufacturing': 18,
-        'Electronics Manufacturing': 19,
-        'Investment & Asset Management': 20,
-        'HR Consulting': 21,
-        'Machinery Manufacturing': 22,
-        'Energy & Utilities': 23,
-        'National Agencies': 24,
-        'Research & Development': 25,
-        'Sports & Recreation': 26,
-        'Real Estate': 27,
-        'Culture & Entertainment': 28,
-        'Financial Transaction Processing': 29,
-        'Telecommunications Services': 30,
-        'Food & Beverage Manufacturing': 31,
-        'Health Care Products Manufacturing': 32,
-        'State & Regional Agencies': 33,
-        'Broadcast Media': 34,
-        'Architectural & Engineering Services': 35,
-        'Construction': 36
-        # Add remaining values as per your requirement
-    }
-
-    # Map the industry frequencies to scale the 'Industry' column
-    df['Scale_Industry'] = df['Industry'].map(industry_mapping)
 
     return df
 
 
-def column_unique_values(df, column_name):
-    concatenated_column = pd.concat(df[column_name])
+def column_unique_values(df1, df2, df3, df4, df5, column_name, keyword):
+    concatenated_column = pd.concat(
+        [df1[column_name], df2[column_name], df3[column_name], df4[column_name], df5[column_name]])
 
     unique_values = concatenated_column.unique()
     str_unique = ''
@@ -274,7 +164,7 @@ def column_unique_values(df, column_name):
         else:
             str_unique += ','
 
-    with open(f"unique_values_'{column_name}'.txt", 'w') as f:
+    with open(f"unique_values_'{column_name}'_in_'{keyword}'.txt", 'w') as f:
         f.write(str_unique)
         f.write(f"\n\nThe number of unique values is {len(unique_values)}")
 
@@ -420,7 +310,7 @@ class DataInfo:
         # List of columns with missing values
         columns_with_missing = ['Experience', 'Education', 'Rating',
                                 'Career Opportunities', 'Comp & Benefits', 'Culture & Values',
-                                'Senior Management', 'Work Life Balance', 'Scale_Revenue', 'Scale_Company_Size', 'Location']
+                                'Senior Management', 'Work Life Balance', 'Scale_Revenue', 'Scale_Company_Size']
         # Iterate through each column
         for column_with_missing in columns_with_missing:
             if column_with_missing in list(self.df):
@@ -511,8 +401,11 @@ def filling_missing_values(job):
             if column_with_missing == 'Type of Ownership':
                 job[column_with_missing] = job[column_with_missing].apply(lambda x: 'Private' if x == 'Company - Private' or x == 'Unknown' or x == 'Private Practice / Firm' else x)
                 job[column_with_missing] = job[column_with_missing].apply(lambda x: 'Public' if x == 'Company - Public' else x)
+                # job[column_with_missing] = job[column_with_missing].apply(lambda x: 'School' if x == any('School') else x)
 
-
+        # Handle Education column separately
+        if column_with_missing == 'Education':
+            job[column_with_missing].fillna(0, inplace=True)
         elif column_with_missing == 'Type of Ownership':
             job[column_with_missing].fillna('Private', inplace=True)
 
